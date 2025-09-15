@@ -1,0 +1,38 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-15 16:33:32.685247200 -04:00
+#	Application: spex v0.0.108
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	'NIST K253' standard for 'N132962' detector['NIST K253 std.msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K253' standard for 'N132962' detector,O,8,15.999,0.31131,0.01515,0.30417,0.01032,0.61377,0.01157
+'NIST K253' standard for 'N132962' detector,Si,14,28.085,0.18731,0.00078,0.18302,0.00280,0.21038,0.00632
+'NIST K253' standard for 'N132962' detector,Mn,25,54.938043,0.06437,0.00185,0.06289,0.00194,0.03696,0.00151
+'NIST K253' standard for 'N132962' detector,Co,27,58.933194,0.01953,0.00032,0.01908,0.00042,0.01045,0.00036
+'NIST K253' standard for 'N132962' detector,Cu,29,63.54599999999999,0.02251,0.00003,0.02200,0.00033,0.01118,0.00033
+'NIST K253' standard for 'N132962' detector,Zn,30,65.38,0.08368,0.00006,0.08176,0.00122,0.04037,0.00121
+'NIST K253' standard for 'N132962' detector,Ba,56,137.327,0.33475,0.00013,0.32708,0.00488,0.07689,0.00230
+# Notes
+#	Analytical total: 1.023 ± 0.015
+#	Residual written to NIST K253 std[residual].msa.
+#	Plot output to 'NIST K253 std[quantify].pdf'
+#
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K253',O,8,15.999,0.31638,0.00000,0.31638,0.00000,0.62298,0.00000
+'NIST K253',Si,14,28.085,0.18699,0.00000,0.18699,0.00000,0.20975,0.00000
+'NIST K253',Mn,25,54.938043,0.06319,0.00000,0.06319,0.00000,0.03624,0.00000
+'NIST K253',Co,27,58.933194,0.01966,0.00000,0.01966,0.00000,0.01051,0.00000
+'NIST K253',Cu,29,63.54599999999999,0.01997,0.00000,0.01997,0.00000,0.00990,0.00000
+'NIST K253',Zn,30,65.38,0.08034,0.00000,0.08034,0.00000,0.03871,0.00000
+'NIST K253',Ba,56,137.327,0.31347,0.00000,0.31347,0.00000,0.07191,0.00000
