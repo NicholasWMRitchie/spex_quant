@@ -1,0 +1,36 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-15 16:33:35.910095700 -04:00
+#	Application: spex v0.0.108
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	'NIST K412' standard for 'N132962' detector['NIST K412 std.msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K412' standard for 'N132962' detector,O,8,15.999,0.43955,0.04291,0.43071,0.02394,0.59412,0.02354
+'NIST K412' standard for 'N132962' detector,Mg,12,24.305,0.11903,0.00057,0.11663,0.00493,0.10590,0.00616
+'NIST K412' standard for 'N132962' detector,Al,13,26.9815384,0.04929,0.00020,0.04829,0.00204,0.03950,0.00230
+'NIST K412' standard for 'N132962' detector,Si,14,28.085,0.21671,0.00062,0.21235,0.00894,0.16686,0.00969
+'NIST K412' standard for 'N132962' detector,Ca,20,40.078,0.11637,0.00009,0.11402,0.00480,0.06279,0.00364
+'NIST K412' standard for 'N132962' detector,Fe,26,55.845,0.07960,0.00004,0.07800,0.00328,0.03082,0.00179
+# Notes
+#	Analytical total: 1.021 ± 0.043
+#	Residual written to NIST K412 std[residual].msa.
+#	Plot output to 'NIST K412 std[quantify].pdf'
+#
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K412',O,8,15.999,0.42756,0.00000,0.43118,0.00000,0.59396,0.00000
+'NIST K412',Mg,12,24.305,0.11657,0.00000,0.11756,0.00000,0.10660,0.00000
+'NIST K412',Al,13,26.9815384,0.04906,0.00000,0.04947,0.00000,0.04041,0.00000
+'NIST K412',Si,14,28.085,0.21200,0.00000,0.21379,0.00000,0.16777,0.00000
+'NIST K412',Ca,20,40.078,0.10899,0.00000,0.10991,0.00000,0.06044,0.00000
+'NIST K412',Fe,26,55.845,0.07742,0.00000,0.07808,0.00000,0.03081,0.00000
