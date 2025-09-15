@@ -1,0 +1,47 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-15 16:33:37.887686700 -04:00
+#	Application: spex v0.0.108
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	There are no suitable references for [Ce M₁-O₂ and 1 others; 0.0013>.
+#
+# Spectrum
+#	'NIST K493' standard for 'N132962' detector['NIST K493 std.msa']
+#
+# Fit Warnings
+#	The k-ratio '[Zr L₁-L₃] = -0.0069 ± 0.0018' is more than 3σ negative.
+#	The k-ratio '[Ti L₃-M₅ + 13 others] = -0.01773 ± 0.00040' is more than 3σ negative.
+#	The k-ratio '[Ta M₂-M₄ + 3 others] = -0.345 ± 0.042' is more than 3σ negative.
+#	The k-ratio '[Ta M₅-N₇ + 18 others] = -0.00619 ± 0.00011' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K493' standard for 'N132962' detector,O,8,15.999,0.19764,0.02389,0.19890,0.01926,0.60469,0.02892
+'NIST K493' standard for 'N132962' detector,Al,13,26.9815384,0.00203,0.00002,0.00204,0.00005,0.00368,0.00027
+'NIST K493' standard for 'N132962' detector,Si,14,28.085,0.13060,0.00107,0.13142,0.00330,0.22762,0.01670
+'NIST K493' standard for 'N132962' detector,Ti,22,47.867,0.00363,0.00018,0.00365,0.00020,0.00371,0.00033
+'NIST K493' standard for 'N132962' detector,Fe,26,55.845,0.00408,0.00002,0.00410,0.00010,0.00357,0.00026
+'NIST K493' standard for 'N132962' detector,Zr,40,91.224,0.00316,0.00004,0.00318,0.00009,0.00169,0.00013
+'NIST K493' standard for 'N132962' detector,Ce,58,140.116,0.00563,0.00005,0.00567,0.00015,0.00197,0.00015
+'NIST K493' standard for 'N132962' detector,Ta,73,180.94788,0.00687,0.00007,0.00691,0.00018,0.00186,0.00014
+'NIST K493' standard for 'N132962' detector,Pb,82,207.2,0.64006,0.00038,0.64412,0.01550,0.15121,0.01106
+# Notes
+#	Analytical total: 0.994 ± 0.024
+#	Residual written to NIST K493 std[residual].msa.
+#	Plot output to 'NIST K493 std[quantify].pdf'
+#
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K493',Li,3,6.94,0.00001,0.00000,0.00000,0.00000,0.00003,0.00000
+'NIST K493',B,5,10.81,0.00044,0.00000,0.00043,0.00000,0.00192,0.00000
+'NIST K493',O,8,15.999,0.20633,0.00000,0.20633,0.00000,0.61667,0.00000
+'NIST K493',Al,13,26.9815384,0.00106,0.00000,0.00106,0.00000,0.00188,0.00000
+'NIST K493',Si,14,28.085,0.13038,0.00000,0.13037,0.00000,0.22198,0.00000
+'NIST K493',Ti,22,47.867,0.00192,0.00000,0.00192,0.00000,0.00192,0.00000
+'NIST K493',Fe,26,55.845,0.00224,0.00000,0.00224,0.00000,0.00192,0.00000
+'NIST K493',Zr,40,91.224,0.00363,0.00000,0.00363,0.00000,0.00190,0.00000
+'NIST K493',Ce,58,140.116,0.00554,0.00000,0.00554,0.00000,0.00189,0.00000
+'NIST K493',Ta,73,180.94788,0.00721,0.00000,0.00721,0.00000,0.00190,0.00000
+'NIST K493',Pb,82,207.2,0.64128,0.00000,0.64127,0.00000,0.14799,0.00000
