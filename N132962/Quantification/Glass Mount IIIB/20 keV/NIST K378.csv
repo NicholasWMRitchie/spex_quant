@@ -1,0 +1,36 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-15 16:33:34.519151100 -04:00
+#	Application: spex v0.0.108
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	There are no suitable references for [U N₃-N₄ and 35 others; 1.0039>.
+#
+# Spectrum
+#	'NIST K378' standard for 'N132962' detector['NIST K378 std.msa']
+#
+# Fit Warnings
+#	The k-ratio '[U M₂-O₄ + 6 others] = -0.047 ± 0.012' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K378' standard for 'N132962' detector,O,8,15.999,0.43867,0.02564,0.43396,0.01464,0.62779,0.01427
+'NIST K378' standard for 'N132962' detector,Na,11,22.98976928,0.08105,0.00658,0.08018,0.00633,0.08072,0.00672
+'NIST K378' standard for 'N132962' detector,Si,14,28.085,0.31148,0.00085,0.30814,0.00809,0.25394,0.00948
+'NIST K378' standard for 'N132962' detector,Zn,30,65.38,0.05007,0.00004,0.04953,0.00130,0.01754,0.00065
+'NIST K378' standard for 'N132962' detector,Ba,56,137.327,0.10706,0.00039,0.10591,0.00280,0.01785,0.00067
+'NIST K378' standard for 'N132962' detector,U,92,238.02891,0.02251,0.00019,0.02227,0.00061,0.00217,0.00008
+# Notes
+#	Analytical total: 1.011 ± 0.026
+#	Residual written to NIST K378 std[residual].msa.
+#	Plot output to 'NIST K378 std[quantify].pdf'
+#
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K378',O,8,15.999,0.41662,0.00000,0.41662,0.00000,0.60423,0.00000
+'NIST K378',Na,11,22.98976928,0.10193,0.00000,0.10193,0.00000,0.10288,0.00000
+'NIST K378',Si,14,28.085,0.31049,0.00000,0.31049,0.00000,0.25652,0.00000
+'NIST K378',Zn,30,65.38,0.04836,0.00000,0.04836,0.00000,0.01716,0.00000
+'NIST K378',Ba,56,137.327,0.10156,0.00000,0.10156,0.00000,0.01716,0.00000
+'NIST K378',U,92,238.02891,0.02103,0.00000,0.02103,0.00000,0.00205,0.00000
