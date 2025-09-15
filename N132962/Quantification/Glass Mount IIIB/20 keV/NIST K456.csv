@@ -1,0 +1,30 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-15 16:33:36.675285600 -04:00
+#	Application: spex v0.0.108
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	'NIST K456' standard for 'N132962' detector['NIST K456 std.msa']
+#
+# Fit Warnings
+#	The k-ratio '[Pb M₃-M₅ + 1 other] = -0.1375 ± 0.0030' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K456' standard for 'N132962' detector,O,8,15.999,0.24107,0.02334,0.23174,0.01724,0.65792,0.02180
+'NIST K456' standard for 'N132962' detector,Si,14,28.085,0.12921,0.00057,0.12421,0.00283,0.20088,0.01282
+'NIST K456' standard for 'N132962' detector,Pb,82,207.2,0.67000,0.00038,0.64406,0.01446,0.14119,0.00900
+# Notes
+#	Analytical total: 1.040 ± 0.023
+#	Residual written to NIST K456 std[residual].msa.
+#	Plot output to 'NIST K456 std[quantify].pdf'
+#
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K456',O,8,15.999,0.20427,0.00000,0.20427,0.00000,0.61538,0.00000
+'NIST K456',Si,14,28.085,0.13449,0.00000,0.13449,0.00000,0.23080,0.00000
+'NIST K456',Pb,82,207.2,0.66124,0.00000,0.66124,0.00000,0.15381,0.00000
