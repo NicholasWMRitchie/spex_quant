@@ -1,0 +1,48 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-15 16:33:37.253934100 -04:00
+#	Application: spex v0.0.108
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	There are no suitable references for [Ce M₁-O₂ and 1 others; 0.0013>.
+#
+# Spectrum
+#	'NIST K491' standard for 'N132962' detector['NIST K491 std.msa']
+#
+# Fit Warnings
+#	The k-ratio '[Ti L₃-M₅ + 13 others] = -0.00928 ± 0.00039' is more than 3σ negative.
+#	The k-ratio '[Pb M₂-M₄] = -1.020 ± 0.058' is more than 3σ negative.
+#	The k-ratio '[Ta M₅-N₃ + 2 others] = -0.10448 ± 0.00052' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K491' standard for 'N132962' detector,O,8,15.999,0.15023,0.01732,0.15057,0.01474,0.58139,0.02805
+'NIST K491' standard for 'N132962' detector,Al,13,26.9815384,0.00158,0.00015,0.00159,0.00015,0.00363,0.00041
+'NIST K491' standard for 'N132962' detector,Si,14,28.085,0.00212,0.00003,0.00212,0.00005,0.00467,0.00032
+'NIST K491' standard for 'N132962' detector,Ti,22,47.867,0.00320,0.00014,0.00321,0.00015,0.00414,0.00033
+'NIST K491' standard for 'N132962' detector,Fe,26,55.845,0.00361,0.00002,0.00362,0.00007,0.00400,0.00027
+'NIST K491' standard for 'N132962' detector,Ge,32,72.63,0.27150,0.00015,0.27213,0.00473,0.23146,0.01551
+'NIST K491' standard for 'N132962' detector,Zr,40,91.224,0.00215,0.00004,0.00216,0.00005,0.00146,0.00010
+'NIST K491' standard for 'N132962' detector,Ce,58,140.116,0.00441,0.00004,0.00442,0.00009,0.00195,0.00013
+'NIST K491' standard for 'N132962' detector,Ta,73,180.94788,0.00652,0.00007,0.00654,0.00013,0.00223,0.00015
+'NIST K491' standard for 'N132962' detector,Pb,82,207.2,0.55238,0.00035,0.55365,0.00961,0.16507,0.01106
+# Notes
+#	Analytical total: 0.998 ± 0.017
+#	Residual written to NIST K491 std[residual].msa.
+#	Plot output to 'NIST K491 std[quantify].pdf'
+#
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K491',Li,3,6.94,0.00001,0.00000,0.00001,0.00000,0.00004,0.00000
+'NIST K491',B,5,10.81,0.00034,0.00000,0.00034,0.00000,0.00187,0.00000
+'NIST K491',O,8,15.999,0.16648,0.00000,0.16650,0.00000,0.61383,0.00000
+'NIST K491',Al,13,26.9815384,0.00085,0.00000,0.00085,0.00000,0.00185,0.00000
+'NIST K491',Si,14,28.085,0.00089,0.00000,0.00089,0.00000,0.00187,0.00000
+'NIST K491',Ti,22,47.867,0.00156,0.00000,0.00156,0.00000,0.00192,0.00000
+'NIST K491',Fe,26,55.845,0.00182,0.00000,0.00182,0.00000,0.00192,0.00000
+'NIST K491',Ge,32,72.63,0.26360,0.00000,0.26362,0.00000,0.21409,0.00000
+'NIST K491',Zr,40,91.224,0.00296,0.00000,0.00296,0.00000,0.00191,0.00000
+'NIST K491',Ce,58,140.116,0.00456,0.00000,0.00456,0.00000,0.00192,0.00000
+'NIST K491',Ta,73,180.94788,0.00590,0.00000,0.00590,0.00000,0.00192,0.00000
+'NIST K491',Pb,82,207.2,0.55095,0.00000,0.55100,0.00000,0.15686,0.00000
