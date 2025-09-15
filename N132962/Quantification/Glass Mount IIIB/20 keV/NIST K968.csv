@@ -1,0 +1,55 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-15 16:33:43.269066900 -04:00
+#	Application: spex v0.0.108
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	There are no suitable references for [Eu M₅-N₃ and 18 others; 0.9890>.
+#	There are no suitable references for [Th N₆-O₄ and 31 others; 0.9532>.
+#	There are no suitable references for [U N₃-N₄ and 35 others; 1.0039>.
+#
+# Spectrum
+#	'NIST K968' standard for 'N132962' detector['NIST K968 std.msa']
+#
+# Fit Warnings
+#	Removing Th from the fit and re-fitting (threshold = 0.0σ).
+#	The k-ratio '[Pb M₃-M₅ + 1 other] = -0.0218 ± 0.0047' is more than 3σ negative.
+#	The k-ratio '[Cr L₃-M₅ + 13 others] = -0.01212 ± 0.00030' is more than 3σ negative.
+#	The k-ratio '[Pb M₂-M₄] = -1.630 ± 0.061' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K968' standard for 'N132962' detector,O,8,15.999,0.18446,0.01595,0.17446,0.01246,0.60885,0.02077
+'NIST K968' standard for 'N132962' detector,Mg,12,24.305,0.01444,0.00201,0.01366,0.00189,0.03138,0.00454
+'NIST K968' standard for 'N132962' detector,P,15,30.973761998,0.00219,0.00002,0.00207,0.00004,0.00373,0.00020
+'NIST K968' standard for 'N132962' detector,Ti,22,47.867,0.00336,0.00015,0.00318,0.00015,0.00371,0.00026
+'NIST K968' standard for 'N132962' detector,Cr,24,51.9961,0.00163,0.00002,0.00154,0.00003,0.00166,0.00009
+'NIST K968' standard for 'N132962' detector,Ni,28,58.6934,0.00382,0.00006,0.00362,0.00008,0.00344,0.00019
+'NIST K968' standard for 'N132962' detector,Ge,32,72.63,0.27426,0.00014,0.25939,0.00395,0.19941,0.01054
+'NIST K968' standard for 'N132962' detector,Zr,40,91.224,0.00192,0.00004,0.00182,0.00005,0.00111,0.00006
+'NIST K968' standard for 'N132962' detector,Ba,56,137.327,0.00477,0.00015,0.00451,0.00015,0.00183,0.00011
+'NIST K968' standard for 'N132962' detector,Eu,63,151.964,0.00574,0.00004,0.00543,0.00009,0.00200,0.00011
+'NIST K968' standard for 'N132962' detector,Pb,82,207.2,0.56011,0.00034,0.52973,0.00806,0.14275,0.00754
+'NIST K968' standard for 'N132962' detector,Th,90,232.0377,0.00000,0.00005,0.00000,0.00005,0.00000,0.00001
+'NIST K968' standard for 'N132962' detector,U,92,238.02891,0.00064,0.00009,0.00060,0.00008,0.00014,0.00002
+# Notes
+#	Analytical total: 1.057 ± 0.016
+#	Residual written to NIST K968 std[residual].msa.
+#	Plot output to 'NIST K968 std[quantify].pdf'
+#
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K968',O,8,15.999,0.16622,0.00000,0.16621,0.00000,0.61273,0.00000
+'NIST K968',Mg,12,24.305,0.00078,0.00000,0.00078,0.00000,0.00190,0.00000
+'NIST K968',P,15,30.973761998,0.00201,0.00000,0.00201,0.00000,0.00382,0.00000
+'NIST K968',Ti,22,47.867,0.00156,0.00000,0.00156,0.00000,0.00192,0.00000
+'NIST K968',Cr,24,51.9961,0.00171,0.00000,0.00171,0.00000,0.00194,0.00000
+'NIST K968',Ni,28,58.6934,0.00189,0.00000,0.00189,0.00000,0.00190,0.00000
+'NIST K968',Ge,32,72.63,0.26270,0.00000,0.26267,0.00000,0.21331,0.00000
+'NIST K968',Zr,40,91.224,0.00296,0.00000,0.00296,0.00000,0.00191,0.00000
+'NIST K968',Ba,56,137.327,0.00448,0.00000,0.00448,0.00000,0.00192,0.00000
+'NIST K968',Eu,63,151.964,0.00492,0.00000,0.00492,0.00000,0.00191,0.00000
+'NIST K968',Pb,82,207.2,0.54910,0.00000,0.54904,0.00000,0.15629,0.00000
+'NIST K968',Th,90,232.0377,0.00084,0.00000,0.00084,0.00000,0.00021,0.00000
+'NIST K968',U,92,238.02891,0.00093,0.00000,0.00093,0.00000,0.00023,0.00000
