@@ -1,0 +1,31 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-15 17:33:46.451326300 -04:00
+#	Application: spex v0.0.108
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	'NIST K508' standard for 'N132962' detector['NIST K508 std.msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K508' standard for 'N132962' detector,O,8,15.999,0.43097,0.03823,0.43563,0.02185,0.74344,0.01694
+'NIST K508' standard for 'N132962' detector,Si,14,28.085,0.12084,0.00036,0.12215,0.00474,0.11875,0.00784
+'NIST K508' standard for 'N132962' detector,Sr,38,87.62,0.43750,0.00292,0.44223,0.01717,0.13781,0.00912
+# Notes
+#	Analytical total: 0.989 ± 0.038
+#	Residual written to NIST K508 std[residual].msa.
+#	Plot output to 'NIST K508 std[quantify].pdf'
+#
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K508',B,5,10.81,0.09260,0.00000,0.09260,0.00000,0.19988,0.00000
+'NIST K508',O,8,15.999,0.41135,0.00000,0.41135,0.00000,0.59993,0.00000
+'NIST K508',Si,14,28.085,0.12061,0.00000,0.12061,0.00000,0.10020,0.00000
+'NIST K508',Sr,38,87.62,0.37544,0.00000,0.37544,0.00000,0.09998,0.00000
