@@ -1,0 +1,38 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-15 16:33:29.053403200 -04:00
+#	Application: spex v0.0.108
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	'NIST K1229' standard for 'N132962' detector['NIST K1229 std.msa']
+#
+# Fit Warnings
+#	The k-ratio '[Sr L₁-L₃] = -0.4720 ± 0.0063' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K1229' standard for 'N132962' detector,O,8,15.999,0.41753,0.03815,0.40398,0.02204,0.61266,0.02175
+'NIST K1229' standard for 'N132962' detector,Mg,12,24.305,0.01733,0.00071,0.01677,0.00092,0.01674,0.00115
+'NIST K1229' standard for 'N132962' detector,Al,13,26.9815384,0.09266,0.00309,0.08965,0.00428,0.08062,0.00514
+'NIST K1229' standard for 'N132962' detector,Si,14,28.085,0.22290,0.00062,0.21567,0.00801,0.18632,0.01045
+'NIST K1229' standard for 'N132962' detector,Ca,20,40.078,0.11322,0.00010,0.10955,0.00406,0.06632,0.00372
+'NIST K1229' standard for 'N132962' detector,Sr,38,87.62,0.08561,0.00104,0.08284,0.00321,0.02294,0.00131
+'NIST K1229' standard for 'N132962' detector,Ba,56,137.327,0.08428,0.00025,0.08155,0.00303,0.01441,0.00081
+# Notes
+#	Analytical total: 1.034 ± 0.038
+#	Residual written to NIST K1229 std[residual].msa.
+#	Plot output to 'NIST K1229 std[quantify].pdf'
+#
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K1229',O,8,15.999,0.41017,0.00000,0.41017,0.00000,0.61463,0.00000
+'NIST K1229',Mg,12,24.305,0.01773,0.00000,0.01773,0.00000,0.01749,0.00000
+'NIST K1229',Al,13,26.9815384,0.09341,0.00000,0.09341,0.00000,0.08300,0.00000
+'NIST K1229',Si,14,28.085,0.21999,0.00000,0.21999,0.00000,0.18779,0.00000
+'NIST K1229',Ca,20,40.078,0.10513,0.00000,0.10513,0.00000,0.06289,0.00000
+'NIST K1229',Sr,38,87.62,0.07458,0.00000,0.07458,0.00000,0.02041,0.00000
+'NIST K1229',Ba,56,137.327,0.07899,0.00000,0.07899,0.00000,0.01379,0.00000
