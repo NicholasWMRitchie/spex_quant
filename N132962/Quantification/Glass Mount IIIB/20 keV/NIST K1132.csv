@@ -1,0 +1,42 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-15 16:33:28.497371700 -04:00
+#	Application: spex v0.0.108
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	'NIST K1132' standard for 'N132962' detector['NIST K1132 std.msa']
+#
+# Fit Warnings
+#	The k-ratio '[Cr L₃-M₅ + 13 others] = -0.01420 ± 0.00027' is more than 3σ negative.
+#	The k-ratio '[Mo L₁-N₃ + 1 other] = -0.0242 ± 0.0019' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K1132' standard for 'N132962' detector,O,8,15.999,0.42084,0.03925,0.42033,0.02279,0.63929,0.02164
+'NIST K1132' standard for 'N132962' detector,Al,13,26.9815384,0.07846,0.00410,0.07836,0.00487,0.07067,0.00544
+'NIST K1132' standard for 'N132962' detector,Si,14,28.085,0.21307,0.00063,0.21281,0.00840,0.18438,0.01102
+'NIST K1132' standard for 'N132962' detector,Ca,20,40.078,0.11344,0.00009,0.11331,0.00447,0.06879,0.00411
+'NIST K1132' standard for 'N132962' detector,Cr,24,51.9961,0.00528,0.00006,0.00527,0.00022,0.00247,0.00015
+'NIST K1132' standard for 'N132962' detector,Ni,28,58.6934,0.01237,0.00002,0.01236,0.00049,0.00512,0.00031
+'NIST K1132' standard for 'N132962' detector,Mo,42,95.95,0.01780,0.00020,0.01778,0.00073,0.00451,0.00027
+'NIST K1132' standard for 'N132962' detector,Ba,56,137.327,0.13995,0.00038,0.13978,0.00552,0.02477,0.00148
+# Notes
+#	Analytical total: 1.001 ± 0.039
+#	Residual written to NIST K1132 std[residual].msa.
+#	Plot output to 'NIST K1132 std[quantify].pdf'
+#
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+'NIST K1132',Li,3,6.94,0.02323,0.00000,0.02311,0.00000,0.07629,0.00000
+'NIST K1132',O,8,15.999,0.41339,0.00000,0.41134,0.00000,0.58900,0.00000
+'NIST K1132',Al,13,26.9815384,0.07938,0.00000,0.07899,0.00000,0.06707,0.00000
+'NIST K1132',Si,14,28.085,0.21386,0.00000,0.21280,0.00000,0.17358,0.00000
+'NIST K1132',Ca,20,40.078,0.10720,0.00000,0.10667,0.00000,0.06097,0.00000
+'NIST K1132',Cr,24,51.9961,0.00513,0.00000,0.00511,0.00000,0.00225,0.00000
+'NIST K1132',Ni,28,58.6934,0.01179,0.00000,0.01173,0.00000,0.00458,0.00000
+'NIST K1132',Mo,42,95.95,0.01666,0.00000,0.01658,0.00000,0.00396,0.00000
+'NIST K1132',Ba,56,137.327,0.13434,0.00000,0.13368,0.00000,0.02230,0.00000
