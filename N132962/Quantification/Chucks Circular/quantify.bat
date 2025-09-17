@@ -1,0 +1,18 @@
+spex quantify "EDAX All 20 keV" CaPOSFSiClCuZnAs "CC Chuck's Circular Apatite[0][4].msa" --format csv > apatite.csv
+spex quantify "EDAX All 20 keV" CaPOSFSiClCuZnAs "CC Chuck's Circular Apatite[1][4].msa" --format csv >> apatite.csv
+spex quantify "EDAX All 20 keV" CaPOSFSiClCuZnAs "CC Chuck's Circular Apatite[2][4].msa" --format csv >> apatite.csv
+spex quantify "EDAX All 20 keV" CaPOSFSiClCuZnAs "CC Chuck's Circular Apatite[3][4].msa" --format csv >> apatite.csv
+spex quantify "EDAX All 20 keV" CaPOSFSiClCuZnAs "CC Chuck's Circular Apatite[4][4].msa" --format csv >> apatite.csv
+spex quantify "EDAX All 20 keV" CaPOSFSiClCuZnAs "CC Chuck's Circular Apatite[5][4].msa" --format csv >> apatite.csv
+spex quantify "EDAX All 20 keV" OMgSiFe "CC Marjabrite Olivine[0][4].msa" --format csv > olivine.csv
+spex quantify "EDAX All 20 keV" OMgSiFe "CC Marjabrite Olivine[1][4].msa" --format csv >> olivine.csv
+spex quantify "EDAX All 20 keV" OMgSiFe "CC Marjabrite Olivine[2][4].msa" --format csv >> olivine.csv
+spex quantify "EDAX All 20 keV" OMgSiFe "CC Marjabrite Olivine[3][4].msa" --format csv >> olivine.csv
+spex quantify "EDAX All 20 keV" OMgSiFe "CC Marjabrite Olivine[4][4].msa" --format csv >> olivine.csv
+spex quantify "EDAX All 20 keV" OMgSiFe "CC Marjabrite Olivine[5][4].msa" --format csv >> olivine.csv
+spex quantify "EDAX All 20 keV" OMgSi "CC Shallowater Enstatite[0][4].msa" --format csv > enstatite.csv
+spex quantify "EDAX All 20 keV" OMgSi "CC Shallowater Enstatite[1][4].msa" --format csv >> enstatite.csv
+spex quantify "EDAX All 20 keV" OMgSi "CC Shallowater Enstatite[2][4].msa" --format csv >> enstatite.csv
+spex quantify "EDAX All 20 keV" OMgSi "CC Shallowater Enstatite[3][4].msa" --format csv >> enstatite.csv
+spex quantify "EDAX All 20 keV" OMgSi "CC Shallowater Enstatite[4][4].msa" --format csv >> enstatite.csv
+spex quantify "EDAX All 20 keV" OMgSi "CC Shallowater Enstatite[5][4].msa" --format csv >> enstatite.csv

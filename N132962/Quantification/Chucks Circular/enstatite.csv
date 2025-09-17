@@ -1,0 +1,150 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 13:06:18.645937 -04:00
+#	Application: spex v0.0.110
+#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	CC Shallow Water Enstatite[0][all]['CC Shallowater Enstatite[0][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+CC Shallow Water Enstatite[0][all],O,8,15.999,0.48721,0.01965,0.47830,0.01008,0.60029,0.00969
+CC Shallow Water Enstatite[0][all],Mg,12,24.305,0.24475,0.00036,0.24027,0.00465,0.19850,0.00481
+CC Shallow Water Enstatite[0][all],Si,14,28.085,0.28668,0.00107,0.28144,0.00548,0.20122,0.00491
+# Notes
+#	Analytical total: 1.019 ± 0.020
+#	Residual written to CC Shallowater Enstatite[0][4][residual].msa.
+#
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 13:06:18.877061800 -04:00
+#	Application: spex v0.0.110
+#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	CC Shallow Water Enstatite[1][all]['CC Shallowater Enstatite[1][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+CC Shallow Water Enstatite[1][all],O,8,15.999,0.48764,0.01968,0.47855,0.01008,0.60052,0.00969
+CC Shallow Water Enstatite[1][all],Mg,12,24.305,0.24481,0.00036,0.24024,0.00465,0.19845,0.00482
+CC Shallow Water Enstatite[1][all],Si,14,28.085,0.28656,0.00107,0.28121,0.00548,0.20103,0.00491
+# Notes
+#	Analytical total: 1.019 ± 0.020
+#	Residual written to CC Shallowater Enstatite[1][4][residual].msa.
+#
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 13:06:19.103630700 -04:00
+#	Application: spex v0.0.110
+#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	CC Shallow Water Enstatite[2][all]['CC Shallowater Enstatite[2][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+CC Shallow Water Enstatite[2][all],O,8,15.999,0.48873,0.01970,0.47865,0.01007,0.60062,0.00968
+CC Shallow Water Enstatite[2][all],Mg,12,24.305,0.24523,0.00036,0.24017,0.00465,0.19838,0.00481
+CC Shallow Water Enstatite[2][all],Si,14,28.085,0.28710,0.00107,0.28118,0.00548,0.20099,0.00490
+# Notes
+#	Analytical total: 1.021 ± 0.020
+#	Residual written to CC Shallowater Enstatite[2][4][residual].msa.
+#
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 13:06:19.322692700 -04:00
+#	Application: spex v0.0.110
+#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	CC Shallow Water Enstatite[3][all]['CC Shallowater Enstatite[3][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+CC Shallow Water Enstatite[3][all],O,8,15.999,0.48763,0.01969,0.47910,0.01009,0.60106,0.00969
+CC Shallow Water Enstatite[3][all],Mg,12,24.305,0.24417,0.00036,0.23990,0.00465,0.19811,0.00482
+CC Shallow Water Enstatite[3][all],Si,14,28.085,0.28601,0.00106,0.28100,0.00549,0.20083,0.00491
+# Notes
+#	Analytical total: 1.018 ± 0.020
+#	Residual written to CC Shallowater Enstatite[3][4][residual].msa.
+#
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 13:06:19.550170700 -04:00
+#	Application: spex v0.0.110
+#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	CC Shallow Water Enstatite[4][all]['CC Shallowater Enstatite[4][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+CC Shallow Water Enstatite[4][all],O,8,15.999,0.49124,0.01981,0.47955,0.01008,0.60147,0.00968
+CC Shallow Water Enstatite[4][all],Mg,12,24.305,0.24585,0.00037,0.24000,0.00466,0.19815,0.00481
+CC Shallow Water Enstatite[4][all],Si,14,28.085,0.28729,0.00108,0.28045,0.00548,0.20038,0.00490
+# Notes
+#	Analytical total: 1.024 ± 0.020
+#	Residual written to CC Shallowater Enstatite[4][4][residual].msa.
+#
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 13:06:19.774302500 -04:00
+#	Application: spex v0.0.110
+#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	CC Shallow Water Enstatite[5][all]['CC Shallowater Enstatite[5][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+CC Shallow Water Enstatite[5][all],O,8,15.999,0.49020,0.01979,0.47902,0.01009,0.60095,0.00969
+CC Shallow Water Enstatite[5][all],Mg,12,24.305,0.24606,0.00037,0.24045,0.00467,0.19857,0.00483
+CC Shallow Water Enstatite[5][all],Si,14,28.085,0.28707,0.00107,0.28053,0.00548,0.20048,0.00490
+# Notes
+#	Analytical total: 1.023 ± 0.020
+#	Residual written to CC Shallowater Enstatite[5][4][residual].msa.
+#
