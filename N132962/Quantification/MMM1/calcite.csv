@@ -1,0 +1,161 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 15:05:57.778455700 -04:00
+#	Application: spex v0.0.110
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	SPI MM1 Calcite[0][all]['SPI MM1 Calcite[0][4].msa']
+#
+# Fit Warnings
+#	Removing Sr from the fit and re-fitting (threshold = 0.0σ).
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Calcite[0][all],C,6,12.011,0.13265,0.03408,0.13543,0.03081,0.22888,0.04752
+SPI MM1 Calcite[0][all],O,8,15.999,0.42815,0.04796,0.43712,0.03148,0.55462,0.04277
+SPI MM1 Calcite[0][all],Ca,20,40.078,0.41868,0.00018,0.42745,0.02568,0.21650,0.01852
+SPI MM1 Calcite[0][all],Sr,38,87.62,0.00000,0.00007,0.00000,0.00007,0.00000,0.00002
+# Notes
+#	Analytical total: 0.979 ± 0.059
+#	Residual written to SPI MM1 Calcite[0][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Calcite[1][all]['SPI MM1 Calcite[1][4].msa']
+#
+# Fit Warnings
+#	Removing Sr from the fit and re-fitting (threshold = 0.0σ).
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Calcite[1][all],C,6,12.011,0.13098,0.03369,0.13375,0.03051,0.22637,0.04720
+SPI MM1 Calcite[1][all],O,8,15.999,0.42881,0.04811,0.43789,0.03146,0.55637,0.04262
+SPI MM1 Calcite[1][all],Ca,20,40.078,0.41948,0.00018,0.42836,0.02569,0.21727,0.01855
+SPI MM1 Calcite[1][all],Sr,38,87.62,0.00000,0.00007,0.00000,0.00007,0.00000,0.00002
+# Notes
+#	Analytical total: 0.979 ± 0.059
+#	Residual written to SPI MM1 Calcite[1][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Calcite[2][all]['SPI MM1 Calcite[2][4].msa']
+#
+# Fit Warnings
+#	Removing Sr from the fit and re-fitting (threshold = 0.0σ).
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Calcite[2][all],C,6,12.011,0.13420,0.03476,0.13449,0.03090,0.22673,0.04765
+SPI MM1 Calcite[2][all],O,8,15.999,0.44090,0.05022,0.44187,0.03203,0.55924,0.04321
+SPI MM1 Calcite[2][all],Ca,20,40.078,0.42270,0.00018,0.42363,0.02593,0.21403,0.01854
+SPI MM1 Calcite[2][all],Sr,38,87.62,0.00000,0.00007,0.00000,0.00007,0.00000,0.00002
+# Notes
+#	Analytical total: 0.998 ± 0.061
+#	Residual written to SPI MM1 Calcite[2][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Calcite[3][all]['SPI MM1 Calcite[3][4].msa']
+#
+# Fit Warnings
+#	Removing Sr from the fit and re-fitting (threshold = 0.0σ).
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Calcite[3][all],C,6,12.011,0.13481,0.03492,0.13500,0.03100,0.22760,0.04778
+SPI MM1 Calcite[3][all],O,8,15.999,0.44038,0.05019,0.44101,0.03205,0.55817,0.04328
+SPI MM1 Calcite[3][all],Ca,20,40.078,0.42339,0.00018,0.42399,0.02596,0.21422,0.01858
+SPI MM1 Calcite[3][all],Sr,38,87.62,0.00000,0.00007,0.00000,0.00007,0.00000,0.00002
+# Notes
+#	Analytical total: 0.999 ± 0.061
+#	Residual written to SPI MM1 Calcite[3][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Calcite[4][all]['SPI MM1 Calcite[4][4].msa']
+#
+# Fit Warnings
+#	Removing Sr from the fit and re-fitting (threshold = 0.0σ).
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Calcite[4][all],C,6,12.011,0.13256,0.03428,0.13358,0.03067,0.22555,0.04738
+SPI MM1 Calcite[4][all],O,8,15.999,0.43787,0.04969,0.44123,0.03186,0.55930,0.04297
+SPI MM1 Calcite[4][all],Ca,20,40.078,0.42195,0.00018,0.42519,0.02586,0.21515,0.01855
+SPI MM1 Calcite[4][all],Sr,38,87.62,0.00000,0.00007,0.00000,0.00007,0.00000,0.00002
+# Notes
+#	Analytical total: 0.992 ± 0.060
+#	Residual written to SPI MM1 Calcite[4][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Calcite[5][all]['SPI MM1 Calcite[5][4].msa']
+#
+# Fit Warnings
+#	Removing Sr from the fit and re-fitting (threshold = 0.0σ).
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Calcite[5][all],C,6,12.011,0.13319,0.03442,0.13430,0.03078,0.22678,0.04753
+SPI MM1 Calcite[5][all],O,8,15.999,0.43637,0.04947,0.44002,0.03184,0.55780,0.04302
+SPI MM1 Calcite[5][all],Ca,20,40.078,0.42215,0.00018,0.42568,0.02587,0.21542,0.01857
+SPI MM1 Calcite[5][all],Sr,38,87.62,0.00000,0.00007,0.00000,0.00007,0.00000,0.00002
+# Notes
+#	Analytical total: 0.992 ± 0.060
+#	Residual written to SPI MM1 Calcite[5][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Calcite[6][all]['SPI MM1 Calcite[6][4].msa']
+#
+# Fit Warnings
+#	Removing Sr from the fit and re-fitting (threshold = 0.0σ).
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Calcite[6][all],C,6,12.011,0.13363,0.03461,0.13401,0.03081,0.22611,0.04756
+SPI MM1 Calcite[6][all],O,8,15.999,0.44028,0.05016,0.44153,0.03200,0.55926,0.04315
+SPI MM1 Calcite[6][all],Ca,20,40.078,0.42325,0.00018,0.42446,0.02594,0.21462,0.01858
+SPI MM1 Calcite[6][all],Sr,38,87.62,0.00000,0.00007,0.00000,0.00007,0.00000,0.00002
+# Notes
+#	Analytical total: 0.997 ± 0.061
+#	Residual written to SPI MM1 Calcite[6][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Calcite[7][all]['SPI MM1 Calcite[7][4].msa']
+#
+# Fit Warnings
+#	Removing Sr from the fit and re-fitting (threshold = 0.0σ).
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Calcite[7][all],C,6,12.011,0.13379,0.03462,0.13444,0.03085,0.22689,0.04762
+SPI MM1 Calcite[7][all],O,8,15.999,0.43837,0.04985,0.44049,0.03194,0.55811,0.04313
+SPI MM1 Calcite[7][all],Ca,20,40.078,0.42302,0.00018,0.42507,0.02592,0.21500,0.01859
+SPI MM1 Calcite[7][all],Sr,38,87.62,0.00000,0.00007,0.00000,0.00007,0.00000,0.00002
+# Notes
+#	Analytical total: 0.995 ± 0.061
+#	Residual written to SPI MM1 Calcite[7][4][residual].msa.
+#
+# Spectrum
+#	Sum[8 spectra]['Sum spectrum']
+#
+# Fit Warnings
+#	Removing Sr from the fit and re-fitting (threshold = 0.0σ).
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Sum[8 spectra],C,6,12.011,0.13323,0.03442,0.13438,0.03079,0.22686,0.04753
+Sum[8 spectra],O,8,15.999,0.43640,0.04945,0.44016,0.03183,0.55787,0.04302
+Sum[8 spectra],Ca,20,40.078,0.42183,0.00013,0.42547,0.02586,0.21527,0.01856
+Sum[8 spectra],Sr,38,87.62,0.00000,0.00003,0.00000,0.00003,0.00000,0.00001
+# Notes
+#	Analytical total: 0.991 ± 0.060
+#
