@@ -1,7 +1,13 @@
 rem foreach(z->println("spex suitable "EDAX All" $(symbol(element(z))) $(symbol(element(z))) 20 --format markdown"),1:99)
+rem spex suitable "EDAX All" H H 20 --format markdown
+rem spex suitable "EDAX All" He He 20 --format markdown
+rem spex suitable "EDAX All" Li Li 20 --format markdown
+spex suitable "EDAX All" Li2B4O7 Li 20 --format markdown
+spex suitable "EDAX All" LiF Li 20 --format markdown
 spex suitable "EDAX All" Be Be 20 --format markdown
 spex suitable "EDAX All" B B 20 --format markdown
 spex suitable "EDAX All" BN B 20 --format markdown
+spex suitable "EDAX All" B4C B 20 --format markdown
 spex suitable "EDAX All" C C 20 --format markdown
 rem spex suitable "EDAX All" O O 20 --format markdown
 spex suitable "EDAX All" BN N 20 --format markdown
@@ -31,6 +37,7 @@ spex suitable "EDAX All" KCl Cl 20 --format markdown
 spex suitable "EDAX All" BaCl Cl 20 --format markdown
 rem spex suitable "EDAX All" Ar Ar 20 --format markdown
 spex suitable "EDAX All" KCl K 20 --format markdown
+spex suitable "EDAX All" CaCO3 Ca 20 --format markdown
 spex suitable "EDAX All" CaF2 Ca 20 --format markdown
 spex suitable "EDAX All" Sc Sc 20 --format markdown
 spex suitable "EDAX All" Ti Ti 20 --format markdown
@@ -112,14 +119,22 @@ spex suitable "EDAX All" Rb2SO4 Rb 20 --format markdown
 rem spex suitable "EDAX All" Sr Sr 20 --format markdown
 spex suitable "EDAX All" Sr(NO3)2 Sr 20 --format markdown
 spex suitable "EDAX All" SrTiO2 Sr 20 --format markdown
+spex suitable "EDAX All" SrMoO4 Sr 20 --format markdown
+spex suitable "EDAX All" SrS Sr 20 --format markdown
+spex suitable "EDAX All" SrTe Sr 20 --format markdown
+spex suitable "EDAX All" SrSO4 Sr 20 --format markdown
 spex suitable "EDAX All" SrF2 Sr 20 --format markdown
+spex suitable "EDAX All" SrTiO3 Sr 20 --format markdown
+spex suitable "EDAX All" SrWO4 Sr 20 --format markdown
 spex suitable "EDAX All" Y Y 20 --format markdown
+spex suitable "EDAX All" Y2Si Y 20 --format markdown
 spex suitable "EDAX All" Y2O3 Y 20 --format markdown
 spex suitable "EDAX All" Zr Zr 20 --format markdown
 spex suitable "EDAX All" ZrB2 Zr 20 --format markdown
 spex suitable "EDAX All" ZrC Zr 20 --format markdown
 spex suitable "EDAX All" ZrN Zr 20 --format markdown
 spex suitable "EDAX All" ZrO2 Zr 20 --format markdown
+spex suitable "EDAX All" ZrSi2 Zr 20 --format markdown
 spex suitable "EDAX All" Nb Nb 20 --format markdown
 spex suitable "EDAX All" Li2Nb2O6 Nb 20 --format markdown
 spex suitable "EDAX All" Nb2O5 Nb 20 --format markdown
@@ -137,12 +152,14 @@ spex suitable "EDAX All" Pd Pd 20 --format markdown
 spex suitable "EDAX All" Ag Ag 20 --format markdown
 spex suitable "EDAX All" AgCl Ag 20 --format markdown
 spex suitable "EDAX All" Ag2S Ag 20 --format markdown
+spex suitable "EDAX All" AgCd Ag 20 --format markdown
 spex suitable "EDAX All" Ag2Te Ag 20 --format markdown
 spex suitable "EDAX All" Cd Cd 20 --format markdown
 spex suitable "EDAX All" CdO Cd 20 --format markdown
 spex suitable "EDAX All" CdSe Cd 20 --format markdown
 spex suitable "EDAX All" CdS Cd 20 --format markdown
 spex suitable "EDAX All" CdTe Cd 20 --format markdown
+spex suitable "EDAX All" AgCd Cd 20 --format markdown
 spex suitable "EDAX All" In In 20 --format markdown
 spex suitable "EDAX All" In2O3 In 20 --format markdown
 spex suitable "EDAX All" InSb In 20 --format markdown
@@ -152,6 +169,7 @@ spex suitable "EDAX All" In2Se3 In 20 --format markdown
 spex suitable "EDAX All" InS In 20 --format markdown
 spex suitable "EDAX All" In2Te3 In 20 --format markdown
 spex suitable "EDAX All" Sn Sn 20 --format markdown
+spex suitable "EDAX All" SnSe Sn 20 --format markdown
 spex suitable "EDAX All" SnO2 Sn 20 --format markdown
 spex suitable "EDAX All" Sb Sb 20 --format markdown
 spex suitable "EDAX All" Sb2S3 Sb 20 --format markdown
@@ -174,11 +192,13 @@ spex suitable "EDAX All" CsBr Cs 20 --format markdown
 spex suitable "EDAX All" CsI Cs 20 --format markdown
 spex suitable "EDAX All" CsNO3 Cs 20 --format markdown
 spex suitable "EDAX All" BaF2 Ba 20 --format markdown
+spex suitable "EDAX All" BaCO3 Ba 20 --format markdown
 spex suitable "EDAX All" Ba(NO3)2 Ba 20 --format markdown
 spex suitable "EDAX All" BaTiO2 Ba 20 --format markdown
 spex suitable "EDAX All" BaAl2Si2O8 Ba 20 --format markdown
 spex suitable "EDAX All" BaSi2O5 Ba 20 --format markdown
 spex suitable "EDAX All" BaCl Ba 20 --format markdown
+spex suitable "EDAX All" BaWO4 Ba 20 --format markdown
 spex suitable "EDAX All" LaB6 La 20 --format markdown
 spex suitable "EDAX All" La2O3 La 20 --format markdown
 spex suitable "EDAX All" LaF3 La 20 --format markdown
@@ -248,6 +268,7 @@ spex suitable "EDAX All" Re Re 20 --format markdown
 spex suitable "EDAX All" Os Os 20 --format markdown
 spex suitable "EDAX All" Ir Ir 20 --format markdown
 spex suitable "EDAX All" Pt Pt 20 --format markdown
+spex suitable "EDAX All" PtCr Pt 20 --format markdown
 spex suitable "EDAX All" Au Au 20 --format markdown
 rem spex suitable "EDAX All" Hg Hg 20 --format markdown
 spex suitable "EDAX All" HgO Hg 20 --format markdown
@@ -268,6 +289,8 @@ spex suitable "EDAX All" PbTe Pb 20 --format markdown
 spex suitable "EDAX All" PbSe Pb 20 --format markdown
 spex suitable "EDAX All" PbF2 Pb 20 --format markdown
 spex suitable "EDAX All" Bi Bi 20 --format markdown
+spex suitable "EDAX All" Bi2Se3 Bi 20 --format markdown
+spex suitable "EDAX All" Bi2Te3 Bi 20 --format markdown
 spex suitable "EDAX All" Bi2S3 Bi 20 --format markdown
 rem spex suitable "EDAX All" Po Po 20 --format markdown
 rem spex suitable "EDAX All" At At 20 --format markdown

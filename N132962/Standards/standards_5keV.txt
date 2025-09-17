@@ -1,0 +1,13 @@
+ Directory of C:\Users\nritchie\Documents\repositories\spex_quant\N132962\Standards\Standards\5 keV\EM II
+
+04/04/2025  02:20 PM            18,873 Al std.msa
+04/04/2025  02:19 PM            18,639 C std.msa
+04/04/2025  02:20 PM            19,128 CuO std.msa
+04/04/2025  02:20 PM            18,944 Ni std.msa
+04/04/2025  02:20 PM            19,045 Si std.msa
+               5 File(s)         94,629 bytes
+
+ Directory of C:\Users\nritchie\Documents\repositories\spex_quant\N132962\Standards\Standards\5 keV\G583
+
+04/04/2025  02:56 PM            19,075 Ni std.msa
+               1 File(s)         19,075 bytes
