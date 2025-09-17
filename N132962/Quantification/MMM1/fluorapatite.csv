@@ -1,0 +1,219 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 15:29:00.102547900 -04:00
+#	Application: spex v0.0.110
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	There are no suitable references for [Ce M₁-O₂ and 1 others; 0.0013>.
+#
+# Spectrum
+#	SPI MM1 Fluorapatite[0][all]['SPI MM1 Fluorapatite[0][4].msa']
+#
+# Fit Warnings
+#	The k-ratio '[Ce M₃-M₅ + 3 others] = -1.062 ± 0.031' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Fluorapatite[0][all],O,8,15.999,0.35820,0.03972,0.35181,0.02530,0.54512,0.02753
+SPI MM1 Fluorapatite[0][all],F,9,18.998403163,0.03682,0.00194,0.03616,0.00232,0.04719,0.00371
+SPI MM1 Fluorapatite[0][all],Si,14,28.085,0.00147,0.00003,0.00144,0.00006,0.00127,0.00008
+SPI MM1 Fluorapatite[0][all],P,15,30.973761998,0.19039,0.00066,0.18699,0.00732,0.14966,0.00907
+SPI MM1 Fluorapatite[0][all],S,16,32.06,0.00329,0.00005,0.00323,0.00013,0.00250,0.00016
+SPI MM1 Fluorapatite[0][all],Ca,20,40.078,0.41202,0.00033,0.40466,0.01581,0.25030,0.01514
+SPI MM1 Fluorapatite[0][all],Sr,38,87.62,0.00625,0.00013,0.00614,0.00027,0.00174,0.00011
+SPI MM1 Fluorapatite[0][all],Y,39,88.905838,0.00528,0.00017,0.00518,0.00026,0.00145,0.00010
+SPI MM1 Fluorapatite[0][all],La,57,138.90547,0.00111,0.00007,0.00109,0.00008,0.00019,0.00002
+SPI MM1 Fluorapatite[0][all],Ce,58,140.116,0.00335,0.00008,0.00329,0.00015,0.00058,0.00004
+# Notes
+#	Analytical total: 1.018 ± 0.040
+#	Residual written to SPI MM1 Fluorapatite[0][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Fluorapatite[1][all]['SPI MM1 Fluorapatite[1][4].msa']
+#
+# Fit Warnings
+#	The k-ratio '[Ce M₃-M₅ + 3 others] = -1.149 ± 0.031' is more than 3σ negative.
+#	The k-ratio '[La M₁-O₃ + 1 other] = -0.91 ± 0.19' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Fluorapatite[1][all],O,8,15.999,0.36097,0.04029,0.35227,0.02548,0.54538,0.02771
+SPI MM1 Fluorapatite[1][all],F,9,18.998403163,0.03791,0.00201,0.03699,0.00239,0.04823,0.00382
+SPI MM1 Fluorapatite[1][all],Si,14,28.085,0.00139,0.00003,0.00136,0.00006,0.00120,0.00008
+SPI MM1 Fluorapatite[1][all],P,15,30.973761998,0.19152,0.00066,0.18691,0.00738,0.14947,0.00912
+SPI MM1 Fluorapatite[1][all],S,16,32.06,0.00315,0.00005,0.00308,0.00013,0.00238,0.00015
+SPI MM1 Fluorapatite[1][all],Ca,20,40.078,0.41360,0.00033,0.40364,0.01590,0.24946,0.01520
+SPI MM1 Fluorapatite[1][all],Sr,38,87.62,0.00612,0.00013,0.00597,0.00027,0.00169,0.00011
+SPI MM1 Fluorapatite[1][all],Y,39,88.905838,0.00463,0.00017,0.00452,0.00024,0.00126,0.00009
+SPI MM1 Fluorapatite[1][all],La,57,138.90547,0.00176,0.00007,0.00171,0.00010,0.00031,0.00002
+SPI MM1 Fluorapatite[1][all],Ce,58,140.116,0.00364,0.00008,0.00355,0.00016,0.00063,0.00004
+# Notes
+#	Analytical total: 1.025 ± 0.040
+#	Residual written to SPI MM1 Fluorapatite[1][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Fluorapatite[2][all]['SPI MM1 Fluorapatite[2][4].msa']
+#
+# Fit Warnings
+#	The k-ratio '[Ce M₃-M₅ + 3 others] = -1.082 ± 0.031' is more than 3σ negative.
+#	The k-ratio '[La M₁-O₃ + 1 other] = -0.61 ± 0.19' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Fluorapatite[2][all],O,8,15.999,0.36028,0.04010,0.35301,0.02543,0.54650,0.02762
+SPI MM1 Fluorapatite[2][all],F,9,18.998403163,0.03613,0.00191,0.03540,0.00228,0.04615,0.00365
+SPI MM1 Fluorapatite[2][all],Si,14,28.085,0.00136,0.00003,0.00134,0.00006,0.00118,0.00008
+SPI MM1 Fluorapatite[2][all],P,15,30.973761998,0.19110,0.00065,0.18724,0.00738,0.14973,0.00912
+SPI MM1 Fluorapatite[2][all],S,16,32.06,0.00316,0.00005,0.00309,0.00013,0.00239,0.00015
+SPI MM1 Fluorapatite[2][all],Ca,20,40.078,0.41335,0.00033,0.40502,0.01593,0.25030,0.01524
+SPI MM1 Fluorapatite[2][all],Sr,38,87.62,0.00600,0.00013,0.00588,0.00026,0.00166,0.00011
+SPI MM1 Fluorapatite[2][all],Y,39,88.905838,0.00492,0.00017,0.00482,0.00025,0.00134,0.00009
+SPI MM1 Fluorapatite[2][all],La,57,138.90547,0.00119,0.00007,0.00116,0.00008,0.00021,0.00002
+SPI MM1 Fluorapatite[2][all],Ce,58,140.116,0.00310,0.00008,0.00304,0.00014,0.00054,0.00004
+# Notes
+#	Analytical total: 1.021 ± 0.040
+#	Residual written to SPI MM1 Fluorapatite[2][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Fluorapatite[3][all]['SPI MM1 Fluorapatite[3][4].msa']
+#
+# Fit Warnings
+#	The k-ratio '[Ce M₃-M₅ + 3 others] = -1.025 ± 0.031' is more than 3σ negative.
+#	The k-ratio '[La M₁-O₃ + 1 other] = -0.99 ± 0.19' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Fluorapatite[3][all],O,8,15.999,0.35834,0.03976,0.35199,0.02532,0.54513,0.02755
+SPI MM1 Fluorapatite[3][all],F,9,18.998403163,0.03740,0.00198,0.03674,0.00236,0.04792,0.00377
+SPI MM1 Fluorapatite[3][all],Si,14,28.085,0.00141,0.00003,0.00138,0.00006,0.00122,0.00008
+SPI MM1 Fluorapatite[3][all],P,15,30.973761998,0.19022,0.00065,0.18685,0.00733,0.14947,0.00906
+SPI MM1 Fluorapatite[3][all],S,16,32.06,0.00322,0.00005,0.00316,0.00013,0.00244,0.00015
+SPI MM1 Fluorapatite[3][all],Ca,20,40.078,0.41163,0.00033,0.40434,0.01582,0.24998,0.01514
+SPI MM1 Fluorapatite[3][all],Sr,38,87.62,0.00610,0.00013,0.00599,0.00027,0.00169,0.00011
+SPI MM1 Fluorapatite[3][all],Y,39,88.905838,0.00456,0.00017,0.00448,0.00024,0.00125,0.00009
+SPI MM1 Fluorapatite[3][all],La,57,138.90547,0.00141,0.00007,0.00138,0.00009,0.00025,0.00002
+SPI MM1 Fluorapatite[3][all],Ce,58,140.116,0.00375,0.00008,0.00369,0.00016,0.00065,0.00004
+# Notes
+#	Analytical total: 1.018 ± 0.040
+#	Residual written to SPI MM1 Fluorapatite[3][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Fluorapatite[4][all]['SPI MM1 Fluorapatite[4][4].msa']
+#
+# Fit Warnings
+#	The k-ratio '[Ce M₃-M₅ + 3 others] = -1.080 ± 0.031' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Fluorapatite[4][all],O,8,15.999,0.35982,0.04005,0.35240,0.02541,0.54581,0.02763
+SPI MM1 Fluorapatite[4][all],F,9,18.998403163,0.03659,0.00194,0.03584,0.00231,0.04675,0.00369
+SPI MM1 Fluorapatite[4][all],Si,14,28.085,0.00152,0.00003,0.00149,0.00006,0.00131,0.00008
+SPI MM1 Fluorapatite[4][all],P,15,30.973761998,0.19095,0.00066,0.18701,0.00736,0.14962,0.00911
+SPI MM1 Fluorapatite[4][all],S,16,32.06,0.00312,0.00005,0.00305,0.00013,0.00236,0.00015
+SPI MM1 Fluorapatite[4][all],Ca,20,40.078,0.41335,0.00033,0.40482,0.01590,0.25030,0.01522
+SPI MM1 Fluorapatite[4][all],Sr,38,87.62,0.00616,0.00013,0.00603,0.00027,0.00171,0.00011
+SPI MM1 Fluorapatite[4][all],Y,39,88.905838,0.00494,0.00017,0.00484,0.00025,0.00135,0.00009
+SPI MM1 Fluorapatite[4][all],La,57,138.90547,0.00146,0.00007,0.00143,0.00009,0.00025,0.00002
+SPI MM1 Fluorapatite[4][all],Ce,58,140.116,0.00316,0.00008,0.00309,0.00014,0.00055,0.00004
+# Notes
+#	Analytical total: 1.021 ± 0.040
+#	Residual written to SPI MM1 Fluorapatite[4][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Fluorapatite[5][all]['SPI MM1 Fluorapatite[5][4].msa']
+#
+# Fit Warnings
+#	The k-ratio '[Ce M₃-M₅ + 3 others] = -1.009 ± 0.031' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Fluorapatite[5][all],O,8,15.999,0.35826,0.03976,0.35157,0.02531,0.54498,0.02756
+SPI MM1 Fluorapatite[5][all],F,9,18.998403163,0.03697,0.00195,0.03628,0.00233,0.04736,0.00373
+SPI MM1 Fluorapatite[5][all],Si,14,28.085,0.00136,0.00003,0.00134,0.00006,0.00118,0.00008
+SPI MM1 Fluorapatite[5][all],P,15,30.973761998,0.19056,0.00067,0.18700,0.00733,0.14973,0.00908
+SPI MM1 Fluorapatite[5][all],S,16,32.06,0.00310,0.00005,0.00304,0.00013,0.00235,0.00015
+SPI MM1 Fluorapatite[5][all],Ca,20,40.078,0.41226,0.00033,0.40457,0.01581,0.25035,0.01516
+SPI MM1 Fluorapatite[5][all],Sr,38,87.62,0.00626,0.00013,0.00614,0.00027,0.00174,0.00011
+SPI MM1 Fluorapatite[5][all],Y,39,88.905838,0.00518,0.00017,0.00508,0.00026,0.00142,0.00010
+SPI MM1 Fluorapatite[5][all],La,57,138.90547,0.00141,0.00007,0.00139,0.00009,0.00025,0.00002
+SPI MM1 Fluorapatite[5][all],Ce,58,140.116,0.00365,0.00008,0.00358,0.00016,0.00063,0.00004
+# Notes
+#	Analytical total: 1.019 ± 0.040
+#	Residual written to SPI MM1 Fluorapatite[5][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Fluorapatite[6][all]['SPI MM1 Fluorapatite[6][4].msa']
+#
+# Fit Warnings
+#	The k-ratio '[Ce M₃-M₅ + 3 others] = -1.095 ± 0.031' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Fluorapatite[6][all],O,8,15.999,0.35874,0.03984,0.35176,0.02533,0.54477,0.02758
+SPI MM1 Fluorapatite[6][all],F,9,18.998403163,0.03790,0.00200,0.03716,0.00238,0.04847,0.00381
+SPI MM1 Fluorapatite[6][all],Si,14,28.085,0.00144,0.00003,0.00141,0.00006,0.00125,0.00008
+SPI MM1 Fluorapatite[6][all],P,15,30.973761998,0.19063,0.00066,0.18692,0.00733,0.14953,0.00906
+SPI MM1 Fluorapatite[6][all],S,16,32.06,0.00322,0.00005,0.00315,0.00013,0.00244,0.00015
+SPI MM1 Fluorapatite[6][all],Ca,20,40.078,0.41174,0.00033,0.40373,0.01579,0.24960,0.01511
+SPI MM1 Fluorapatite[6][all],Sr,38,87.62,0.00623,0.00013,0.00610,0.00027,0.00173,0.00011
+SPI MM1 Fluorapatite[6][all],Y,39,88.905838,0.00492,0.00017,0.00482,0.00025,0.00134,0.00009
+SPI MM1 Fluorapatite[6][all],La,57,138.90547,0.00137,0.00007,0.00134,0.00009,0.00024,0.00002
+SPI MM1 Fluorapatite[6][all],Ce,58,140.116,0.00366,0.00008,0.00359,0.00016,0.00064,0.00004
+# Notes
+#	Analytical total: 1.020 ± 0.040
+#	Residual written to SPI MM1 Fluorapatite[6][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Fluorapatite[7][all]['SPI MM1 Fluorapatite[7][4].msa']
+#
+# Fit Warnings
+#	The k-ratio '[Ce M₃-M₅ + 3 others] = -1.028 ± 0.031' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Fluorapatite[7][all],O,8,15.999,0.35918,0.03987,0.35174,0.02532,0.54533,0.02756
+SPI MM1 Fluorapatite[7][all],F,9,18.998403163,0.03708,0.00196,0.03631,0.00233,0.04741,0.00373
+SPI MM1 Fluorapatite[7][all],Si,14,28.085,0.00160,0.00003,0.00157,0.00007,0.00138,0.00009
+SPI MM1 Fluorapatite[7][all],P,15,30.973761998,0.19068,0.00068,0.18673,0.00732,0.14954,0.00907
+SPI MM1 Fluorapatite[7][all],S,16,32.06,0.00346,0.00005,0.00339,0.00014,0.00262,0.00016
+SPI MM1 Fluorapatite[7][all],Ca,20,40.078,0.41165,0.00033,0.40312,0.01576,0.24949,0.01512
+SPI MM1 Fluorapatite[7][all],Sr,38,87.62,0.00645,0.00013,0.00631,0.00028,0.00179,0.00011
+SPI MM1 Fluorapatite[7][all],Y,39,88.905838,0.00520,0.00017,0.00509,0.00026,0.00142,0.00010
+SPI MM1 Fluorapatite[7][all],La,57,138.90547,0.00185,0.00007,0.00181,0.00010,0.00032,0.00002
+SPI MM1 Fluorapatite[7][all],Ce,58,140.116,0.00402,0.00008,0.00393,0.00017,0.00070,0.00004
+# Notes
+#	Analytical total: 1.021 ± 0.040
+#	Residual written to SPI MM1 Fluorapatite[7][4][residual].msa.
+#
+# Spectrum
+#	Sum[8 spectra]['Sum spectrum']
+#
+# Fit Warnings
+#	The k-ratio '[Ce M₃-M₅ + 3 others] = -1.066 ± 0.011' is more than 3σ negative.
+#	The k-ratio '[La M₁-O₃ + 1 other] = -0.327 ± 0.066' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Sum[8 spectra],O,8,15.999,0.35922,0.03992,0.35207,0.02536,0.54538,0.02759
+Sum[8 spectra],F,9,18.998403163,0.03710,0.00195,0.03636,0.00233,0.04744,0.00373
+Sum[8 spectra],Si,14,28.085,0.00144,0.00001,0.00142,0.00006,0.00125,0.00008
+Sum[8 spectra],P,15,30.973761998,0.19076,0.00065,0.18696,0.00734,0.14959,0.00908
+Sum[8 spectra],S,16,32.06,0.00321,0.00004,0.00315,0.00013,0.00243,0.00015
+Sum[8 spectra],Ca,20,40.078,0.41245,0.00031,0.40424,0.01584,0.24997,0.01516
+Sum[8 spectra],Sr,38,87.62,0.00619,0.00006,0.00607,0.00025,0.00172,0.00011
+Sum[8 spectra],Y,39,88.905838,0.00495,0.00006,0.00485,0.00020,0.00135,0.00008
+Sum[8 spectra],La,57,138.90547,0.00144,0.00003,0.00141,0.00006,0.00025,0.00002
+Sum[8 spectra],Ce,58,140.116,0.00354,0.00003,0.00347,0.00014,0.00061,0.00004
+# Notes
+#	Analytical total: 1.020 ± 0.040
+#
