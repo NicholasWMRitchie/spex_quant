@@ -1,0 +1,188 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 15:06:00.835977100 -04:00
+#	Application: spex v0.0.110
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	SPI MM1dup Diopside[0][all]['SPI MM1 Diopside[0][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Diopside[0][all],O,8,15.999,0.41749,0.04740,0.42104,0.02768,0.58002,0.02766
+SPI MM1dup Diopside[0][all],Na,11,22.98976928,0.00268,0.00004,0.00271,0.00014,0.00259,0.00018
+SPI MM1dup Diopside[0][all],Mg,12,24.305,0.10752,0.00052,0.10844,0.00521,0.09833,0.00649
+SPI MM1dup Diopside[0][all],Al,13,26.9815384,0.00292,0.00003,0.00294,0.00014,0.00240,0.00016
+SPI MM1dup Diopside[0][all],Si,14,28.085,0.26217,0.00072,0.26440,0.01265,0.20749,0.01367
+SPI MM1dup Diopside[0][all],Ca,20,40.078,0.19187,0.00018,0.19350,0.00925,0.10641,0.00701
+SPI MM1dup Diopside[0][all],Fe,26,55.845,0.00691,0.00004,0.00697,0.00034,0.00275,0.00018
+# Notes
+#	Analytical total: 0.992 ± 0.047
+#	Residual written to SPI MM1 Diopside[0][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Diopside[1][all]['SPI MM1 Diopside[1][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Diopside[1][all],O,8,15.999,0.41633,0.04720,0.42081,0.02763,0.57977,0.02762
+SPI MM1dup Diopside[1][all],Na,11,22.98976928,0.00295,0.00004,0.00299,0.00015,0.00286,0.00019
+SPI MM1dup Diopside[1][all],Mg,12,24.305,0.10720,0.00052,0.10836,0.00519,0.09827,0.00647
+SPI MM1dup Diopside[1][all],Al,13,26.9815384,0.00302,0.00003,0.00306,0.00015,0.00250,0.00017
+SPI MM1dup Diopside[1][all],Si,14,28.085,0.26150,0.00071,0.26432,0.01262,0.20745,0.01364
+SPI MM1dup Diopside[1][all],Ca,20,40.078,0.19124,0.00017,0.19329,0.00922,0.10631,0.00699
+SPI MM1dup Diopside[1][all],Fe,26,55.845,0.00710,0.00004,0.00718,0.00034,0.00283,0.00019
+# Notes
+#	Analytical total: 0.989 ± 0.047
+#	Residual written to SPI MM1 Diopside[1][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Diopside[2][all]['SPI MM1 Diopside[2][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Diopside[2][all],O,8,15.999,0.41528,0.04704,0.42055,0.02761,0.57952,0.02761
+SPI MM1dup Diopside[2][all],Na,11,22.98976928,0.00280,0.00004,0.00283,0.00014,0.00272,0.00018
+SPI MM1dup Diopside[2][all],Mg,12,24.305,0.10693,0.00051,0.10829,0.00518,0.09823,0.00646
+SPI MM1dup Diopside[2][all],Al,13,26.9815384,0.00308,0.00003,0.00311,0.00015,0.00254,0.00017
+SPI MM1dup Diopside[2][all],Si,14,28.085,0.26138,0.00071,0.26471,0.01262,0.20779,0.01365
+SPI MM1dup Diopside[2][all],Ca,20,40.078,0.19101,0.00017,0.19344,0.00922,0.10641,0.00699
+SPI MM1dup Diopside[2][all],Fe,26,55.845,0.00698,0.00004,0.00706,0.00034,0.00279,0.00018
+# Notes
+#	Analytical total: 0.987 ± 0.047
+#	Residual written to SPI MM1 Diopside[2][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Diopside[3][all]['SPI MM1 Diopside[3][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Diopside[3][all],O,8,15.999,0.41755,0.04741,0.42090,0.02768,0.57986,0.02766
+SPI MM1dup Diopside[3][all],Na,11,22.98976928,0.00277,0.00004,0.00280,0.00014,0.00268,0.00018
+SPI MM1dup Diopside[3][all],Mg,12,24.305,0.10744,0.00052,0.10830,0.00520,0.09821,0.00648
+SPI MM1dup Diopside[3][all],Al,13,26.9815384,0.00292,0.00003,0.00294,0.00014,0.00241,0.00016
+SPI MM1dup Diopside[3][all],Si,14,28.085,0.26264,0.00072,0.26474,0.01266,0.20777,0.01369
+SPI MM1dup Diopside[3][all],Ca,20,40.078,0.19174,0.00018,0.19328,0.00924,0.10629,0.00700
+SPI MM1dup Diopside[3][all],Fe,26,55.845,0.00699,0.00004,0.00705,0.00034,0.00278,0.00018
+# Notes
+#	Analytical total: 0.992 ± 0.047
+#	Residual written to SPI MM1 Diopside[3][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Diopside[4][all]['SPI MM1 Diopside[4][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Diopside[4][all],O,8,15.999,0.41757,0.04738,0.42102,0.02766,0.57988,0.02765
+SPI MM1dup Diopside[4][all],Na,11,22.98976928,0.00291,0.00004,0.00293,0.00015,0.00281,0.00019
+SPI MM1dup Diopside[4][all],Mg,12,24.305,0.10766,0.00052,0.10855,0.00521,0.09842,0.00649
+SPI MM1dup Diopside[4][all],Al,13,26.9815384,0.00289,0.00003,0.00291,0.00014,0.00238,0.00016
+SPI MM1dup Diopside[4][all],Si,14,28.085,0.26256,0.00072,0.26472,0.01266,0.20770,0.01368
+SPI MM1dup Diopside[4][all],Ca,20,40.078,0.19131,0.00017,0.19289,0.00922,0.10606,0.00698
+SPI MM1dup Diopside[4][all],Fe,26,55.845,0.00692,0.00004,0.00698,0.00034,0.00275,0.00018
+# Notes
+#	Analytical total: 0.992 ± 0.047
+#	Residual written to SPI MM1 Diopside[4][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Diopside[5][all]['SPI MM1 Diopside[5][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Diopside[5][all],O,8,15.999,0.41730,0.04735,0.42108,0.02766,0.58002,0.02764
+SPI MM1dup Diopside[5][all],Na,11,22.98976928,0.00268,0.00004,0.00270,0.00014,0.00259,0.00017
+SPI MM1dup Diopside[5][all],Mg,12,24.305,0.10744,0.00052,0.10841,0.00520,0.09830,0.00648
+SPI MM1dup Diopside[5][all],Al,13,26.9815384,0.00301,0.00003,0.00303,0.00015,0.00248,0.00017
+SPI MM1dup Diopside[5][all],Si,14,28.085,0.26222,0.00072,0.26460,0.01265,0.20762,0.01367
+SPI MM1dup Diopside[5][all],Ca,20,40.078,0.19150,0.00017,0.19324,0.00924,0.10625,0.00699
+SPI MM1dup Diopside[5][all],Fe,26,55.845,0.00688,0.00004,0.00694,0.00033,0.00274,0.00018
+# Notes
+#	Analytical total: 0.991 ± 0.047
+#	Residual written to SPI MM1 Diopside[5][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Diopside[6][all]['SPI MM1 Diopside[6][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Diopside[6][all],O,8,15.999,0.41757,0.04739,0.42085,0.02767,0.57975,0.02766
+SPI MM1dup Diopside[6][all],Na,11,22.98976928,0.00279,0.00004,0.00281,0.00014,0.00270,0.00018
+SPI MM1dup Diopside[6][all],Mg,12,24.305,0.10762,0.00052,0.10846,0.00520,0.09835,0.00649
+SPI MM1dup Diopside[6][all],Al,13,26.9815384,0.00302,0.00003,0.00304,0.00015,0.00249,0.00017
+SPI MM1dup Diopside[6][all],Si,14,28.085,0.26273,0.00072,0.26480,0.01266,0.20780,0.01368
+SPI MM1dup Diopside[6][all],Ca,20,40.078,0.19151,0.00018,0.19302,0.00922,0.10615,0.00699
+SPI MM1dup Diopside[6][all],Fe,26,55.845,0.00696,0.00004,0.00702,0.00034,0.00277,0.00018
+# Notes
+#	Analytical total: 0.992 ± 0.047
+#	Residual written to SPI MM1 Diopside[6][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Diopside[7][all]['SPI MM1 Diopside[7][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Diopside[7][all],O,8,15.999,0.41786,0.04745,0.42075,0.02768,0.57960,0.02767
+SPI MM1dup Diopside[7][all],Na,11,22.98976928,0.00285,0.00004,0.00287,0.00014,0.00275,0.00019
+SPI MM1dup Diopside[7][all],Mg,12,24.305,0.10820,0.00052,0.10895,0.00523,0.09879,0.00652
+SPI MM1dup Diopside[7][all],Al,13,26.9815384,0.00295,0.00003,0.00297,0.00015,0.00243,0.00016
+SPI MM1dup Diopside[7][all],Si,14,28.085,0.26269,0.00072,0.26451,0.01265,0.20757,0.01367
+SPI MM1dup Diopside[7][all],Ca,20,40.078,0.19160,0.00018,0.19293,0.00922,0.10609,0.00698
+SPI MM1dup Diopside[7][all],Fe,26,55.845,0.00697,0.00004,0.00702,0.00034,0.00277,0.00018
+# Notes
+#	Analytical total: 0.993 ± 0.047
+#	Residual written to SPI MM1 Diopside[7][4][residual].msa.
+#
+# Spectrum
+#	Sum[8 spectra]['Sum spectrum']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Sum[8 spectra],O,8,15.999,0.41712,0.04733,0.42088,0.02766,0.57980,0.02765
+Sum[8 spectra],Na,11,22.98976928,0.00280,0.00002,0.00283,0.00014,0.00271,0.00018
+Sum[8 spectra],Mg,12,24.305,0.10750,0.00051,0.10847,0.00520,0.09836,0.00649
+Sum[8 spectra],Al,13,26.9815384,0.00298,0.00002,0.00300,0.00014,0.00245,0.00016
+Sum[8 spectra],Si,14,28.085,0.26224,0.00071,0.26460,0.01265,0.20765,0.01367
+Sum[8 spectra],Ca,20,40.078,0.19147,0.00016,0.19320,0.00923,0.10625,0.00699
+Sum[8 spectra],Fe,26,55.845,0.00696,0.00001,0.00703,0.00034,0.00277,0.00018
+# Notes
+#	Analytical total: 0.991 ± 0.047
+#
