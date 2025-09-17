@@ -1,0 +1,234 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 15:06:03.155157500 -04:00
+#	Application: spex v0.0.110
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
+#	The Duane-Hunt (19.63 keV) for KBr std differs by more than 1 % from the beam energy (20.00 keV)!!
+#
+# Spectrum
+#	SPI MM1dup Kaersutite[0][all]['SPI MM1 Kaersutite[0][4].msa']
+#
+# Fit Warnings
+#	Removing F from the fit and re-fitting (threshold = 0.0σ).
+#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01871 ± 0.00042' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Kaersutite[0][all],O,8,15.999,0.42194,0.04152,0.42247,0.02401,0.59350,0.02374
+SPI MM1dup Kaersutite[0][all],F,9,18.998403163,0.00000,0.00004,0.00000,0.00004,0.00000,0.00004
+SPI MM1dup Kaersutite[0][all],Na,11,22.98976928,0.01888,0.00008,0.01891,0.00079,0.01848,0.00108
+SPI MM1dup Kaersutite[0][all],Mg,12,24.305,0.07795,0.00037,0.07805,0.00326,0.07217,0.00423
+SPI MM1dup Kaersutite[0][all],Al,13,26.9815384,0.06861,0.00026,0.06870,0.00287,0.05723,0.00335
+SPI MM1dup Kaersutite[0][all],Si,14,28.085,0.18904,0.00052,0.18928,0.00788,0.15148,0.00885
+SPI MM1dup Kaersutite[0][all],K,19,39.0983,0.00864,0.00003,0.00865,0.00036,0.00498,0.00029
+SPI MM1dup Kaersutite[0][all],Ca,20,40.078,0.08734,0.00009,0.08745,0.00364,0.04904,0.00286
+SPI MM1dup Kaersutite[0][all],Ti,22,47.867,0.03278,0.00005,0.03282,0.00137,0.01541,0.00090
+SPI MM1dup Kaersutite[0][all],Mn,25,54.938043,0.00136,0.00003,0.00137,0.00006,0.00056,0.00004
+SPI MM1dup Kaersutite[0][all],Fe,26,55.845,0.09220,0.00008,0.09231,0.00384,0.03715,0.00217
+# Notes
+#	Analytical total: 0.999 ± 0.042
+#	Residual written to SPI MM1 Kaersutite[0][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Kaersutite[1][all]['SPI MM1 Kaersutite[1][4].msa']
+#
+# Fit Warnings
+#	Removing F from the fit and re-fitting (threshold = 0.0σ).
+#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01632 ± 0.00042' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Kaersutite[1][all],O,8,15.999,0.42322,0.04162,0.42360,0.02401,0.59456,0.02371
+SPI MM1dup Kaersutite[1][all],F,9,18.998403163,0.00000,0.00004,0.00000,0.00004,0.00000,0.00004
+SPI MM1dup Kaersutite[1][all],Na,11,22.98976928,0.01903,0.00008,0.01904,0.00080,0.01860,0.00109
+SPI MM1dup Kaersutite[1][all],Mg,12,24.305,0.07751,0.00037,0.07758,0.00325,0.07168,0.00420
+SPI MM1dup Kaersutite[1][all],Al,13,26.9815384,0.06885,0.00026,0.06891,0.00288,0.05735,0.00336
+SPI MM1dup Kaersutite[1][all],Si,14,28.085,0.18877,0.00052,0.18894,0.00788,0.15107,0.00884
+SPI MM1dup Kaersutite[1][all],K,19,39.0983,0.00879,0.00003,0.00880,0.00037,0.00505,0.00030
+SPI MM1dup Kaersutite[1][all],Ca,20,40.078,0.08698,0.00009,0.08705,0.00363,0.04878,0.00285
+SPI MM1dup Kaersutite[1][all],Ti,22,47.867,0.03274,0.00005,0.03277,0.00137,0.01537,0.00090
+SPI MM1dup Kaersutite[1][all],Mn,25,54.938043,0.00120,0.00003,0.00120,0.00006,0.00049,0.00003
+SPI MM1dup Kaersutite[1][all],Fe,26,55.845,0.09202,0.00008,0.09211,0.00384,0.03704,0.00217
+# Notes
+#	Analytical total: 0.999 ± 0.042
+#	Residual written to SPI MM1 Kaersutite[1][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Kaersutite[2][all]['SPI MM1 Kaersutite[2][4].msa']
+#
+# Fit Warnings
+#	Removing F from the fit and re-fitting (threshold = 0.0σ).
+#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01727 ± 0.00042' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Kaersutite[2][all],O,8,15.999,0.41812,0.04087,0.42230,0.02385,0.59334,0.02359
+SPI MM1dup Kaersutite[2][all],F,9,18.998403163,0.00000,0.00004,0.00000,0.00004,0.00000,0.00004
+SPI MM1dup Kaersutite[2][all],Na,11,22.98976928,0.01842,0.00008,0.01860,0.00077,0.01819,0.00106
+SPI MM1dup Kaersutite[2][all],Mg,12,24.305,0.07618,0.00036,0.07694,0.00319,0.07116,0.00414
+SPI MM1dup Kaersutite[2][all],Al,13,26.9815384,0.07113,0.00026,0.07184,0.00298,0.05985,0.00348
+SPI MM1dup Kaersutite[2][all],Si,14,28.085,0.18602,0.00051,0.18788,0.00777,0.15038,0.00873
+SPI MM1dup Kaersutite[2][all],K,19,39.0983,0.00865,0.00003,0.00873,0.00036,0.00502,0.00029
+SPI MM1dup Kaersutite[2][all],Ca,20,40.078,0.08647,0.00009,0.08733,0.00361,0.04898,0.00284
+SPI MM1dup Kaersutite[2][all],Ti,22,47.867,0.03253,0.00005,0.03286,0.00136,0.01543,0.00090
+SPI MM1dup Kaersutite[2][all],Mn,25,54.938043,0.00141,0.00003,0.00142,0.00007,0.00058,0.00004
+SPI MM1dup Kaersutite[2][all],Fe,26,55.845,0.09117,0.00008,0.09209,0.00380,0.03707,0.00215
+# Notes
+#	Analytical total: 0.990 ± 0.041
+#	Residual written to SPI MM1 Kaersutite[2][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Kaersutite[3][all]['SPI MM1 Kaersutite[3][4].msa']
+#
+# Fit Warnings
+#	Removing F from the fit and re-fitting (threshold = 0.0σ).
+#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01799 ± 0.00042' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Kaersutite[3][all],O,8,15.999,0.42191,0.04146,0.42242,0.02398,0.59350,0.02371
+SPI MM1dup Kaersutite[3][all],F,9,18.998403163,0.00000,0.00004,0.00000,0.00004,0.00000,0.00004
+SPI MM1dup Kaersutite[3][all],Na,11,22.98976928,0.01928,0.00008,0.01930,0.00081,0.01887,0.00110
+SPI MM1dup Kaersutite[3][all],Mg,12,24.305,0.07724,0.00036,0.07734,0.00323,0.07153,0.00418
+SPI MM1dup Kaersutite[3][all],Al,13,26.9815384,0.06876,0.00026,0.06885,0.00287,0.05736,0.00335
+SPI MM1dup Kaersutite[3][all],Si,14,28.085,0.18912,0.00052,0.18935,0.00787,0.15155,0.00885
+SPI MM1dup Kaersutite[3][all],K,19,39.0983,0.00884,0.00003,0.00885,0.00037,0.00509,0.00030
+SPI MM1dup Kaersutite[3][all],Ca,20,40.078,0.08717,0.00009,0.08727,0.00362,0.04895,0.00286
+SPI MM1dup Kaersutite[3][all],Ti,22,47.867,0.03262,0.00005,0.03266,0.00136,0.01534,0.00089
+SPI MM1dup Kaersutite[3][all],Mn,25,54.938043,0.00129,0.00003,0.00129,0.00006,0.00053,0.00003
+SPI MM1dup Kaersutite[3][all],Fe,26,55.845,0.09256,0.00008,0.09268,0.00385,0.03730,0.00218
+# Notes
+#	Analytical total: 0.999 ± 0.041
+#	Residual written to SPI MM1 Kaersutite[3][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Kaersutite[4][all]['SPI MM1 Kaersutite[4][4].msa']
+#
+# Fit Warnings
+#	Removing F from the fit and re-fitting (threshold = 0.0σ).
+#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01871 ± 0.00042' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Kaersutite[4][all],O,8,15.999,0.41635,0.04087,0.41974,0.02391,0.59076,0.02373
+SPI MM1dup Kaersutite[4][all],F,9,18.998403163,0.00000,0.00004,0.00000,0.00004,0.00000,0.00004
+SPI MM1dup Kaersutite[4][all],Na,11,22.98976928,0.01878,0.00008,0.01893,0.00078,0.01854,0.00108
+SPI MM1dup Kaersutite[4][all],Mg,12,24.305,0.07725,0.00036,0.07788,0.00323,0.07215,0.00420
+SPI MM1dup Kaersutite[4][all],Al,13,26.9815384,0.06864,0.00025,0.06920,0.00286,0.05775,0.00336
+SPI MM1dup Kaersutite[4][all],Si,14,28.085,0.18939,0.00052,0.19093,0.00788,0.15308,0.00888
+SPI MM1dup Kaersutite[4][all],K,19,39.0983,0.00875,0.00003,0.00883,0.00036,0.00508,0.00030
+SPI MM1dup Kaersutite[4][all],Ca,20,40.078,0.08704,0.00009,0.08775,0.00362,0.04930,0.00286
+SPI MM1dup Kaersutite[4][all],Ti,22,47.867,0.03265,0.00005,0.03292,0.00136,0.01548,0.00090
+SPI MM1dup Kaersutite[4][all],Mn,25,54.938043,0.00127,0.00003,0.00128,0.00006,0.00053,0.00003
+SPI MM1dup Kaersutite[4][all],Fe,26,55.845,0.09181,0.00008,0.09255,0.00381,0.03732,0.00216
+# Notes
+#	Analytical total: 0.992 ± 0.041
+#	Residual written to SPI MM1 Kaersutite[4][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Kaersutite[5][all]['SPI MM1 Kaersutite[5][4].msa']
+#
+# Fit Warnings
+#	Removing F from the fit and re-fitting (threshold = 0.0σ).
+#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01858 ± 0.00042' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Kaersutite[5][all],O,8,15.999,0.42166,0.04137,0.42272,0.02395,0.59371,0.02367
+SPI MM1dup Kaersutite[5][all],F,9,18.998403163,0.00000,0.00004,0.00000,0.00004,0.00000,0.00004
+SPI MM1dup Kaersutite[5][all],Na,11,22.98976928,0.01897,0.00008,0.01902,0.00079,0.01859,0.00109
+SPI MM1dup Kaersutite[5][all],Mg,12,24.305,0.07736,0.00036,0.07756,0.00323,0.07170,0.00419
+SPI MM1dup Kaersutite[5][all],Al,13,26.9815384,0.06869,0.00026,0.06886,0.00287,0.05735,0.00335
+SPI MM1dup Kaersutite[5][all],Si,14,28.085,0.18920,0.00052,0.18967,0.00788,0.15176,0.00885
+SPI MM1dup Kaersutite[5][all],K,19,39.0983,0.00858,0.00003,0.00861,0.00036,0.00495,0.00029
+SPI MM1dup Kaersutite[5][all],Ca,20,40.078,0.08714,0.00009,0.08736,0.00363,0.04898,0.00285
+SPI MM1dup Kaersutite[5][all],Ti,22,47.867,0.03233,0.00005,0.03241,0.00135,0.01521,0.00089
+SPI MM1dup Kaersutite[5][all],Mn,25,54.938043,0.00129,0.00003,0.00129,0.00006,0.00053,0.00003
+SPI MM1dup Kaersutite[5][all],Fe,26,55.845,0.09228,0.00008,0.09251,0.00384,0.03722,0.00217
+# Notes
+#	Analytical total: 0.997 ± 0.041
+#	Residual written to SPI MM1 Kaersutite[5][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Kaersutite[6][all]['SPI MM1 Kaersutite[6][4].msa']
+#
+# Fit Warnings
+#	Removing F from the fit and re-fitting (threshold = 0.0σ).
+#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01827 ± 0.00042' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Kaersutite[6][all],O,8,15.999,0.42323,0.04165,0.42321,0.02402,0.59425,0.02373
+SPI MM1dup Kaersutite[6][all],F,9,18.998403163,0.00000,0.00004,0.00000,0.00004,0.00000,0.00004
+SPI MM1dup Kaersutite[6][all],Na,11,22.98976928,0.01899,0.00008,0.01899,0.00079,0.01855,0.00109
+SPI MM1dup Kaersutite[6][all],Mg,12,24.305,0.07709,0.00036,0.07709,0.00323,0.07125,0.00418
+SPI MM1dup Kaersutite[6][all],Al,13,26.9815384,0.06898,0.00026,0.06898,0.00288,0.05743,0.00336
+SPI MM1dup Kaersutite[6][all],Si,14,28.085,0.18952,0.00052,0.18951,0.00790,0.15159,0.00887
+SPI MM1dup Kaersutite[6][all],K,19,39.0983,0.00874,0.00003,0.00874,0.00037,0.00502,0.00029
+SPI MM1dup Kaersutite[6][all],Ca,20,40.078,0.08723,0.00009,0.08723,0.00363,0.04889,0.00286
+SPI MM1dup Kaersutite[6][all],Ti,22,47.867,0.03280,0.00005,0.03280,0.00137,0.01539,0.00090
+SPI MM1dup Kaersutite[6][all],Mn,25,54.938043,0.00141,0.00003,0.00141,0.00007,0.00058,0.00004
+SPI MM1dup Kaersutite[6][all],Fe,26,55.845,0.09206,0.00008,0.09205,0.00383,0.03703,0.00217
+# Notes
+#	Analytical total: 1.000 ± 0.042
+#	Residual written to SPI MM1 Kaersutite[6][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1dup Kaersutite[7][all]['SPI MM1 Kaersutite[7][4].msa']
+#
+# Fit Warnings
+#	Removing F from the fit and re-fitting (threshold = 0.0σ).
+#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01773 ± 0.00042' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1dup Kaersutite[7][all],O,8,15.999,0.42279,0.04157,0.42355,0.02401,0.59433,0.02371
+SPI MM1dup Kaersutite[7][all],F,9,18.998403163,0.00000,0.00004,0.00000,0.00004,0.00000,0.00004
+SPI MM1dup Kaersutite[7][all],Na,11,22.98976928,0.01919,0.00008,0.01923,0.00080,0.01877,0.00110
+SPI MM1dup Kaersutite[7][all],Mg,12,24.305,0.07762,0.00037,0.07776,0.00326,0.07183,0.00421
+SPI MM1dup Kaersutite[7][all],Al,13,26.9815384,0.06870,0.00026,0.06883,0.00288,0.05727,0.00335
+SPI MM1dup Kaersutite[7][all],Si,14,28.085,0.18896,0.00052,0.18930,0.00790,0.15132,0.00885
+SPI MM1dup Kaersutite[7][all],K,19,39.0983,0.00874,0.00003,0.00875,0.00037,0.00503,0.00029
+SPI MM1dup Kaersutite[7][all],Ca,20,40.078,0.08709,0.00009,0.08725,0.00363,0.04887,0.00286
+SPI MM1dup Kaersutite[7][all],Ti,22,47.867,0.03269,0.00005,0.03275,0.00137,0.01536,0.00090
+SPI MM1dup Kaersutite[7][all],Mn,25,54.938043,0.00104,0.00003,0.00104,0.00005,0.00042,0.00003
+SPI MM1dup Kaersutite[7][all],Fe,26,55.845,0.09138,0.00008,0.09155,0.00381,0.03680,0.00215
+# Notes
+#	Analytical total: 0.998 ± 0.042
+#	Residual written to SPI MM1 Kaersutite[7][4][residual].msa.
+#
+# Spectrum
+#	Sum[8 spectra]['Sum spectrum']
+#
+# Fit Warnings
+#	Removing F from the fit and re-fitting (threshold = 0.0σ).
+#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01795 ± 0.00015' is more than 3σ negative.
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Sum[8 spectra],O,8,15.999,0.42115,0.04137,0.42250,0.02397,0.59350,0.02370
+Sum[8 spectra],F,9,18.998403163,0.00000,0.00001,0.00000,0.00001,0.00000,0.00001
+Sum[8 spectra],Na,11,22.98976928,0.01894,0.00006,0.01900,0.00079,0.01858,0.00108
+Sum[8 spectra],Mg,12,24.305,0.07728,0.00036,0.07752,0.00323,0.07168,0.00419
+Sum[8 spectra],Al,13,26.9815384,0.06905,0.00025,0.06927,0.00288,0.05770,0.00337
+Sum[8 spectra],Si,14,28.085,0.18875,0.00051,0.18936,0.00787,0.15153,0.00884
+Sum[8 spectra],K,19,39.0983,0.00872,0.00001,0.00875,0.00036,0.00503,0.00029
+Sum[8 spectra],Ca,20,40.078,0.08706,0.00008,0.08734,0.00363,0.04897,0.00286
+Sum[8 spectra],Ti,22,47.867,0.03264,0.00003,0.03275,0.00136,0.01537,0.00090
+Sum[8 spectra],Mn,25,54.938043,0.00128,0.00001,0.00129,0.00005,0.00053,0.00003
+Sum[8 spectra],Fe,26,55.845,0.09193,0.00004,0.09223,0.00383,0.03712,0.00216
+# Notes
+#	Analytical total: 0.997 ± 0.041
+#
