@@ -1,0 +1,170 @@
+# Configuration
+#	Username: nritchie
+#	Timestamp: 2025-09-17 15:05:56.893806700 -04:00
+#	Application: spex v0.0.110
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+#
+# Configuration Warnings
+#	None
+#
+# Spectrum
+#	SPI MM1 Benitoite[0][all]['SPI MM1 Benitoite[0][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Benitoite[0][all],O,8,15.999,0.36012,0.05547,0.35361,0.03521,0.65193,0.03496
+SPI MM1 Benitoite[0][all],Na,11,22.98976928,0.00021,0.00005,0.00021,0.00005,0.00027,0.00007
+SPI MM1 Benitoite[0][all],Si,14,28.085,0.19834,0.00087,0.19475,0.01063,0.20454,0.02055
+SPI MM1 Benitoite[0][all],Ti,22,47.867,0.11746,0.00014,0.11533,0.00628,0.07107,0.00714
+SPI MM1 Benitoite[0][all],Ba,56,137.327,0.34229,0.00035,0.33610,0.01831,0.07219,0.00725
+# Notes
+#	Analytical total: 1.018 ± 0.055
+#	Residual written to SPI MM1 Benitoite[0][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Benitoite[1][all]['SPI MM1 Benitoite[1][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Benitoite[1][all],O,8,15.999,0.35934,0.05485,0.35263,0.03485,0.65136,0.03467
+SPI MM1 Benitoite[1][all],Na,11,22.98976928,0.00016,0.00005,0.00016,0.00005,0.00020,0.00007
+SPI MM1 Benitoite[1][all],Si,14,28.085,0.19892,0.00088,0.19520,0.01053,0.20540,0.02044
+SPI MM1 Benitoite[1][all],Ti,22,47.867,0.11595,0.00014,0.11379,0.00613,0.07025,0.00699
+SPI MM1 Benitoite[1][all],Ba,56,137.327,0.34467,0.00035,0.33823,0.01821,0.07279,0.00724
+# Notes
+#	Analytical total: 1.019 ± 0.055
+#	Residual written to SPI MM1 Benitoite[1][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Benitoite[2][all]['SPI MM1 Benitoite[2][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Benitoite[2][all],O,8,15.999,0.36037,0.05543,0.35349,0.03515,0.65157,0.03492
+SPI MM1 Benitoite[2][all],Na,11,22.98976928,0.00026,0.00005,0.00025,0.00005,0.00032,0.00007
+SPI MM1 Benitoite[2][all],Si,14,28.085,0.19919,0.00088,0.19539,0.01065,0.20517,0.02057
+SPI MM1 Benitoite[2][all],Ti,22,47.867,0.11715,0.00014,0.11491,0.00625,0.07080,0.00710
+SPI MM1 Benitoite[2][all],Ba,56,137.327,0.34249,0.00035,0.33595,0.01827,0.07214,0.00723
+# Notes
+#	Analytical total: 1.019 ± 0.055
+#	Residual written to SPI MM1 Benitoite[2][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Benitoite[3][all]['SPI MM1 Benitoite[3][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Benitoite[3][all],O,8,15.999,0.35815,0.05476,0.35299,0.03492,0.65149,0.03472
+SPI MM1 Benitoite[3][all],Na,11,22.98976928,0.00014,0.00005,0.00014,0.00005,0.00018,0.00007
+SPI MM1 Benitoite[3][all],Si,14,28.085,0.19791,0.00087,0.19506,0.01055,0.20508,0.02044
+SPI MM1 Benitoite[3][all],Ti,22,47.867,0.11639,0.00014,0.11472,0.00619,0.07077,0.00705
+SPI MM1 Benitoite[3][all],Ba,56,137.327,0.34201,0.00035,0.33709,0.01820,0.07248,0.00722
+# Notes
+#	Analytical total: 1.015 ± 0.055
+#	Residual written to SPI MM1 Benitoite[3][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Benitoite[4][all]['SPI MM1 Benitoite[4][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Benitoite[4][all],O,8,15.999,0.35939,0.05504,0.35336,0.03499,0.65136,0.03478
+SPI MM1 Benitoite[4][all],Na,11,22.98976928,0.00050,0.00005,0.00049,0.00006,0.00063,0.00009
+SPI MM1 Benitoite[4][all],Si,14,28.085,0.19877,0.00087,0.19544,0.01060,0.20523,0.02048
+SPI MM1 Benitoite[4][all],Ti,22,47.867,0.11653,0.00014,0.11457,0.00620,0.07059,0.00704
+SPI MM1 Benitoite[4][all],Ba,56,137.327,0.34188,0.00035,0.33614,0.01819,0.07219,0.00720
+# Notes
+#	Analytical total: 1.017 ± 0.055
+#	Residual written to SPI MM1 Benitoite[4][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Benitoite[5][all]['SPI MM1 Benitoite[5][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Benitoite[5][all],O,8,15.999,0.35981,0.05525,0.35408,0.03512,0.65203,0.03484
+SPI MM1 Benitoite[5][all],Na,11,22.98976928,0.00053,0.00005,0.00053,0.00006,0.00067,0.00009
+SPI MM1 Benitoite[5][all],Si,14,28.085,0.19809,0.00087,0.19493,0.01062,0.20449,0.02049
+SPI MM1 Benitoite[5][all],Ti,22,47.867,0.11699,0.00014,0.11512,0.00626,0.07086,0.00710
+SPI MM1 Benitoite[5][all],Ba,56,137.327,0.34077,0.00035,0.33534,0.01824,0.07194,0.00720
+# Notes
+#	Analytical total: 1.016 ± 0.055
+#	Residual written to SPI MM1 Benitoite[5][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Benitoite[6][all]['SPI MM1 Benitoite[6][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Benitoite[6][all],O,8,15.999,0.35869,0.05481,0.35310,0.03491,0.65145,0.03470
+SPI MM1 Benitoite[6][all],Na,11,22.98976928,0.00035,0.00005,0.00035,0.00005,0.00045,0.00008
+SPI MM1 Benitoite[6][all],Si,14,28.085,0.19823,0.00087,0.19514,0.01055,0.20509,0.02043
+SPI MM1 Benitoite[6][all],Ti,22,47.867,0.11627,0.00014,0.11446,0.00618,0.07058,0.00703
+SPI MM1 Benitoite[6][all],Ba,56,137.327,0.34228,0.00035,0.33695,0.01819,0.07242,0.00721
+# Notes
+#	Analytical total: 1.016 ± 0.055
+#	Residual written to SPI MM1 Benitoite[6][4][residual].msa.
+#
+# Spectrum
+#	SPI MM1 Benitoite[7][all]['SPI MM1 Benitoite[7][4].msa']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+SPI MM1 Benitoite[7][all],O,8,15.999,0.35858,0.05470,0.35345,0.03487,0.65188,0.03463
+SPI MM1 Benitoite[7][all],Na,11,22.98976928,0.00024,0.00005,0.00023,0.00005,0.00030,0.00007
+SPI MM1 Benitoite[7][all],Si,14,28.085,0.19789,0.00087,0.19506,0.01054,0.20494,0.02039
+SPI MM1 Benitoite[7][all],Ti,22,47.867,0.11602,0.00014,0.11436,0.00617,0.07049,0.00701
+SPI MM1 Benitoite[7][all],Ba,56,137.327,0.34178,0.00035,0.33689,0.01817,0.07239,0.00720
+# Notes
+#	Analytical total: 1.014 ± 0.055
+#	Residual written to SPI MM1 Benitoite[7][4][residual].msa.
+#
+# Spectrum
+#	Sum[8 spectra]['Sum spectrum']
+#
+# Fit Warnings
+#	None
+#
+#
+# Quantification results:
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Sum[8 spectra],O,8,15.999,0.35927,0.05504,0.35331,0.03500,0.65161,0.03478
+Sum[8 spectra],Na,11,22.98976928,0.00030,0.00002,0.00029,0.00002,0.00038,0.00004
+Sum[8 spectra],Si,14,28.085,0.19842,0.00087,0.19513,0.01058,0.20501,0.02048
+Sum[8 spectra],Ti,22,47.867,0.11659,0.00009,0.11466,0.00621,0.07068,0.00706
+Sum[8 spectra],Ba,56,137.327,0.34228,0.00019,0.33660,0.01822,0.07232,0.00722
+# Notes
+#	Analytical total: 1.017 ± 0.055
+#
