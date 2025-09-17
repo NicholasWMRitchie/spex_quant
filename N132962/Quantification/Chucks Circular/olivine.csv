@@ -1,8 +1,8 @@
 # Configuration
 #	Username: nritchie
-#	Timestamp: 2025-09-17 13:06:17.021894 -04:00
+#	Timestamp: 2025-09-17 13:21:55.558750900 -04:00
 #	Application: spex v0.0.110
-#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
 #
 # Configuration Warnings
 #	None
@@ -16,19 +16,19 @@
 #
 # Quantification results:
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-CC Marjabrite Olivine[0][all],O,8,15.999,0.44750,0.02604,0.43819,0.01433,0.57809,0.01420
-CC Marjabrite Olivine[0][all],Mg,12,24.305,0.29044,0.00061,0.28440,0.00727,0.24698,0.00832
-CC Marjabrite Olivine[0][all],Si,14,28.085,0.19158,0.00076,0.18759,0.00482,0.14098,0.00477
-CC Marjabrite Olivine[0][all],Fe,26,55.845,0.09172,0.00007,0.08981,0.00229,0.03395,0.00114
+CC Marjabrite Olivine[0][all],O,8,15.999,0.44659,0.02352,0.43511,0.01296,0.57483,0.01289
+CC Marjabrite Olivine[0][all],Mg,12,24.305,0.29543,0.00144,0.28784,0.00667,0.25031,0.00763
+CC Marjabrite Olivine[0][all],Si,14,28.085,0.19205,0.00077,0.18712,0.00434,0.14082,0.00429
+CC Marjabrite Olivine[0][all],Fe,26,55.845,0.09230,0.00007,0.08993,0.00207,0.03404,0.00103
 # Notes
-#	Analytical total: 1.021 ± 0.026
+#	Analytical total: 1.026 ± 0.024
 #	Residual written to CC Marjabrite Olivine[0][4][residual].msa.
 #
 # Configuration
 #	Username: nritchie
-#	Timestamp: 2025-09-17 13:06:17.305013400 -04:00
+#	Timestamp: 2025-09-17 13:21:55.869725800 -04:00
 #	Application: spex v0.0.110
-#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
 #
 # Configuration Warnings
 #	None
@@ -42,19 +42,19 @@ CC Marjabrite Olivine[0][all],Fe,26,55.845,0.09172,0.00007,0.08981,0.00229,0.033
 #
 # Quantification results:
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-CC Marjabrite Olivine[1][all],O,8,15.999,0.44464,0.02588,0.43735,0.01433,0.57730,0.01421
-CC Marjabrite Olivine[1][all],Mg,12,24.305,0.28941,0.00061,0.28466,0.00726,0.24734,0.00832
-CC Marjabrite Olivine[1][all],Si,14,28.085,0.19103,0.00076,0.18790,0.00482,0.14129,0.00477
-CC Marjabrite Olivine[1][all],Fe,26,55.845,0.09160,0.00007,0.09009,0.00230,0.03407,0.00115
+CC Marjabrite Olivine[1][all],O,8,15.999,0.44372,0.02327,0.43428,0.01291,0.57404,0.01285
+CC Marjabrite Olivine[1][all],Mg,12,24.305,0.29438,0.00143,0.28812,0.00664,0.25070,0.00760
+CC Marjabrite Olivine[1][all],Si,14,28.085,0.19146,0.00077,0.18739,0.00432,0.14110,0.00428
+CC Marjabrite Olivine[1][all],Fe,26,55.845,0.09218,0.00007,0.09021,0.00206,0.03416,0.00103
 # Notes
-#	Analytical total: 1.017 ± 0.026
+#	Analytical total: 1.022 ± 0.023
 #	Residual written to CC Marjabrite Olivine[1][4][residual].msa.
 #
 # Configuration
 #	Username: nritchie
-#	Timestamp: 2025-09-17 13:06:17.577004 -04:00
+#	Timestamp: 2025-09-17 13:21:56.190224300 -04:00
 #	Application: spex v0.0.110
-#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
 #
 # Configuration Warnings
 #	None
@@ -68,19 +68,19 @@ CC Marjabrite Olivine[1][all],Fe,26,55.845,0.09160,0.00007,0.09009,0.00230,0.034
 #
 # Quantification results:
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-CC Marjabrite Olivine[2][all],O,8,15.999,0.44849,0.02610,0.43878,0.01434,0.57869,0.01420
-CC Marjabrite Olivine[2][all],Mg,12,24.305,0.29039,0.00061,0.28410,0.00727,0.24664,0.00832
-CC Marjabrite Olivine[2][all],Si,14,28.085,0.19148,0.00076,0.18734,0.00482,0.14075,0.00477
-CC Marjabrite Olivine[2][all],Fe,26,55.845,0.09177,0.00007,0.08978,0.00230,0.03392,0.00114
+CC Marjabrite Olivine[2][all],O,8,15.999,0.44758,0.02357,0.43570,0.01297,0.57543,0.01289
+CC Marjabrite Olivine[2][all],Mg,12,24.305,0.29537,0.00144,0.28753,0.00668,0.24997,0.00763
+CC Marjabrite Olivine[2][all],Si,14,28.085,0.19196,0.00077,0.18687,0.00434,0.14059,0.00429
+CC Marjabrite Olivine[2][all],Fe,26,55.845,0.09235,0.00007,0.08990,0.00207,0.03401,0.00103
 # Notes
-#	Analytical total: 1.022 ± 0.026
+#	Analytical total: 1.027 ± 0.024
 #	Residual written to CC Marjabrite Olivine[2][4][residual].msa.
 #
 # Configuration
 #	Username: nritchie
-#	Timestamp: 2025-09-17 13:06:17.860400800 -04:00
+#	Timestamp: 2025-09-17 13:21:56.514287900 -04:00
 #	Application: spex v0.0.110
-#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
 #
 # Configuration Warnings
 #	None
@@ -94,19 +94,19 @@ CC Marjabrite Olivine[2][all],Fe,26,55.845,0.09177,0.00007,0.08978,0.00230,0.033
 #
 # Quantification results:
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-CC Marjabrite Olivine[3][all],O,8,15.999,0.44818,0.02607,0.43835,0.01433,0.57831,0.01419
-CC Marjabrite Olivine[3][all],Mg,12,24.305,0.29047,0.00061,0.28410,0.00726,0.24673,0.00831
-CC Marjabrite Olivine[3][all],Si,14,28.085,0.19174,0.00077,0.18753,0.00482,0.14094,0.00477
-CC Marjabrite Olivine[3][all],Fe,26,55.845,0.09203,0.00007,0.09001,0.00230,0.03402,0.00115
+CC Marjabrite Olivine[3][all],O,8,15.999,0.44729,0.02357,0.43528,0.01297,0.57506,0.01290
+CC Marjabrite Olivine[3][all],Mg,12,24.305,0.29546,0.00144,0.28753,0.00667,0.25005,0.00763
+CC Marjabrite Olivine[3][all],Si,14,28.085,0.19222,0.00077,0.18706,0.00434,0.14078,0.00430
+CC Marjabrite Olivine[3][all],Fe,26,55.845,0.09261,0.00007,0.09012,0.00207,0.03411,0.00104
 # Notes
-#	Analytical total: 1.022 ± 0.026
+#	Analytical total: 1.028 ± 0.024
 #	Residual written to CC Marjabrite Olivine[3][4][residual].msa.
 #
 # Configuration
 #	Username: nritchie
-#	Timestamp: 2025-09-17 13:06:18.139842900 -04:00
+#	Timestamp: 2025-09-17 13:21:56.825079500 -04:00
 #	Application: spex v0.0.110
-#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
 #
 # Configuration Warnings
 #	None
@@ -120,19 +120,19 @@ CC Marjabrite Olivine[3][all],Fe,26,55.845,0.09203,0.00007,0.09001,0.00230,0.034
 #
 # Quantification results:
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-CC Marjabrite Olivine[4][all],O,8,15.999,0.44638,0.02600,0.43835,0.01435,0.57834,0.01421
-CC Marjabrite Olivine[4][all],Mg,12,24.305,0.28937,0.00061,0.28417,0.00727,0.24679,0.00832
-CC Marjabrite Olivine[4][all],Si,14,28.085,0.19078,0.00076,0.18735,0.00482,0.14081,0.00477
-CC Marjabrite Olivine[4][all],Fe,26,55.845,0.09178,0.00007,0.09013,0.00230,0.03407,0.00115
+CC Marjabrite Olivine[4][all],O,8,15.999,0.44555,0.02338,0.43531,0.01292,0.57511,0.01285
+CC Marjabrite Olivine[4][all],Mg,12,24.305,0.29435,0.00143,0.28758,0.00665,0.25010,0.00760
+CC Marjabrite Olivine[4][all],Si,14,28.085,0.19126,0.00077,0.18687,0.00432,0.14064,0.00428
+CC Marjabrite Olivine[4][all],Fe,26,55.845,0.09236,0.00007,0.09024,0.00207,0.03416,0.00103
 # Notes
-#	Analytical total: 1.018 ± 0.026
+#	Analytical total: 1.024 ± 0.023
 #	Residual written to CC Marjabrite Olivine[4][4][residual].msa.
 #
 # Configuration
 #	Username: nritchie
-#	Timestamp: 2025-09-17 13:06:18.418701800 -04:00
+#	Timestamp: 2025-09-17 13:21:57.130262200 -04:00
 #	Application: spex v0.0.110
-#	References: `EDAX All 20 keV` revision 278 - 2025-09-12 15:22:10 -04:00
+#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
 #
 # Configuration Warnings
 #	None
@@ -146,11 +146,11 @@ CC Marjabrite Olivine[4][all],Fe,26,55.845,0.09178,0.00007,0.09013,0.00230,0.034
 #
 # Quantification results:
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-CC Marjabrite Olivine[5][all],O,8,15.999,0.44800,0.02608,0.43829,0.01434,0.57833,0.01420
-CC Marjabrite Olivine[5][all],Mg,12,24.305,0.29031,0.00062,0.28402,0.00726,0.24670,0.00831
-CC Marjabrite Olivine[5][all],Si,14,28.085,0.19150,0.00076,0.18735,0.00482,0.14083,0.00477
-CC Marjabrite Olivine[5][all],Fe,26,55.845,0.09234,0.00007,0.09034,0.00231,0.03415,0.00115
+CC Marjabrite Olivine[5][all],O,8,15.999,0.44711,0.02354,0.43522,0.01296,0.57507,0.01289
+CC Marjabrite Olivine[5][all],Mg,12,24.305,0.29531,0.00144,0.28745,0.00667,0.25002,0.00763
+CC Marjabrite Olivine[5][all],Si,14,28.085,0.19198,0.00077,0.18688,0.00433,0.14067,0.00429
+CC Marjabrite Olivine[5][all],Fe,26,55.845,0.09293,0.00007,0.09045,0.00208,0.03424,0.00104
 # Notes
-#	Analytical total: 1.022 ± 0.026
+#	Analytical total: 1.027 ± 0.024
 #	Residual written to CC Marjabrite Olivine[5][4][residual].msa.
 #
