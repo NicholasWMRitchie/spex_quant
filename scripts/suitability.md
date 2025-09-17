@@ -1,6 +1,22 @@
 
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>rem foreach(z->println("spex suitable "EDAX All" $(symbol(element(z))) $(symbol(element(z))) 20 --format markdown"),1:99) 
 
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>rem spex suitable "EDAX All" H H 20 --format markdown 
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>rem spex suitable "EDAX All" He He 20 --format markdown 
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>rem spex suitable "EDAX All" Li Li 20 --format markdown 
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Li2B4O7 Li 20 --format markdown 
+| Region            | Result     | Coating | Notes                       |
+|-------------------|------------|---------|-----------------------------|
+| [Li K-L₁; 1.0000> | Interfered | Ok      | [B K-L₂; 1.0000> on [10,29) |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" LiF Li 20 --format markdown 
+| Region            | Result | Coating | Notes |
+|-------------------|--------|---------|-------|
+| [Li K-L₁; 1.0000> | Ok     | Ok      |       |
+
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Be Be 20 --format markdown 
 | Region            | Result | Coating | Notes |
 |-------------------|--------|---------|-------|
@@ -15,6 +31,11 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 | Region           | Result     | Coating | Notes                                    |
 |------------------|------------|---------|------------------------------------------|
 | [B K-L₂; 1.0000> | Interfered | Ok      | [N K-L₂ and 1 others; 1.0000> on [27,51) |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" B4C B 20 --format markdown 
+| Region           | Result     | Coating | Notes                                    |
+|------------------|------------|---------|------------------------------------------|
+| [B K-L₂; 1.0000> | Interfered | Ok      | [C K-L₃ and 1 others; 1.0000> on [15,38) |
 
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" C C 20 --format markdown 
 | Region                        | Result | Coating | Notes |
@@ -184,6 +205,14 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 | [K L₁-L₂ and 10 others; 1.0000> | Interfered | Ok      | [Cl L₁-L₂ and 8 others; 1.0000> on |
 |                                 |            |         | [10,36)                            |
 | [K K-L₂ and 3 others; 1.0000>   | Ok         | Ok      |                                    |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" CaCO3 Ca 20 --format markdown 
+| Region                           | Result     | Coating | Notes                                  |
+|----------------------------------|------------|---------|----------------------------------------|
+| [Ca L₁-L₂ and 10 others; 1.0000> | Interfered | Ok      | [C K-L₃ and 1 others; 1.0000> on       |
+|                                  |            |         | [15,38), [O K-L₂ and 1 others; 1.0000> |
+|                                  |            |         | on [40,64)                             |
+| [Ca K-L₂ and 3 others; 1.0000>   | Ok         | Ok      |                                        |
 
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" CaF2 Ca 20 --format markdown 
 | Region                           | Result | Coating | Notes |
@@ -906,6 +935,47 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 | [Sr K-L₂ and 1 others; 0.8571>   | Ok         | Ok      |                                        |
 | [Sr K-M₂ and 5 others; 0.1429>   | Ok         | Ok      |                                        |
 
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" SrMoO4 Sr 20 --format markdown 
+| Region                           | Result     | Coating | Notes                               |
+|----------------------------------|------------|---------|-------------------------------------|
+| [Sr N₁-N₂ and 15 others; 2.0007> | Interfered | Ok      | [O K-L₂ and 1 others; 1.0000> on    |
+|                                  |            |         | [40,64), [Mo N₁-N₂ and 22 others;   |
+|                                  |            |         | 1.9920> on [10,56)                  |
+| [Sr L₃-M₁ and 15 others; 0.9993> | Interfered | Ok      | [Mo L₃-M₁ and 16 others; 0.9952> on |
+|                                  |            |         | [187,276)                           |
+| [Sr K-L₂ and 1 others; 0.8571>   | Ok         | Ok      |                                     |
+| [Sr K-M₂ and 5 others; 0.1429>   | Ok         | Ok      |                                     |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" SrS Sr 20 --format markdown 
+| Region                           | Result     | Coating | Notes                             |
+|----------------------------------|------------|---------|-----------------------------------|
+| [Sr N₁-N₂ and 15 others; 2.0007> | Interfered | Ok      | [S L₁-L₂ and 7 others; 1.0000> on |
+|                                  |            |         | [10,31)                           |
+| [Sr L₃-M₁ and 15 others; 0.9993> | Interfered | Ok      | [S K-L₂ and 3 others; 1.0000> on  |
+|                                  |            |         | [213,261)                         |
+| [Sr K-L₂ and 1 others; 0.8571>   | Ok         | Ok      |                                   |
+| [Sr K-M₂ and 5 others; 0.1429>   | Ok         | Ok      |                                   |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" SrTe Sr 20 --format markdown 
+| Region                           | Result     | Coating | Notes                               |
+|----------------------------------|------------|---------|-------------------------------------|
+| [Sr N₁-N₂ and 15 others; 2.0007> | Interfered | Ok      | [Te N₅-O₃ and 33 others; 1.9977> on |
+|                                  |            |         | [10,107)                            |
+| [Sr L₃-M₁ and 15 others; 0.9993> | Ok         | Ok      |                                     |
+| [Sr K-L₂ and 1 others; 0.8571>   | Ok         | Ok      |                                     |
+| [Sr K-M₂ and 5 others; 0.1429>   | Ok         | Ok      |                                     |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" SrSO4 Sr 20 --format markdown 
+| Region                           | Result     | Coating | Notes                            |
+|----------------------------------|------------|---------|----------------------------------|
+| [Sr N₁-N₂ and 15 others; 2.0007> | Interfered | Ok      | [O K-L₂ and 1 others; 1.0000> on |
+|                                  |            |         | [40,64), [S L₁-L₂ and 7 others;  |
+|                                  |            |         | 1.0000> on [10,31)               |
+| [Sr L₃-M₁ and 15 others; 0.9993> | Interfered | Ok      | [S K-L₂ and 3 others; 1.0000> on |
+|                                  |            |         | [213,261)                        |
+| [Sr K-L₂ and 1 others; 0.8571>   | Ok         | Ok      |                                  |
+| [Sr K-M₂ and 5 others; 0.1429>   | Ok         | Ok      |                                  |
+
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" SrF2 Sr 20 --format markdown 
 | Region                           | Result | Coating | Notes |
 |----------------------------------|--------|---------|-------|
@@ -914,6 +984,29 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 | [Sr K-L₂ and 1 others; 0.8571>   | Ok     | Ok      |       |
 | [Sr K-M₂ and 5 others; 0.1429>   | Ok     | Ok      |       |
 
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" SrTiO3 Sr 20 --format markdown 
+| Region                           | Result     | Coating | Notes                                  |
+|----------------------------------|------------|---------|----------------------------------------|
+| [Sr N₁-N₂ and 15 others; 2.0007> | Interfered | Ok      | [O K-L₂ and 1 others; 1.0000> on       |
+|                                  |            |         | [40,64), [Ti M₁-M₂ and 5 others;       |
+|                                  |            |         | 1.0269> on [10,19), [Ti L₃-M₁ and 13   |
+|                                  |            |         | others; 0.9693> on [29,63)             |
+| [Sr L₃-M₁ and 15 others; 0.9993> | Ok         | Ok      |                                        |
+| [Sr K-L₂ and 1 others; 0.8571>   | Ok         | Ok      |                                        |
+| [Sr K-M₂ and 5 others; 0.1429>   | Ok         | Ok      |                                        |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" SrWO4 Sr 20 --format markdown 
+| Region                           | Result     | Coating | Notes                              |
+|----------------------------------|------------|---------|------------------------------------|
+| [Sr N₁-N₂ and 15 others; 2.0007> | Interfered | Ok      | [O K-L₂ and 1 others; 1.0000> on   |
+|                                  |            |         | [40,64), [W O₃-O₅ and 27 others;   |
+|                                  |            |         | 2.0055> on [10,79)                 |
+| [Sr L₃-M₁ and 15 others; 0.9993> | Interfered | Ok      | [W M₄-N₂ and 2 others; 0.0948> on  |
+|                                  |            |         | [125,155), [W M₃-N₁ and 18 others; |
+|                                  |            |         | 0.8997> on [156,265)               |
+| [Sr K-L₂ and 1 others; 0.8571>   | Ok         | Ok      |                                    |
+| [Sr K-M₂ and 5 others; 0.1429>   | Ok         | Ok      |                                    |
+
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Y Y 20 --format markdown 
 | Region                          | Result | Coating | Notes |
 |---------------------------------|--------|---------|-------|
@@ -921,6 +1014,16 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 | [Y L₃-M₁ and 18 others; 0.9993> | Ok     | Ok      |       |
 | [Y K-L₂ and 1 others; 0.8528>   | Ok     | Ok      |       |
 | [Y K-M₂ and 5 others; 0.1472>   | Ok     | Ok      |       |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Y2Si Y 20 --format markdown 
+| Region                          | Result     | Coating | Notes                              |
+|---------------------------------|------------|---------|------------------------------------|
+| [Y N₁-N₂ and 19 others; 1.9416> | Interfered | Ok      | [Si L₁-L₂ and 5 others; 1.0000> on |
+|                                 |            |         | [10,21)                            |
+| [Y L₃-M₁ and 18 others; 0.9993> | Interfered | Ok      | [Si K-L₂ and 3 others; 1.0000> on  |
+|                                 |            |         | [157,195)                          |
+| [Y K-L₂ and 1 others; 0.8528>   | Ok         | Ok      |                                    |
+| [Y K-M₂ and 5 others; 0.1472>   | Ok         | Ok      |                                    |
 
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Y2O3 Y 20 --format markdown 
 | Region                          | Result     | Coating | Notes                            |
@@ -973,6 +1076,16 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 | [Zr L₃-M₁ and 18 others; 0.9994> | Ok         | Ok      |                                  |
 | [Zr K-L₂ and 1 others; 0.8489>   | Ok         | Ok      |                                  |
 | [Zr K-M₂ and 5 others; 0.1511>   | Ok         | Ok      |                                  |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" ZrSi2 Zr 20 --format markdown 
+| Region                           | Result     | Coating | Notes                              |
+|----------------------------------|------------|---------|------------------------------------|
+| [Zr N₃-N₅ and 20 others; 1.9648> | Interfered | Ok      | [Si L₁-L₂ and 5 others; 1.0000> on |
+|                                  |            |         | [10,21)                            |
+| [Zr L₃-M₁ and 18 others; 0.9994> | Interfered | Ok      | [Si K-L₂ and 3 others; 1.0000> on  |
+|                                  |            |         | [157,195)                          |
+| [Zr K-L₂ and 1 others; 0.8489>   | Ok         | Ok      |                                    |
+| [Zr K-M₂ and 5 others; 0.1511>   | Ok         | Ok      |                                    |
 
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Nb Nb 20 --format markdown 
 | Region                           | Result | Coating | Notes |
@@ -1117,6 +1230,16 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 |                                  |            |         | [213,261)                         |
 | [Ag L₁-N₂ and 1 others; 0.0075>  | Ok         | Ok      |                                   |
 
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" AgCd Ag 20 --format markdown 
+| Region                           | Result     | Coating | Notes                               |
+|----------------------------------|------------|---------|-------------------------------------|
+| [Ag N₁-N₂ and 25 others; 2.0005> | Interfered | Ok      | [Cd N₁-N₂ and 25 others; 2.0006> on |
+|                                  |            |         | [10,80)                             |
+| [Ag L₃-M₁ and 18 others; 0.9918> | Interfered | Ok      | [Cd L₃-M₁ and 21 others; 0.9994> on |
+|                                  |            |         | [261,410)                           |
+| [Ag L₁-N₂ and 1 others; 0.0075>  | Interfered | Ok      | [Cd L₃-M₁ and 21 others; 0.9994> on |
+|                                  |            |         | [261,410)                           |
+
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Ag2Te Ag 20 --format markdown 
 | Region                           | Result     | Coating | Notes                               |
 |----------------------------------|------------|---------|-------------------------------------|
@@ -1161,6 +1284,15 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 |                                  |            |         | [10,107)                            |
 | [Cd L₃-M₁ and 21 others; 0.9994> | Interfered | Ok      | [Te L₃-M₁ and 24 others; 0.9991> on |
 |                                  |            |         | [317,506)                           |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" AgCd Cd 20 --format markdown 
+| Region                           | Result     | Coating | Notes                               |
+|----------------------------------|------------|---------|-------------------------------------|
+| [Cd N₁-N₂ and 25 others; 2.0006> | Interfered | Ok      | [Ag N₁-N₂ and 25 others; 2.0005> on |
+|                                  |            |         | [10,75)                             |
+| [Cd L₃-M₁ and 21 others; 0.9994> | Interfered | Ok      | [Ag L₃-M₁ and 18 others; 0.9918> on |
+|                                  |            |         | [248,369), [Ag L₁-N₂ and 1 others;  |
+|                                  |            |         | 0.0075> on [360,389)                |
 
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" In In 20 --format markdown 
 | Region                           | Result | Coating | Notes |
@@ -1224,6 +1356,13 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 |----------------------------------|--------|---------|-------|
 | [Sn N₁-N₂ and 32 others; 1.9997> | Ok     | Ok      |       |
 | [Sn L₃-M₁ and 24 others; 0.9992> | Ok     | Ok      |       |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" SnSe Sn 20 --format markdown 
+| Region                           | Result     | Coating | Notes                               |
+|----------------------------------|------------|---------|-------------------------------------|
+| [Sn N₁-N₂ and 32 others; 1.9997> | Interfered | Ok      | [Se M₄-N₂ and 13 others; 1.0009> on |
+|                                  |            |         | [10,31)                             |
+| [Sn L₃-M₁ and 24 others; 0.9992> | Ok         | Ok      |                                     |
 
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" SnO2 Sn 20 --format markdown 
 | Region                           | Result     | Coating | Notes                            |
@@ -1405,6 +1544,16 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 |                                  |            |         | [54,80)                          |
 | [Ba L₃-M₁ and 27 others; 0.9992> | Ok         | Ok      |                                  |
 
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" BaCO3 Ba 20 --format markdown 
+| Region                           | Result     | Coating | Notes                                  |
+|----------------------------------|------------|---------|----------------------------------------|
+| [Ba N₁-N₂ and 17 others; 1.0237> | Interfered | Ok      | [C K-L₃ and 1 others; 1.0000> on       |
+|                                  |            |         | [15,38), [O K-L₂ and 1 others; 1.0000> |
+|                                  |            |         | on [40,64)                             |
+| [Ba M₅-N₃ and 17 others; 0.9771> | Interfered | Ok      | [O K-L₂ and 1 others; 1.0000> on       |
+|                                  |            |         | [40,64)                                |
+| [Ba L₃-M₁ and 27 others; 0.9992> | Ok         | Ok      |                                        |
+
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Ba(NO3)2 Ba 20 --format markdown 
 | Region                           | Result     | Coating | Notes                                  |
 |----------------------------------|------------|---------|----------------------------------------|
@@ -1457,6 +1606,18 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 | [Ba N₁-N₂ and 17 others; 1.0237> | Interfered | Ok      | [Cl L₁-L₂ and 8 others; 1.0000> on |
 |                                  |            |         | [10,36)                            |
 | [Ba M₅-N₃ and 17 others; 0.9771> | Ok         | Ok      |                                    |
+| [Ba L₃-M₁ and 27 others; 0.9992> | Ok         | Ok      |                                    |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" BaWO4 Ba 20 --format markdown 
+| Region                           | Result     | Coating | Notes                              |
+|----------------------------------|------------|---------|------------------------------------|
+| [Ba N₁-N₂ and 17 others; 1.0237> | Interfered | Ok      | [O K-L₂ and 1 others; 1.0000> on   |
+|                                  |            |         | [40,64), [W O₃-O₅ and 27 others;   |
+|                                  |            |         | 2.0055> on [10,79)                 |
+| [Ba M₅-N₃ and 17 others; 0.9771> | Interfered | Ok      | [O K-L₂ and 1 others; 1.0000> on   |
+|                                  |            |         | [40,64), [W O₃-O₅ and 27 others;   |
+|                                  |            |         | 2.0055> on [10,79), [W M₄-N₂ and 2 |
+|                                  |            |         | others; 0.0948> on [125,155)       |
 | [Ba L₃-M₁ and 27 others; 0.9992> | Ok         | Ok      |                                    |
 
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" LaB6 La 20 --format markdown 
@@ -2240,6 +2401,20 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 | [Pt L₂-M₃ and 16 others; 0.3925> | Ok     | Ok      |       |
 | [Pt L₂-N₁ and 11 others; 0.0823> | Ok     | Ok      |       |
 
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" PtCr Pt 20 --format markdown 
+| Region                           | Result     | Coating | Notes                              |
+|----------------------------------|------------|---------|------------------------------------|
+| [Pt O₁-O₂ and 32 others; 2.0046> | Interfered | Ok      | [Cr M₁-M₂ and 8 others; 1.0098> on |
+|                                  |            |         | [10,20), [Cr L₃-M₁ and 13 others;  |
+|                                  |            |         | 0.9902> on [39,75)                 |
+| [Pt M₄-N₂ and 24 others; 0.9964> | Ok         | Ok      |                                    |
+| [Pt L₃-M₁ and 1 others; 0.0229>  | Ok         | Ok      |                                    |
+| [Pt L₃-M₃; 0.0003>               | Ok         | Ok      |                                    |
+| [Pt L₃-M₄ and 1 others; 0.4955>  | Ok         | Ok      |                                    |
+| [Pt L₂-M₁; 0.0053>               | Ok         | Ok      |                                    |
+| [Pt L₂-M₃ and 16 others; 0.3925> | Ok         | Ok      |                                    |
+| [Pt L₂-N₁ and 11 others; 0.0823> | Ok         | Ok      |                                    |
+
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Au Au 20 --format markdown 
 | Region                           | Result | Coating | Notes |
 |----------------------------------|--------|---------|-------|
@@ -2518,6 +2693,40 @@ C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX 
 | [Bi L₂-M₁; 0.0051>               | Ok     | Ok      |       |
 | [Bi L₃-N₁ and 16 others; 0.3850> | Ok     | Ok      |       |
 | [Bi L₂-N₁ and 14 others; 0.0895> | Ok     | Ok      |       |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Bi2Se3 Bi 20 --format markdown 
+| Region                           | Result     | Coating | Notes                               |
+|----------------------------------|------------|---------|-------------------------------------|
+| [Bi O₁-O₂ and 39 others; 2.0042> | Interfered | Ok      | [Se M₄-N₂ and 13 others; 1.0009> on |
+|                                  |            |         | [10,31), [Se L₃-M₁ and 15 others;   |
+|                                  |            |         | 0.9991> on [108,174)                |
+| [Bi M₄-N₂ and 25 others; 0.9965> | Ok         | Ok      |                                     |
+| [Bi M₁-O₂ and 1 others; 0.0008>  | Ok         | Ok      |                                     |
+| [Bi L₃-M₁ and 1 others; 0.0251>  | Ok         | Ok      |                                     |
+| [Bi L₃-M₃; 0.0003>               | Ok         | Ok      |                                     |
+| [Bi L₃-M₄ and 1 others; 0.4933>  | Interfered | Ok      | [Se K-L₂ and 1 others; 0.8753> on   |
+|                                  |            |         | [1086,1155)                         |
+| [Bi L₂-M₁; 0.0051>               | Interfered | Ok      | [Se K-L₂ and 1 others; 0.8753> on   |
+|                                  |            |         | [1086,1155)                         |
+| [Bi L₃-N₁ and 16 others; 0.3850> | Interfered | Ok      | [Se K-M₂ and 5 others; 0.1247> on   |
+|                                  |            |         | [1218,1289)                         |
+| [Bi L₂-N₁ and 14 others; 0.0895> | Ok         | Ok      |                                     |
+
+C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Bi2Te3 Bi 20 --format markdown 
+| Region                           | Result     | Coating | Notes                               |
+|----------------------------------|------------|---------|-------------------------------------|
+| [Bi O₁-O₂ and 39 others; 2.0042> | Interfered | Ok      | [Te N₅-O₃ and 33 others; 1.9977> on |
+|                                  |            |         | [10,107)                            |
+| [Bi M₄-N₂ and 25 others; 0.9965> | Interfered | Ok      | [Te L₃-M₁ and 24 others; 0.9991> on |
+|                                  |            |         | [317,506)                           |
+| [Bi M₁-O₂ and 1 others; 0.0008>  | Interfered | Ok      | [Te L₃-M₁ and 24 others; 0.9991> on |
+|                                  |            |         | [317,506)                           |
+| [Bi L₃-M₁ and 1 others; 0.0251>  | Ok         | Ok      |                                     |
+| [Bi L₃-M₃; 0.0003>               | Ok         | Ok      |                                     |
+| [Bi L₃-M₄ and 1 others; 0.4933>  | Ok         | Ok      |                                     |
+| [Bi L₂-M₁; 0.0051>               | Ok         | Ok      |                                     |
+| [Bi L₃-N₁ and 16 others; 0.3850> | Ok         | Ok      |                                     |
+| [Bi L₂-N₁ and 14 others; 0.0895> | Ok         | Ok      |                                     |
 
 C:\Users\nritchie\Documents\repositories\spex_quant\scripts>spex suitable "EDAX All" Bi2S3 Bi 20 --format markdown 
 | Region                           | Result     | Coating | Notes                             |
