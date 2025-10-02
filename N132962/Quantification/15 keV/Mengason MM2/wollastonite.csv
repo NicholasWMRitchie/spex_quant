@@ -1,0 +1,139 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 18:28:45.376413182 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM2 Wollastonite[0][all]['MMM2 Wollastonite[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Wollastonite[0][all],O,8,15.999,0.40478,0.03635,0.40452,0.02163,0.59085,0.02171
+MMM2 Wollastonite[0][all],Si,14,28.085,0.24890,0.00046,0.24874,0.00904,0.20697,0.01099
+MMM2 Wollastonite[0][all],Ca,20,40.078,0.34697,0.00021,0.34674,0.01260,0.20218,0.01073
+# Notes
+#   Analytical total: 1.001 ± 0.036
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 Wollastonite[0][4][residual].msa.
+#   Plot output to 'MMM2 Wollastonite[0][4][quantify].pdf'
+# Spectrum
+#   MMM2 Wollastonite[1][all]['MMM2 Wollastonite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Wollastonite[1][all],O,8,15.999,0.40356,0.03621,0.40399,0.02161,0.59038,0.02170
+MMM2 Wollastonite[1][all],Si,14,28.085,0.24831,0.00046,0.24857,0.00902,0.20693,0.01097
+MMM2 Wollastonite[1][all],Ca,20,40.078,0.34707,0.00021,0.34744,0.01260,0.20269,0.01074
+# Notes
+#   Analytical total: 0.999 ± 0.036
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 Wollastonite[1][4][residual].msa.
+#   Plot output to 'MMM2 Wollastonite[1][4][quantify].pdf'
+# Spectrum
+#   MMM2 Wollastonite[2][all]['MMM2 Wollastonite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Wollastonite[2][all],O,8,15.999,0.40501,0.03642,0.40422,0.02166,0.59055,0.02175
+MMM2 Wollastonite[2][all],Si,14,28.085,0.24934,0.00046,0.24885,0.00905,0.20711,0.01100
+MMM2 Wollastonite[2][all],Ca,20,40.078,0.34761,0.00021,0.34693,0.01261,0.20234,0.01075
+# Notes
+#   Analytical total: 1.002 ± 0.036
+#   Duane-Hunt: 15.17 keV
+#   Residual written to MMM2 Wollastonite[2][4][residual].msa.
+#   Plot output to 'MMM2 Wollastonite[2][4][quantify].pdf'
+# Spectrum
+#   MMM2 Wollastonite[3][all]['MMM2 Wollastonite[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Wollastonite[3][all],O,8,15.999,0.40390,0.03625,0.40415,0.02161,0.59053,0.02170
+MMM2 Wollastonite[3][all],Si,14,28.085,0.24838,0.00046,0.24853,0.00902,0.20687,0.01097
+MMM2 Wollastonite[3][all],Ca,20,40.078,0.34711,0.00021,0.34732,0.01260,0.20259,0.01074
+# Notes
+#   Analytical total: 0.999 ± 0.036
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 Wollastonite[3][4][residual].msa.
+#   Plot output to 'MMM2 Wollastonite[3][4][quantify].pdf'
+# Spectrum
+#   MMM2 Wollastonite[4][all]['MMM2 Wollastonite[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Wollastonite[4][all],O,8,15.999,0.40361,0.03619,0.40428,0.02160,0.59068,0.02168
+MMM2 Wollastonite[4][all],Si,14,28.085,0.24796,0.00046,0.24837,0.00901,0.20673,0.01095
+MMM2 Wollastonite[4][all],Ca,20,40.078,0.34678,0.00021,0.34735,0.01259,0.20259,0.01073
+# Notes
+#   Analytical total: 0.998 ± 0.036
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 Wollastonite[4][4][residual].msa.
+#   Plot output to 'MMM2 Wollastonite[4][4][quantify].pdf'
+# Spectrum
+#   MMM2 Wollastonite[5][all]['MMM2 Wollastonite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Wollastonite[5][all],O,8,15.999,0.40481,0.03632,0.40493,0.02162,0.59129,0.02169
+MMM2 Wollastonite[5][all],Si,14,28.085,0.24830,0.00046,0.24838,0.00903,0.20661,0.01097
+MMM2 Wollastonite[5][all],Ca,20,40.078,0.34660,0.00021,0.34670,0.01260,0.20210,0.01072
+# Notes
+#   Analytical total: 1.000 ± 0.036
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM2 Wollastonite[5][4][residual].msa.
+#   Plot output to 'MMM2 Wollastonite[5][4][quantify].pdf'
+# Spectrum
+#   MMM2 Wollastonite[6][all]['MMM2 Wollastonite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Wollastonite[6][all],O,8,15.999,0.40370,0.03620,0.40416,0.02160,0.59052,0.02169
+MMM2 Wollastonite[6][all],Si,14,28.085,0.24842,0.00046,0.24871,0.00902,0.20701,0.01097
+MMM2 Wollastonite[6][all],Ca,20,40.078,0.34673,0.00021,0.34713,0.01258,0.20247,0.01072
+# Notes
+#   Analytical total: 0.999 ± 0.036
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 Wollastonite[6][4][residual].msa.
+#   Plot output to 'MMM2 Wollastonite[6][4][quantify].pdf'
+# Spectrum
+#   MMM2 Wollastonite[7][all]['MMM2 Wollastonite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Wollastonite[7][all],O,8,15.999,0.40302,0.03612,0.40378,0.02158,0.59011,0.02168
+MMM2 Wollastonite[7][all],Si,14,28.085,0.24855,0.00046,0.24901,0.00902,0.20732,0.01097
+MMM2 Wollastonite[7][all],Ca,20,40.078,0.34657,0.00021,0.34721,0.01257,0.20257,0.01071
+# Notes
+#   Analytical total: 0.998 ± 0.036
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM2 Wollastonite[7][4][residual].msa.
+#   Plot output to 'MMM2 Wollastonite[7][4][quantify].pdf'
+# Compare warnings
+#   Unable to interpret the --compare argument `'SPI Wollastonite'` as a composition. Argument ignored.
+#   Parser error:
+#   --> 1:1
+#   |
+#   1 | 'SPI Wollastonite'
+#   | ^----------------^
+#   |
+#   = ''SPI Wollastonite'' is not the name of a known composition.
+# Result Comparison
+Name,O,Si,Ca,Σ
+MMM2 Wollastonite[0][all],0.405 ± 0.036,0.24890 ± 0.00046,0.34697 ± 0.00021,1.001 ± 0.036
+MMM2 Wollastonite[1][all],0.404 ± 0.036,0.24831 ± 0.00046,0.34707 ± 0.00021,0.999 ± 0.036
+MMM2 Wollastonite[2][all],0.405 ± 0.036,0.24934 ± 0.00046,0.34761 ± 0.00021,1.002 ± 0.036
+MMM2 Wollastonite[3][all],0.404 ± 0.036,0.24838 ± 0.00046,0.34711 ± 0.00021,0.999 ± 0.036
+MMM2 Wollastonite[4][all],0.404 ± 0.036,0.24796 ± 0.00046,0.34678 ± 0.00021,0.998 ± 0.036
+MMM2 Wollastonite[5][all],0.405 ± 0.036,0.24830 ± 0.00046,0.34660 ± 0.00021,1.000 ± 0.036
+MMM2 Wollastonite[6][all],0.404 ± 0.036,0.24842 ± 0.00046,0.34673 ± 0.00021,0.999 ± 0.036
+MMM2 Wollastonite[7][all],0.403 ± 0.036,0.24855 ± 0.00046,0.34657 ± 0.00021,0.998 ± 0.036
+Mean,0.40405 ± 0.00072,0.24852 ± 0.00042,0.34693 ± 0.00034,0.9995 ± 0.0013
