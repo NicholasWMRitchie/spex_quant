@@ -1,0 +1,132 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 18:22:35.930778988 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM2 SrTiO3[0][all]['MMM2 SrTiO3[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 SrTiO3[0][all],O,8,15.999,0.27321,0.04780,0.26084,0.03373,0.60133,0.04194
+MMM2 SrTiO3[0][all],Ti,22,47.867,0.26223,0.00024,0.25035,0.01143,0.19291,0.02030
+MMM2 SrTiO3[0][all],Sr,38,87.62,0.51198,0.00116,0.48880,0.02232,0.20576,0.02165
+# Notes
+#   Analytical total: 1.047 ± 0.048
+#   Duane-Hunt: 14.98 keV
+#   Residual written to MMM2 SrTiO3[0][4][residual].msa.
+#   Plot output to 'MMM2 SrTiO3[0][4][quantify].pdf'
+# Spectrum
+#   MMM2 SrTiO3[1][all]['MMM2 SrTiO3[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 SrTiO3[1][all],O,8,15.999,0.27365,0.04791,0.26098,0.03377,0.60154,0.04196
+MMM2 SrTiO3[1][all],Ti,22,47.867,0.26230,0.00024,0.25016,0.01143,0.19272,0.02030
+MMM2 SrTiO3[1][all],Sr,38,87.62,0.51259,0.00116,0.48886,0.02234,0.20574,0.02167
+# Notes
+#   Analytical total: 1.049 ± 0.048
+#   Duane-Hunt: 14.99 keV
+#   Residual written to MMM2 SrTiO3[1][4][residual].msa.
+#   Plot output to 'MMM2 SrTiO3[1][4][quantify].pdf'
+# Spectrum
+#   MMM2 SrTiO3[2][all]['MMM2 SrTiO3[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 SrTiO3[2][all],O,8,15.999,0.28371,0.04983,0.26954,0.03458,0.61191,0.04171
+MMM2 SrTiO3[2][all],Ti,22,47.867,0.26077,0.00024,0.24774,0.01173,0.18799,0.02021
+MMM2 SrTiO3[2][all],Sr,38,87.62,0.50810,0.00117,0.48272,0.02286,0.20010,0.02151
+# Notes
+#   Analytical total: 1.053 ± 0.050
+#   Duane-Hunt: 15.01 keV
+#   Residual written to MMM2 SrTiO3[2][4][residual].msa.
+#   Plot output to 'MMM2 SrTiO3[2][4][quantify].pdf'
+# Spectrum
+#   MMM2 SrTiO3[3][all]['MMM2 SrTiO3[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 SrTiO3[3][all],O,8,15.999,0.27207,0.04759,0.25993,0.03365,0.60018,0.04197
+MMM2 SrTiO3[3][all],Ti,22,47.867,0.26245,0.00024,0.25073,0.01140,0.19351,0.02031
+MMM2 SrTiO3[3][all],Sr,38,87.62,0.51220,0.00116,0.48934,0.02225,0.20632,0.02166
+# Notes
+#   Analytical total: 1.047 ± 0.048
+#   Duane-Hunt: 15.04 keV
+#   Residual written to MMM2 SrTiO3[3][4][residual].msa.
+#   Plot output to 'MMM2 SrTiO3[3][4][quantify].pdf'
+# Spectrum
+#   MMM2 SrTiO3[4][all]['MMM2 SrTiO3[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 SrTiO3[4][all],O,8,15.999,0.27232,0.04766,0.26023,0.03369,0.60049,0.04198
+MMM2 SrTiO3[4][all],Ti,22,47.867,0.26259,0.00024,0.25094,0.01143,0.19354,0.02034
+MMM2 SrTiO3[4][all],Sr,38,87.62,0.51154,0.00116,0.48883,0.02227,0.20597,0.02165
+# Notes
+#   Analytical total: 1.046 ± 0.048
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM2 SrTiO3[4][4][residual].msa.
+#   Plot output to 'MMM2 SrTiO3[4][4][quantify].pdf'
+# Spectrum
+#   MMM2 SrTiO3[5][all]['MMM2 SrTiO3[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 SrTiO3[5][all],O,8,15.999,0.27067,0.04725,0.25928,0.03353,0.59932,0.04192
+MMM2 SrTiO3[5][all],Ti,22,47.867,0.26220,0.00024,0.25116,0.01137,0.19404,0.02030
+MMM2 SrTiO3[5][all],Sr,38,87.62,0.51109,0.00116,0.48957,0.02217,0.20663,0.02162
+# Notes
+#   Analytical total: 1.044 ± 0.047
+#   Duane-Hunt: 15.00 keV
+#   Residual written to MMM2 SrTiO3[5][4][residual].msa.
+#   Plot output to 'MMM2 SrTiO3[5][4][quantify].pdf'
+# Spectrum
+#   MMM2 SrTiO3[6][all]['MMM2 SrTiO3[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 SrTiO3[6][all],O,8,15.999,0.27290,0.04772,0.26064,0.03370,0.60110,0.04193
+MMM2 SrTiO3[6][all],Ti,22,47.867,0.26214,0.00024,0.25036,0.01142,0.19299,0.02029
+MMM2 SrTiO3[6][all],Sr,38,87.62,0.51199,0.00116,0.48899,0.02230,0.20592,0.02165
+# Notes
+#   Analytical total: 1.047 ± 0.048
+#   Duane-Hunt: 15.06 keV
+#   Residual written to MMM2 SrTiO3[6][4][residual].msa.
+#   Plot output to 'MMM2 SrTiO3[6][4][quantify].pdf'
+# Spectrum
+#   MMM2 SrTiO3[7][all]['MMM2 SrTiO3[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 SrTiO3[7][all],O,8,15.999,0.27162,0.04746,0.25974,0.03360,0.59995,0.04194
+MMM2 SrTiO3[7][all],Ti,22,47.867,0.26225,0.00024,0.25078,0.01139,0.19361,0.02030
+MMM2 SrTiO3[7][all],Sr,38,87.62,0.51186,0.00116,0.48948,0.02222,0.20644,0.02165
+# Notes
+#   Analytical total: 1.046 ± 0.047
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 SrTiO3[7][4][residual].msa.
+#   Plot output to 'MMM2 SrTiO3[7][4][quantify].pdf'
+# Result Comparison
+Name,O,Ti,Sr,Σ
+MMM2 SrTiO3[0][all],0.273 ± 0.048,0.26223 ± 0.00024,0.5120 ± 0.0012,1.047 ± 0.048
+MMM2 SrTiO3[1][all],0.274 ± 0.048,0.26230 ± 0.00024,0.5126 ± 0.0012,1.049 ± 0.048
+MMM2 SrTiO3[2][all],0.284 ± 0.050,0.26077 ± 0.00024,0.5081 ± 0.0012,1.053 ± 0.050
+MMM2 SrTiO3[3][all],0.272 ± 0.048,0.26245 ± 0.00024,0.5122 ± 0.0012,1.047 ± 0.048
+MMM2 SrTiO3[4][all],0.272 ± 0.048,0.26259 ± 0.00024,0.5115 ± 0.0012,1.046 ± 0.048
+MMM2 SrTiO3[5][all],0.271 ± 0.047,0.26220 ± 0.00024,0.5111 ± 0.0012,1.044 ± 0.047
+MMM2 SrTiO3[6][all],0.273 ± 0.048,0.26214 ± 0.00024,0.5120 ± 0.0012,1.047 ± 0.048
+MMM2 SrTiO3[7][all],0.272 ± 0.047,0.26225 ± 0.00024,0.5119 ± 0.0012,1.046 ± 0.047
+Mean,0.2738 ± 0.0041,0.26212 ± 0.00056,0.5114 ± 0.0014,1.0473 ± 0.0025
+Nominal,0.2616,0.2609,0.4775,1
+RDEV (%),4.7,0.5,7.1,4.7
