@@ -1,0 +1,124 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 16:51:36.149616204 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 20 keV` revision 358 - 2025-09-25 20:39:50 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM2 C[0][all]['MMM2 C[0][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 C[0][all],C,6,12.011,1.01145,0.06452,1.00000,0.00000,1.00000,0.00000
+# Notes
+#   Analytical total: 1.011 ± 0.065
+#   Duane-Hunt: 15.08 keV
+#   Residual written to MMM2 C[0][4][residual].msa.
+#   Plot output to 'MMM2 C[0][4][quantify].pdf'
+# Spectrum
+#   MMM2 C[1][all]['MMM2 C[1][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 C[1][all],C,6,12.011,1.01250,0.06439,1.00000,0.00000,1.00000,0.00000
+# Notes
+#   Analytical total: 1.013 ± 0.064
+#   Duane-Hunt: 15.04 keV
+#   Residual written to MMM2 C[1][4][residual].msa.
+#   Plot output to 'MMM2 C[1][4][quantify].pdf'
+# Spectrum
+#   MMM2 C[2][all]['MMM2 C[2][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 C[2][all],C,6,12.011,1.01262,0.06438,1.00000,0.00000,1.00000,0.00000
+# Notes
+#   Analytical total: 1.013 ± 0.064
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 C[2][4][residual].msa.
+#   Plot output to 'MMM2 C[2][4][quantify].pdf'
+# Spectrum
+#   MMM2 C[3][all]['MMM2 C[3][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 C[3][all],C,6,12.011,1.01008,0.06468,1.00000,0.00000,1.00000,0.00000
+# Notes
+#   Analytical total: 1.010 ± 0.065
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 C[3][4][residual].msa.
+#   Plot output to 'MMM2 C[3][4][quantify].pdf'
+# Spectrum
+#   MMM2 C[4][all]['MMM2 C[4][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 C[4][all],C,6,12.011,1.01425,0.06419,1.00000,0.00000,1.00000,0.00000
+# Notes
+#   Analytical total: 1.014 ± 0.064
+#   Duane-Hunt: 15.07 keV
+#   Residual written to MMM2 C[4][4][residual].msa.
+#   Plot output to 'MMM2 C[4][4][quantify].pdf'
+# Spectrum
+#   MMM2 C[5][all]['MMM2 C[5][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 C[5][all],C,6,12.011,1.01264,0.06438,1.00000,0.00000,1.00000,0.00000
+# Notes
+#   Analytical total: 1.013 ± 0.064
+#   Duane-Hunt: 15.08 keV
+#   Residual written to MMM2 C[5][4][residual].msa.
+#   Plot output to 'MMM2 C[5][4][quantify].pdf'
+# Spectrum
+#   MMM2 C[6][all]['MMM2 C[6][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 C[6][all],C,6,12.011,1.00506,0.06527,1.00000,0.00000,1.00000,0.00000
+# Notes
+#   Analytical total: 1.005 ± 0.065
+#   Duane-Hunt: 15.04 keV
+#   Residual written to MMM2 C[6][4][residual].msa.
+#   Plot output to 'MMM2 C[6][4][quantify].pdf'
+# Spectrum
+#   MMM2 C[7][all]['MMM2 C[7][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 C[7][all],C,6,12.011,1.00206,0.06562,1.00000,0.00000,1.00000,0.00000
+# Notes
+#   Analytical total: 1.002 ± 0.066
+#   Duane-Hunt: 15.10 keV
+#   Residual written to MMM2 C[7][4][residual].msa.
+#   Plot output to 'MMM2 C[7][4][quantify].pdf'
+# Result Comparison
+Name,C,Σ
+MMM2 C[0][all],1.011 ± 0.065,1.011 ± 0.065
+MMM2 C[1][all],1.013 ± 0.064,1.013 ± 0.064
+MMM2 C[2][all],1.013 ± 0.064,1.013 ± 0.064
+MMM2 C[3][all],1.010 ± 0.065,1.010 ± 0.065
+MMM2 C[4][all],1.014 ± 0.064,1.014 ± 0.064
+MMM2 C[5][all],1.013 ± 0.064,1.013 ± 0.064
+MMM2 C[6][all],1.005 ± 0.065,1.005 ± 0.065
+MMM2 C[7][all],1.002 ± 0.066,1.002 ± 0.066
+Mean,1.0101 ± 0.0043,1.0101 ± 0.0043
+Nominal,1,1
+RDEV (%),1,1
