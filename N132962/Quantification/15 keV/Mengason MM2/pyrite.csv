@@ -1,0 +1,132 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 17:00:47.151232801 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 20 keV` revision 358 - 2025-09-25 20:39:50 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM2 Pyrite[0][all]['MMM2 Pyrite[0][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[0][all],S,16,32.06,0.52168,0.00061,0.52421,0.00032,0.65744,0.00029
+MMM2 Pyrite[0][all],Fe,26,55.845,0.47349,0.00027,0.47579,0.00032,0.34256,0.00029
+# Notes
+#   Analytical total: 0.99516 ± 0.00066
+#   Duane-Hunt: 15.07 keV
+#   Residual written to MMM2 Pyrite[0][4][residual].msa.
+#   Plot output to 'MMM2 Pyrite[0][4][quantify].pdf'
+# Spectrum
+#   MMM2 Pyrite[1][all]['MMM2 Pyrite[1][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[1][all],S,16,32.06,0.52107,0.00061,0.52422,0.00032,0.65745,0.00029
+MMM2 Pyrite[1][all],Fe,26,55.845,0.47292,0.00027,0.47578,0.00032,0.34255,0.00029
+# Notes
+#   Analytical total: 0.99399 ± 0.00066
+#   Duane-Hunt: 14.97 keV
+#   Residual written to MMM2 Pyrite[1][4][residual].msa.
+#   Plot output to 'MMM2 Pyrite[1][4][quantify].pdf'
+# Spectrum
+#   MMM2 Pyrite[2][all]['MMM2 Pyrite[2][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[2][all],S,16,32.06,0.52022,0.00061,0.52449,0.00032,0.65769,0.00029
+MMM2 Pyrite[2][all],Fe,26,55.845,0.47164,0.00026,0.47551,0.00032,0.34231,0.00029
+# Notes
+#   Analytical total: 0.99186 ± 0.00066
+#   Duane-Hunt: 14.99 keV
+#   Residual written to MMM2 Pyrite[2][4][residual].msa.
+#   Plot output to 'MMM2 Pyrite[2][4][quantify].pdf'
+# Spectrum
+#   MMM2 Pyrite[3][all]['MMM2 Pyrite[3][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[3][all],S,16,32.06,0.52117,0.00061,0.52428,0.00032,0.65750,0.00029
+MMM2 Pyrite[3][all],Fe,26,55.845,0.47291,0.00027,0.47572,0.00032,0.34250,0.00029
+# Notes
+#   Analytical total: 0.99408 ± 0.00066
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM2 Pyrite[3][4][residual].msa.
+#   Plot output to 'MMM2 Pyrite[3][4][quantify].pdf'
+# Spectrum
+#   MMM2 Pyrite[4][all]['MMM2 Pyrite[4][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[4][all],S,16,32.06,0.52164,0.00061,0.52432,0.00032,0.65753,0.00029
+MMM2 Pyrite[4][all],Fe,26,55.845,0.47326,0.00027,0.47568,0.00032,0.34247,0.00029
+# Notes
+#   Analytical total: 0.99490 ± 0.00066
+#   Duane-Hunt: 14.99 keV
+#   Residual written to MMM2 Pyrite[4][4][residual].msa.
+#   Plot output to 'MMM2 Pyrite[4][4][quantify].pdf'
+# Spectrum
+#   MMM2 Pyrite[5][all]['MMM2 Pyrite[5][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[5][all],S,16,32.06,0.52134,0.00061,0.52478,0.00032,0.65795,0.00029
+MMM2 Pyrite[5][all],Fe,26,55.845,0.47210,0.00027,0.47522,0.00032,0.34205,0.00029
+# Notes
+#   Analytical total: 0.99344 ± 0.00066
+#   Duane-Hunt: 14.96 keV
+#   Residual written to MMM2 Pyrite[5][4][residual].msa.
+#   Plot output to 'MMM2 Pyrite[5][4][quantify].pdf'
+# Spectrum
+#   MMM2 Pyrite[6][all]['MMM2 Pyrite[6][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[6][all],S,16,32.06,0.52083,0.00061,0.52433,0.00032,0.65755,0.00029
+MMM2 Pyrite[6][all],Fe,26,55.845,0.47250,0.00027,0.47567,0.00032,0.34245,0.00029
+# Notes
+#   Analytical total: 0.99333 ± 0.00066
+#   Duane-Hunt: 14.93 keV
+#   Residual written to MMM2 Pyrite[6][4][residual].msa.
+#   Plot output to 'MMM2 Pyrite[6][4][quantify].pdf'
+# Spectrum
+#   MMM2 Pyrite[7][all]['MMM2 Pyrite[7][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[7][all],S,16,32.06,0.52178,0.00061,0.52397,0.00032,0.65722,0.00029
+MMM2 Pyrite[7][all],Fe,26,55.845,0.47404,0.00027,0.47603,0.00032,0.34278,0.00029
+# Notes
+#   Analytical total: 0.99582 ± 0.00066
+#   Duane-Hunt: 15.05 keV
+#   Residual written to MMM2 Pyrite[7][4][residual].msa.
+#   Plot output to 'MMM2 Pyrite[7][4][quantify].pdf'
+# Result Comparison
+Name,S,Fe,Σ
+MMM2 Pyrite[0][all],0.52168 ± 0.00061,0.47349 ± 0.00027,0.99516 ± 0.00066
+MMM2 Pyrite[1][all],0.52107 ± 0.00061,0.47292 ± 0.00027,0.99399 ± 0.00066
+MMM2 Pyrite[2][all],0.52022 ± 0.00061,0.47164 ± 0.00026,0.99186 ± 0.00066
+MMM2 Pyrite[3][all],0.52117 ± 0.00061,0.47291 ± 0.00027,0.99408 ± 0.00066
+MMM2 Pyrite[4][all],0.52164 ± 0.00061,0.47326 ± 0.00027,0.99490 ± 0.00066
+MMM2 Pyrite[5][all],0.52134 ± 0.00061,0.47210 ± 0.00027,0.99344 ± 0.00066
+MMM2 Pyrite[6][all],0.52083 ± 0.00061,0.47250 ± 0.00027,0.99333 ± 0.00066
+MMM2 Pyrite[7][all],0.52178 ± 0.00061,0.47404 ± 0.00027,0.99582 ± 0.00066
+Mean,0.52122 ± 0.00052,0.47286 ± 0.00077,0.9941 ± 0.0012
+Nominal,0.5341,0.463,1
+RDEV (%),-2.4,2.1,-0.6
