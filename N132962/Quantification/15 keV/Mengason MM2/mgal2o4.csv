@@ -1,0 +1,140 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 16:59:01.028087820 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 20 keV` revision 358 - 2025-09-25 20:39:50 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM2 MgAl2O4[0][all]['MMM2 MgAl2O4[0][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 MgAl2O4[0][all],O,8,15.999,0.45561,0.02814,0.44530,0.01527,0.56695,0.01518
+MMM2 MgAl2O4[0][all],Mg,12,24.305,0.17585,0.00081,0.17187,0.00478,0.14404,0.00508
+MMM2 MgAl2O4[0][all],Al,13,26.9815384,0.39169,0.00151,0.38283,0.01057,0.28901,0.01015
+# Notes
+#   Analytical total: 1.023 ± 0.028
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 MgAl2O4[0][4][residual].msa.
+#   Plot output to 'MMM2 MgAl2O4[0][4][quantify].pdf'
+# Spectrum
+#   MMM2 MgAl2O4[1][all]['MMM2 MgAl2O4[1][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 MgAl2O4[1][all],O,8,15.999,0.45455,0.02799,0.44548,0.01523,0.56712,0.01514
+MMM2 MgAl2O4[1][all],Mg,12,24.305,0.17526,0.00081,0.17177,0.00476,0.14394,0.00506
+MMM2 MgAl2O4[1][all],Al,13,26.9815384,0.39055,0.00150,0.38276,0.01054,0.28893,0.01012
+# Notes
+#   Analytical total: 1.020 ± 0.028
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 MgAl2O4[1][4][residual].msa.
+#   Plot output to 'MMM2 MgAl2O4[1][4][quantify].pdf'
+# Spectrum
+#   MMM2 MgAl2O4[2][all]['MMM2 MgAl2O4[2][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 MgAl2O4[2][all],O,8,15.999,0.45476,0.02805,0.44511,0.01525,0.56676,0.01517
+MMM2 MgAl2O4[2][all],Mg,12,24.305,0.17563,0.00081,0.17190,0.00477,0.14408,0.00507
+MMM2 MgAl2O4[2][all],Al,13,26.9815384,0.39129,0.00150,0.38299,0.01056,0.28916,0.01014
+# Notes
+#   Analytical total: 1.022 ± 0.028
+#   Duane-Hunt: 15.19 keV
+#   Residual written to MMM2 MgAl2O4[2][4][residual].msa.
+#   Plot output to 'MMM2 MgAl2O4[2][4][quantify].pdf'
+# Spectrum
+#   MMM2 MgAl2O4[3][all]['MMM2 MgAl2O4[3][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 MgAl2O4[3][all],O,8,15.999,0.45710,0.02828,0.44571,0.01530,0.56735,0.01520
+MMM2 MgAl2O4[3][all],Mg,12,24.305,0.17613,0.00082,0.17174,0.00479,0.14390,0.00509
+MMM2 MgAl2O4[3][all],Al,13,26.9815384,0.39232,0.00151,0.38255,0.01059,0.28874,0.01017
+# Notes
+#   Analytical total: 1.026 ± 0.028
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 MgAl2O4[3][4][residual].msa.
+#   Plot output to 'MMM2 MgAl2O4[3][4][quantify].pdf'
+# Spectrum
+#   MMM2 MgAl2O4[4][all]['MMM2 MgAl2O4[4][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 MgAl2O4[4][all],O,8,15.999,0.45527,0.02812,0.44509,0.01527,0.56674,0.01518
+MMM2 MgAl2O4[4][all],Mg,12,24.305,0.17576,0.00081,0.17183,0.00478,0.14402,0.00508
+MMM2 MgAl2O4[4][all],Al,13,26.9815384,0.39184,0.00151,0.38308,0.01058,0.28924,0.01016
+# Notes
+#   Analytical total: 1.023 ± 0.028
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 MgAl2O4[4][4][residual].msa.
+#   Plot output to 'MMM2 MgAl2O4[4][4][quantify].pdf'
+# Spectrum
+#   MMM2 MgAl2O4[5][all]['MMM2 MgAl2O4[5][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 MgAl2O4[5][all],O,8,15.999,0.45623,0.02822,0.44521,0.01530,0.56685,0.01520
+MMM2 MgAl2O4[5][all],Mg,12,24.305,0.17626,0.00082,0.17200,0.00479,0.14415,0.00509
+MMM2 MgAl2O4[5][all],Al,13,26.9815384,0.39228,0.00151,0.38280,0.01058,0.28900,0.01017
+# Notes
+#   Analytical total: 1.025 ± 0.028
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 MgAl2O4[5][4][residual].msa.
+#   Plot output to 'MMM2 MgAl2O4[5][4][quantify].pdf'
+# Spectrum
+#   MMM2 MgAl2O4[6][all]['MMM2 MgAl2O4[6][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 MgAl2O4[6][all],O,8,15.999,0.45409,0.02801,0.44468,0.01525,0.56633,0.01517
+MMM2 MgAl2O4[6][all],Mg,12,24.305,0.17576,0.00081,0.17212,0.00477,0.14429,0.00508
+MMM2 MgAl2O4[6][all],Al,13,26.9815384,0.39131,0.00150,0.38320,0.01055,0.28938,0.01014
+# Notes
+#   Analytical total: 1.021 ± 0.028
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM2 MgAl2O4[6][4][residual].msa.
+#   Plot output to 'MMM2 MgAl2O4[6][4][quantify].pdf'
+# Spectrum
+#   MMM2 MgAl2O4[7][all]['MMM2 MgAl2O4[7][4].msa']
+# Fit warnings
+#   The unknown's beam energy (15 keV) differs from the references (20 keV) by more than 1%.
+#   The references and measured spectrum's beam energies don't match: (20.00 keV != 15.00 keV)
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 MgAl2O4[7][all],O,8,15.999,0.45559,0.02815,0.44517,0.01528,0.56682,0.01519
+MMM2 MgAl2O4[7][all],Mg,12,24.305,0.17582,0.00081,0.17180,0.00478,0.14399,0.00508
+MMM2 MgAl2O4[7][all],Al,13,26.9815384,0.39200,0.00151,0.38303,0.01058,0.28919,0.01016
+# Notes
+#   Analytical total: 1.023 ± 0.028
+#   Duane-Hunt: 15.17 keV
+#   Residual written to MMM2 MgAl2O4[7][4][residual].msa.
+#   Plot output to 'MMM2 MgAl2O4[7][4][quantify].pdf'
+# Result Comparison
+Name,O,Mg,Al,Σ
+MMM2 MgAl2O4[0][all],0.456 ± 0.028,0.17585 ± 0.00081,0.3917 ± 0.0015,1.023 ± 0.028
+MMM2 MgAl2O4[1][all],0.455 ± 0.028,0.17526 ± 0.00081,0.3905 ± 0.0015,1.020 ± 0.028
+MMM2 MgAl2O4[2][all],0.455 ± 0.028,0.17563 ± 0.00081,0.3913 ± 0.0015,1.022 ± 0.028
+MMM2 MgAl2O4[3][all],0.457 ± 0.028,0.17613 ± 0.00082,0.3923 ± 0.0015,1.026 ± 0.028
+MMM2 MgAl2O4[4][all],0.455 ± 0.028,0.17576 ± 0.00081,0.3918 ± 0.0015,1.023 ± 0.028
+MMM2 MgAl2O4[5][all],0.456 ± 0.028,0.17626 ± 0.00082,0.3923 ± 0.0015,1.025 ± 0.028
+MMM2 MgAl2O4[6][all],0.454 ± 0.028,0.17576 ± 0.00081,0.3913 ± 0.0015,1.021 ± 0.028
+MMM2 MgAl2O4[7][all],0.456 ± 0.028,0.17582 ± 0.00081,0.3920 ± 0.0015,1.023 ± 0.028
+Mean,0.45540 ± 0.00096,0.17581 ± 0.00030,0.39166 ± 0.00059,1.0229 ± 0.0018
+Nominal,0.4498,0.1708,0.3793,1
+RDEV (%),1.2,2.9,3.3,2.3
