@@ -1,0 +1,124 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 18:24:00.454254948 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM2 Stibnite[0][all]['MMM2 Stibnite[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Stibnite[0][all],S,16,32.06,0.27428,0.00072,0.26811,0.00062,0.58181,0.00077
+MMM2 Stibnite[0][all],Sb,51,121.76,0.74875,0.00135,0.73189,0.00062,0.41819,0.00077
+# Notes
+#   Analytical total: 1.0230 ± 0.0015
+#   Duane-Hunt: 15.00 keV
+#   Residual written to MMM2 Stibnite[0][4][residual].msa.
+#   Plot output to 'MMM2 Stibnite[0][4][quantify].pdf'
+# Spectrum
+#   MMM2 Stibnite[1][all]['MMM2 Stibnite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Stibnite[1][all],S,16,32.06,0.27373,0.00071,0.26784,0.00062,0.58148,0.00077
+MMM2 Stibnite[1][all],Sb,51,121.76,0.74827,0.00135,0.73216,0.00062,0.41852,0.00077
+# Notes
+#   Analytical total: 1.0220 ± 0.0015
+#   Duane-Hunt: 15.03 keV
+#   Residual written to MMM2 Stibnite[1][4][residual].msa.
+#   Plot output to 'MMM2 Stibnite[1][4][quantify].pdf'
+# Spectrum
+#   MMM2 Stibnite[2][all]['MMM2 Stibnite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Stibnite[2][all],S,16,32.06,0.27369,0.00071,0.26788,0.00062,0.58152,0.00077
+MMM2 Stibnite[2][all],Sb,51,121.76,0.74800,0.00135,0.73212,0.00062,0.41848,0.00077
+# Notes
+#   Analytical total: 1.0217 ± 0.0015
+#   Duane-Hunt: 15.06 keV
+#   Residual written to MMM2 Stibnite[2][4][residual].msa.
+#   Plot output to 'MMM2 Stibnite[2][4][quantify].pdf'
+# Spectrum
+#   MMM2 Stibnite[3][all]['MMM2 Stibnite[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Stibnite[3][all],S,16,32.06,0.27429,0.00072,0.26812,0.00062,0.58182,0.00077
+MMM2 Stibnite[3][all],Sb,51,121.76,0.74873,0.00135,0.73188,0.00062,0.41818,0.00077
+# Notes
+#   Analytical total: 1.0230 ± 0.0015
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM2 Stibnite[3][4][residual].msa.
+#   Plot output to 'MMM2 Stibnite[3][4][quantify].pdf'
+# Spectrum
+#   MMM2 Stibnite[4][all]['MMM2 Stibnite[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Stibnite[4][all],S,16,32.06,0.27430,0.00071,0.26865,0.00062,0.58247,0.00077
+MMM2 Stibnite[4][all],Sb,51,121.76,0.74675,0.00136,0.73135,0.00062,0.41753,0.00077
+# Notes
+#   Analytical total: 1.0210 ± 0.0015
+#   Duane-Hunt: 14.98 keV
+#   Residual written to MMM2 Stibnite[4][4][residual].msa.
+#   Plot output to 'MMM2 Stibnite[4][4][quantify].pdf'
+# Spectrum
+#   MMM2 Stibnite[5][all]['MMM2 Stibnite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Stibnite[5][all],S,16,32.06,0.27275,0.00071,0.26805,0.00062,0.58173,0.00077
+MMM2 Stibnite[5][all],Sb,51,121.76,0.74479,0.00136,0.73195,0.00062,0.41827,0.00077
+# Notes
+#   Analytical total: 1.0175 ± 0.0015
+#   Duane-Hunt: 15.00 keV
+#   Residual written to MMM2 Stibnite[5][4][residual].msa.
+#   Plot output to 'MMM2 Stibnite[5][4][quantify].pdf'
+# Spectrum
+#   MMM2 Stibnite[6][all]['MMM2 Stibnite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Stibnite[6][all],S,16,32.06,0.27383,0.00071,0.26785,0.00062,0.58148,0.00077
+MMM2 Stibnite[6][all],Sb,51,121.76,0.74850,0.00135,0.73215,0.00062,0.41852,0.00077
+# Notes
+#   Analytical total: 1.0223 ± 0.0015
+#   Duane-Hunt: 15.04 keV
+#   Residual written to MMM2 Stibnite[6][4][residual].msa.
+#   Plot output to 'MMM2 Stibnite[6][4][quantify].pdf'
+# Spectrum
+#   MMM2 Stibnite[7][all]['MMM2 Stibnite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM2 Stibnite[7][all],S,16,32.06,0.27395,0.00071,0.26844,0.00062,0.58222,0.00077
+MMM2 Stibnite[7][all],Sb,51,121.76,0.74657,0.00136,0.73156,0.00062,0.41778,0.00077
+# Notes
+#   Analytical total: 1.0205 ± 0.0015
+#   Duane-Hunt: 15.01 keV
+#   Residual written to MMM2 Stibnite[7][4][residual].msa.
+#   Plot output to 'MMM2 Stibnite[7][4][quantify].pdf'
+# Result Comparison
+Name,S,Sb,Σ
+MMM2 Stibnite[0][all],0.27428 ± 0.00072,0.7488 ± 0.0014,1.0230 ± 0.0015
+MMM2 Stibnite[1][all],0.27373 ± 0.00071,0.7483 ± 0.0014,1.0220 ± 0.0015
+MMM2 Stibnite[2][all],0.27369 ± 0.00071,0.7480 ± 0.0014,1.0217 ± 0.0015
+MMM2 Stibnite[3][all],0.27429 ± 0.00072,0.7487 ± 0.0014,1.0230 ± 0.0015
+MMM2 Stibnite[4][all],0.27430 ± 0.00071,0.7467 ± 0.0014,1.0210 ± 0.0015
+MMM2 Stibnite[5][all],0.27275 ± 0.00071,0.7448 ± 0.0014,1.0175 ± 0.0015
+MMM2 Stibnite[6][all],0.27383 ± 0.00071,0.7485 ± 0.0014,1.0223 ± 0.0015
+MMM2 Stibnite[7][all],0.27395 ± 0.00071,0.7466 ± 0.0014,1.0205 ± 0.0015
+Mean,0.27385 ± 0.00051,0.7475 ± 0.0014,1.0214 ± 0.0018
+Nominal,0.2831,0.7169,1
+RDEV (%),-3.3,4.3,2.1
