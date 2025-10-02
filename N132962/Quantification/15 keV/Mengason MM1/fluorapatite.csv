@@ -1,0 +1,205 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 14:38:24.055356909 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#   The Duane-Hunt (14.83 keV) for CeO2 standard for 'N132962' detector differs by more than 1 % from the beam energy (15.00 keV)!!
+# Spectrum
+#   MMM1 Fluorapatite[0][all]['MMM1 Fluorapatite[0][4].msa']
+# Fit warnings
+#   The k-ratio '[La M₃-M₅ + 4 others] = -0.07747 ± 0.00047' is more than 3σ negative.
+#   The k-ratio '[Ce M₃-M₅ + 4 others] = -0.170 ± 0.016' is more than 3σ negative.
+#   The k-ratio '[Sr L₁-L₃] = -1.026 ± 0.026' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Fluorapatite[0][all],O,8,15.999,0.36409,0.03340,0.36296,0.02123,0.55261,0.02272
+MMM1 Fluorapatite[0][all],F,9,18.998403163,0.04707,0.00194,0.04693,0.00242,0.06017,0.00384
+MMM1 Fluorapatite[0][all],Si,14,28.085,0.00131,0.00003,0.00131,0.00005,0.00113,0.00006
+MMM1 Fluorapatite[0][all],P,15,30.973761998,0.18889,0.00040,0.18830,0.00629,0.14809,0.00752
+MMM1 Fluorapatite[0][all],S,16,32.06,0.00309,0.00004,0.00309,0.00011,0.00234,0.00012
+MMM1 Fluorapatite[0][all],Ca,20,40.078,0.38237,0.00023,0.38119,0.01272,0.23168,0.01176
+MMM1 Fluorapatite[0][all],Sr,38,87.62,0.00532,0.00013,0.00530,0.00022,0.00147,0.00008
+MMM1 Fluorapatite[0][all],Y,39,88.905838,0.00595,0.00024,0.00593,0.00031,0.00162,0.00011
+MMM1 Fluorapatite[0][all],La,57,138.90547,0.00136,0.00010,0.00135,0.00011,0.00024,0.00002
+MMM1 Fluorapatite[0][all],Ce,58,140.116,0.00365,0.00011,0.00364,0.00016,0.00063,0.00004
+# Notes
+#   Analytical total: 1.003 ± 0.033
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM1 Fluorapatite[0][4][residual].msa.
+#   Plot output to 'MMM1 Fluorapatite[0][4][quantify].pdf'
+# Spectrum
+#   MMM1 Fluorapatite[1][all]['MMM1 Fluorapatite[1][4].msa']
+# Fit warnings
+#   The k-ratio '[La M₃-M₅ + 4 others] = -0.07691 ± 0.00047' is more than 3σ negative.
+#   The k-ratio '[Ce M₃-M₅ + 4 others] = -0.134 ± 0.016' is more than 3σ negative.
+#   The k-ratio '[Sr L₁-L₃] = -1.055 ± 0.026' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Fluorapatite[1][all],O,8,15.999,0.36370,0.03340,0.36230,0.02123,0.55164,0.02276
+MMM1 Fluorapatite[1][all],F,9,18.998403163,0.04796,0.00198,0.04777,0.00246,0.06125,0.00390
+MMM1 Fluorapatite[1][all],Si,14,28.085,0.00130,0.00003,0.00130,0.00005,0.00112,0.00006
+MMM1 Fluorapatite[1][all],P,15,30.973761998,0.18933,0.00039,0.18860,0.00629,0.14833,0.00753
+MMM1 Fluorapatite[1][all],S,16,32.06,0.00273,0.00004,0.00272,0.00010,0.00206,0.00011
+MMM1 Fluorapatite[1][all],Ca,20,40.078,0.38259,0.00023,0.38112,0.01271,0.23165,0.01175
+MMM1 Fluorapatite[1][all],Sr,38,87.62,0.00514,0.00013,0.00512,0.00021,0.00142,0.00008
+MMM1 Fluorapatite[1][all],Y,39,88.905838,0.00591,0.00024,0.00589,0.00031,0.00161,0.00011
+MMM1 Fluorapatite[1][all],La,57,138.90547,0.00153,0.00010,0.00153,0.00011,0.00027,0.00002
+MMM1 Fluorapatite[1][all],Ce,58,140.116,0.00368,0.00011,0.00366,0.00016,0.00064,0.00004
+# Notes
+#   Analytical total: 1.004 ± 0.033
+#   Duane-Hunt: 15.19 keV
+#   Residual written to MMM1 Fluorapatite[1][4][residual].msa.
+#   Plot output to 'MMM1 Fluorapatite[1][4][quantify].pdf'
+# Spectrum
+#   MMM1 Fluorapatite[2][all]['MMM1 Fluorapatite[2][4].msa']
+# Fit warnings
+#   The k-ratio '[La M₃-M₅ + 4 others] = -0.07844 ± 0.00047' is more than 3σ negative.
+#   The k-ratio '[Ce M₃-M₅ + 4 others] = -0.129 ± 0.016' is more than 3σ negative.
+#   The k-ratio '[Sr L₁-L₃] = -0.991 ± 0.026' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Fluorapatite[2][all],O,8,15.999,0.36485,0.03352,0.36349,0.02127,0.55274,0.02275
+MMM1 Fluorapatite[2][all],F,9,18.998403163,0.04774,0.00197,0.04756,0.00245,0.06090,0.00389
+MMM1 Fluorapatite[2][all],Si,14,28.085,0.00145,0.00003,0.00145,0.00006,0.00125,0.00007
+MMM1 Fluorapatite[2][all],P,15,30.973761998,0.18871,0.00038,0.18800,0.00630,0.14767,0.00751
+MMM1 Fluorapatite[2][all],S,16,32.06,0.00288,0.00004,0.00287,0.00010,0.00218,0.00011
+MMM1 Fluorapatite[2][all],Ca,20,40.078,0.38271,0.00023,0.38128,0.01276,0.23145,0.01177
+MMM1 Fluorapatite[2][all],Sr,38,87.62,0.00497,0.00012,0.00495,0.00021,0.00137,0.00008
+MMM1 Fluorapatite[2][all],Y,39,88.905838,0.00634,0.00024,0.00632,0.00032,0.00173,0.00011
+MMM1 Fluorapatite[2][all],La,57,138.90547,0.00135,0.00010,0.00134,0.00011,0.00024,0.00002
+MMM1 Fluorapatite[2][all],Ce,58,140.116,0.00275,0.00011,0.00274,0.00014,0.00048,0.00003
+# Notes
+#   Analytical total: 1.004 ± 0.034
+#   Duane-Hunt: 15.03 keV
+#   Residual written to MMM1 Fluorapatite[2][4][residual].msa.
+#   Plot output to 'MMM1 Fluorapatite[2][4][quantify].pdf'
+# Spectrum
+#   MMM1 Fluorapatite[3][all]['MMM1 Fluorapatite[3][4].msa']
+# Fit warnings
+#   The k-ratio '[La M₃-M₅ + 4 others] = -0.07768 ± 0.00048' is more than 3σ negative.
+#   The k-ratio '[Ce M₃-M₅ + 4 others] = -0.157 ± 0.016' is more than 3σ negative.
+#   The k-ratio '[Sr L₁-L₃] = -0.992 ± 0.026' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Fluorapatite[3][all],O,8,15.999,0.36469,0.03347,0.36405,0.02126,0.55412,0.02271
+MMM1 Fluorapatite[3][all],F,9,18.998403163,0.04597,0.00190,0.04589,0.00237,0.05882,0.00376
+MMM1 Fluorapatite[3][all],Si,14,28.085,0.00129,0.00003,0.00129,0.00005,0.00112,0.00006
+MMM1 Fluorapatite[3][all],P,15,30.973761998,0.18826,0.00038,0.18793,0.00630,0.14775,0.00753
+MMM1 Fluorapatite[3][all],S,16,32.06,0.00290,0.00004,0.00289,0.00010,0.00220,0.00012
+MMM1 Fluorapatite[3][all],Ca,20,40.078,0.38272,0.00023,0.38205,0.01279,0.23214,0.01182
+MMM1 Fluorapatite[3][all],Sr,38,87.62,0.00492,0.00012,0.00492,0.00021,0.00137,0.00008
+MMM1 Fluorapatite[3][all],Y,39,88.905838,0.00585,0.00024,0.00584,0.00031,0.00160,0.00010
+MMM1 Fluorapatite[3][all],La,57,138.90547,0.00166,0.00010,0.00165,0.00011,0.00029,0.00002
+MMM1 Fluorapatite[3][all],Ce,58,140.116,0.00349,0.00011,0.00349,0.00016,0.00061,0.00004
+# Notes
+#   Analytical total: 1.002 ± 0.034
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Fluorapatite[3][4][residual].msa.
+#   Plot output to 'MMM1 Fluorapatite[3][4][quantify].pdf'
+# Spectrum
+#   MMM1 Fluorapatite[4][all]['MMM1 Fluorapatite[4][4].msa']
+# Fit warnings
+#   The k-ratio '[La M₃-M₅ + 4 others] = -0.07800 ± 0.00047' is more than 3σ negative.
+#   The k-ratio '[Ce M₃-M₅ + 4 others] = -0.169 ± 0.016' is more than 3σ negative.
+#   The k-ratio '[Sr L₁-L₃] = -0.992 ± 0.026' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Fluorapatite[4][all],O,8,15.999,0.36463,0.03349,0.36372,0.02127,0.55334,0.02275
+MMM1 Fluorapatite[4][all],F,9,18.998403163,0.04683,0.00193,0.04672,0.00241,0.05985,0.00383
+MMM1 Fluorapatite[4][all],Si,14,28.085,0.00135,0.00003,0.00135,0.00005,0.00117,0.00006
+MMM1 Fluorapatite[4][all],P,15,30.973761998,0.18871,0.00036,0.18824,0.00631,0.14792,0.00753
+MMM1 Fluorapatite[4][all],S,16,32.06,0.00288,0.00004,0.00287,0.00010,0.00218,0.00011
+MMM1 Fluorapatite[4][all],Ca,20,40.078,0.38271,0.00023,0.38176,0.01278,0.23185,0.01180
+MMM1 Fluorapatite[4][all],Sr,38,87.62,0.00455,0.00012,0.00454,0.00020,0.00126,0.00007
+MMM1 Fluorapatite[4][all],Y,39,88.905838,0.00555,0.00024,0.00554,0.00030,0.00152,0.00010
+MMM1 Fluorapatite[4][all],La,57,138.90547,0.00147,0.00010,0.00147,0.00011,0.00026,0.00002
+MMM1 Fluorapatite[4][all],Ce,58,140.116,0.00382,0.00011,0.00381,0.00017,0.00066,0.00004
+# Notes
+#   Analytical total: 1.003 ± 0.034
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Fluorapatite[4][4][residual].msa.
+#   Plot output to 'MMM1 Fluorapatite[4][4][quantify].pdf'
+# Spectrum
+#   MMM1 Fluorapatite[5][all]['MMM1 Fluorapatite[5][4].msa']
+# Fit warnings
+#   The k-ratio '[La M₃-M₅ + 4 others] = -0.07837 ± 0.00047' is more than 3σ negative.
+#   The k-ratio '[Ce M₃-M₅ + 4 others] = -0.169 ± 0.016' is more than 3σ negative.
+#   The k-ratio '[Sr L₁-L₃] = -1.005 ± 0.026' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Fluorapatite[5][all],O,8,15.999,0.36426,0.03342,0.36354,0.02124,0.55287,0.02273
+MMM1 Fluorapatite[5][all],F,9,18.998403163,0.04741,0.00196,0.04732,0.00244,0.06060,0.00387
+MMM1 Fluorapatite[5][all],Si,14,28.085,0.00129,0.00003,0.00129,0.00005,0.00112,0.00006
+MMM1 Fluorapatite[5][all],P,15,30.973761998,0.18843,0.00037,0.18806,0.00629,0.14773,0.00751
+MMM1 Fluorapatite[5][all],S,16,32.06,0.00311,0.00004,0.00311,0.00011,0.00236,0.00012
+MMM1 Fluorapatite[5][all],Ca,20,40.078,0.38226,0.00023,0.38151,0.01275,0.23161,0.01177
+MMM1 Fluorapatite[5][all],Sr,38,87.62,0.00472,0.00012,0.00471,0.00020,0.00131,0.00007
+MMM1 Fluorapatite[5][all],Y,39,88.905838,0.00584,0.00024,0.00583,0.00031,0.00160,0.00010
+MMM1 Fluorapatite[5][all],La,57,138.90547,0.00137,0.00010,0.00137,0.00011,0.00024,0.00002
+MMM1 Fluorapatite[5][all],Ce,58,140.116,0.00328,0.00011,0.00328,0.00015,0.00057,0.00003
+# Notes
+#   Analytical total: 1.002 ± 0.033
+#   Duane-Hunt: 15.19 keV
+#   Residual written to MMM1 Fluorapatite[5][4][residual].msa.
+#   Plot output to 'MMM1 Fluorapatite[5][4][quantify].pdf'
+# Spectrum
+#   MMM1 Fluorapatite[6][all]['MMM1 Fluorapatite[6][4].msa']
+# Fit warnings
+#   The k-ratio '[La M₃-M₅ + 4 others] = -0.07705 ± 0.00047' is more than 3σ negative.
+#   The k-ratio '[Ce M₃-M₅ + 4 others] = -0.153 ± 0.016' is more than 3σ negative.
+#   The k-ratio '[Sr L₁-L₃] = -1.041 ± 0.026' is more than 3σ negative.
+#   The k-ratio '[La M₁-O₃ + 1 other] = -0.94 ± 0.27' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Fluorapatite[6][all],O,8,15.999,0.36438,0.03341,0.36405,0.02124,0.55344,0.02270
+MMM1 Fluorapatite[6][all],F,9,18.998403163,0.04691,0.00194,0.04687,0.00242,0.06000,0.00383
+MMM1 Fluorapatite[6][all],Si,14,28.085,0.00136,0.00003,0.00136,0.00005,0.00118,0.00007
+MMM1 Fluorapatite[6][all],P,15,30.973761998,0.18837,0.00038,0.18821,0.00630,0.14779,0.00751
+MMM1 Fluorapatite[6][all],S,16,32.06,0.00289,0.00004,0.00288,0.00010,0.00219,0.00011
+MMM1 Fluorapatite[6][all],Ca,20,40.078,0.38219,0.00023,0.38185,0.01277,0.23173,0.01177
+MMM1 Fluorapatite[6][all],Sr,38,87.62,0.00501,0.00012,0.00501,0.00021,0.00139,0.00008
+MMM1 Fluorapatite[6][all],Y,39,88.905838,0.00587,0.00024,0.00587,0.00031,0.00160,0.00011
+MMM1 Fluorapatite[6][all],La,57,138.90547,0.00123,0.00010,0.00123,0.00011,0.00021,0.00002
+MMM1 Fluorapatite[6][all],Ce,58,140.116,0.00269,0.00010,0.00268,0.00014,0.00047,0.00003
+# Notes
+#   Analytical total: 1.001 ± 0.033
+#   Duane-Hunt: 15.19 keV
+#   Residual written to MMM1 Fluorapatite[6][4][residual].msa.
+#   Plot output to 'MMM1 Fluorapatite[6][4][quantify].pdf'
+# Spectrum
+#   MMM1 Fluorapatite[7][all]['MMM1 Fluorapatite[7][4].msa']
+# Fit warnings
+#   The k-ratio '[La M₃-M₅ + 4 others] = -0.07755 ± 0.00048' is more than 3σ negative.
+#   The k-ratio '[Ce M₃-M₅ + 4 others] = -0.137 ± 0.016' is more than 3σ negative.
+#   The k-ratio '[Sr L₁-L₃] = -1.038 ± 0.026' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Fluorapatite[7][all],O,8,15.999,0.36422,0.03342,0.36326,0.02123,0.55270,0.02272
+MMM1 Fluorapatite[7][all],F,9,18.998403163,0.04721,0.00195,0.04708,0.00243,0.06033,0.00385
+MMM1 Fluorapatite[7][all],Si,14,28.085,0.00134,0.00003,0.00134,0.00005,0.00116,0.00006
+MMM1 Fluorapatite[7][all],P,15,30.973761998,0.18857,0.00039,0.18807,0.00629,0.14781,0.00751
+MMM1 Fluorapatite[7][all],S,16,32.06,0.00294,0.00004,0.00294,0.00011,0.00223,0.00012
+MMM1 Fluorapatite[7][all],Ca,20,40.078,0.38273,0.00023,0.38172,0.01275,0.23185,0.01177
+MMM1 Fluorapatite[7][all],Sr,38,87.62,0.00518,0.00013,0.00516,0.00021,0.00143,0.00008
+MMM1 Fluorapatite[7][all],Y,39,88.905838,0.00680,0.00024,0.00678,0.00033,0.00186,0.00012
+MMM1 Fluorapatite[7][all],La,57,138.90547,0.00086,0.00010,0.00086,0.00010,0.00015,0.00002
+MMM1 Fluorapatite[7][all],Ce,58,140.116,0.00278,0.00011,0.00278,0.00014,0.00048,0.00003
+# Notes
+#   Analytical total: 1.003 ± 0.033
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Fluorapatite[7][4][residual].msa.
+#   Plot output to 'MMM1 Fluorapatite[7][4][quantify].pdf'
+# Result Comparison
+Name,O,F,Si,P,S,Ca,Sr,Y,La,Ce,Σ
+MMM1 Fluorapatite[0][all],0.364 ± 0.033,0.0471 ± 0.0019,0.001310 ± 0.000030,0.18889 ± 0.00040,0.003095 ± 0.000038,0.38237 ± 0.00023,0.00532 ± 0.00013,0.00595 ± 0.00024,0.001355 ± 0.000100,0.00365 ± 0.00011,1.003 ± 0.033
+MMM1 Fluorapatite[1][all],0.364 ± 0.033,0.0480 ± 0.0020,0.001301 ± 0.000030,0.18933 ± 0.00039,0.002727 ± 0.000037,0.38259 ± 0.00023,0.00514 ± 0.00013,0.00591 ± 0.00024,0.001534 ± 0.000099,0.00368 ± 0.00011,1.004 ± 0.033
+MMM1 Fluorapatite[2][all],0.365 ± 0.034,0.0477 ± 0.0020,0.001451 ± 0.000030,0.18871 ± 0.00038,0.002883 ± 0.000038,0.38271 ± 0.00023,0.00497 ± 0.00012,0.00634 ± 0.00024,0.001348 ± 0.000100,0.00275 ± 0.00011,1.004 ± 0.034
+MMM1 Fluorapatite[3][all],0.365 ± 0.033,0.0460 ± 0.0019,0.001289 ± 0.000030,0.18826 ± 0.00038,0.002898 ± 0.000037,0.38272 ± 0.00023,0.00492 ± 0.00012,0.00585 ± 0.00024,0.001656 ± 0.000100,0.00349 ± 0.00011,1.002 ± 0.034
+MMM1 Fluorapatite[4][all],0.365 ± 0.033,0.0468 ± 0.0019,0.001353 ± 0.000030,0.18871 ± 0.00036,0.002876 ± 0.000037,0.38271 ± 0.00023,0.00455 ± 0.00012,0.00555 ± 0.00024,0.001472 ± 0.000100,0.00382 ± 0.00011,1.003 ± 0.034
+MMM1 Fluorapatite[5][all],0.364 ± 0.033,0.0474 ± 0.0020,0.001292 ± 0.000030,0.18843 ± 0.00037,0.003114 ± 0.000039,0.38226 ± 0.00023,0.00472 ± 0.00012,0.00584 ± 0.00024,0.001369 ± 0.000100,0.00328 ± 0.00011,1.002 ± 0.033
+MMM1 Fluorapatite[6][all],0.364 ± 0.033,0.0469 ± 0.0019,0.001362 ± 0.000030,0.18837 ± 0.00038,0.002886 ± 0.000038,0.38219 ± 0.00023,0.00501 ± 0.00012,0.00587 ± 0.00024,0.001228 ± 0.000100,0.00269 ± 0.00010,1.001 ± 0.033
+MMM1 Fluorapatite[7][all],0.364 ± 0.033,0.0472 ± 0.0019,0.001343 ± 0.000030,0.18857 ± 0.00039,0.002945 ± 0.000038,0.38273 ± 0.00023,0.00518 ± 0.00013,0.00680 ± 0.00024,0.000861 ± 0.000099,0.00278 ± 0.00011,1.003 ± 0.033
+Mean,0.36435 ± 0.00037,0.04714 ± 0.00061,0.001338 ± 0.000054,0.18866 ± 0.00034,0.00293 ± 0.00013,0.38254 ± 0.00023,0.00498 ± 0.00025,0.00601 ± 0.00038,0.00135 ± 0.00024,0.00327 ± 0.00046,1.0026 ± 0.0010
+Nominal,0.3797,0.0299,0.0002,0.1783,0.0016,0.3908,0.0024,0.0005,0.0012,0.0025,1
+RDEV (%),-4,57.6,568.8,5.8,83,-2.1,107.3,1102.7,12.7,30.8,0.3

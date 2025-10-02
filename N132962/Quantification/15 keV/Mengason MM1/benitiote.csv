@@ -1,0 +1,148 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 14:38:20.394625080 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM1 Benitoite[0][all]['MMM1 Benitoite[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Benitoite[0][all],O,8,15.999,0.33737,0.04265,0.33464,0.02815,0.63584,0.02927
+MMM1 Benitoite[0][all],Na,11,22.98976928,0.00036,0.00004,0.00036,0.00005,0.00047,0.00007
+MMM1 Benitoite[0][all],Si,14,28.085,0.19961,0.00063,0.19800,0.00839,0.21431,0.01723
+MMM1 Benitoite[0][all],Ti,22,47.867,0.11211,0.00015,0.11120,0.00471,0.07062,0.00568
+MMM1 Benitoite[0][all],Ba,56,137.327,0.35870,0.00077,0.35580,0.01506,0.07876,0.00633
+# Notes
+#   Analytical total: 1.008 ± 0.043
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Benitoite[0][4][residual].msa.
+#   Plot output to 'MMM1 Benitoite[0][4][quantify].pdf'
+# Spectrum
+#   MMM1 Benitoite[1][all]['MMM1 Benitoite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Benitoite[1][all],O,8,15.999,0.33714,0.04246,0.33450,0.02804,0.63568,0.02917
+MMM1 Benitoite[1][all],Na,11,22.98976928,0.00043,0.00004,0.00043,0.00005,0.00056,0.00007
+MMM1 Benitoite[1][all],Si,14,28.085,0.19980,0.00063,0.19823,0.00837,0.21460,0.01719
+MMM1 Benitoite[1][all],Ti,22,47.867,0.11156,0.00015,0.11068,0.00467,0.07030,0.00563
+MMM1 Benitoite[1][all],Ba,56,137.327,0.35899,0.00077,0.35617,0.01502,0.07886,0.00632
+# Notes
+#   Analytical total: 1.008 ± 0.042
+#   Duane-Hunt: 15.05 keV
+#   Residual written to MMM1 Benitoite[1][4][residual].msa.
+#   Plot output to 'MMM1 Benitoite[1][4][quantify].pdf'
+# Spectrum
+#   MMM1 Benitoite[2][all]['MMM1 Benitoite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Benitoite[2][all],O,8,15.999,0.33669,0.04231,0.33422,0.02797,0.63540,0.02912
+MMM1 Benitoite[2][all],Na,11,22.98976928,0.00049,0.00004,0.00048,0.00005,0.00064,0.00008
+MMM1 Benitoite[2][all],Si,14,28.085,0.19982,0.00063,0.19835,0.00835,0.21482,0.01716
+MMM1 Benitoite[2][all],Ti,22,47.867,0.11126,0.00015,0.11045,0.00464,0.07018,0.00561
+MMM1 Benitoite[2][all],Ba,56,137.327,0.35913,0.00077,0.35650,0.01498,0.07896,0.00631
+# Notes
+#   Analytical total: 1.007 ± 0.042
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Benitoite[2][4][residual].msa.
+#   Plot output to 'MMM1 Benitoite[2][4][quantify].pdf'
+# Spectrum
+#   MMM1 Benitoite[3][all]['MMM1 Benitoite[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Benitoite[3][all],O,8,15.999,0.33481,0.04202,0.33345,0.02790,0.63469,0.02910
+MMM1 Benitoite[3][all],Na,11,22.98976928,0.00021,0.00004,0.00021,0.00004,0.00028,0.00006
+MMM1 Benitoite[3][all],Si,14,28.085,0.19947,0.00062,0.19866,0.00833,0.21540,0.01717
+MMM1 Benitoite[3][all],Ti,22,47.867,0.11123,0.00015,0.11078,0.00464,0.07048,0.00561
+MMM1 Benitoite[3][all],Ba,56,137.327,0.35837,0.00077,0.35691,0.01495,0.07915,0.00631
+# Notes
+#   Analytical total: 1.004 ± 0.042
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM1 Benitoite[3][4][residual].msa.
+#   Plot output to 'MMM1 Benitoite[3][4][quantify].pdf'
+# Spectrum
+#   MMM1 Benitoite[4][all]['MMM1 Benitoite[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Benitoite[4][all],O,8,15.999,0.33616,0.04220,0.33359,0.02791,0.63493,0.02910
+MMM1 Benitoite[4][all],Na,11,22.98976928,0.00044,0.00004,0.00044,0.00005,0.00058,0.00007
+MMM1 Benitoite[4][all],Si,14,28.085,0.19993,0.00063,0.19841,0.00833,0.21512,0.01715
+MMM1 Benitoite[4][all],Ti,22,47.867,0.11111,0.00015,0.11026,0.00462,0.07014,0.00559
+MMM1 Benitoite[4][all],Ba,56,137.327,0.36005,0.00077,0.35730,0.01497,0.07923,0.00632
+# Notes
+#   Analytical total: 1.008 ± 0.042
+#   Duane-Hunt: 15.03 keV
+#   Residual written to MMM1 Benitoite[4][4][residual].msa.
+#   Plot output to 'MMM1 Benitoite[4][4][quantify].pdf'
+# Spectrum
+#   MMM1 Benitoite[5][all]['MMM1 Benitoite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Benitoite[5][all],O,8,15.999,0.33769,0.04274,0.33468,0.02818,0.63563,0.02931
+MMM1 Benitoite[5][all],Na,11,22.98976928,0.00046,0.00004,0.00046,0.00005,0.00061,0.00008
+MMM1 Benitoite[5][all],Si,14,28.085,0.20006,0.00063,0.19828,0.00841,0.21452,0.01726
+MMM1 Benitoite[5][all],Ti,22,47.867,0.11225,0.00015,0.11124,0.00471,0.07062,0.00568
+MMM1 Benitoite[5][all],Ba,56,137.327,0.35853,0.00077,0.35534,0.01506,0.07862,0.00633
+# Notes
+#   Analytical total: 1.009 ± 0.043
+#   Duane-Hunt: 14.99 keV
+#   Residual written to MMM1 Benitoite[5][4][residual].msa.
+#   Plot output to 'MMM1 Benitoite[5][4][quantify].pdf'
+# Spectrum
+#   MMM1 Benitoite[6][all]['MMM1 Benitoite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Benitoite[6][all],O,8,15.999,0.33667,0.04244,0.33448,0.02806,0.63545,0.02920
+MMM1 Benitoite[6][all],Na,11,22.98976928,0.00027,0.00004,0.00027,0.00005,0.00036,0.00006
+MMM1 Benitoite[6][all],Si,14,28.085,0.19995,0.00063,0.19865,0.00839,0.21499,0.01723
+MMM1 Benitoite[6][all],Ti,22,47.867,0.11176,0.00015,0.11103,0.00468,0.07050,0.00565
+MMM1 Benitoite[6][all],Ba,56,137.327,0.35791,0.00077,0.35558,0.01500,0.07870,0.00631
+# Notes
+#   Analytical total: 1.007 ± 0.042
+#   Duane-Hunt: 14.99 keV
+#   Residual written to MMM1 Benitoite[6][4][residual].msa.
+#   Plot output to 'MMM1 Benitoite[6][4][quantify].pdf'
+# Spectrum
+#   MMM1 Benitoite[7][all]['MMM1 Benitoite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Benitoite[7][all],O,8,15.999,0.33592,0.04215,0.33384,0.02791,0.63527,0.02908
+MMM1 Benitoite[7][all],Na,11,22.98976928,0.00027,0.00004,0.00027,0.00005,0.00035,0.00006
+MMM1 Benitoite[7][all],Si,14,28.085,0.19955,0.00063,0.19831,0.00832,0.21497,0.01714
+MMM1 Benitoite[7][all],Ti,22,47.867,0.11109,0.00015,0.11040,0.00463,0.07022,0.00560
+MMM1 Benitoite[7][all],Ba,56,137.327,0.35942,0.00077,0.35719,0.01497,0.07919,0.00631
+# Notes
+#   Analytical total: 1.006 ± 0.042
+#   Duane-Hunt: 15.05 keV
+#   Residual written to MMM1 Benitoite[7][4][residual].msa.
+#   Plot output to 'MMM1 Benitoite[7][4][quantify].pdf'
+# Result Comparison
+Name,O,Na,Si,Ti,Ba,Σ
+MMM1 Benitoite[0][all],0.337 ± 0.043,0.000358 ± 0.000044,0.19961 ± 0.00063,0.11211 ± 0.00015,0.35870 ± 0.00077,1.008 ± 0.043
+MMM1 Benitoite[1][all],0.337 ± 0.042,0.000429 ± 0.000044,0.19980 ± 0.00063,0.11156 ± 0.00015,0.35899 ± 0.00077,1.008 ± 0.042
+MMM1 Benitoite[2][all],0.337 ± 0.042,0.000486 ± 0.000044,0.19982 ± 0.00063,0.11126 ± 0.00015,0.35913 ± 0.00077,1.007 ± 0.042
+MMM1 Benitoite[3][all],0.335 ± 0.042,0.000214 ± 0.000044,0.19947 ± 0.00062,0.11123 ± 0.00015,0.35837 ± 0.00077,1.004 ± 0.042
+MMM1 Benitoite[4][all],0.336 ± 0.042,0.000443 ± 0.000044,0.19993 ± 0.00063,0.11111 ± 0.00015,0.36005 ± 0.00077,1.008 ± 0.042
+MMM1 Benitoite[5][all],0.338 ± 0.043,0.000464 ± 0.000044,0.20006 ± 0.00063,0.11225 ± 0.00015,0.35853 ± 0.00077,1.009 ± 0.043
+MMM1 Benitoite[6][all],0.337 ± 0.042,0.000270 ± 0.000044,0.19995 ± 0.00063,0.11176 ± 0.00015,0.35791 ± 0.00077,1.007 ± 0.042
+MMM1 Benitoite[7][all],0.336 ± 0.042,0.000269 ± 0.000044,0.19955 ± 0.00063,0.11109 ± 0.00015,0.35942 ± 0.00077,1.006 ± 0.042
+Mean,0.33656 ± 0.00092,0.00037 ± 0.00010,0.19977 ± 0.00021,0.11155 ± 0.00045,0.35889 ± 0.00066,1.0071 ± 0.0015
+Nominal,0.3548,0.0007,0.2119,0.1145,0.3129,1
+RDEV (%),-5.1,-47.6,-5.7,-2.6,14.7,0.7

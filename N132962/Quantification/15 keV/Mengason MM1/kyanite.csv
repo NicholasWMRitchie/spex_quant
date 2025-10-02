@@ -1,0 +1,132 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 14:38:25.725005638 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM1 Kyanite[0][all]['MMM1 Kyanite[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Kyanite[0][all],O,8,15.999,0.48451,0.01808,0.48317,0.00933,0.61517,0.00884
+MMM1 Kyanite[0][all],Al,13,26.9815384,0.33728,0.00083,0.33635,0.00609,0.25393,0.00585
+MMM1 Kyanite[0][all],Si,14,28.085,0.18097,0.00062,0.18048,0.00330,0.13090,0.00303
+# Notes
+#   Analytical total: 1.003 ± 0.018
+#   Duane-Hunt: 15.05 keV
+#   Residual written to MMM1 Kyanite[0][4][residual].msa.
+#   Plot output to 'MMM1 Kyanite[0][4][quantify].pdf'
+# Spectrum
+#   MMM1 Kyanite[1][all]['MMM1 Kyanite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Kyanite[1][all],O,8,15.999,0.48147,0.01799,0.48245,0.00934,0.61449,0.00887
+MMM1 Kyanite[1][all],Al,13,26.9815384,0.33588,0.00082,0.33657,0.00610,0.25419,0.00586
+MMM1 Kyanite[1][all],Si,14,28.085,0.18061,0.00062,0.18098,0.00331,0.13132,0.00304
+# Notes
+#   Analytical total: 0.998 ± 0.018
+#   Duane-Hunt: 15.12 keV
+#   Residual written to MMM1 Kyanite[1][4][residual].msa.
+#   Plot output to 'MMM1 Kyanite[1][4][quantify].pdf'
+# Spectrum
+#   MMM1 Kyanite[2][all]['MMM1 Kyanite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Kyanite[2][all],O,8,15.999,0.48292,0.01800,0.48236,0.00932,0.61440,0.00884
+MMM1 Kyanite[2][all],Al,13,26.9815384,0.33746,0.00083,0.33707,0.00609,0.25458,0.00585
+MMM1 Kyanite[2][all],Si,14,28.085,0.18078,0.00062,0.18057,0.00329,0.13102,0.00303
+# Notes
+#   Analytical total: 1.001 ± 0.018
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Kyanite[2][4][residual].msa.
+#   Plot output to 'MMM1 Kyanite[2][4][quantify].pdf'
+# Spectrum
+#   MMM1 Kyanite[3][all]['MMM1 Kyanite[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Kyanite[3][all],O,8,15.999,0.48263,0.01801,0.48291,0.00933,0.61492,0.00885
+MMM1 Kyanite[3][all],Al,13,26.9815384,0.33637,0.00082,0.33655,0.00609,0.25412,0.00585
+MMM1 Kyanite[3][all],Si,14,28.085,0.18044,0.00062,0.18054,0.00330,0.13096,0.00303
+# Notes
+#   Analytical total: 0.999 ± 0.018
+#   Duane-Hunt: 15.08 keV
+#   Residual written to MMM1 Kyanite[3][4][residual].msa.
+#   Plot output to 'MMM1 Kyanite[3][4][quantify].pdf'
+# Spectrum
+#   MMM1 Kyanite[4][all]['MMM1 Kyanite[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Kyanite[4][all],O,8,15.999,0.48659,0.01815,0.48339,0.00933,0.61538,0.00884
+MMM1 Kyanite[4][all],Al,13,26.9815384,0.33836,0.00083,0.33614,0.00609,0.25374,0.00585
+MMM1 Kyanite[4][all],Si,14,28.085,0.18166,0.00062,0.18047,0.00330,0.13088,0.00303
+# Notes
+#   Analytical total: 1.007 ± 0.018
+#   Duane-Hunt: 15.19 keV
+#   Residual written to MMM1 Kyanite[4][4][residual].msa.
+#   Plot output to 'MMM1 Kyanite[4][4][quantify].pdf'
+# Spectrum
+#   MMM1 Kyanite[5][all]['MMM1 Kyanite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Kyanite[5][all],O,8,15.999,0.48428,0.01804,0.48287,0.00931,0.61488,0.00883
+MMM1 Kyanite[5][all],Al,13,26.9815384,0.33787,0.00083,0.33689,0.00609,0.25437,0.00584
+MMM1 Kyanite[5][all],Si,14,28.085,0.18076,0.00062,0.18024,0.00328,0.13074,0.00302
+# Notes
+#   Analytical total: 1.003 ± 0.018
+#   Duane-Hunt: 15.14 keV
+#   Residual written to MMM1 Kyanite[5][4][residual].msa.
+#   Plot output to 'MMM1 Kyanite[5][4][quantify].pdf'
+# Spectrum
+#   MMM1 Kyanite[6][all]['MMM1 Kyanite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Kyanite[6][all],O,8,15.999,0.48463,0.01806,0.48268,0.00932,0.61470,0.00884
+MMM1 Kyanite[6][all],Al,13,26.9815384,0.33825,0.00083,0.33689,0.00609,0.25440,0.00585
+MMM1 Kyanite[6][all],Si,14,28.085,0.18116,0.00062,0.18043,0.00329,0.13090,0.00302
+# Notes
+#   Analytical total: 1.004 ± 0.018
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Kyanite[6][4][residual].msa.
+#   Plot output to 'MMM1 Kyanite[6][4][quantify].pdf'
+# Spectrum
+#   MMM1 Kyanite[7][all]['MMM1 Kyanite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Kyanite[7][all],O,8,15.999,0.48444,0.01810,0.48262,0.00934,0.61465,0.00886
+MMM1 Kyanite[7][all],Al,13,26.9815384,0.33762,0.00083,0.33635,0.00609,0.25401,0.00585
+MMM1 Kyanite[7][all],Si,14,28.085,0.18172,0.00062,0.18103,0.00331,0.13134,0.00304
+# Notes
+#   Analytical total: 1.004 ± 0.018
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Kyanite[7][4][residual].msa.
+#   Plot output to 'MMM1 Kyanite[7][4][quantify].pdf'
+# Result Comparison
+Name,O,Al,Si,Σ
+MMM1 Kyanite[0][all],0.485 ± 0.018,0.33728 ± 0.00083,0.18097 ± 0.00062,1.003 ± 0.018
+MMM1 Kyanite[1][all],0.481 ± 0.018,0.33588 ± 0.00082,0.18061 ± 0.00062,0.998 ± 0.018
+MMM1 Kyanite[2][all],0.483 ± 0.018,0.33746 ± 0.00083,0.18078 ± 0.00062,1.001 ± 0.018
+MMM1 Kyanite[3][all],0.483 ± 0.018,0.33637 ± 0.00082,0.18044 ± 0.00062,0.999 ± 0.018
+MMM1 Kyanite[4][all],0.487 ± 0.018,0.33836 ± 0.00083,0.18166 ± 0.00062,1.007 ± 0.018
+MMM1 Kyanite[5][all],0.484 ± 0.018,0.33787 ± 0.00083,0.18076 ± 0.00062,1.003 ± 0.018
+MMM1 Kyanite[6][all],0.485 ± 0.018,0.33825 ± 0.00083,0.18116 ± 0.00062,1.004 ± 0.018
+MMM1 Kyanite[7][all],0.484 ± 0.018,0.33762 ± 0.00083,0.18172 ± 0.00062,1.004 ± 0.018
+Mean,0.4839 ± 0.0016,0.33739 ± 0.00087,0.18101 ± 0.00047,1.0023 ± 0.0027
+Nominal,0.4937,0.333,0.1733,1
+RDEV (%),-2,1.3,4.5,0.2

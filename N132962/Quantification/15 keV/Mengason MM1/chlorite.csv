@@ -1,0 +1,183 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 14:38:22.005206881 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM1 Chlorite[0][all]['MMM1 Chlorite[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chlorite[0][all],O,8,15.999,0.48588,0.02909,0.50670,0.01497,0.63664,0.01385
+MMM1 Chlorite[0][all],Mg,12,24.305,0.19262,0.00021,0.20087,0.00610,0.16614,0.00633
+MMM1 Chlorite[0][all],Al,13,26.9815384,0.09446,0.00031,0.09851,0.00300,0.07339,0.00281
+MMM1 Chlorite[0][all],Si,14,28.085,0.14474,0.00035,0.15094,0.00459,0.10804,0.00412
+MMM1 Chlorite[0][all],Cr,24,51.9961,0.01322,0.00005,0.01378,0.00042,0.00533,0.00020
+MMM1 Chlorite[0][all],Fe,26,55.845,0.02558,0.00007,0.02667,0.00081,0.00960,0.00037
+MMM1 Chlorite[0][all],Ni,28,58.6934,0.00242,0.00006,0.00253,0.00010,0.00086,0.00004
+# Notes
+#   Analytical total: 0.959 ± 0.029
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Chlorite[0][4][residual].msa.
+#   Plot output to 'MMM1 Chlorite[0][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chlorite[1][all]['MMM1 Chlorite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chlorite[1][all],O,8,15.999,0.48770,0.02923,0.50775,0.01498,0.63745,0.01385
+MMM1 Chlorite[1][all],Mg,12,24.305,0.19272,0.00021,0.20065,0.00611,0.16582,0.00634
+MMM1 Chlorite[1][all],Al,13,26.9815384,0.09426,0.00031,0.09814,0.00300,0.07306,0.00280
+MMM1 Chlorite[1][all],Si,14,28.085,0.14527,0.00035,0.15125,0.00461,0.10817,0.00414
+MMM1 Chlorite[1][all],Cr,24,51.9961,0.01315,0.00005,0.01369,0.00042,0.00529,0.00020
+MMM1 Chlorite[1][all],Fe,26,55.845,0.02558,0.00007,0.02663,0.00081,0.00958,0.00037
+MMM1 Chlorite[1][all],Ni,28,58.6934,0.00182,0.00006,0.00189,0.00009,0.00065,0.00003
+# Notes
+#   Analytical total: 0.961 ± 0.029
+#   Duane-Hunt: 15.17 keV
+#   Residual written to MMM1 Chlorite[1][4][residual].msa.
+#   Plot output to 'MMM1 Chlorite[1][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chlorite[2][all]['MMM1 Chlorite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chlorite[2][all],O,8,15.999,0.48666,0.02919,0.50680,0.01499,0.63662,0.01388
+MMM1 Chlorite[2][all],Mg,12,24.305,0.19324,0.00021,0.20123,0.00612,0.16640,0.00636
+MMM1 Chlorite[2][all],Al,13,26.9815384,0.09402,0.00031,0.09791,0.00299,0.07293,0.00279
+MMM1 Chlorite[2][all],Si,14,28.085,0.14548,0.00035,0.15150,0.00462,0.10841,0.00415
+MMM1 Chlorite[2][all],Cr,24,51.9961,0.01305,0.00005,0.01359,0.00042,0.00525,0.00020
+MMM1 Chlorite[2][all],Fe,26,55.845,0.02555,0.00007,0.02661,0.00081,0.00958,0.00037
+MMM1 Chlorite[2][all],Ni,28,58.6934,0.00226,0.00006,0.00236,0.00010,0.00081,0.00004
+# Notes
+#   Analytical total: 0.960 ± 0.029
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Chlorite[2][4][residual].msa.
+#   Plot output to 'MMM1 Chlorite[2][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chlorite[3][all]['MMM1 Chlorite[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chlorite[3][all],O,8,15.999,0.48821,0.02928,0.50813,0.01499,0.63773,0.01386
+MMM1 Chlorite[3][all],Mg,12,24.305,0.19272,0.00021,0.20059,0.00612,0.16571,0.00634
+MMM1 Chlorite[3][all],Al,13,26.9815384,0.09401,0.00031,0.09785,0.00300,0.07282,0.00279
+MMM1 Chlorite[3][all],Si,14,28.085,0.14561,0.00035,0.15155,0.00463,0.10835,0.00415
+MMM1 Chlorite[3][all],Cr,24,51.9961,0.01301,0.00005,0.01354,0.00042,0.00523,0.00020
+MMM1 Chlorite[3][all],Fe,26,55.845,0.02515,0.00007,0.02618,0.00080,0.00941,0.00036
+MMM1 Chlorite[3][all],Ni,28,58.6934,0.00208,0.00006,0.00216,0.00009,0.00074,0.00004
+# Notes
+#   Analytical total: 0.961 ± 0.029
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Chlorite[3][4][residual].msa.
+#   Plot output to 'MMM1 Chlorite[3][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chlorite[4][all]['MMM1 Chlorite[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chlorite[4][all],O,8,15.999,0.48918,0.02932,0.50806,0.01498,0.63768,0.01385
+MMM1 Chlorite[4][all],Mg,12,24.305,0.19328,0.00021,0.20074,0.00612,0.16585,0.00634
+MMM1 Chlorite[4][all],Al,13,26.9815384,0.09447,0.00031,0.09811,0.00300,0.07302,0.00280
+MMM1 Chlorite[4][all],Si,14,28.085,0.14545,0.00035,0.15106,0.00461,0.10801,0.00413
+MMM1 Chlorite[4][all],Cr,24,51.9961,0.01312,0.00005,0.01362,0.00042,0.00526,0.00020
+MMM1 Chlorite[4][all],Fe,26,55.845,0.02536,0.00007,0.02634,0.00081,0.00947,0.00036
+MMM1 Chlorite[4][all],Ni,28,58.6934,0.00199,0.00006,0.00206,0.00009,0.00071,0.00003
+# Notes
+#   Analytical total: 0.963 ± 0.029
+#   Duane-Hunt: 15.17 keV
+#   Residual written to MMM1 Chlorite[4][4][residual].msa.
+#   Plot output to 'MMM1 Chlorite[4][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chlorite[5][all]['MMM1 Chlorite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chlorite[5][all],O,8,15.999,0.48400,0.02899,0.50527,0.01498,0.63508,0.01389
+MMM1 Chlorite[5][all],Mg,12,24.305,0.19323,0.00021,0.20173,0.00611,0.16690,0.00635
+MMM1 Chlorite[5][all],Al,13,26.9815384,0.09471,0.00031,0.09888,0.00301,0.07369,0.00281
+MMM1 Chlorite[5][all],Si,14,28.085,0.14558,0.00035,0.15198,0.00461,0.10882,0.00415
+MMM1 Chlorite[5][all],Cr,24,51.9961,0.01315,0.00005,0.01373,0.00042,0.00531,0.00020
+MMM1 Chlorite[5][all],Fe,26,55.845,0.02537,0.00007,0.02649,0.00081,0.00954,0.00036
+MMM1 Chlorite[5][all],Ni,28,58.6934,0.00185,0.00006,0.00193,0.00009,0.00066,0.00003
+# Notes
+#   Analytical total: 0.958 ± 0.029
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Chlorite[5][4][residual].msa.
+#   Plot output to 'MMM1 Chlorite[5][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chlorite[6][all]['MMM1 Chlorite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chlorite[6][all],O,8,15.999,0.48850,0.02927,0.50714,0.01498,0.63703,0.01386
+MMM1 Chlorite[6][all],Mg,12,24.305,0.19332,0.00021,0.20070,0.00610,0.16595,0.00634
+MMM1 Chlorite[6][all],Al,13,26.9815384,0.09465,0.00031,0.09826,0.00300,0.07319,0.00280
+MMM1 Chlorite[6][all],Si,14,28.085,0.14547,0.00035,0.15102,0.00460,0.10807,0.00413
+MMM1 Chlorite[6][all],Cr,24,51.9961,0.01358,0.00005,0.01410,0.00043,0.00545,0.00021
+MMM1 Chlorite[6][all],Fe,26,55.845,0.02549,0.00007,0.02646,0.00081,0.00952,0.00036
+MMM1 Chlorite[6][all],Ni,28,58.6934,0.00223,0.00006,0.00231,0.00009,0.00079,0.00004
+# Notes
+#   Analytical total: 0.963 ± 0.029
+#   Duane-Hunt: 15.05 keV
+#   Residual written to MMM1 Chlorite[6][4][residual].msa.
+#   Plot output to 'MMM1 Chlorite[6][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chlorite[7][all]['MMM1 Chlorite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chlorite[7][all],O,8,15.999,0.48871,0.02928,0.50821,0.01498,0.63777,0.01385
+MMM1 Chlorite[7][all],Mg,12,24.305,0.19319,0.00021,0.20090,0.00612,0.16596,0.00634
+MMM1 Chlorite[7][all],Al,13,26.9815384,0.09439,0.00031,0.09816,0.00300,0.07304,0.00280
+MMM1 Chlorite[7][all],Si,14,28.085,0.14511,0.00035,0.15090,0.00461,0.10788,0.00413
+MMM1 Chlorite[7][all],Cr,24,51.9961,0.01311,0.00005,0.01363,0.00042,0.00526,0.00020
+MMM1 Chlorite[7][all],Fe,26,55.845,0.02501,0.00007,0.02600,0.00080,0.00935,0.00036
+MMM1 Chlorite[7][all],Ni,28,58.6934,0.00211,0.00006,0.00219,0.00009,0.00075,0.00004
+# Notes
+#   Analytical total: 0.962 ± 0.029
+#   Duane-Hunt: 15.03 keV
+#   Residual written to MMM1 Chlorite[7][4][residual].msa.
+#   Plot output to 'MMM1 Chlorite[7][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chlorite[8][all]['MMM1 Chlorite[8][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chlorite[8][all],O,8,15.999,0.48774,0.02922,0.50767,0.01497,0.63742,0.01385
+MMM1 Chlorite[8][all],Mg,12,24.305,0.19285,0.00021,0.20073,0.00611,0.16591,0.00634
+MMM1 Chlorite[8][all],Al,13,26.9815384,0.09438,0.00031,0.09824,0.00300,0.07314,0.00280
+MMM1 Chlorite[8][all],Si,14,28.085,0.14496,0.00035,0.15088,0.00460,0.10792,0.00413
+MMM1 Chlorite[8][all],Cr,24,51.9961,0.01351,0.00005,0.01406,0.00043,0.00543,0.00021
+MMM1 Chlorite[8][all],Fe,26,55.845,0.02525,0.00007,0.02629,0.00080,0.00946,0.00036
+MMM1 Chlorite[8][all],Ni,28,58.6934,0.00205,0.00006,0.00213,0.00009,0.00073,0.00004
+# Notes
+#   Analytical total: 0.961 ± 0.029
+#   Duane-Hunt: 15.10 keV
+#   Residual written to MMM1 Chlorite[8][4][residual].msa.
+#   Plot output to 'MMM1 Chlorite[8][4][quantify].pdf'
+# Result Comparison
+Name,O,Mg,Al,Si,Cr,Fe,Ni,Σ
+MMM1 Chlorite[0][all],0.486 ± 0.029,0.19262 ± 0.00021,0.09446 ± 0.00031,0.14474 ± 0.00035,0.013215 ± 0.000050,0.025576 ± 0.000071,0.002421 ± 0.000061,0.959 ± 0.029
+MMM1 Chlorite[1][all],0.488 ± 0.029,0.19272 ± 0.00021,0.09426 ± 0.00031,0.14527 ± 0.00035,0.013153 ± 0.000050,0.025579 ± 0.000071,0.001817 ± 0.000061,0.961 ± 0.029
+MMM1 Chlorite[2][all],0.487 ± 0.029,0.19324 ± 0.00021,0.09402 ± 0.00031,0.14548 ± 0.00035,0.013053 ± 0.000050,0.025551 ± 0.000071,0.002263 ± 0.000061,0.960 ± 0.029
+MMM1 Chlorite[3][all],0.488 ± 0.029,0.19272 ± 0.00021,0.09401 ± 0.00031,0.14561 ± 0.00035,0.013011 ± 0.000050,0.025153 ± 0.000071,0.002077 ± 0.000061,0.961 ± 0.029
+MMM1 Chlorite[4][all],0.489 ± 0.029,0.19328 ± 0.00021,0.09447 ± 0.00031,0.14545 ± 0.00035,0.013115 ± 0.000050,0.025359 ± 0.000071,0.001987 ± 0.000061,0.963 ± 0.029
+MMM1 Chlorite[5][all],0.484 ± 0.029,0.19323 ± 0.00021,0.09471 ± 0.00031,0.14558 ± 0.00035,0.013153 ± 0.000050,0.025374 ± 0.000071,0.001849 ± 0.000061,0.958 ± 0.029
+MMM1 Chlorite[6][all],0.489 ± 0.029,0.19332 ± 0.00021,0.09465 ± 0.00031,0.14547 ± 0.00035,0.013579 ± 0.000050,0.025492 ± 0.000071,0.002228 ± 0.000061,0.963 ± 0.029
+MMM1 Chlorite[7][all],0.489 ± 0.029,0.19319 ± 0.00021,0.09439 ± 0.00031,0.14511 ± 0.00035,0.013108 ± 0.000050,0.025007 ± 0.000071,0.002108 ± 0.000061,0.962 ± 0.029
+MMM1 Chlorite[8][all],0.488 ± 0.029,0.19285 ± 0.00021,0.09438 ± 0.00031,0.14496 ± 0.00035,0.013510 ± 0.000050,0.025255 ± 0.000071,0.002047 ± 0.000061,0.961 ± 0.029
+Mean,0.4874 ± 0.0016,0.19302 ± 0.00029,0.09437 ± 0.00024,0.14530 ± 0.00030,0.01321 ± 0.00020,0.02537 ± 0.00020,0.00209 ± 0.00020,0.9608 ± 0.0017
+Nominal,0.5118,0.2023,0.0787,0.1503,0.0154,0.0265,0.0017,1
+RDEV (%),-4.8,-4.6,19.9,-3.3,-14.2,-4.3,22.9,-3.9

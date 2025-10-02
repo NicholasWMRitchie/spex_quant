@@ -1,0 +1,165 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 14:38:21.417557971 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM1 Celestite[0][all]['MMM1 Celestite[0][4].msa']
+# Fit warnings
+#   Removing Si from the fit and re-fitting (threshold = 0.0σ).
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Celestite[0][all],O,8,15.999,0.33958,0.02752,0.33039,0.01903,0.65060,0.02218
+MMM1 Celestite[0][all],Si,14,28.085,0.00000,0.00006,0.00000,0.00006,0.00000,0.00006
+MMM1 Celestite[0][all],S,16,32.06,0.17894,0.01983,0.17410,0.01661,0.17109,0.01812
+MMM1 Celestite[0][all],Ca,20,40.078,0.00036,0.00003,0.00035,0.00003,0.00028,0.00003
+MMM1 Celestite[0][all],Sr,38,87.62,0.50892,0.00105,0.49515,0.01635,0.17804,0.00998
+# Notes
+#   Analytical total: 1.028 ± 0.034
+#   Duane-Hunt: 15.09 keV
+#   Residual written to MMM1 Celestite[0][4][residual].msa.
+#   Plot output to 'MMM1 Celestite[0][4][quantify].pdf'
+# Spectrum
+#   MMM1 Celestite[1][all]['MMM1 Celestite[1][4].msa']
+# Fit warnings
+#   Removing Si from the fit and re-fitting (threshold = 0.0σ).
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Celestite[1][all],O,8,15.999,0.33908,0.02745,0.33029,0.01901,0.65052,0.02215
+MMM1 Celestite[1][all],Si,14,28.085,0.00000,0.00006,0.00000,0.00006,0.00000,0.00006
+MMM1 Celestite[1][all],S,16,32.06,0.17861,0.01978,0.17397,0.01658,0.17100,0.01810
+MMM1 Celestite[1][all],Ca,20,40.078,0.00046,0.00003,0.00045,0.00004,0.00035,0.00003
+MMM1 Celestite[1][all],Sr,38,87.62,0.50848,0.00105,0.49529,0.01633,0.17812,0.00997
+# Notes
+#   Analytical total: 1.027 ± 0.034
+#   Duane-Hunt: 14.94 keV
+#   Residual written to MMM1 Celestite[1][4][residual].msa.
+#   Plot output to 'MMM1 Celestite[1][4][quantify].pdf'
+# Spectrum
+#   MMM1 Celestite[2][all]['MMM1 Celestite[2][4].msa']
+# Fit warnings
+#   Removing Si from the fit and re-fitting (threshold = 0.0σ).
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Celestite[2][all],O,8,15.999,0.33930,0.02749,0.33023,0.01902,0.65041,0.02217
+MMM1 Celestite[2][all],Si,14,28.085,0.00000,0.00006,0.00000,0.00006,0.00000,0.00006
+MMM1 Celestite[2][all],S,16,32.06,0.17885,0.01982,0.17407,0.01660,0.17109,0.01812
+MMM1 Celestite[2][all],Ca,20,40.078,0.00054,0.00003,0.00053,0.00004,0.00042,0.00003
+MMM1 Celestite[2][all],Sr,38,87.62,0.50878,0.00105,0.49517,0.01634,0.17808,0.00998
+# Notes
+#   Analytical total: 1.027 ± 0.034
+#   Duane-Hunt: 15.00 keV
+#   Residual written to MMM1 Celestite[2][4][residual].msa.
+#   Plot output to 'MMM1 Celestite[2][4][quantify].pdf'
+# Spectrum
+#   MMM1 Celestite[3][all]['MMM1 Celestite[3][4].msa']
+# Fit warnings
+#   Removing Si from the fit and re-fitting (threshold = 0.0σ).
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Celestite[3][all],O,8,15.999,0.34061,0.02756,0.33182,0.01904,0.65219,0.02207
+MMM1 Celestite[3][all],Si,14,28.085,0.00000,0.00006,0.00000,0.00006,0.00000,0.00006
+MMM1 Celestite[3][all],S,16,32.06,0.17793,0.01967,0.17334,0.01651,0.17002,0.01800
+MMM1 Celestite[3][all],Ca,20,40.078,0.00045,0.00003,0.00044,0.00004,0.00034,0.00003
+MMM1 Celestite[3][all],Sr,38,87.62,0.50750,0.00106,0.49441,0.01632,0.17744,0.00995
+# Notes
+#   Analytical total: 1.026 ± 0.034
+#   Duane-Hunt: 15.09 keV
+#   Residual written to MMM1 Celestite[3][4][residual].msa.
+#   Plot output to 'MMM1 Celestite[3][4][quantify].pdf'
+# Spectrum
+#   MMM1 Celestite[4][all]['MMM1 Celestite[4][4].msa']
+# Fit warnings
+#   Removing Si from the fit and re-fitting (threshold = 0.0σ).
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Celestite[4][all],O,8,15.999,0.33772,0.02732,0.32948,0.01897,0.64977,0.02215
+MMM1 Celestite[4][all],Si,14,28.085,0.00000,0.00006,0.00000,0.00006,0.00000,0.00006
+MMM1 Celestite[4][all],S,16,32.06,0.17837,0.01975,0.17401,0.01657,0.17126,0.01811
+MMM1 Celestite[4][all],Ca,20,40.078,0.00042,0.00003,0.00041,0.00004,0.00032,0.00003
+MMM1 Celestite[4][all],Sr,38,87.62,0.50851,0.00105,0.49609,0.01632,0.17864,0.00999
+# Notes
+#   Analytical total: 1.025 ± 0.034
+#   Duane-Hunt: 15.04 keV
+#   Residual written to MMM1 Celestite[4][4][residual].msa.
+#   Plot output to 'MMM1 Celestite[4][4][quantify].pdf'
+# Spectrum
+#   MMM1 Celestite[5][all]['MMM1 Celestite[5][4].msa']
+# Fit warnings
+#   Removing Si from the fit and re-fitting (threshold = 0.0σ).
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Celestite[5][all],O,8,15.999,0.33696,0.02723,0.32920,0.01894,0.64953,0.02213
+MMM1 Celestite[5][all],Si,14,28.085,0.00000,0.00006,0.00000,0.00006,0.00000,0.00006
+MMM1 Celestite[5][all],S,16,32.06,0.17811,0.01970,0.17401,0.01656,0.17133,0.01810
+MMM1 Celestite[5][all],Ca,20,40.078,0.00038,0.00003,0.00037,0.00004,0.00029,0.00003
+MMM1 Celestite[5][all],Sr,38,87.62,0.50812,0.00105,0.49642,0.01631,0.17885,0.00998
+# Notes
+#   Analytical total: 1.024 ± 0.034
+#   Duane-Hunt: 14.96 keV
+#   Residual written to MMM1 Celestite[5][4][residual].msa.
+#   Plot output to 'MMM1 Celestite[5][4][quantify].pdf'
+# Spectrum
+#   MMM1 Celestite[6][all]['MMM1 Celestite[6][4].msa']
+# Fit warnings
+#   Removing Si from the fit and re-fitting (threshold = 0.0σ).
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Celestite[6][all],O,8,15.999,0.33686,0.02722,0.32886,0.01893,0.64895,0.02216
+MMM1 Celestite[6][all],Si,14,28.085,0.00000,0.00006,0.00000,0.00006,0.00000,0.00006
+MMM1 Celestite[6][all],S,16,32.06,0.17880,0.01978,0.17455,0.01660,0.17189,0.01814
+MMM1 Celestite[6][all],Ca,20,40.078,0.00055,0.00003,0.00054,0.00004,0.00042,0.00004
+MMM1 Celestite[6][all],Sr,38,87.62,0.50810,0.00105,0.49604,0.01630,0.17873,0.00997
+# Notes
+#   Analytical total: 1.024 ± 0.034
+#   Duane-Hunt: 15.12 keV
+#   Residual written to MMM1 Celestite[6][4][residual].msa.
+#   Plot output to 'MMM1 Celestite[6][4][quantify].pdf'
+# Spectrum
+#   MMM1 Celestite[7][all]['MMM1 Celestite[7][4].msa']
+# Fit warnings
+#   Removing Si from the fit and re-fitting (threshold = 0.0σ).
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Celestite[7][all],O,8,15.999,0.34080,0.02760,0.33165,0.01905,0.65189,0.02211
+MMM1 Celestite[7][all],Si,14,28.085,0.00000,0.00006,0.00000,0.00006,0.00000,0.00006
+MMM1 Celestite[7][all],S,16,32.06,0.17852,0.01975,0.17373,0.01655,0.17041,0.01804
+MMM1 Celestite[7][all],Ca,20,40.078,0.00041,0.00003,0.00040,0.00004,0.00031,0.00003
+MMM1 Celestite[7][all],Sr,38,87.62,0.50786,0.00105,0.49423,0.01633,0.17738,0.00995
+# Notes
+#   Analytical total: 1.028 ± 0.034
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Celestite[7][4][residual].msa.
+#   Plot output to 'MMM1 Celestite[7][4][quantify].pdf'
+# Spectrum
+#   MMM1 Celestite[8][all]['MMM1 Celestite[8][4].msa']
+# Fit warnings
+#   Removing Si from the fit and re-fitting (threshold = 0.0σ).
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Celestite[8][all],O,8,15.999,0.33759,0.02728,0.32941,0.01895,0.64941,0.02216
+MMM1 Celestite[8][all],Si,14,28.085,0.00000,0.00006,0.00000,0.00006,0.00000,0.00006
+MMM1 Celestite[8][all],S,16,32.06,0.17910,0.01980,0.17476,0.01661,0.17193,0.01814
+MMM1 Celestite[8][all],Ca,20,40.078,0.00042,0.00003,0.00041,0.00004,0.00032,0.00003
+MMM1 Celestite[8][all],Sr,38,87.62,0.50772,0.00105,0.49542,0.01630,0.17834,0.00996
+# Notes
+#   Analytical total: 1.025 ± 0.034
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Celestite[8][4][residual].msa.
+#   Plot output to 'MMM1 Celestite[8][4][quantify].pdf'
+# Result Comparison
+Name,O,Si,S,Ca,Sr,Σ
+MMM1 Celestite[0][all],0.340 ± 0.028,0.000000 ± 0.000059,0.179 ± 0.020,0.000363 ± 0.000033,0.5089 ± 0.0011,1.028 ± 0.034
+MMM1 Celestite[1][all],0.339 ± 0.027,0.000000 ± 0.000059,0.179 ± 0.020,0.000462 ± 0.000034,0.5085 ± 0.0011,1.027 ± 0.034
+MMM1 Celestite[2][all],0.339 ± 0.027,0.000000 ± 0.000059,0.179 ± 0.020,0.000545 ± 0.000034,0.5088 ± 0.0011,1.027 ± 0.034
+MMM1 Celestite[3][all],0.341 ± 0.028,0.000000 ± 0.000059,0.178 ± 0.020,0.000447 ± 0.000034,0.5075 ± 0.0011,1.026 ± 0.034
+MMM1 Celestite[4][all],0.338 ± 0.027,0.000000 ± 0.000059,0.178 ± 0.020,0.000423 ± 0.000034,0.5085 ± 0.0011,1.025 ± 0.034
+MMM1 Celestite[5][all],0.337 ± 0.027,0.000000 ± 0.000059,0.178 ± 0.020,0.000382 ± 0.000034,0.5081 ± 0.0011,1.024 ± 0.034
+MMM1 Celestite[6][all],0.337 ± 0.027,0.000000 ± 0.000058,0.179 ± 0.020,0.000552 ± 0.000034,0.5081 ± 0.0011,1.024 ± 0.034
+MMM1 Celestite[7][all],0.341 ± 0.028,0.000000 ± 0.000059,0.179 ± 0.020,0.000411 ± 0.000034,0.5079 ± 0.0011,1.028 ± 0.034
+MMM1 Celestite[8][all],0.338 ± 0.027,0.000000 ± 0.000058,0.179 ± 0.020,0.000416 ± 0.000034,0.5077 ± 0.0011,1.025 ± 0.034
+Mean,0.3387 ± 0.0015,0,0.17858 ± 0.00039,0.000445 ± 0.000066,0.50822 ± 0.00048,1.0260 ± 0.0016
+Nominal,0.3473,0.0004,0.1738,0.0005,0.4736,1
+RDEV (%),-2.5,-100,2.8,-11.1,7.3,2.6

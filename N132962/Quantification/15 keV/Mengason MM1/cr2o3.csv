@@ -1,0 +1,124 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 14:38:22.693553816 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM1 Cr2O3[0][all]['MMM1 Cr2O3[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Cr2O3[0][all],O,8,15.999,0.34307,0.01615,0.33518,0.01049,0.62100,0.01108
+MMM1 Cr2O3[0][all],Cr,24,51.9961,0.68047,0.00025,0.66482,0.01049,0.37900,0.01108
+# Notes
+#   Analytical total: 1.024 ± 0.016
+#   Duane-Hunt: 15.01 keV
+#   Residual written to MMM1 Cr2O3[0][4][residual].msa.
+#   Plot output to 'MMM1 Cr2O3[0][4][quantify].pdf'
+# Spectrum
+#   MMM1 Cr2O3[1][all]['MMM1 Cr2O3[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Cr2O3[1][all],O,8,15.999,0.34184,0.01608,0.33445,0.01047,0.62023,0.01108
+MMM1 Cr2O3[1][all],Cr,24,51.9961,0.68026,0.00025,0.66555,0.01047,0.37977,0.01108
+# Notes
+#   Analytical total: 1.022 ± 0.016
+#   Duane-Hunt: 15.01 keV
+#   Residual written to MMM1 Cr2O3[1][4][residual].msa.
+#   Plot output to 'MMM1 Cr2O3[1][4][quantify].pdf'
+# Spectrum
+#   MMM1 Cr2O3[2][all]['MMM1 Cr2O3[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Cr2O3[2][all],O,8,15.999,0.34321,0.01617,0.33504,0.01050,0.62085,0.01109
+MMM1 Cr2O3[2][all],Cr,24,51.9961,0.68117,0.00025,0.66496,0.01050,0.37915,0.01109
+# Notes
+#   Analytical total: 1.024 ± 0.016
+#   Duane-Hunt: 15.01 keV
+#   Residual written to MMM1 Cr2O3[2][4][residual].msa.
+#   Plot output to 'MMM1 Cr2O3[2][4][quantify].pdf'
+# Spectrum
+#   MMM1 Cr2O3[3][all]['MMM1 Cr2O3[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Cr2O3[3][all],O,8,15.999,0.33998,0.01596,0.33361,0.01044,0.61934,0.01107
+MMM1 Cr2O3[3][all],Cr,24,51.9961,0.67912,0.00025,0.66639,0.01044,0.38066,0.01107
+# Notes
+#   Analytical total: 1.019 ± 0.016
+#   Duane-Hunt: 15.01 keV
+#   Residual written to MMM1 Cr2O3[3][4][residual].msa.
+#   Plot output to 'MMM1 Cr2O3[3][4][quantify].pdf'
+# Spectrum
+#   MMM1 Cr2O3[4][all]['MMM1 Cr2O3[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Cr2O3[4][all],O,8,15.999,0.34210,0.01609,0.33472,0.01047,0.62051,0.01107
+MMM1 Cr2O3[4][all],Cr,24,51.9961,0.67995,0.00025,0.66528,0.01047,0.37949,0.01107
+# Notes
+#   Analytical total: 1.022 ± 0.016
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Cr2O3[4][4][residual].msa.
+#   Plot output to 'MMM1 Cr2O3[4][4][quantify].pdf'
+# Spectrum
+#   MMM1 Cr2O3[5][all]['MMM1 Cr2O3[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Cr2O3[5][all],O,8,15.999,0.34272,0.01612,0.33509,0.01048,0.62090,0.01107
+MMM1 Cr2O3[5][all],Cr,24,51.9961,0.68005,0.00025,0.66491,0.01048,0.37910,0.01107
+# Notes
+#   Analytical total: 1.023 ± 0.016
+#   Duane-Hunt: 15.04 keV
+#   Residual written to MMM1 Cr2O3[5][4][residual].msa.
+#   Plot output to 'MMM1 Cr2O3[5][4][quantify].pdf'
+# Spectrum
+#   MMM1 Cr2O3[6][all]['MMM1 Cr2O3[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Cr2O3[6][all],O,8,15.999,0.33985,0.01594,0.33381,0.01043,0.61955,0.01105
+MMM1 Cr2O3[6][all],Cr,24,51.9961,0.67823,0.00025,0.66619,0.01043,0.38045,0.01105
+# Notes
+#   Analytical total: 1.018 ± 0.016
+#   Duane-Hunt: 14.98 keV
+#   Residual written to MMM1 Cr2O3[6][4][residual].msa.
+#   Plot output to 'MMM1 Cr2O3[6][4][quantify].pdf'
+# Spectrum
+#   MMM1 Cr2O3[7][all]['MMM1 Cr2O3[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Cr2O3[7][all],O,8,15.999,0.34353,0.01617,0.33544,0.01049,0.62128,0.01108
+MMM1 Cr2O3[7][all],Cr,24,51.9961,0.68059,0.00025,0.66456,0.01049,0.37872,0.01108
+# Notes
+#   Analytical total: 1.024 ± 0.016
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Cr2O3[7][4][residual].msa.
+#   Plot output to 'MMM1 Cr2O3[7][4][quantify].pdf'
+# Result Comparison
+Name,O,Cr,Σ
+MMM1 Cr2O3[0][all],0.343 ± 0.016,0.68047 ± 0.00025,1.024 ± 0.016
+MMM1 Cr2O3[1][all],0.342 ± 0.016,0.68026 ± 0.00025,1.022 ± 0.016
+MMM1 Cr2O3[2][all],0.343 ± 0.016,0.68117 ± 0.00025,1.024 ± 0.016
+MMM1 Cr2O3[3][all],0.340 ± 0.016,0.67912 ± 0.00025,1.019 ± 0.016
+MMM1 Cr2O3[4][all],0.342 ± 0.016,0.67995 ± 0.00025,1.022 ± 0.016
+MMM1 Cr2O3[5][all],0.343 ± 0.016,0.68005 ± 0.00025,1.023 ± 0.016
+MMM1 Cr2O3[6][all],0.340 ± 0.016,0.67823 ± 0.00025,1.018 ± 0.016
+MMM1 Cr2O3[7][all],0.344 ± 0.016,0.68059 ± 0.00025,1.024 ± 0.016
+Mean,0.3420 ± 0.0014,0.67998 ± 0.00092,1.0220 ± 0.0023
+Nominal,0.3158,0.6842,1
+RDEV (%),8.3,-0.6,2.2

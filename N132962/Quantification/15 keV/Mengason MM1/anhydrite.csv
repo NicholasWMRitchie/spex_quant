@@ -1,0 +1,140 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 14:38:19.447954935 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM1 Anhydrite[0][all]['MMM1 Anhydrite[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Anhydrite[0][all],O,8,15.999,0.44531,0.03498,0.45584,0.01949,0.65436,0.01777
+MMM1 Anhydrite[0][all],S,16,32.06,0.24094,0.00038,0.24664,0.00884,0.17668,0.00909
+MMM1 Anhydrite[0][all],Ca,20,40.078,0.28583,0.00021,0.29259,0.01048,0.16767,0.00862
+MMM1 Anhydrite[0][all],Sr,38,87.62,0.00481,0.00007,0.00493,0.00019,0.00129,0.00007
+# Notes
+#   Analytical total: 0.977 ± 0.035
+#   Duane-Hunt: 14.94 keV
+#   Residual written to MMM1 Anhydrite[0][4][residual].msa.
+#   Plot output to 'MMM1 Anhydrite[0][4][quantify].pdf'
+# Spectrum
+#   MMM1 Anhydrite[1][all]['MMM1 Anhydrite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Anhydrite[1][all],O,8,15.999,0.44418,0.03489,0.45541,0.01948,0.65400,0.01778
+MMM1 Anhydrite[1][all],S,16,32.06,0.24009,0.00038,0.24616,0.00881,0.17641,0.00907
+MMM1 Anhydrite[1][all],Ca,20,40.078,0.28640,0.00021,0.29363,0.01051,0.16833,0.00865
+MMM1 Anhydrite[1][all],Sr,38,87.62,0.00468,0.00007,0.00480,0.00019,0.00126,0.00007
+# Notes
+#   Analytical total: 0.975 ± 0.035
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Anhydrite[1][4][residual].msa.
+#   Plot output to 'MMM1 Anhydrite[1][4][quantify].pdf'
+# Spectrum
+#   MMM1 Anhydrite[2][all]['MMM1 Anhydrite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Anhydrite[2][all],O,8,15.999,0.44359,0.03485,0.45484,0.01948,0.65348,0.01779
+MMM1 Anhydrite[2][all],S,16,32.06,0.24041,0.00038,0.24650,0.00881,0.17673,0.00908
+MMM1 Anhydrite[2][all],Ca,20,40.078,0.28657,0.00021,0.29384,0.01050,0.16852,0.00865
+MMM1 Anhydrite[2][all],Sr,38,87.62,0.00470,0.00007,0.00482,0.00019,0.00126,0.00007
+# Notes
+#   Analytical total: 0.975 ± 0.035
+#   Duane-Hunt: 15.07 keV
+#   Residual written to MMM1 Anhydrite[2][4][residual].msa.
+#   Plot output to 'MMM1 Anhydrite[2][4][quantify].pdf'
+# Spectrum
+#   MMM1 Anhydrite[3][all]['MMM1 Anhydrite[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Anhydrite[3][all],O,8,15.999,0.44607,0.03513,0.45595,0.01954,0.65443,0.01781
+MMM1 Anhydrite[3][all],S,16,32.06,0.24091,0.00037,0.24625,0.00885,0.17638,0.00909
+MMM1 Anhydrite[3][all],Ca,20,40.078,0.28682,0.00021,0.29317,0.01053,0.16798,0.00866
+MMM1 Anhydrite[3][all],Sr,38,87.62,0.00453,0.00007,0.00463,0.00018,0.00121,0.00007
+# Notes
+#   Analytical total: 0.978 ± 0.035
+#   Duane-Hunt: 15.09 keV
+#   Residual written to MMM1 Anhydrite[3][4][residual].msa.
+#   Plot output to 'MMM1 Anhydrite[3][4][quantify].pdf'
+# Spectrum
+#   MMM1 Anhydrite[4][all]['MMM1 Anhydrite[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Anhydrite[4][all],O,8,15.999,0.43458,0.03381,0.45093,0.01927,0.64994,0.01770
+MMM1 Anhydrite[4][all],S,16,32.06,0.23903,0.00038,0.24803,0.00871,0.17840,0.00902
+MMM1 Anhydrite[4][all],Ca,20,40.078,0.28532,0.00020,0.29606,0.01039,0.17035,0.00861
+MMM1 Anhydrite[4][all],Sr,38,87.62,0.00480,0.00007,0.00498,0.00019,0.00131,0.00007
+# Notes
+#   Analytical total: 0.964 ± 0.034
+#   Duane-Hunt: 15.15 keV
+#   Residual written to MMM1 Anhydrite[4][4][residual].msa.
+#   Plot output to 'MMM1 Anhydrite[4][4][quantify].pdf'
+# Spectrum
+#   MMM1 Anhydrite[5][all]['MMM1 Anhydrite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Anhydrite[5][all],O,8,15.999,0.44212,0.03474,0.45373,0.01948,0.65246,0.01782
+MMM1 Anhydrite[5][all],S,16,32.06,0.24050,0.00037,0.24681,0.00880,0.17711,0.00908
+MMM1 Anhydrite[5][all],Ca,20,40.078,0.28717,0.00021,0.29471,0.01051,0.16918,0.00867
+MMM1 Anhydrite[5][all],Sr,38,87.62,0.00463,0.00007,0.00476,0.00018,0.00125,0.00007
+# Notes
+#   Analytical total: 0.974 ± 0.035
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Anhydrite[5][4][residual].msa.
+#   Plot output to 'MMM1 Anhydrite[5][4][quantify].pdf'
+# Spectrum
+#   MMM1 Anhydrite[6][all]['MMM1 Anhydrite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Anhydrite[6][all],O,8,15.999,0.44459,0.03493,0.45553,0.01949,0.65416,0.01778
+MMM1 Anhydrite[6][all],S,16,32.06,0.24007,0.00038,0.24598,0.00881,0.17628,0.00906
+MMM1 Anhydrite[6][all],Ca,20,40.078,0.28645,0.00021,0.29350,0.01051,0.16825,0.00865
+MMM1 Anhydrite[6][all],Sr,38,87.62,0.00486,0.00007,0.00498,0.00019,0.00131,0.00007
+# Notes
+#   Analytical total: 0.976 ± 0.035
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Anhydrite[6][4][residual].msa.
+#   Plot output to 'MMM1 Anhydrite[6][4][quantify].pdf'
+# Spectrum
+#   MMM1 Anhydrite[7][all]['MMM1 Anhydrite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Anhydrite[7][all],O,8,15.999,0.44525,0.03504,0.45547,0.01952,0.65405,0.01781
+MMM1 Anhydrite[7][all],S,16,32.06,0.24078,0.00038,0.24631,0.00883,0.17651,0.00909
+MMM1 Anhydrite[7][all],Ca,20,40.078,0.28680,0.00021,0.29338,0.01052,0.16818,0.00866
+MMM1 Anhydrite[7][all],Sr,38,87.62,0.00472,0.00007,0.00483,0.00019,0.00127,0.00007
+# Notes
+#   Analytical total: 0.978 ± 0.035
+#   Duane-Hunt: 15.19 keV
+#   Residual written to MMM1 Anhydrite[7][4][residual].msa.
+#   Plot output to 'MMM1 Anhydrite[7][4][quantify].pdf'
+# Result Comparison
+Name,O,S,Ca,Sr,Σ
+MMM1 Anhydrite[0][all],0.445 ± 0.035,0.24094 ± 0.00038,0.28583 ± 0.00021,0.004812 ± 0.000072,0.977 ± 0.035
+MMM1 Anhydrite[1][all],0.444 ± 0.035,0.24009 ± 0.00038,0.28640 ± 0.00021,0.004682 ± 0.000072,0.975 ± 0.035
+MMM1 Anhydrite[2][all],0.444 ± 0.035,0.24041 ± 0.00038,0.28657 ± 0.00021,0.004700 ± 0.000072,0.975 ± 0.035
+MMM1 Anhydrite[3][all],0.446 ± 0.035,0.24091 ± 0.00037,0.28682 ± 0.00021,0.004530 ± 0.000071,0.978 ± 0.035
+MMM1 Anhydrite[4][all],0.435 ± 0.034,0.23903 ± 0.00038,0.28532 ± 0.00020,0.004798 ± 0.000072,0.964 ± 0.034
+MMM1 Anhydrite[5][all],0.442 ± 0.035,0.24050 ± 0.00037,0.28717 ± 0.00021,0.004634 ± 0.000072,0.974 ± 0.035
+MMM1 Anhydrite[6][all],0.445 ± 0.035,0.24007 ± 0.00038,0.28645 ± 0.00021,0.004862 ± 0.000072,0.976 ± 0.035
+MMM1 Anhydrite[7][all],0.445 ± 0.035,0.24078 ± 0.00038,0.28680 ± 0.00021,0.004722 ± 0.000072,0.978 ± 0.035
+Mean,0.4432 ± 0.0037,0.24034 ± 0.00063,0.28642 ± 0.00059,0.00472 ± 0.00011,0.9747 ± 0.0046
+Nominal,0.4681,0.2336,0.294,0.0052,1
+RDEV (%),-5.3,2.9,-2.6,-9.3,-2.5

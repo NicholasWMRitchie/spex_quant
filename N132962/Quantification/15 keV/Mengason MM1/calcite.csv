@@ -1,0 +1,140 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 14:38:21.081106062 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM1 Calcite[0][all]['MMM1 Calcite[0][4].msa']
+# Fit warnings
+#   The k-ratio '[Y L₁-L₃] = -0.837 ± 0.018' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Calcite[0][all],C,6,12.011,0.12795,0.02550,0.13403,0.02376,0.22687,0.03687
+MMM1 Calcite[0][all],O,8,15.999,0.41913,0.03885,0.43905,0.02566,0.55790,0.03404
+MMM1 Calcite[0][all],Ca,20,40.078,0.40299,0.00017,0.42214,0.02055,0.21413,0.01471
+MMM1 Calcite[0][all],Y,39,88.905838,0.00456,0.00008,0.00478,0.00025,0.00109,0.00008
+# Notes
+#   Analytical total: 0.955 ± 0.046
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Calcite[0][4][residual].msa.
+#   Plot output to 'MMM1 Calcite[0][4][quantify].pdf'
+# Spectrum
+#   MMM1 Calcite[1][all]['MMM1 Calcite[1][4].msa']
+# Fit warnings
+#   The k-ratio '[Y L₁-L₃] = -0.831 ± 0.018' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Calcite[1][all],C,6,12.011,0.12795,0.02551,0.13377,0.02374,0.22624,0.03683
+MMM1 Calcite[1][all],O,8,15.999,0.42138,0.03908,0.44056,0.02570,0.55936,0.03405
+MMM1 Calcite[1][all],Ca,20,40.078,0.40249,0.00017,0.42081,0.02054,0.21329,0.01466
+MMM1 Calcite[1][all],Y,39,88.905838,0.00465,0.00008,0.00486,0.00025,0.00111,0.00008
+# Notes
+#   Analytical total: 0.956 ± 0.047
+#   Duane-Hunt: 15.19 keV
+#   Residual written to MMM1 Calcite[1][4][residual].msa.
+#   Plot output to 'MMM1 Calcite[1][4][quantify].pdf'
+# Spectrum
+#   MMM1 Calcite[2][all]['MMM1 Calcite[2][4].msa']
+# Fit warnings
+#   The k-ratio '[Y L₁-L₃] = -0.846 ± 0.018' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Calcite[2][all],C,6,12.011,0.12804,0.02554,0.13388,0.02376,0.22646,0.03686
+MMM1 Calcite[2][all],O,8,15.999,0.42094,0.03905,0.44013,0.02571,0.55891,0.03406
+MMM1 Calcite[2][all],Ca,20,40.078,0.40285,0.00017,0.42122,0.02055,0.21353,0.01468
+MMM1 Calcite[2][all],Y,39,88.905838,0.00456,0.00008,0.00477,0.00025,0.00109,0.00008
+# Notes
+#   Analytical total: 0.956 ± 0.047
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Calcite[2][4][residual].msa.
+#   Plot output to 'MMM1 Calcite[2][4][quantify].pdf'
+# Spectrum
+#   MMM1 Calcite[3][all]['MMM1 Calcite[3][4].msa']
+# Fit warnings
+#   The k-ratio '[Y L₁-L₃] = -0.869 ± 0.018' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Calcite[3][all],C,6,12.011,0.12764,0.02545,0.13363,0.02371,0.22634,0.03683
+MMM1 Calcite[3][all],O,8,15.999,0.41914,0.03890,0.43880,0.02567,0.55797,0.03403
+MMM1 Calcite[3][all],Ca,20,40.078,0.40382,0.00017,0.42276,0.02057,0.21460,0.01474
+MMM1 Calcite[3][all],Y,39,88.905838,0.00460,0.00008,0.00481,0.00025,0.00110,0.00008
+# Notes
+#   Analytical total: 0.955 ± 0.046
+#   Duane-Hunt: 15.14 keV
+#   Residual written to MMM1 Calcite[3][4][residual].msa.
+#   Plot output to 'MMM1 Calcite[3][4][quantify].pdf'
+# Spectrum
+#   MMM1 Calcite[4][all]['MMM1 Calcite[4][4].msa']
+# Fit warnings
+#   The k-ratio '[Y L₁-L₃] = -0.833 ± 0.018' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Calcite[4][all],C,6,12.011,0.12812,0.02553,0.13401,0.02376,0.22690,0.03688
+MMM1 Calcite[4][all],O,8,15.999,0.41951,0.03892,0.43882,0.02568,0.55778,0.03406
+MMM1 Calcite[4][all],Ca,20,40.078,0.40349,0.00017,0.42206,0.02055,0.21416,0.01472
+MMM1 Calcite[4][all],Y,39,88.905838,0.00488,0.00008,0.00510,0.00026,0.00117,0.00008
+# Notes
+#   Analytical total: 0.956 ± 0.047
+#   Duane-Hunt: 15.03 keV
+#   Residual written to MMM1 Calcite[4][4][residual].msa.
+#   Plot output to 'MMM1 Calcite[4][4][quantify].pdf'
+# Spectrum
+#   MMM1 Calcite[5][all]['MMM1 Calcite[5][4].msa']
+# Fit warnings
+#   The k-ratio '[Y L₁-L₃] = -0.829 ± 0.018' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Calcite[5][all],C,6,12.011,0.12789,0.02549,0.13366,0.02372,0.22602,0.03679
+MMM1 Calcite[5][all],O,8,15.999,0.42198,0.03912,0.44102,0.02570,0.55988,0.03403
+MMM1 Calcite[5][all],Ca,20,40.078,0.40203,0.00017,0.42018,0.02051,0.21294,0.01464
+MMM1 Calcite[5][all],Y,39,88.905838,0.00492,0.00008,0.00514,0.00027,0.00117,0.00008
+# Notes
+#   Analytical total: 0.957 ± 0.047
+#   Duane-Hunt: 15.13 keV
+#   Residual written to MMM1 Calcite[5][4][residual].msa.
+#   Plot output to 'MMM1 Calcite[5][4][quantify].pdf'
+# Spectrum
+#   MMM1 Calcite[6][all]['MMM1 Calcite[6][4].msa']
+# Fit warnings
+#   The k-ratio '[Y L₁-L₃] = -0.819 ± 0.018' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Calcite[6][all],C,6,12.011,0.12783,0.02550,0.13363,0.02373,0.22627,0.03685
+MMM1 Calcite[6][all],O,8,15.999,0.42012,0.03903,0.43918,0.02571,0.55829,0.03406
+MMM1 Calcite[6][all],Ca,20,40.078,0.40406,0.00017,0.42240,0.02059,0.21435,0.01474
+MMM1 Calcite[6][all],Y,39,88.905838,0.00459,0.00008,0.00480,0.00025,0.00110,0.00008
+# Notes
+#   Analytical total: 0.957 ± 0.047
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Calcite[6][4][residual].msa.
+#   Plot output to 'MMM1 Calcite[6][4][quantify].pdf'
+# Spectrum
+#   MMM1 Calcite[7][all]['MMM1 Calcite[7][4].msa']
+# Fit warnings
+#   The k-ratio '[Y L₁-L₃] = -0.857 ± 0.018' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Calcite[7][all],C,6,12.011,0.12858,0.02564,0.13437,0.02384,0.22731,0.03696
+MMM1 Calcite[7][all],O,8,15.999,0.42032,0.03903,0.43926,0.02572,0.55785,0.03412
+MMM1 Calcite[7][all],Ca,20,40.078,0.40348,0.00017,0.42166,0.02058,0.21377,0.01471
+MMM1 Calcite[7][all],Y,39,88.905838,0.00450,0.00008,0.00471,0.00025,0.00108,0.00008
+# Notes
+#   Analytical total: 0.957 ± 0.047
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Calcite[7][4][residual].msa.
+#   Plot output to 'MMM1 Calcite[7][4][quantify].pdf'
+# Result Comparison
+Name,C,O,Ca,Y,Σ
+MMM1 Calcite[0][all],0.128 ± 0.025,0.419 ± 0.039,0.40299 ± 0.00017,0.004564 ± 0.000082,0.955 ± 0.046
+MMM1 Calcite[1][all],0.128 ± 0.026,0.421 ± 0.039,0.40249 ± 0.00017,0.004651 ± 0.000082,0.956 ± 0.047
+MMM1 Calcite[2][all],0.128 ± 0.026,0.421 ± 0.039,0.40285 ± 0.00017,0.004564 ± 0.000082,0.956 ± 0.047
+MMM1 Calcite[3][all],0.128 ± 0.025,0.419 ± 0.039,0.40382 ± 0.00017,0.004597 ± 0.000082,0.955 ± 0.046
+MMM1 Calcite[4][all],0.128 ± 0.026,0.420 ± 0.039,0.40349 ± 0.00017,0.004878 ± 0.000082,0.956 ± 0.047
+MMM1 Calcite[5][all],0.128 ± 0.025,0.422 ± 0.039,0.40203 ± 0.00017,0.004918 ± 0.000082,0.957 ± 0.047
+MMM1 Calcite[6][all],0.128 ± 0.026,0.420 ± 0.039,0.40406 ± 0.00017,0.004588 ± 0.000082,0.957 ± 0.047
+MMM1 Calcite[7][all],0.129 ± 0.026,0.420 ± 0.039,0.40348 ± 0.00017,0.004504 ± 0.000082,0.957 ± 0.047
+Mean,0.12800 ± 0.00027,0.4203 ± 0.0011,0.40315 ± 0.00069,0.00466 ± 0.00015,0.95612 ± 0.00081
+Nominal,0.1197,0.4797,0.4024,0,1
+RDEV (%),6.9,-12.4,0.2,inf,-4.4

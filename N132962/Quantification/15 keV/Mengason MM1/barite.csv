@@ -1,0 +1,132 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 14:38:20.061429432 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM1 Barite[0][all]['MMM1 Barite[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Barite[0][all],O,8,15.999,0.25345,0.01362,0.25110,0.01011,0.64495,0.01231
+MMM1 Barite[0][all],S,16,32.06,0.13453,0.00037,0.13328,0.00183,0.17084,0.00593
+MMM1 Barite[0][all],Ba,56,137.327,0.62136,0.00062,0.61561,0.00831,0.18421,0.00639
+# Notes
+#   Analytical total: 1.009 ± 0.014
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM1 Barite[0][4][residual].msa.
+#   Plot output to 'MMM1 Barite[0][4][quantify].pdf'
+# Spectrum
+#   MMM1 Barite[1][all]['MMM1 Barite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Barite[1][all],O,8,15.999,0.25393,0.01360,0.25226,0.01010,0.64662,0.01224
+MMM1 Barite[1][all],S,16,32.06,0.13355,0.00037,0.13267,0.00182,0.16971,0.00589
+MMM1 Barite[1][all],Ba,56,137.327,0.61913,0.00062,0.61506,0.00831,0.18367,0.00636
+# Notes
+#   Analytical total: 1.007 ± 0.014
+#   Duane-Hunt: 15.00 keV
+#   Residual written to MMM1 Barite[1][4][residual].msa.
+#   Plot output to 'MMM1 Barite[1][4][quantify].pdf'
+# Spectrum
+#   MMM1 Barite[2][all]['MMM1 Barite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Barite[2][all],O,8,15.999,0.25348,0.01357,0.25189,0.01009,0.64634,0.01224
+MMM1 Barite[2][all],S,16,32.06,0.13330,0.00037,0.13247,0.00182,0.16962,0.00588
+MMM1 Barite[2][all],Ba,56,137.327,0.61952,0.00062,0.61564,0.00831,0.18404,0.00637
+# Notes
+#   Analytical total: 1.006 ± 0.014
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM1 Barite[2][4][residual].msa.
+#   Plot output to 'MMM1 Barite[2][4][quantify].pdf'
+# Spectrum
+#   MMM1 Barite[3][all]['MMM1 Barite[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Barite[3][all],O,8,15.999,0.25443,0.01368,0.25186,0.01013,0.64583,0.01230
+MMM1 Barite[3][all],S,16,32.06,0.13458,0.00037,0.13322,0.00183,0.17047,0.00593
+MMM1 Barite[3][all],Ba,56,137.327,0.62117,0.00062,0.61492,0.00833,0.18370,0.00638
+# Notes
+#   Analytical total: 1.010 ± 0.014
+#   Duane-Hunt: 15.00 keV
+#   Residual written to MMM1 Barite[3][4][residual].msa.
+#   Plot output to 'MMM1 Barite[3][4][quantify].pdf'
+# Spectrum
+#   MMM1 Barite[4][all]['MMM1 Barite[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Barite[4][all],O,8,15.999,0.25208,0.01352,0.25042,0.01007,0.64435,0.01229
+MMM1 Barite[4][all],S,16,32.06,0.13393,0.00037,0.13305,0.00182,0.17084,0.00592
+MMM1 Barite[4][all],Ba,56,137.327,0.62059,0.00062,0.61653,0.00829,0.18481,0.00639
+# Notes
+#   Analytical total: 1.007 ± 0.014
+#   Duane-Hunt: 15.03 keV
+#   Residual written to MMM1 Barite[4][4][residual].msa.
+#   Plot output to 'MMM1 Barite[4][4][quantify].pdf'
+# Spectrum
+#   MMM1 Barite[5][all]['MMM1 Barite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Barite[5][all],O,8,15.999,0.25324,0.01358,0.25133,0.01009,0.64535,0.01228
+MMM1 Barite[5][all],S,16,32.06,0.13406,0.00037,0.13305,0.00182,0.17049,0.00591
+MMM1 Barite[5][all],Ba,56,137.327,0.62031,0.00062,0.61562,0.00831,0.18416,0.00638
+# Notes
+#   Analytical total: 1.008 ± 0.014
+#   Duane-Hunt: 14.96 keV
+#   Residual written to MMM1 Barite[5][4][residual].msa.
+#   Plot output to 'MMM1 Barite[5][4][quantify].pdf'
+# Spectrum
+#   MMM1 Barite[6][all]['MMM1 Barite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Barite[6][all],O,8,15.999,0.25348,0.01361,0.25138,0.01010,0.64543,0.01229
+MMM1 Barite[6][all],S,16,32.06,0.13413,0.00037,0.13301,0.00182,0.17043,0.00592
+MMM1 Barite[6][all],Ba,56,137.327,0.62075,0.00062,0.61561,0.00831,0.18414,0.00638
+# Notes
+#   Analytical total: 1.008 ± 0.014
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM1 Barite[6][4][residual].msa.
+#   Plot output to 'MMM1 Barite[6][4][quantify].pdf'
+# Spectrum
+#   MMM1 Barite[7][all]['MMM1 Barite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Barite[7][all],O,8,15.999,0.25298,0.01359,0.25084,0.01010,0.64505,0.01230
+MMM1 Barite[7][all],S,16,32.06,0.13380,0.00037,0.13267,0.00182,0.17025,0.00591
+MMM1 Barite[7][all],Ba,56,137.327,0.62175,0.00062,0.61649,0.00831,0.18470,0.00640
+# Notes
+#   Analytical total: 1.009 ± 0.014
+#   Duane-Hunt: 14.99 keV
+#   Residual written to MMM1 Barite[7][4][residual].msa.
+#   Plot output to 'MMM1 Barite[7][4][quantify].pdf'
+# Result Comparison
+Name,O,S,Ba,Σ
+MMM1 Barite[0][all],0.253 ± 0.014,0.13453 ± 0.00037,0.62136 ± 0.00062,1.009 ± 0.014
+MMM1 Barite[1][all],0.254 ± 0.014,0.13355 ± 0.00037,0.61913 ± 0.00062,1.007 ± 0.014
+MMM1 Barite[2][all],0.253 ± 0.014,0.13330 ± 0.00037,0.61952 ± 0.00062,1.006 ± 0.014
+MMM1 Barite[3][all],0.254 ± 0.014,0.13458 ± 0.00037,0.62117 ± 0.00062,1.010 ± 0.014
+MMM1 Barite[4][all],0.252 ± 0.014,0.13393 ± 0.00037,0.62059 ± 0.00062,1.007 ± 0.014
+MMM1 Barite[5][all],0.253 ± 0.014,0.13406 ± 0.00037,0.62031 ± 0.00062,1.008 ± 0.014
+MMM1 Barite[6][all],0.253 ± 0.014,0.13413 ± 0.00037,0.62075 ± 0.00062,1.008 ± 0.014
+MMM1 Barite[7][all],0.253 ± 0.014,0.13380 ± 0.00037,0.62175 ± 0.00062,1.009 ± 0.014
+Mean,0.25338 ± 0.00069,0.13398 ± 0.00044,0.62057 ± 0.00090,1.0079 ± 0.0014
+Nominal,0.2789,0.141,0.5817,1
+RDEV (%),-9.1,-5,6.7,0.8

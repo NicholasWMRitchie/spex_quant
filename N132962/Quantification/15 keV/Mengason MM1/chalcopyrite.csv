@@ -1,0 +1,139 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-02 14:38:21.698582965 -04:00
+#   Application: spex v0.0.117
+#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   MMM1 Chalcopyrite[0][all]['MMM1 Chalcopyrite[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chalcopyrite[0][all],S,16,32.06,0.34501,0.00056,0.34789,0.00039,0.49832,0.00043
+MMM1 Chalcopyrite[0][all],Fe,26,55.845,0.30271,0.00018,0.30524,0.00023,0.25101,0.00024
+MMM1 Chalcopyrite[0][all],Cu,29,63.54599999999999,0.34400,0.00029,0.34687,0.00028,0.25067,0.00026
+# Notes
+#   Analytical total: 0.99171 ± 0.00066
+#   Duane-Hunt: 15.05 keV
+#   Residual written to MMM1 Chalcopyrite[0][4][residual].msa.
+#   Plot output to 'MMM1 Chalcopyrite[0][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chalcopyrite[1][all]['MMM1 Chalcopyrite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chalcopyrite[1][all],S,16,32.06,0.34469,0.00056,0.34786,0.00039,0.49826,0.00043
+MMM1 Chalcopyrite[1][all],Fe,26,55.845,0.30291,0.00018,0.30569,0.00023,0.25137,0.00024
+MMM1 Chalcopyrite[1][all],Cu,29,63.54599999999999,0.34329,0.00029,0.34645,0.00028,0.25036,0.00026
+# Notes
+#   Analytical total: 0.99090 ± 0.00065
+#   Duane-Hunt: 14.96 keV
+#   Residual written to MMM1 Chalcopyrite[1][4][residual].msa.
+#   Plot output to 'MMM1 Chalcopyrite[1][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chalcopyrite[2][all]['MMM1 Chalcopyrite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chalcopyrite[2][all],S,16,32.06,0.34587,0.00056,0.34857,0.00039,0.49912,0.00043
+MMM1 Chalcopyrite[2][all],Fe,26,55.845,0.30147,0.00018,0.30382,0.00023,0.24975,0.00024
+MMM1 Chalcopyrite[2][all],Cu,29,63.54599999999999,0.34493,0.00029,0.34762,0.00028,0.25113,0.00026
+# Notes
+#   Analytical total: 0.99227 ± 0.00066
+#   Duane-Hunt: 14.96 keV
+#   Residual written to MMM1 Chalcopyrite[2][4][residual].msa.
+#   Plot output to 'MMM1 Chalcopyrite[2][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chalcopyrite[3][all]['MMM1 Chalcopyrite[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chalcopyrite[3][all],S,16,32.06,0.34579,0.00056,0.34831,0.00039,0.49876,0.00043
+MMM1 Chalcopyrite[3][all],Fe,26,55.845,0.30335,0.00018,0.30556,0.00023,0.25119,0.00024
+MMM1 Chalcopyrite[3][all],Cu,29,63.54599999999999,0.34362,0.00029,0.34612,0.00028,0.25005,0.00026
+# Notes
+#   Analytical total: 0.99276 ± 0.00066
+#   Duane-Hunt: 14.99 keV
+#   Residual written to MMM1 Chalcopyrite[3][4][residual].msa.
+#   Plot output to 'MMM1 Chalcopyrite[3][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chalcopyrite[4][all]['MMM1 Chalcopyrite[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chalcopyrite[4][all],S,16,32.06,0.34609,0.00056,0.34786,0.00039,0.49832,0.00043
+MMM1 Chalcopyrite[4][all],Fe,26,55.845,0.30299,0.00018,0.30454,0.00023,0.25045,0.00024
+MMM1 Chalcopyrite[4][all],Cu,29,63.54599999999999,0.34582,0.00029,0.34760,0.00028,0.25122,0.00026
+# Notes
+#   Analytical total: 0.99490 ± 0.00066
+#   Duane-Hunt: 14.99 keV
+#   Residual written to MMM1 Chalcopyrite[4][4][residual].msa.
+#   Plot output to 'MMM1 Chalcopyrite[4][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chalcopyrite[5][all]['MMM1 Chalcopyrite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chalcopyrite[5][all],S,16,32.06,0.34544,0.00056,0.34782,0.00039,0.49824,0.00043
+MMM1 Chalcopyrite[5][all],Fe,26,55.845,0.30308,0.00018,0.30516,0.00023,0.25096,0.00024
+MMM1 Chalcopyrite[5][all],Cu,29,63.54599999999999,0.34465,0.00028,0.34702,0.00028,0.25080,0.00026
+# Notes
+#   Analytical total: 0.99317 ± 0.00066
+#   Duane-Hunt: 15.20 keV
+#   Residual written to MMM1 Chalcopyrite[5][4][residual].msa.
+#   Plot output to 'MMM1 Chalcopyrite[5][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chalcopyrite[6][all]['MMM1 Chalcopyrite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chalcopyrite[6][all],S,16,32.06,0.34559,0.00056,0.34774,0.00039,0.49820,0.00043
+MMM1 Chalcopyrite[6][all],Fe,26,55.845,0.30241,0.00018,0.30428,0.00023,0.25027,0.00024
+MMM1 Chalcopyrite[6][all],Cu,29,63.54599999999999,0.34583,0.00029,0.34798,0.00028,0.25153,0.00026
+# Notes
+#   Analytical total: 0.99383 ± 0.00066
+#   Duane-Hunt: 15.02 keV
+#   Residual written to MMM1 Chalcopyrite[6][4][residual].msa.
+#   Plot output to 'MMM1 Chalcopyrite[6][4][quantify].pdf'
+# Spectrum
+#   MMM1 Chalcopyrite[7][all]['MMM1 Chalcopyrite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+MMM1 Chalcopyrite[7][all],S,16,32.06,0.34514,0.00056,0.34828,0.00039,0.49880,0.00043
+MMM1 Chalcopyrite[7][all],Fe,26,55.845,0.30137,0.00018,0.30411,0.00023,0.25004,0.00024
+MMM1 Chalcopyrite[7][all],Cu,29,63.54599999999999,0.34447,0.00029,0.34760,0.00028,0.25116,0.00026
+# Notes
+#   Analytical total: 0.99098 ± 0.00066
+#   Duane-Hunt: 15.00 keV
+#   Residual written to MMM1 Chalcopyrite[7][4][residual].msa.
+#   Plot output to 'MMM1 Chalcopyrite[7][4][quantify].pdf'
+# Compare warnings
+#   Unable to interpret the --compare argument `'SPI Chalcopyrite'` as a composition. Argument ignored.
+#   Parser error:
+#   --> 1:1
+#   |
+#   1 | 'SPI Chalcopyrite'
+#   | ^----------------^
+#   |
+#   = ''SPI Chalcopyrite'' is not the name of a known composition.
+# Result Comparison
+Name,S,Fe,Cu,Σ
+MMM1 Chalcopyrite[0][all],0.34501 ± 0.00056,0.30271 ± 0.00018,0.34400 ± 0.00029,0.99171 ± 0.00066
+MMM1 Chalcopyrite[1][all],0.34469 ± 0.00056,0.30291 ± 0.00018,0.34329 ± 0.00029,0.99090 ± 0.00065
+MMM1 Chalcopyrite[2][all],0.34587 ± 0.00056,0.30147 ± 0.00018,0.34493 ± 0.00029,0.99227 ± 0.00066
+MMM1 Chalcopyrite[3][all],0.34579 ± 0.00056,0.30335 ± 0.00018,0.34362 ± 0.00029,0.99276 ± 0.00066
+MMM1 Chalcopyrite[4][all],0.34609 ± 0.00056,0.30299 ± 0.00018,0.34582 ± 0.00029,0.99490 ± 0.00066
+MMM1 Chalcopyrite[5][all],0.34544 ± 0.00056,0.30308 ± 0.00018,0.34465 ± 0.00028,0.99317 ± 0.00066
+MMM1 Chalcopyrite[6][all],0.34559 ± 0.00056,0.30241 ± 0.00018,0.34583 ± 0.00029,0.99383 ± 0.00066
+MMM1 Chalcopyrite[7][all],0.34514 ± 0.00056,0.30137 ± 0.00018,0.34447 ± 0.00029,0.99098 ± 0.00066
+Mean,0.34545 ± 0.00048,0.30254 ± 0.00074,0.34458 ± 0.00094,0.9926 ± 0.0014
