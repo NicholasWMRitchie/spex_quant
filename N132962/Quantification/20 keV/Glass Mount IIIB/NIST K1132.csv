@@ -1,32 +1,32 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:28.497371700 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:21.204911147 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	None
 #
-# Spectrum
+# Spectrum:
 #	'NIST K1132' standard for 'N132962' detector['NIST K1132 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	The k-ratio '[Cr L₃-M₅ + 13 others] = -0.01420 ± 0.00027' is more than 3σ negative.
 #	The k-ratio '[Mo L₁-N₃ + 1 other] = -0.0242 ± 0.0019' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K1132' standard for 'N132962' detector,O,8,15.999,0.42084,0.03925,0.42033,0.02279,0.63929,0.02164
-'NIST K1132' standard for 'N132962' detector,Al,13,26.9815384,0.07846,0.00410,0.07836,0.00487,0.07067,0.00544
-'NIST K1132' standard for 'N132962' detector,Si,14,28.085,0.21307,0.00063,0.21281,0.00840,0.18438,0.01102
-'NIST K1132' standard for 'N132962' detector,Ca,20,40.078,0.11344,0.00009,0.11331,0.00447,0.06879,0.00411
-'NIST K1132' standard for 'N132962' detector,Cr,24,51.9961,0.00528,0.00006,0.00527,0.00022,0.00247,0.00015
-'NIST K1132' standard for 'N132962' detector,Ni,28,58.6934,0.01237,0.00002,0.01236,0.00049,0.00512,0.00031
-'NIST K1132' standard for 'N132962' detector,Mo,42,95.95,0.01780,0.00020,0.01778,0.00073,0.00451,0.00027
-'NIST K1132' standard for 'N132962' detector,Ba,56,137.327,0.13995,0.00038,0.13978,0.00552,0.02477,0.00148
-# Notes
-#	Analytical total: 1.001 ± 0.039
+'NIST K1132' standard for 'N132962' detector,O,8,15.999,0.43937,0.04062,0.43080,0.02274,0.64911,0.02119
+'NIST K1132' standard for 'N132962' detector,Al,13,26.9815384,0.07857,0.00412,0.07704,0.00483,0.06883,0.00532
+'NIST K1132' standard for 'N132962' detector,Si,14,28.085,0.21301,0.00064,0.20886,0.00838,0.17927,0.01079
+'NIST K1132' standard for 'N132962' detector,Ca,20,40.078,0.11348,0.00009,0.11127,0.00446,0.06693,0.00402
+'NIST K1132' standard for 'N132962' detector,Cr,24,51.9961,0.00528,0.00006,0.00518,0.00022,0.00240,0.00015
+'NIST K1132' standard for 'N132962' detector,Ni,28,58.6934,0.01239,0.00002,0.01215,0.00049,0.00499,0.00030
+'NIST K1132' standard for 'N132962' detector,Mo,42,95.95,0.01776,0.00020,0.01742,0.00072,0.00438,0.00027
+'NIST K1132' standard for 'N132962' detector,Ba,56,137.327,0.14001,0.00038,0.13728,0.00551,0.02410,0.00145
+# Notes:
+#	Analytical total: 1.020 ± 0.041
+#	Duane-Hunt: 20.12 keV
 #	Residual written to NIST K1132 std[residual].msa.
 #	Plot output to 'NIST K1132 std[quantify].pdf'
 #

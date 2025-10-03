@@ -1,30 +1,30 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:30.486678 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:22.041682511 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	None
 #
-# Spectrum
+# Spectrum:
 #	'NIST K230' standard for 'N132962' detector['NIST K230 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	None
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K230' standard for 'N132962' detector,O,8,15.999,0.23849,0.02551,0.23717,0.01941,0.60390,0.02612
-'NIST K230' standard for 'N132962' detector,Al,13,26.9815384,0.02509,0.00075,0.02495,0.00098,0.03768,0.00268
-'NIST K230' standard for 'N132962' detector,Si,14,28.085,0.14908,0.00593,0.14826,0.00628,0.21505,0.01543
+'NIST K230' standard for 'N132962' detector,O,8,15.999,0.23848,0.02551,0.23720,0.01941,0.60401,0.02611
+'NIST K230' standard for 'N132962' detector,Al,13,26.9815384,0.02512,0.00075,0.02499,0.00098,0.03773,0.00269
+'NIST K230' standard for 'N132962' detector,Si,14,28.085,0.14892,0.00592,0.14812,0.00628,0.21486,0.01542
 'NIST K230' standard for 'N132962' detector,Zn,30,65.38,0.04063,0.00004,0.04041,0.00106,0.02518,0.00164
-'NIST K230' standard for 'N132962' detector,Ba,56,137.327,0.09104,0.00199,0.09053,0.00297,0.02686,0.00184
-'NIST K230' standard for 'N132962' detector,Ta,73,180.94788,0.04094,0.00009,0.04071,0.00107,0.00917,0.00060
-'NIST K230' standard for 'N132962' detector,Pb,82,207.2,0.42030,0.00050,0.41797,0.01093,0.08218,0.00536
-# Notes
-#	Analytical total: 1.006 ± 0.026
+'NIST K230' standard for 'N132962' detector,Ba,56,137.327,0.09104,0.00199,0.09055,0.00297,0.02686,0.00184
+'NIST K230' standard for 'N132962' detector,Ta,73,180.94788,0.04094,0.00009,0.04072,0.00107,0.00917,0.00060
+'NIST K230' standard for 'N132962' detector,Pb,82,207.2,0.42028,0.00050,0.41802,0.01093,0.08219,0.00536
+# Notes:
+#	Analytical total: 1.005 ± 0.026
+#	Duane-Hunt: 20.08 keV
 #	Residual written to NIST K230 std[residual].msa.
 #	Plot output to 'NIST K230 std[quantify].pdf'
 #

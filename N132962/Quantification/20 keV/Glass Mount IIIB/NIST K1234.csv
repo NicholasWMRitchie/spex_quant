@@ -1,30 +1,30 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:29.534573600 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:21.645626390 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	None
 #
-# Spectrum
+# Spectrum:
 #	'NIST K1234' standard for 'N132962' detector['NIST K1234 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	The k-ratio '[W M₂-M₄] = -0.334 ± 0.013' is more than 3σ negative.
 #	The k-ratio '[W L₃-M₃] = -0.110 ± 0.019' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K1234' standard for 'N132962' detector,O,8,15.999,0.39414,0.03730,0.39046,0.02263,0.61349,0.02266
-'NIST K1234' standard for 'N132962' detector,Al,13,26.9815384,0.08990,0.00543,0.08906,0.00590,0.08297,0.00666
-'NIST K1234' standard for 'N132962' detector,Si,14,28.085,0.21412,0.00068,0.21212,0.00794,0.18986,0.01108
-'NIST K1234' standard for 'N132962' detector,Ca,20,40.078,0.13181,0.00011,0.13058,0.00488,0.08190,0.00477
-'NIST K1234' standard for 'N132962' detector,Ba,56,137.327,0.16289,0.00045,0.16137,0.00604,0.02954,0.00172
-'NIST K1234' standard for 'N132962' detector,W,74,183.84,0.01656,0.00007,0.01641,0.00062,0.00224,0.00013
-# Notes
-#	Analytical total: 1.009 ± 0.038
+'NIST K1234' standard for 'N132962' detector,O,8,15.999,0.41400,0.03876,0.40213,0.02261,0.62501,0.02216
+'NIST K1234' standard for 'N132962' detector,Al,13,26.9815384,0.09005,0.00545,0.08747,0.00585,0.08062,0.00651
+'NIST K1234' standard for 'N132962' detector,Si,14,28.085,0.21403,0.00069,0.20790,0.00792,0.18407,0.01082
+'NIST K1234' standard for 'N132962' detector,Ca,20,40.078,0.13186,0.00011,0.12808,0.00487,0.07947,0.00467
+'NIST K1234' standard for 'N132962' detector,Ba,56,137.327,0.16297,0.00045,0.15830,0.00603,0.02866,0.00169
+'NIST K1234' standard for 'N132962' detector,W,74,183.84,0.01659,0.00007,0.01612,0.00062,0.00218,0.00013
+# Notes:
+#	Analytical total: 1.030 ± 0.039
+#	Duane-Hunt: 20.02 keV
 #	Residual written to NIST K1234 std[residual].msa.
 #	Plot output to 'NIST K1234 std[quantify].pdf'
 #

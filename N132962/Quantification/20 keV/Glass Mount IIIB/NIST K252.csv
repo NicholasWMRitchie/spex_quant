@@ -1,20 +1,19 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:32.131306800 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:22.998506111 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	None
 #
-# Spectrum
+# Spectrum:
 #	'NIST K252' standard for 'N132962' detector['NIST K252 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	None
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
 'NIST K252' standard for 'N132962' detector,O,8,15.999,0.30867,0.01484,0.30272,0.01015,0.61293,0.01142
 'NIST K252' standard for 'N132962' detector,Si,14,28.085,0.18663,0.00077,0.18304,0.00274,0.21112,0.00626
@@ -23,8 +22,9 @@ Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
 'NIST K252' standard for 'N132962' detector,Cu,29,63.54599999999999,0.03983,0.00004,0.03906,0.00057,0.01991,0.00059
 'NIST K252' standard for 'N132962' detector,Zn,30,65.38,0.08363,0.00006,0.08202,0.00120,0.04064,0.00120
 'NIST K252' standard for 'N132962' detector,Ba,56,137.327,0.33145,0.00014,0.32507,0.00475,0.07668,0.00226
-# Notes
+# Notes:
 #	Analytical total: 1.020 ± 0.015
+#	Duane-Hunt: 20.03 keV
 #	Residual written to NIST K252 std[residual].msa.
 #	Plot output to 'NIST K252 std[quantify].pdf'
 #

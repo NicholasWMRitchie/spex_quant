@@ -1,27 +1,27 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:59:04.453355600 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:24.222521006 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	There are no suitable references for [Eu M₅-N₃ and 18 others; 0.9890>.
 #
-# Spectrum
+# Spectrum:
 #	'NIST K408' standard for 'N132962' detector['NIST K408 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	None
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K408' standard for 'N132962' detector,O,8,15.999,0.21745,0.01952,0.21772,0.01529,0.62986,0.02101
-'NIST K408' standard for 'N132962' detector,Si,14,28.085,0.13484,0.00181,0.13500,0.00307,0.22250,0.01279
-'NIST K408' standard for 'N132962' detector,Eu,63,151.964,0.03748,0.00007,0.03752,0.00074,0.01143,0.00065
-'NIST K408' standard for 'N132962' detector,Pb,82,207.2,0.60903,0.00035,0.60976,0.01197,0.13621,0.00771
-# Notes
-#	Analytical total: 0.999 ± 0.020
+'NIST K408' standard for 'N132962' detector,O,8,15.999,0.21745,0.01952,0.21781,0.01530,0.63027,0.02100
+'NIST K408' standard for 'N132962' detector,Si,14,28.085,0.13446,0.00180,0.13468,0.00306,0.22201,0.01277
+'NIST K408' standard for 'N132962' detector,Eu,63,151.964,0.03748,0.00007,0.03754,0.00074,0.01144,0.00065
+'NIST K408' standard for 'N132962' detector,Pb,82,207.2,0.60896,0.00035,0.60997,0.01198,0.13629,0.00772
+# Notes:
+#	Analytical total: 0.998 ± 0.020
+#	Duane-Hunt: 20.03 keV
 #	Residual written to NIST K408 std[residual].msa.
 #	Plot output to 'NIST K408 std[quantify].pdf'
 #

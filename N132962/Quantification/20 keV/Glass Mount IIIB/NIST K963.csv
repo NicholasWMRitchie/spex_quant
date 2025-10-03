@@ -1,25 +1,24 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:42.397014 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:27.591417205 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	There are no suitable references for [Eu M₅-N₃ and 18 others; 0.9890>.
 #	There are no suitable references for [Th N₆-O₄ and 31 others; 0.9532>.
 #	There are no suitable references for [U N₃-N₄ and 35 others; 1.0039>.
 #
-# Spectrum
+# Spectrum:
 #	'NIST K963' standard for 'N132962' detector['NIST K963 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	Removing Ni from the fit and re-fitting (threshold = 0.0σ).
 #	The k-ratio '[Zr L₁-L₃] = -0.0353 ± 0.0017' is more than 3σ negative.
 #	The k-ratio '[Ti L₃-M₅ + 13 others] = -0.00890 ± 0.00029' is more than 3σ negative.
 #	The k-ratio '[Cr L₃-M₅ + 13 others] = -0.02212 ± 0.00033' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
 'NIST K963' standard for 'N132962' detector,O,8,15.999,0.33015,0.01764,0.32729,0.01177,0.64223,0.01231
 'NIST K963' standard for 'N132962' detector,Mg,12,24.305,0.00310,0.00043,0.00307,0.00043,0.00396,0.00056
@@ -35,8 +34,9 @@ Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
 'NIST K963' standard for 'N132962' detector,Eu,63,151.964,0.00930,0.00029,0.00922,0.00032,0.00190,0.00009
 'NIST K963' standard for 'N132962' detector,Th,90,232.0377,0.00202,0.00005,0.00200,0.00006,0.00027,0.00001
 'NIST K963' standard for 'N132962' detector,U,92,238.02891,0.00111,0.00005,0.00110,0.00005,0.00014,0.00001
-# Notes
+# Notes:
 #	Analytical total: 1.009 ± 0.018
+#	Duane-Hunt: 19.96 keV
 #	Residual written to NIST K963 std[residual].msa.
 #	Plot output to 'NIST K963 std[quantify].pdf'
 #

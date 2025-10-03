@@ -1,42 +1,41 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:39.480375900 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:26.294235355 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	There are no suitable references for [Eu M₅-N₃ and 18 others; 0.9890>.
 #	There are no suitable references for [Th N₆-O₄ and 31 others; 0.9532>.
 #	There are no suitable references for [U N₃-N₄ and 35 others; 1.0039>.
 #
-# Spectrum
+# Spectrum:
 #	'NIST K523' standard for 'N132962' detector['NIST K523 std.msa']
 #
-# Fit Warnings
-#	Removing Th from the fit and re-fitting (threshold = 0.0σ).
+# Fit Warnings:
 #	The k-ratio '[Ti L₃-M₅ + 13 others] = -0.00566 ± 0.00038' is more than 3σ negative.
 #	The k-ratio '[Cr L₃-M₅ + 13 others] = -0.01430 ± 0.00031' is more than 3σ negative.
 #	The k-ratio '[Pb M₂-M₄] = -0.804 ± 0.056' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K523' standard for 'N132962' detector,O,8,15.999,0.22741,0.02125,0.22065,0.01607,0.63976,0.02154
+'NIST K523' standard for 'N132962' detector,O,8,15.999,0.22737,0.02123,0.22045,0.01605,0.64003,0.02152
 'NIST K523' standard for 'N132962' detector,Mg,12,24.305,0.00086,0.00002,0.00083,0.00002,0.00159,0.00010
-'NIST K523' standard for 'N132962' detector,Si,14,28.085,0.12418,0.00060,0.12049,0.00254,0.19901,0.01192
-'NIST K523' standard for 'N132962' detector,P,15,30.973761998,0.00239,0.00003,0.00232,0.00005,0.00347,0.00021
-'NIST K523' standard for 'N132962' detector,Ti,22,47.867,0.00344,0.00017,0.00334,0.00018,0.00323,0.00025
-'NIST K523' standard for 'N132962' detector,Cr,24,51.9961,0.00204,0.00002,0.00198,0.00004,0.00176,0.00011
-'NIST K523' standard for 'N132962' detector,Ni,28,58.6934,0.00404,0.00007,0.00392,0.00010,0.00309,0.00019
+'NIST K523' standard for 'N132962' detector,Si,14,28.085,0.12379,0.00060,0.12003,0.00252,0.19851,0.01189
+'NIST K523' standard for 'N132962' detector,P,15,30.973761998,0.00233,0.00003,0.00226,0.00005,0.00339,0.00021
+'NIST K523' standard for 'N132962' detector,Ti,22,47.867,0.00336,0.00017,0.00326,0.00018,0.00317,0.00025
+'NIST K523' standard for 'N132962' detector,Cr,24,51.9961,0.00204,0.00002,0.00198,0.00004,0.00177,0.00011
+'NIST K523' standard for 'N132962' detector,Ni,28,58.6934,0.00403,0.00007,0.00391,0.00010,0.00310,0.00019
 'NIST K523' standard for 'N132962' detector,Ge,32,72.63,0.00287,0.00005,0.00279,0.00007,0.00178,0.00011
-'NIST K523' standard for 'N132962' detector,Zr,40,91.224,0.00349,0.00005,0.00338,0.00008,0.00172,0.00011
-'NIST K523' standard for 'N132962' detector,Ba,56,137.327,0.00623,0.00021,0.00605,0.00024,0.00204,0.00014
+'NIST K523' standard for 'N132962' detector,Zr,40,91.224,0.00360,0.00005,0.00349,0.00009,0.00177,0.00011
+'NIST K523' standard for 'N132962' detector,Ba,56,137.327,0.00623,0.00021,0.00604,0.00024,0.00204,0.00014
 'NIST K523' standard for 'N132962' detector,Eu,63,151.964,0.00705,0.00004,0.00684,0.00015,0.00209,0.00013
-'NIST K523' standard for 'N132962' detector,Pb,82,207.2,0.64586,0.00037,0.62667,0.01293,0.14030,0.00839
-'NIST K523' standard for 'N132962' detector,Th,90,232.0377,0.00000,0.00005,0.00000,0.00005,0.00000,0.00001
-'NIST K523' standard for 'N132962' detector,U,92,238.02891,0.00078,0.00010,0.00076,0.00010,0.00015,0.00002
-# Notes
+'NIST K523' standard for 'N132962' detector,Pb,82,207.2,0.64558,0.00037,0.62594,0.01289,0.14032,0.00839
+'NIST K523' standard for 'N132962' detector,Th,90,232.0377,0.00114,0.00015,0.00111,0.00014,0.00022,0.00003
+'NIST K523' standard for 'N132962' detector,U,92,238.02891,0.00110,0.00013,0.00107,0.00012,0.00021,0.00003
+# Notes:
 #	Analytical total: 1.031 ± 0.021
+#	Duane-Hunt: 20.04 keV
 #	Residual written to NIST K523 std[residual].msa.
 #	Plot output to 'NIST K523 std[quantify].pdf'
 #

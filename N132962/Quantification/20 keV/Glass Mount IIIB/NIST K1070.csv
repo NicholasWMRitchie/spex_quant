@@ -1,31 +1,31 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:27.846790200 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:20.912682033 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	None
 #
-# Spectrum
+# Spectrum:
 #	'NIST K1070' standard for 'N132962' detector['NIST K1070 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	The k-ratio '[Pb M₁-M₃] = -0.3691 ± 0.0084' is more than 3σ negative.
-#	The k-ratio '[Pb M₁-O₂ + 1 other] = -1.590 ± 0.044' is more than 3σ negative.
+#	The k-ratio '[Pb M₁-O₂ + 1 other] = -1.568 ± 0.044' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K1070' standard for 'N132962' detector,O,8,15.999,0.33396,0.01707,0.33264,0.01148,0.58233,0.01289
-'NIST K1070' standard for 'N132962' detector,Mg,12,24.305,0.07331,0.00499,0.07302,0.00477,0.08415,0.00581
-'NIST K1070' standard for 'N132962' detector,Si,14,28.085,0.18761,0.00053,0.18687,0.00335,0.18636,0.00567
-'NIST K1070' standard for 'N132962' detector,Ca,20,40.078,0.09544,0.00127,0.09506,0.00204,0.06644,0.00218
-'NIST K1070' standard for 'N132962' detector,Zn,30,65.38,0.10407,0.00005,0.10366,0.00184,0.04441,0.00135
-'NIST K1070' standard for 'N132962' detector,Ba,56,137.327,0.11834,0.00074,0.11787,0.00219,0.02404,0.00074
-'NIST K1070' standard for 'N132962' detector,Pb,82,207.2,0.09124,0.00017,0.09088,0.00162,0.01228,0.00037
-# Notes
-#	Analytical total: 1.004 ± 0.018
+'NIST K1070' standard for 'N132962' detector,O,8,15.999,0.34614,0.01732,0.34048,0.01137,0.59094,0.01256
+'NIST K1070' standard for 'N132962' detector,Mg,12,24.305,0.07337,0.00500,0.07217,0.00473,0.08245,0.00571
+'NIST K1070' standard for 'N132962' detector,Si,14,28.085,0.18749,0.00054,0.18443,0.00331,0.18234,0.00551
+'NIST K1070' standard for 'N132962' detector,Ca,20,40.078,0.09549,0.00127,0.09393,0.00202,0.06508,0.00212
+'NIST K1070' standard for 'N132962' detector,Zn,30,65.38,0.10432,0.00005,0.10261,0.00183,0.04358,0.00131
+'NIST K1070' standard for 'N132962' detector,Ba,56,137.327,0.11842,0.00074,0.11649,0.00217,0.02355,0.00072
+'NIST K1070' standard for 'N132962' detector,Pb,82,207.2,0.09138,0.00017,0.08989,0.00161,0.01205,0.00036
+# Notes:
+#	Analytical total: 1.017 ± 0.018
+#	Duane-Hunt: 19.97 keV
 #	Residual written to NIST K1070 std[residual].msa.
 #	Plot output to 'NIST K1070 std[quantify].pdf'
 #

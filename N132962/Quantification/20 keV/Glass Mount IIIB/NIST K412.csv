@@ -1,29 +1,29 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:35.910095700 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:24.590727926 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	None
 #
-# Spectrum
+# Spectrum:
 #	'NIST K412' standard for 'N132962' detector['NIST K412 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	None
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K412' standard for 'N132962' detector,O,8,15.999,0.43955,0.04291,0.43071,0.02394,0.59412,0.02354
-'NIST K412' standard for 'N132962' detector,Mg,12,24.305,0.11903,0.00057,0.11663,0.00493,0.10590,0.00616
-'NIST K412' standard for 'N132962' detector,Al,13,26.9815384,0.04929,0.00020,0.04829,0.00204,0.03950,0.00230
-'NIST K412' standard for 'N132962' detector,Si,14,28.085,0.21671,0.00062,0.21235,0.00894,0.16686,0.00969
-'NIST K412' standard for 'N132962' detector,Ca,20,40.078,0.11637,0.00009,0.11402,0.00480,0.06279,0.00364
-'NIST K412' standard for 'N132962' detector,Fe,26,55.845,0.07960,0.00004,0.07800,0.00328,0.03082,0.00179
-# Notes
-#	Analytical total: 1.021 ± 0.043
+'NIST K412' standard for 'N132962' detector,O,8,15.999,0.45985,0.04444,0.44155,0.02383,0.60466,0.02310
+'NIST K412' standard for 'N132962' detector,Mg,12,24.305,0.11953,0.00059,0.11477,0.00492,0.10346,0.00606
+'NIST K412' standard for 'N132962' detector,Al,13,26.9815384,0.04935,0.00020,0.04738,0.00203,0.03848,0.00225
+'NIST K412' standard for 'N132962' detector,Si,14,28.085,0.21668,0.00063,0.20806,0.00889,0.16231,0.00949
+'NIST K412' standard for 'N132962' detector,Ca,20,40.078,0.11634,0.00009,0.11171,0.00477,0.06107,0.00357
+'NIST K412' standard for 'N132962' detector,Fe,26,55.845,0.07971,0.00004,0.07654,0.00327,0.03003,0.00175
+# Notes:
+#	Analytical total: 1.041 ± 0.044
+#	Duane-Hunt: 20.16 keV
 #	Residual written to NIST K412 std[residual].msa.
 #	Plot output to 'NIST K412 std[quantify].pdf'
 #

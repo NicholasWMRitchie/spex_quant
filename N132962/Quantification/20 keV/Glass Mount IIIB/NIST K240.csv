@@ -1,20 +1,19 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 15:49:35.287787800 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:22.282853194 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	None
 #
-# Spectrum
+# Spectrum:
 #	'NIST K240' standard for 'N132962' detector['NIST K240 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	None
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
 'NIST K240' standard for 'N132962' detector,O,8,15.999,0.35322,0.03127,0.35260,0.02024,0.64265,0.02048
 'NIST K240' standard for 'N132962' detector,Mg,12,24.305,0.02917,0.00308,0.02912,0.00312,0.03493,0.00408
@@ -23,8 +22,9 @@ Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
 'NIST K240' standard for 'N132962' detector,Zn,30,65.38,0.04025,0.00004,0.04018,0.00126,0.01792,0.00102
 'NIST K240' standard for 'N132962' detector,Zr,40,91.224,0.05677,0.00060,0.05667,0.00186,0.01811,0.00105
 'NIST K240' standard for 'N132962' detector,Ba,56,137.327,0.27816,0.00024,0.27767,0.00872,0.05896,0.00336
-# Notes
+# Notes:
 #	Analytical total: 1.002 ± 0.031
+#	Duane-Hunt: 19.91 keV
 #	Residual written to NIST K240 std[residual].msa.
 #	Plot output to 'NIST K240 std[quantify].pdf'
 #

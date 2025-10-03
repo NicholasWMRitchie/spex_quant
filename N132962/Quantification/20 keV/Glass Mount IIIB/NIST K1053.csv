@@ -1,32 +1,32 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:27.209895600 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:20.654759618 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
 #	The Duane-Hunt (19.63 keV) for KBr std differs by more than 1 % from the beam energy (20.00 keV)!!
 #	There are no suitable references for [I M₃-M₅ and 2 others; 0.0340>.
 #
-# Spectrum
+# Spectrum:
 #	'NIST K1053' standard for 'N132962' detector['NIST K1053 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	The k-ratio '[Pb M₃-M₅ + 1 other] = -0.0725 ± 0.0032' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K1053' standard for 'N132962' detector,O,8,15.999,0.18269,0.01803,0.17636,0.01434,0.60798,0.02360
-'NIST K1053' standard for 'N132962' detector,F,9,18.998403163,0.00422,0.00079,0.00407,0.00076,0.01182,0.00229
-'NIST K1053' standard for 'N132962' detector,Si,14,28.085,0.08951,0.00065,0.08641,0.00162,0.16969,0.01025
-'NIST K1053' standard for 'N132962' detector,Cl,17,35.45,0.00659,0.00117,0.00636,0.00113,0.00990,0.00184
-'NIST K1053' standard for 'N132962' detector,Br,35,79.904,0.01240,0.00010,0.01197,0.00023,0.00827,0.00050
-'NIST K1053' standard for 'N132962' detector,I,53,126.90447,0.01276,0.00094,0.01232,0.00092,0.00535,0.00051
-'NIST K1053' standard for 'N132962' detector,Pb,82,207.2,0.72768,0.00040,0.70250,0.01229,0.18699,0.01124
-# Notes
-#	Analytical total: 1.036 ± 0.018
+'NIST K1053' standard for 'N132962' detector,O,8,15.999,0.18256,0.01801,0.17658,0.01435,0.60941,0.02356
+'NIST K1053' standard for 'N132962' detector,F,9,18.998403163,0.00422,0.00079,0.00408,0.00076,0.01186,0.00230
+'NIST K1053' standard for 'N132962' detector,Si,14,28.085,0.08904,0.00065,0.08613,0.00161,0.16932,0.01024
+'NIST K1053' standard for 'N132962' detector,Cl,17,35.45,0.00549,0.00097,0.00531,0.00094,0.00827,0.00153
+'NIST K1053' standard for 'N132962' detector,Br,35,79.904,0.01240,0.00010,0.01199,0.00023,0.00829,0.00050
+'NIST K1053' standard for 'N132962' detector,I,53,126.90447,0.01281,0.00094,0.01239,0.00093,0.00539,0.00051
+'NIST K1053' standard for 'N132962' detector,Pb,82,207.2,0.72733,0.00040,0.70352,0.01231,0.18747,0.01129
+# Notes:
+#	Analytical total: 1.034 ± 0.018
+#	Duane-Hunt: 20.04 keV
 #	Residual written to NIST K1053 std[residual].msa.
 #	Plot output to 'NIST K1053 std[quantify].pdf'
 #

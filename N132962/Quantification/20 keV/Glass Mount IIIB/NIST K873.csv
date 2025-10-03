@@ -1,35 +1,35 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:40.137076500 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:26.595453431 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	There are no suitable references for [Ce M₁-O₂ and 1 others; 0.0013>.
 #
-# Spectrum
+# Spectrum:
 #	'NIST K873' standard for 'N132962' detector['NIST K873 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	The k-ratio '[Ce M₅-N₃ + 18 others] = -0.04581 ± 0.00056' is more than 3σ negative.
 #	The k-ratio '[Pb M₁-M₃] = -0.234 ± 0.010' is more than 3σ negative.
-#	The k-ratio '[Ta M₅-N₃ + 2 others] = -0.06443 ± 0.00045' is more than 3σ negative.
-#	The k-ratio '[Ta M₅-N₇ + 18 others] = -0.005238 ± 0.000084' is more than 3σ negative.
+#	The k-ratio '[Ta M₅-N₃ + 2 others] = -0.06441 ± 0.00045' is more than 3σ negative.
+#	The k-ratio '[Ta M₅-N₇ + 18 others] = -0.005355 ± 0.000084' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K873' standard for 'N132962' detector,O,8,15.999,0.23056,0.02225,0.23408,0.01731,0.60287,0.02312
-'NIST K873' standard for 'N132962' detector,Al,13,26.9815384,0.00353,0.00031,0.00359,0.00032,0.00548,0.00057
-'NIST K873' standard for 'N132962' detector,Si,14,28.085,0.11642,0.00065,0.11820,0.00275,0.17341,0.01012
+'NIST K873' standard for 'N132962' detector,O,8,15.999,0.23055,0.02225,0.23410,0.01731,0.60294,0.02312
+'NIST K873' standard for 'N132962' detector,Al,13,26.9815384,0.00354,0.00031,0.00360,0.00032,0.00550,0.00057
+'NIST K873' standard for 'N132962' detector,Si,14,28.085,0.11632,0.00065,0.11811,0.00275,0.17329,0.01012
 'NIST K873' standard for 'N132962' detector,Mn,25,54.938043,0.00308,0.00006,0.00313,0.00009,0.00235,0.00014
-'NIST K873' standard for 'N132962' detector,Ge,32,72.63,0.17301,0.00010,0.17565,0.00400,0.09965,0.00580
-'NIST K873' standard for 'N132962' detector,Ba,56,137.327,0.22520,0.00276,0.22864,0.00560,0.06860,0.00407
+'NIST K873' standard for 'N132962' detector,Ge,32,72.63,0.17301,0.00010,0.17567,0.00400,0.09967,0.00580
+'NIST K873' standard for 'N132962' detector,Ba,56,137.327,0.22520,0.00276,0.22866,0.00560,0.06861,0.00407
 'NIST K873' standard for 'N132962' detector,Ce,58,140.116,0.00447,0.00007,0.00453,0.00013,0.00133,0.00008
 'NIST K873' standard for 'N132962' detector,Ta,73,180.94788,0.00458,0.00006,0.00465,0.00012,0.00106,0.00006
-'NIST K873' standard for 'N132962' detector,Pb,82,207.2,0.22411,0.00023,0.22753,0.00518,0.04525,0.00263
-# Notes
+'NIST K873' standard for 'N132962' detector,Pb,82,207.2,0.22410,0.00023,0.22755,0.00519,0.04526,0.00263
+# Notes:
 #	Analytical total: 0.985 ± 0.022
+#	Duane-Hunt: 19.99 keV
 #	Residual written to NIST K873 std[residual].msa.
 #	Plot output to 'NIST K873 std[quantify].pdf'
 #

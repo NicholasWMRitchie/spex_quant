@@ -1,22 +1,21 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:40.813756600 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:26.904896639 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	There are no suitable references for [Ce M₁-O₂ and 1 others; 0.0013>.
 #
-# Spectrum
+# Spectrum:
 #	'NIST K919' standard for 'N132962' detector['NIST K919 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	The k-ratio '[Ce M₃-M₅ + 3 others] = -0.0413 ± 0.0091' is more than 3σ negative.
 #	The k-ratio '[Cr L₃-M₅ + 13 others] = -0.02144 ± 0.00060' is more than 3σ negative.
 #	The k-ratio '[Ce M₅-N₃ + 18 others] = -0.03732 ± 0.00070' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
 'NIST K919' standard for 'N132962' detector,O,8,15.999,0.31900,0.01598,0.31601,0.01083,0.62848,0.01171
 'NIST K919' standard for 'N132962' detector,Si,14,28.085,0.19711,0.00083,0.19526,0.00317,0.22122,0.00700
@@ -28,8 +27,9 @@ Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
 'NIST K919' standard for 'N132962' detector,Cu,29,63.54599999999999,0.02396,0.00004,0.02373,0.00038,0.01188,0.00037
 'NIST K919' standard for 'N132962' detector,Ba,56,137.327,0.35102,0.00012,0.34774,0.00552,0.08057,0.00254
 'NIST K919' standard for 'N132962' detector,Ce,58,140.116,0.02393,0.00035,0.02371,0.00050,0.00538,0.00019
-# Notes
+# Notes:
 #	Analytical total: 1.009 ± 0.016
+#	Duane-Hunt: 20.02 keV
 #	Residual written to NIST K919 std[residual].msa.
 #	Plot output to 'NIST K919 std[quantify].pdf'
 #

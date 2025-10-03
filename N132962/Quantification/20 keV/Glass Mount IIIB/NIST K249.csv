@@ -1,34 +1,33 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:31.026901 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:22.514996482 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	None
 #
-# Spectrum
+# Spectrum:
 #	'NIST K249' standard for 'N132962' detector['NIST K249 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	The k-ratio '[Bi M₃-M₅ + 1 other] = -0.3109 ± 0.0094' is more than 3σ negative.
 #	The k-ratio '[Pb M₂-M₄] = -0.95 ± 0.12' is more than 3σ negative.
-#	The k-ratio '[Bi M₂-N₄ + 9 others] = -0.0205 ± 0.0028' is more than 3σ negative.
-#	The k-ratio '[Bi M₁-O₂ + 1 other] = -0.235 ± 0.021' is more than 3σ negative.
+#	The k-ratio '[Bi M₁-O₂ + 1 other] = -0.155 ± 0.021' is more than 3σ negative.
 #	The k-ratio '[Bi L₃-M₃] = -0.42 ± 0.12' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K249' standard for 'N132962' detector,O,8,15.999,0.23114,0.02405,0.23044,0.01868,0.60046,0.02728
-'NIST K249' standard for 'N132962' detector,Al,13,26.9815384,0.02523,0.00078,0.02516,0.00102,0.03887,0.00278
-'NIST K249' standard for 'N132962' detector,Si,14,28.085,0.15575,0.01236,0.15528,0.01106,0.23049,0.02014
-'NIST K249' standard for 'N132962' detector,Ba,56,137.327,0.09118,0.00187,0.09090,0.00298,0.02760,0.00188
-'NIST K249' standard for 'N132962' detector,Ta,73,180.94788,0.08204,0.00011,0.08179,0.00221,0.01884,0.00123
-'NIST K249' standard for 'N132962' detector,Pb,82,207.2,0.39287,0.00082,0.39168,0.01060,0.07881,0.00513
-'NIST K249' standard for 'N132962' detector,Bi,83,208.9804,0.02481,0.00027,0.02474,0.00072,0.00493,0.00033
-# Notes
+'NIST K249' standard for 'N132962' detector,O,8,15.999,0.23113,0.02405,0.23048,0.01868,0.60059,0.02728
+'NIST K249' standard for 'N132962' detector,Al,13,26.9815384,0.02526,0.00078,0.02519,0.00102,0.03892,0.00278
+'NIST K249' standard for 'N132962' detector,Si,14,28.085,0.15557,0.01235,0.15513,0.01105,0.23028,0.02013
+'NIST K249' standard for 'N132962' detector,Ba,56,137.327,0.09117,0.00187,0.09092,0.00298,0.02760,0.00188
+'NIST K249' standard for 'N132962' detector,Ta,73,180.94788,0.08204,0.00011,0.08181,0.00221,0.01885,0.00123
+'NIST K249' standard for 'N132962' detector,Pb,82,207.2,0.39285,0.00082,0.39174,0.01060,0.07882,0.00514
+'NIST K249' standard for 'N132962' detector,Bi,83,208.9804,0.02481,0.00027,0.02474,0.00072,0.00494,0.00033
+# Notes:
 #	Analytical total: 1.003 ± 0.027
+#	Duane-Hunt: 20.08 keV
 #	Residual written to NIST K249 std[residual].msa.
 #	Plot output to 'NIST K249 std[quantify].pdf'
 #

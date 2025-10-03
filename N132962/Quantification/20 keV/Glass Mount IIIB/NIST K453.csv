@@ -1,27 +1,27 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:36.306977300 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:24.741031643 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	None
 #
-# Spectrum
+# Spectrum:
 #	'NIST K453' standard for 'N132962' detector['NIST K453 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	The k-ratio '[Pb M₃-M₅ + 1 other] = -0.1067 ± 0.0033' is more than 3σ negative.
 #	The k-ratio '[Pb M₂-M₄] = -1.094 ± 0.064' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
 'NIST K453' standard for 'N132962' detector,O,8,15.999,0.19917,0.01726,0.18982,0.01332,0.64763,0.01977
 'NIST K453' standard for 'N132962' detector,Ge,32,72.63,0.29865,0.00015,0.28464,0.00468,0.21392,0.01200
 'NIST K453' standard for 'N132962' detector,Pb,82,207.2,0.55140,0.00038,0.52554,0.00865,0.13845,0.00777
-# Notes
+# Notes:
 #	Analytical total: 1.049 ± 0.017
+#	Duane-Hunt: 19.98 keV
 #	Residual written to NIST K453 std[residual].msa.
 #	Plot output to 'NIST K453 std[quantify].pdf'
 #

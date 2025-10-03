@@ -1,36 +1,36 @@
-# Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-15 16:33:41.588676600 -04:00
-#	Application: spex v0.0.108
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
+# Configuration:
+#	Username: nwmr
+#	Timestamp: 2025-09-20 16:35:27.231262771 -04:00
+#	Application: spex v0.0.111
+#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
 #
-# Configuration Warnings
+# Configuration Warnings:
 #	The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
 #	The Duane-Hunt (19.63 keV) for KBr std differs by more than 1 % from the beam energy (20.00 keV)!!
 #
-# Spectrum
+# Spectrum:
 #	'NIST K961' standard for 'N132962' detector['NIST K961 std.msa']
 #
-# Fit Warnings
+# Fit Warnings:
 #	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.00525 ± 0.00018' is more than 3σ negative.
 #	The k-ratio '[Ti L₃-M₅ + 13 others] = -0.00447 ± 0.00028' is more than 3σ negative.
 #
-#
-# Quantification results:
+# Quantification results::
 Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-'NIST K961' standard for 'N132962' detector,O,8,15.999,0.49129,0.04575,0.47312,0.02322,0.62546,0.02182
-'NIST K961' standard for 'N132962' detector,Na,11,22.98976928,0.02866,0.00005,0.02760,0.00122,0.02539,0.00148
-'NIST K961' standard for 'N132962' detector,Mg,12,24.305,0.03064,0.00016,0.02950,0.00131,0.02567,0.00150
-'NIST K961' standard for 'N132962' detector,Al,13,26.9815384,0.05929,0.00023,0.05709,0.00252,0.04476,0.00261
-'NIST K961' standard for 'N132962' detector,Si,14,28.085,0.30874,0.00082,0.29733,0.01311,0.22392,0.01305
-'NIST K961' standard for 'N132962' detector,P,15,30.973761998,0.00246,0.00005,0.00237,0.00012,0.00162,0.00010
-'NIST K961' standard for 'N132962' detector,K,19,39.0983,0.02552,0.00004,0.02458,0.00108,0.01330,0.00077
-'NIST K961' standard for 'N132962' detector,Ca,20,40.078,0.03900,0.00005,0.03756,0.00166,0.01982,0.00116
-'NIST K961' standard for 'N132962' detector,Ti,22,47.867,0.01290,0.00002,0.01242,0.00055,0.00549,0.00032
-'NIST K961' standard for 'N132962' detector,Mn,25,54.938043,0.00337,0.00002,0.00324,0.00014,0.00125,0.00007
-'NIST K961' standard for 'N132962' detector,Fe,26,55.845,0.03652,0.00003,0.03517,0.00155,0.01332,0.00078
-# Notes
-#	Analytical total: 1.038 ± 0.046
+'NIST K961' standard for 'N132962' detector,O,8,15.999,0.49904,0.04633,0.47689,0.02316,0.62898,0.02167
+'NIST K961' standard for 'N132962' detector,Na,11,22.98976928,0.02873,0.00005,0.02746,0.00122,0.02520,0.00147
+'NIST K961' standard for 'N132962' detector,Mg,12,24.305,0.03069,0.00016,0.02933,0.00131,0.02546,0.00149
+'NIST K961' standard for 'N132962' detector,Al,13,26.9815384,0.05935,0.00023,0.05672,0.00252,0.04436,0.00260
+'NIST K961' standard for 'N132962' detector,Si,14,28.085,0.30886,0.00083,0.29515,0.01308,0.22176,0.01296
+'NIST K961' standard for 'N132962' detector,P,15,30.973761998,0.00246,0.00005,0.00235,0.00011,0.00160,0.00010
+'NIST K961' standard for 'N132962' detector,K,19,39.0983,0.02551,0.00004,0.02438,0.00108,0.01316,0.00077
+'NIST K961' standard for 'N132962' detector,Ca,20,40.078,0.03899,0.00005,0.03726,0.00165,0.01962,0.00115
+'NIST K961' standard for 'N132962' detector,Ti,22,47.867,0.01289,0.00002,0.01232,0.00055,0.00543,0.00032
+'NIST K961' standard for 'N132962' detector,Mn,25,54.938043,0.00337,0.00002,0.00322,0.00014,0.00124,0.00007
+'NIST K961' standard for 'N132962' detector,Fe,26,55.845,0.03653,0.00003,0.03491,0.00155,0.01319,0.00077
+# Notes:
+#	Analytical total: 1.046 ± 0.046
+#	Duane-Hunt: 20.05 keV
 #	Residual written to NIST K961 std[residual].msa.
 #	Plot output to 'NIST K961 std[quantify].pdf'
 #
