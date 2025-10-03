@@ -1,0 +1,156 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-03 08:01:36.039607840 -04:00
+#   Application: spex v0.0.118
+#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+# Configuration warnings
+#   There are no suitable references for [P L₁-M₂ and 1 others; 0.0632>.
+# Spectrum
+#   GMIIIA K496[0][all]['GMIIIA K496[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K496[0][all],O,8,15.999,0.54241,0.04556,0.52538,0.02095,0.66965,0.01858
+GMIIIA K496[0][all],Mg,12,24.305,0.06639,0.00011,0.06430,0.00284,0.05395,0.00304
+GMIIIA K496[0][all],Al,13,26.9815384,0.06618,0.00020,0.06411,0.00283,0.04845,0.00273
+GMIIIA K496[0][all],P,15,30.973761998,0.35744,0.00057,0.34621,0.01528,0.22794,0.01282
+# Notes
+#   Analytical total: 1.032 ± 0.046
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K496[0][4][residual].msa.
+#   Plot output to 'GMIIIA K496[0][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K496[1][all]['GMIIIA K496[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K496[1][all],O,8,15.999,0.51518,0.04277,0.51654,0.02073,0.66179,0.01858
+GMIIIA K496[1][all],Mg,12,24.305,0.06518,0.00010,0.06535,0.00280,0.05512,0.00303
+GMIIIA K496[1][all],Al,13,26.9815384,0.06520,0.00019,0.06537,0.00281,0.04966,0.00273
+GMIIIA K496[1][all],P,15,30.973761998,0.35181,0.00054,0.35274,0.01513,0.23344,0.01283
+# Notes
+#   Analytical total: 0.997 ± 0.043
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K496[1][4][residual].msa.
+#   Plot output to 'GMIIIA K496[1][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K496[2][all]['GMIIIA K496[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K496[2][all],O,8,15.999,0.54382,0.04569,0.52589,0.02095,0.67009,0.01857
+GMIIIA K496[2][all],Mg,12,24.305,0.06652,0.00011,0.06433,0.00284,0.05395,0.00304
+GMIIIA K496[2][all],Al,13,26.9815384,0.06629,0.00020,0.06411,0.00284,0.04844,0.00273
+GMIIIA K496[2][all],P,15,30.973761998,0.35747,0.00057,0.34568,0.01528,0.22752,0.01281
+# Notes
+#   Analytical total: 1.034 ± 0.046
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K496[2][4][residual].msa.
+#   Plot output to 'GMIIIA K496[2][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K496[3][all]['GMIIIA K496[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K496[3][all],O,8,15.999,0.54606,0.04592,0.52645,0.02097,0.67059,0.01858
+GMIIIA K496[3][all],Mg,12,24.305,0.06653,0.00011,0.06414,0.00284,0.05378,0.00303
+GMIIIA K496[3][all],Al,13,26.9815384,0.06654,0.00020,0.06415,0.00285,0.04845,0.00274
+GMIIIA K496[3][all],P,15,30.973761998,0.35813,0.00057,0.34526,0.01529,0.22717,0.01282
+# Notes
+#   Analytical total: 1.037 ± 0.046
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K496[3][4][residual].msa.
+#   Plot output to 'GMIIIA K496[3][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K496[4][all]['GMIIIA K496[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K496[4][all],O,8,15.999,0.54482,0.04584,0.52590,0.02098,0.67014,0.01860
+GMIIIA K496[4][all],Mg,12,24.305,0.06644,0.00011,0.06413,0.00284,0.05379,0.00303
+GMIIIA K496[4][all],Al,13,26.9815384,0.06621,0.00020,0.06391,0.00283,0.04829,0.00273
+GMIIIA K496[4][all],P,15,30.973761998,0.35850,0.00057,0.34605,0.01532,0.22777,0.01285
+# Notes
+#   Analytical total: 1.036 ± 0.046
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K496[4][4][residual].msa.
+#   Plot output to 'GMIIIA K496[4][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K496[5][all]['GMIIIA K496[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K496[5][all],O,8,15.999,0.54466,0.04577,0.52579,0.02095,0.67000,0.01858
+GMIIIA K496[5][all],Mg,12,24.305,0.06642,0.00011,0.06412,0.00284,0.05379,0.00303
+GMIIIA K496[5][all],Al,13,26.9815384,0.06688,0.00020,0.06456,0.00286,0.04878,0.00275
+GMIIIA K496[5][all],P,15,30.973761998,0.35793,0.00057,0.34552,0.01527,0.22743,0.01281
+# Notes
+#   Analytical total: 1.036 ± 0.046
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K496[5][4][residual].msa.
+#   Plot output to 'GMIIIA K496[5][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K496[6][all]['GMIIIA K496[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K496[6][all],O,8,15.999,0.54320,0.04566,0.52544,0.02096,0.66970,0.01859
+GMIIIA K496[6][all],Mg,12,24.305,0.06663,0.00011,0.06445,0.00285,0.05407,0.00304
+GMIIIA K496[6][all],Al,13,26.9815384,0.06617,0.00020,0.06400,0.00283,0.04837,0.00273
+GMIIIA K496[6][all],P,15,30.973761998,0.35781,0.00057,0.34611,0.01529,0.22786,0.01283
+# Notes
+#   Analytical total: 1.034 ± 0.046
+#   Duane-Hunt: 15.17 keV
+#   Residual written to GMIIIA K496[6][4][residual].msa.
+#   Plot output to 'GMIIIA K496[6][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K496[7][all]['GMIIIA K496[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K496[7][all],O,8,15.999,0.53367,0.04469,0.52210,0.02090,0.66674,0.01861
+GMIIIA K496[7][all],Mg,12,24.305,0.06609,0.00011,0.06466,0.00283,0.05436,0.00304
+GMIIIA K496[7][all],Al,13,26.9815384,0.06608,0.00019,0.06465,0.00283,0.04896,0.00274
+GMIIIA K496[7][all],P,15,30.973761998,0.35632,0.00056,0.34859,0.01524,0.22995,0.01284
+# Notes
+#   Analytical total: 1.022 ± 0.045
+#   Duane-Hunt: 15.19 keV
+#   Residual written to GMIIIA K496[7][4][residual].msa.
+#   Plot output to 'GMIIIA K496[7][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K496[8][all]['GMIIIA K496[8][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K496[8][all],O,8,15.999,0.54978,0.04501,0.54241,0.02032,0.68421,0.01769
+GMIIIA K496[8][all],Mg,12,24.305,0.06548,0.00011,0.06461,0.00287,0.05365,0.00301
+GMIIIA K496[8][all],Al,13,26.9815384,0.06399,0.00019,0.06313,0.00281,0.04722,0.00265
+GMIIIA K496[8][all],P,15,30.973761998,0.33433,0.00052,0.32985,0.01465,0.21492,0.01204
+# Notes
+#   Analytical total: 1.014 ± 0.045
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K496[8][4][residual].msa.
+#   Plot output to 'GMIIIA K496[8][4][quantify].pdf'
+# Result Comparison
+Name,O,Mg,Al,P,Σ
+GMIIIA K496[0][all],0.542 ± 0.046,0.06639 ± 0.00011,0.06618 ± 0.00020,0.35744 ± 0.00057,1.032 ± 0.046
+GMIIIA K496[1][all],0.515 ± 0.043,0.06518 ± 0.00010,0.06520 ± 0.00019,0.35181 ± 0.00054,0.997 ± 0.043
+GMIIIA K496[2][all],0.544 ± 0.046,0.06652 ± 0.00011,0.06629 ± 0.00020,0.35747 ± 0.00057,1.034 ± 0.046
+GMIIIA K496[3][all],0.546 ± 0.046,0.06653 ± 0.00011,0.06654 ± 0.00020,0.35813 ± 0.00057,1.037 ± 0.046
+GMIIIA K496[4][all],0.545 ± 0.046,0.06644 ± 0.00011,0.06621 ± 0.00020,0.35850 ± 0.00057,1.036 ± 0.046
+GMIIIA K496[5][all],0.545 ± 0.046,0.06642 ± 0.00011,0.06688 ± 0.00020,0.35793 ± 0.00057,1.036 ± 0.046
+GMIIIA K496[6][all],0.543 ± 0.046,0.06663 ± 0.00011,0.06617 ± 0.00020,0.35781 ± 0.00057,1.034 ± 0.046
+GMIIIA K496[7][all],0.534 ± 0.045,0.06609 ± 0.00011,0.06608 ± 0.00019,0.35632 ± 0.00056,1.022 ± 0.045
+GMIIIA K496[8][all],0.550 ± 0.045,0.06548 ± 0.00011,0.06399 ± 0.00019,0.33433 ± 0.00052,1.014 ± 0.045
+Mean,0.540 ± 0.010,0.06619 ± 0.00051,0.06595 ± 0.00086,0.3544 ± 0.0078,1.027 ± 0.014
+Nominal,0.538,0.0545,0.0605,0.3471,1
+RDEV (%),0.5,21.5,9,2.1,2.7
