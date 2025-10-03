@@ -1,0 +1,124 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-03 08:01:31.491191452 -04:00
+#   Application: spex v0.0.118
+#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+# Configuration warnings
+#   There are no suitable references for [Pb M₃-M₄ and 1 others; 0.0015>.
+# Spectrum
+#   GMIIIA K408[0][all]['GMIIIA K408[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K408[0][all],O,8,15.999,0.22283,0.01912,0.21451,0.01448,0.62891,0.02007
+GMIIIA K408[0][all],Si,14,28.085,0.13701,0.00124,0.13189,0.00268,0.22029,0.01199
+GMIIIA K408[0][all],Eu,63,151.964,0.03575,0.00016,0.03442,0.00066,0.01062,0.00058
+GMIIIA K408[0][all],Pb,82,207.2,0.64320,0.00364,0.61918,0.01150,0.14018,0.00760
+# Notes
+#   Analytical total: 1.039 ± 0.020
+#   Duane-Hunt: 15.03 keV
+#   Residual written to GMIIIA K408[0][4][residual].msa.
+#   Plot output to 'GMIIIA K408[0][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K408[1][all]['GMIIIA K408[1][4].msa']
+# Fit warnings
+#   The k-ratio '[Pb L₃-M₃] = -0.304 ± 0.085' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K408[1][all],O,8,15.999,0.22149,0.01866,0.21648,0.01431,0.62937,0.01969
+GMIIIA K408[1][all],Si,14,28.085,0.13717,0.00122,0.13407,0.00269,0.22204,0.01187
+GMIIIA K408[1][all],Eu,63,151.964,0.03502,0.00016,0.03423,0.00066,0.01048,0.00056
+GMIIIA K408[1][all],Pb,82,207.2,0.62947,0.00360,0.61523,0.01132,0.13811,0.00736
+# Notes
+#   Analytical total: 1.023 ± 0.019
+#   Duane-Hunt: 15.05 keV
+#   Residual written to GMIIIA K408[1][4][residual].msa.
+#   Plot output to 'GMIIIA K408[1][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K408[2][all]['GMIIIA K408[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K408[2][all],O,8,15.999,0.22151,0.01863,0.21676,0.01430,0.62960,0.01966
+GMIIIA K408[2][all],Si,14,28.085,0.13715,0.00121,0.13421,0.00269,0.22207,0.01186
+GMIIIA K408[2][all],Eu,63,151.964,0.03474,0.00016,0.03400,0.00065,0.01040,0.00055
+GMIIIA K408[2][all],Pb,82,207.2,0.62851,0.00361,0.61503,0.01132,0.13794,0.00734
+# Notes
+#   Analytical total: 1.022 ± 0.019
+#   Duane-Hunt: 15.02 keV
+#   Residual written to GMIIIA K408[2][4][residual].msa.
+#   Plot output to 'GMIIIA K408[2][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K408[3][all]['GMIIIA K408[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K408[3][all],O,8,15.999,0.22125,0.01842,0.21806,0.01422,0.63032,0.01945
+GMIIIA K408[3][all],Si,14,28.085,0.13709,0.00122,0.13512,0.00271,0.22249,0.01178
+GMIIIA K408[3][all],Eu,63,151.964,0.03536,0.00016,0.03485,0.00066,0.01061,0.00056
+GMIIIA K408[3][all],Pb,82,207.2,0.62090,0.00360,0.61197,0.01122,0.13659,0.00721
+# Notes
+#   Analytical total: 1.015 ± 0.019
+#   Duane-Hunt: 15.03 keV
+#   Residual written to GMIIIA K408[3][4][residual].msa.
+#   Plot output to 'GMIIIA K408[3][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K408[4][all]['GMIIIA K408[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K408[4][all],O,8,15.999,0.22148,0.01856,0.21723,0.01427,0.62980,0.01959
+GMIIIA K408[4][all],Si,14,28.085,0.13722,0.00123,0.13458,0.00270,0.22227,0.01184
+GMIIIA K408[4][all],Eu,63,151.964,0.03537,0.00016,0.03470,0.00066,0.01059,0.00056
+GMIIIA K408[4][all],Pb,82,207.2,0.62549,0.00361,0.61349,0.01128,0.13734,0.00729
+# Notes
+#   Analytical total: 1.020 ± 0.019
+#   Duane-Hunt: 15.04 keV
+#   Residual written to GMIIIA K408[4][4][residual].msa.
+#   Plot output to 'GMIIIA K408[4][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K408[5][all]['GMIIIA K408[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K408[5][all],O,8,15.999,0.22165,0.01851,0.21815,0.01426,0.63082,0.01949
+GMIIIA K408[5][all],Si,14,28.085,0.13689,0.00119,0.13473,0.00270,0.22194,0.01179
+GMIIIA K408[5][all],Eu,63,151.964,0.03446,0.00016,0.03391,0.00065,0.01032,0.00055
+GMIIIA K408[5][all],Pb,82,207.2,0.62304,0.00360,0.61321,0.01128,0.13692,0.00725
+# Notes
+#   Analytical total: 1.016 ± 0.019
+#   Duane-Hunt: 15.03 keV
+#   Residual written to GMIIIA K408[5][4][residual].msa.
+#   Plot output to 'GMIIIA K408[5][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K408[6][all]['GMIIIA K408[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K408[6][all],O,8,15.999,0.22158,0.01887,0.21466,0.01438,0.62828,0.01993
+GMIIIA K408[6][all],Si,14,28.085,0.13706,0.00124,0.13278,0.00268,0.22138,0.01195
+GMIIIA K408[6][all],Eu,63,151.964,0.03594,0.00016,0.03482,0.00067,0.01073,0.00058
+GMIIIA K408[6][all],Pb,82,207.2,0.63765,0.00362,0.61774,0.01139,0.13961,0.00750
+# Notes
+#   Analytical total: 1.032 ± 0.019
+#   Duane-Hunt: 15.06 keV
+#   Residual written to GMIIIA K408[6][4][residual].msa.
+#   Plot output to 'GMIIIA K408[6][4][quantify].pdf'
+# Result Comparison
+Name,O,Si,Eu,Pb,Σ
+GMIIIA K408[0][all],0.223 ± 0.019,0.1370 ± 0.0012,0.03575 ± 0.00016,0.6432 ± 0.0036,1.039 ± 0.020
+GMIIIA K408[1][all],0.221 ± 0.019,0.1372 ± 0.0012,0.03502 ± 0.00016,0.6295 ± 0.0036,1.023 ± 0.019
+GMIIIA K408[2][all],0.222 ± 0.019,0.1372 ± 0.0012,0.03474 ± 0.00016,0.6285 ± 0.0036,1.022 ± 0.019
+GMIIIA K408[3][all],0.221 ± 0.018,0.1371 ± 0.0012,0.03536 ± 0.00016,0.6209 ± 0.0036,1.015 ± 0.019
+GMIIIA K408[4][all],0.221 ± 0.019,0.1372 ± 0.0012,0.03537 ± 0.00016,0.6255 ± 0.0036,1.020 ± 0.019
+GMIIIA K408[5][all],0.222 ± 0.019,0.1369 ± 0.0012,0.03446 ± 0.00016,0.6230 ± 0.0036,1.016 ± 0.019
+GMIIIA K408[6][all],0.222 ± 0.019,0.1371 ± 0.0012,0.03594 ± 0.00016,0.6377 ± 0.0036,1.032 ± 0.019
+Mean,0.22168 ± 0.00052,0.13708 ± 0.00011,0.03523 ± 0.00053,0.6298 ± 0.0080,1.0238 ± 0.0088
+Nominal,0.2132,0.1402,0.0432,0.6034,1
+RDEV (%),4,-2.3,-18.4,4.4,2.4
