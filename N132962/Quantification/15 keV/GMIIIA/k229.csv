@@ -1,0 +1,117 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-03 08:01:26.145083627 -04:00
+#   Application: spex v0.0.118
+#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+# Configuration warnings
+#   There are no suitable references for [Pb M₃-M₄ and 1 others; 0.0015>.
+# Spectrum
+#   GMIIIA K229[0][all]['GMIIIA K229[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K229[0][all],O,8,15.999,0.21835,0.01911,0.21298,0.01469,0.62834,0.02045
+GMIIIA K229[0][all],Si,14,28.085,0.13575,0.00041,0.13241,0.00254,0.22254,0.01225
+GMIIIA K229[0][all],Pb,82,207.2,0.67112,0.00375,0.65461,0.01227,0.14912,0.00823
+# Notes
+#   Analytical total: 1.025 ± 0.019
+#   Duane-Hunt: 14.99 keV
+#   Residual written to GMIIIA K229[0][4][residual].msa.
+#   Plot output to 'GMIIIA K229[0][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K229[1][all]['GMIIIA K229[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K229[1][all],O,8,15.999,0.21771,0.01896,0.21309,0.01463,0.62746,0.02037
+GMIIIA K229[1][all],Si,14,28.085,0.13643,0.00041,0.13353,0.00255,0.22399,0.01226
+GMIIIA K229[1][all],Pb,82,207.2,0.66754,0.00374,0.65338,0.01220,0.14856,0.00815
+# Notes
+#   Analytical total: 1.022 ± 0.019
+#   Duane-Hunt: 15.02 keV
+#   Residual written to GMIIIA K229[1][4][residual].msa.
+#   Plot output to 'GMIIIA K229[1][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K229[2][all]['GMIIIA K229[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K229[2][all],O,8,15.999,0.22028,0.01980,0.21007,0.01493,0.62718,0.02103
+GMIIIA K229[2][all],Si,14,28.085,0.13602,0.00042,0.12972,0.00252,0.22062,0.01245
+GMIIIA K229[2][all],Pb,82,207.2,0.69232,0.00380,0.66022,0.01253,0.15220,0.00861
+# Notes
+#   Analytical total: 1.049 ± 0.020
+#   Duane-Hunt: 15.02 keV
+#   Residual written to GMIIIA K229[2][4][residual].msa.
+#   Plot output to 'GMIIIA K229[2][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K229[3][all]['GMIIIA K229[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K229[3][all],O,8,15.999,0.21804,0.01898,0.21346,0.01464,0.62830,0.02035
+GMIIIA K229[3][all],Si,14,28.085,0.13597,0.00041,0.13311,0.00255,0.22319,0.01222
+GMIIIA K229[3][all],Pb,82,207.2,0.66745,0.00374,0.65343,0.01221,0.14851,0.00816
+# Notes
+#   Analytical total: 1.021 ± 0.019
+#   Duane-Hunt: 15.01 keV
+#   Residual written to GMIIIA K229[3][4][residual].msa.
+#   Plot output to 'GMIIIA K229[3][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K229[4][all]['GMIIIA K229[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K229[4][all],O,8,15.999,0.21783,0.01885,0.21432,0.01459,0.62869,0.02021
+GMIIIA K229[4][all],Si,14,28.085,0.13605,0.00041,0.13386,0.00256,0.22368,0.01218
+GMIIIA K229[4][all],Pb,82,207.2,0.66250,0.00374,0.65182,0.01216,0.14764,0.00806
+# Notes
+#   Analytical total: 1.016 ± 0.019
+#   Duane-Hunt: 15.03 keV
+#   Residual written to GMIIIA K229[4][4][residual].msa.
+#   Plot output to 'GMIIIA K229[4][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K229[5][all]['GMIIIA K229[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K229[5][all],O,8,15.999,0.21841,0.01906,0.21349,0.01467,0.62845,0.02038
+GMIIIA K229[5][all],Si,14,28.085,0.13605,0.00041,0.13299,0.00255,0.22301,0.01224
+GMIIIA K229[5][all],Pb,82,207.2,0.66855,0.00374,0.65352,0.01224,0.14854,0.00818
+# Notes
+#   Analytical total: 1.023 ± 0.019
+#   Duane-Hunt: 15.05 keV
+#   Residual written to GMIIIA K229[5][4][residual].msa.
+#   Plot output to 'GMIIIA K229[5][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K229[6][all]['GMIIIA K229[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K229[6][all],O,8,15.999,0.22024,0.01895,0.21742,0.01466,0.63199,0.02002
+GMIIIA K229[6][all],Si,14,28.085,0.13613,0.00041,0.13439,0.00259,0.22252,0.01211
+GMIIIA K229[6][all],Pb,82,207.2,0.65658,0.00373,0.64819,0.01220,0.14548,0.00794
+# Notes
+#   Analytical total: 1.013 ± 0.019
+#   Duane-Hunt: 15.05 keV
+#   Residual written to GMIIIA K229[6][4][residual].msa.
+#   Plot output to 'GMIIIA K229[6][4][quantify].pdf'
+# Result Comparison
+Name,O,Si,Pb,Σ
+GMIIIA K229[0][all],0.218 ± 0.019,0.13575 ± 0.00041,0.6711 ± 0.0038,1.025 ± 0.019
+GMIIIA K229[1][all],0.218 ± 0.019,0.13643 ± 0.00041,0.6675 ± 0.0037,1.022 ± 0.019
+GMIIIA K229[2][all],0.220 ± 0.020,0.13602 ± 0.00042,0.6923 ± 0.0038,1.049 ± 0.020
+GMIIIA K229[3][all],0.218 ± 0.019,0.13597 ± 0.00041,0.6674 ± 0.0037,1.021 ± 0.019
+GMIIIA K229[4][all],0.218 ± 0.019,0.13605 ± 0.00041,0.6625 ± 0.0037,1.016 ± 0.019
+GMIIIA K229[5][all],0.218 ± 0.019,0.13605 ± 0.00041,0.6686 ± 0.0037,1.023 ± 0.019
+GMIIIA K229[6][all],0.220 ± 0.019,0.13613 ± 0.00041,0.6566 ± 0.0037,1.013 ± 0.019
+Mean,0.2187 ± 0.0011,0.13606 ± 0.00020,0.669 ± 0.011,1.024 ± 0.012
+Nominal,0.2099,0.1402,0.6498,1
+RDEV (%),4.2,-3,3,2.4
