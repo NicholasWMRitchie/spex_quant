@@ -1,0 +1,117 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-03 08:40:25.397375881 -04:00
+#   Application: spex v0.0.118
+#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+# Configuration warnings
+#   There are no suitable references for [Pb M₃-M₄ and 1 others; 0.0015>.
+# Spectrum
+#   GMIIIA K369[0][all]['GMIIIA K369[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K369[0][all],O,8,15.999,0.17695,0.01403,0.17046,0.01122,0.61858,0.01871
+GMIIIA K369[0][all],Ge,32,72.63,0.29788,0.00053,0.28696,0.00401,0.22939,0.01125
+GMIIIA K369[0][all],Pb,82,207.2,0.56325,0.00343,0.54259,0.00749,0.15204,0.00750
+# Notes
+#   Analytical total: 1.038 ± 0.014
+#   Duane-Hunt: 15.06 keV
+#   Residual written to GMIIIA K369[0][4][residual].msa.
+#   Plot output to 'GMIIIA K369[0][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K369[1][all]['GMIIIA K369[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K369[1][all],O,8,15.999,0.17677,0.01447,0.16733,0.01142,0.61821,0.01933
+GMIIIA K369[1][all],Ge,32,72.63,0.28831,0.00053,0.27292,0.00386,0.22211,0.01124
+GMIIIA K369[1][all],Pb,82,207.2,0.59132,0.00348,0.55975,0.00781,0.15968,0.00812
+# Notes
+#   Analytical total: 1.056 ± 0.015
+#   Duane-Hunt: 15.04 keV
+#   Residual written to GMIIIA K369[1][4][residual].msa.
+#   Plot output to 'GMIIIA K369[1][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K369[2][all]['GMIIIA K369[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K369[2][all],O,8,15.999,0.17724,0.01422,0.16966,0.01131,0.61914,0.01892
+GMIIIA K369[2][all],Ge,32,72.63,0.29390,0.00053,0.28132,0.00396,0.22615,0.01124
+GMIIIA K369[2][all],Pb,82,207.2,0.57357,0.00346,0.54902,0.00762,0.15471,0.00772
+# Notes
+#   Analytical total: 1.045 ± 0.015
+#   Duane-Hunt: 15.03 keV
+#   Residual written to GMIIIA K369[2][4][residual].msa.
+#   Plot output to 'GMIIIA K369[2][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K369[3][all]['GMIIIA K369[3][4].msa']
+# Fit warnings
+#   The k-ratio '[Pb M₂-M₄] = -0.64 ± 0.16' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K369[3][all],O,8,15.999,0.17642,0.01403,0.17016,0.01124,0.61967,0.01875
+GMIIIA K369[3][all],Ge,32,72.63,0.29252,0.00053,0.28215,0.00395,0.22633,0.01116
+GMIIIA K369[3][all],Pb,82,207.2,0.56781,0.00343,0.54768,0.00757,0.15400,0.00763
+# Notes
+#   Analytical total: 1.037 ± 0.014
+#   Duane-Hunt: 15.03 keV
+#   Residual written to GMIIIA K369[3][4][residual].msa.
+#   Plot output to 'GMIIIA K369[3][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K369[4][all]['GMIIIA K369[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K369[4][all],O,8,15.999,0.17714,0.01443,0.16745,0.01137,0.61627,0.01928
+GMIIIA K369[4][all],Ge,32,72.63,0.29565,0.00053,0.27948,0.00394,0.22657,0.01138
+GMIIIA K369[4][all],Pb,82,207.2,0.58507,0.00347,0.55307,0.00769,0.15716,0.00793
+# Notes
+#   Analytical total: 1.058 ± 0.015
+#   Duane-Hunt: 15.05 keV
+#   Residual written to GMIIIA K369[4][4][residual].msa.
+#   Plot output to 'GMIIIA K369[4][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K369[5][all]['GMIIIA K369[5][4].msa']
+# Fit warnings
+#   The k-ratio '[Pb M₂-M₄] = -0.66 ± 0.16' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K369[5][all],O,8,15.999,0.17674,0.01401,0.17082,0.01124,0.62034,0.01867
+GMIIIA K369[5][all],Ge,32,72.63,0.29305,0.00053,0.28323,0.00396,0.22657,0.01114
+GMIIIA K369[5][all],Pb,82,207.2,0.56489,0.00343,0.54596,0.00755,0.15309,0.00757
+# Notes
+#   Analytical total: 1.035 ± 0.014
+#   Duane-Hunt: 15.12 keV
+#   Residual written to GMIIIA K369[5][4][residual].msa.
+#   Plot output to 'GMIIIA K369[5][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K369[6][all]['GMIIIA K369[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K369[6][all],O,8,15.999,0.17645,0.01402,0.17026,0.01124,0.61960,0.01873
+GMIIIA K369[6][all],Ge,32,72.63,0.29310,0.00053,0.28282,0.00396,0.22672,0.01117
+GMIIIA K369[6][all],Pb,82,207.2,0.56682,0.00343,0.54693,0.00755,0.15369,0.00761
+# Notes
+#   Analytical total: 1.036 ± 0.014
+#   Duane-Hunt: 15.00 keV
+#   Residual written to GMIIIA K369[6][4][residual].msa.
+#   Plot output to 'GMIIIA K369[6][4][quantify].pdf'
+# Result Comparison
+Name,O,Ge,Pb,Σ
+GMIIIA K369[0][all],0.177 ± 0.014,0.29788 ± 0.00053,0.5632 ± 0.0034,1.038 ± 0.014
+GMIIIA K369[1][all],0.177 ± 0.014,0.28831 ± 0.00053,0.5913 ± 0.0035,1.056 ± 0.015
+GMIIIA K369[2][all],0.177 ± 0.014,0.29390 ± 0.00053,0.5736 ± 0.0035,1.045 ± 0.015
+GMIIIA K369[3][all],0.176 ± 0.014,0.29252 ± 0.00053,0.5678 ± 0.0034,1.037 ± 0.014
+GMIIIA K369[4][all],0.177 ± 0.014,0.29565 ± 0.00053,0.5851 ± 0.0035,1.058 ± 0.015
+GMIIIA K369[5][all],0.177 ± 0.014,0.29305 ± 0.00053,0.5649 ± 0.0034,1.035 ± 0.014
+GMIIIA K369[6][all],0.176 ± 0.014,0.29310 ± 0.00053,0.5668 ± 0.0034,1.036 ± 0.014
+Mean,0.17682 ± 0.00032,0.2935 ± 0.0030,0.573 ± 0.011,1.0436 ± 0.0098
+Nominal,0.1684,0.2865,0.5451,1
+RDEV (%),5,2.4,5.2,4.4
