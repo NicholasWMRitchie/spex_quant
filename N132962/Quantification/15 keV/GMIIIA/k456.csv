@@ -1,0 +1,117 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-03 08:01:33.230639486 -04:00
+#   Application: spex v0.0.118
+#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+# Configuration warnings
+#   There are no suitable references for [Pb M₃-M₄ and 1 others; 0.0015>.
+# Spectrum
+#   GMIIIA K456[0][all]['GMIIIA K456[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K456[0][all],O,8,15.999,0.21453,0.01940,0.20490,0.01475,0.62480,0.02121
+GMIIIA K456[0][all],Si,14,28.085,0.13107,0.00041,0.12518,0.00239,0.21746,0.01230
+GMIIIA K456[0][all],Pb,82,207.2,0.70141,0.00385,0.66992,0.01247,0.15774,0.00894
+# Notes
+#   Analytical total: 1.047 ± 0.020
+#   Duane-Hunt: 15.01 keV
+#   Residual written to GMIIIA K456[0][4][residual].msa.
+#   Plot output to 'GMIIIA K456[0][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K456[1][all]['GMIIIA K456[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K456[1][all],O,8,15.999,0.21495,0.01906,0.20854,0.01466,0.62776,0.02074
+GMIIIA K456[1][all],Si,14,28.085,0.13091,0.00041,0.12700,0.00242,0.21779,0.01214
+GMIIIA K456[1][all],Pb,82,207.2,0.68489,0.00379,0.66446,0.01235,0.15445,0.00863
+# Notes
+#   Analytical total: 1.031 ± 0.019
+#   Duane-Hunt: 15.05 keV
+#   Residual written to GMIIIA K456[1][4][residual].msa.
+#   Plot output to 'GMIIIA K456[1][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K456[2][all]['GMIIIA K456[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K456[2][all],O,8,15.999,0.21404,0.01902,0.20748,0.01463,0.62669,0.02080
+GMIIIA K456[2][all],Si,14,28.085,0.13072,0.00041,0.12671,0.00241,0.21803,0.01215
+GMIIIA K456[2][all],Pb,82,207.2,0.68689,0.00381,0.66581,0.01234,0.15529,0.00868
+# Notes
+#   Analytical total: 1.032 ± 0.019
+#   Duane-Hunt: 15.06 keV
+#   Residual written to GMIIIA K456[2][4][residual].msa.
+#   Plot output to 'GMIIIA K456[2][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K456[3][all]['GMIIIA K456[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K456[3][all],O,8,15.999,0.21461,0.01898,0.20871,0.01463,0.62763,0.02068
+GMIIIA K456[3][all],Si,14,28.085,0.13098,0.00040,0.12738,0.00242,0.21821,0.01212
+GMIIIA K456[3][all],Pb,82,207.2,0.68267,0.00380,0.66391,0.01232,0.15416,0.00859
+# Notes
+#   Analytical total: 1.028 ± 0.019
+#   Duane-Hunt: 15.02 keV
+#   Residual written to GMIIIA K456[3][4][residual].msa.
+#   Plot output to 'GMIIIA K456[3][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K456[4][all]['GMIIIA K456[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K456[4][all],O,8,15.999,0.21513,0.01868,0.21212,0.01453,0.62971,0.02026
+GMIIIA K456[4][all],Si,14,28.085,0.13159,0.00040,0.12975,0.00246,0.21943,0.01201
+GMIIIA K456[4][all],Pb,82,207.2,0.66747,0.00378,0.65813,0.01219,0.15086,0.00828
+# Notes
+#   Analytical total: 1.014 ± 0.019
+#   Duane-Hunt: 15.02 keV
+#   Residual written to GMIIIA K456[4][4][residual].msa.
+#   Plot output to 'GMIIIA K456[4][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K456[5][all]['GMIIIA K456[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K456[5][all],O,8,15.999,0.21548,0.01909,0.20902,0.01467,0.62769,0.02072
+GMIIIA K456[5][all],Si,14,28.085,0.13169,0.00041,0.12774,0.00244,0.21852,0.01217
+GMIIIA K456[5][all],Pb,82,207.2,0.68374,0.00380,0.66324,0.01235,0.15379,0.00858
+# Notes
+#   Analytical total: 1.031 ± 0.019
+#   Duane-Hunt: 15.03 keV
+#   Residual written to GMIIIA K456[5][4][residual].msa.
+#   Plot output to 'GMIIIA K456[5][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K456[6][all]['GMIIIA K456[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K456[6][all],O,8,15.999,0.21479,0.01902,0.20859,0.01464,0.62738,0.02071
+GMIIIA K456[6][all],Si,14,28.085,0.13128,0.00041,0.12749,0.00243,0.21843,0.01215
+GMIIIA K456[6][all],Pb,82,207.2,0.68367,0.00380,0.66392,0.01233,0.15419,0.00860
+# Notes
+#   Analytical total: 1.030 ± 0.019
+#   Duane-Hunt: 15.03 keV
+#   Residual written to GMIIIA K456[6][4][residual].msa.
+#   Plot output to 'GMIIIA K456[6][4][quantify].pdf'
+# Result Comparison
+Name,O,Si,Pb,Σ
+GMIIIA K456[0][all],0.215 ± 0.019,0.13107 ± 0.00041,0.7014 ± 0.0039,1.047 ± 0.020
+GMIIIA K456[1][all],0.215 ± 0.019,0.13091 ± 0.00041,0.6849 ± 0.0038,1.031 ± 0.019
+GMIIIA K456[2][all],0.214 ± 0.019,0.13072 ± 0.00041,0.6869 ± 0.0038,1.032 ± 0.019
+GMIIIA K456[3][all],0.215 ± 0.019,0.13098 ± 0.00040,0.6827 ± 0.0038,1.028 ± 0.019
+GMIIIA K456[4][all],0.215 ± 0.019,0.13159 ± 0.00040,0.6675 ± 0.0038,1.014 ± 0.019
+GMIIIA K456[5][all],0.215 ± 0.019,0.13169 ± 0.00041,0.6837 ± 0.0038,1.031 ± 0.019
+GMIIIA K456[6][all],0.215 ± 0.019,0.13128 ± 0.00041,0.6837 ± 0.0038,1.030 ± 0.019
+Mean,0.21479 ± 0.00046,0.13118 ± 0.00036,0.6844 ± 0.0099,1.0304 ± 0.0095
+Nominal,0.2043,0.1345,0.6612,1
+RDEV (%),5.1,-2.5,3.5,3
