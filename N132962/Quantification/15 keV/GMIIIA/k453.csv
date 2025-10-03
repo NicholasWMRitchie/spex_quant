@@ -1,0 +1,117 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-03 08:01:32.981987513 -04:00
+#   Application: spex v0.0.118
+#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+# Configuration warnings
+#   There are no suitable references for [Pb M₃-M₄ and 1 others; 0.0015>.
+# Spectrum
+#   GMIIIA K453[0][all]['GMIIIA K453[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K453[0][all],O,8,15.999,0.17827,0.01434,0.17029,0.01138,0.62077,0.01895
+GMIIIA K453[0][all],Ge,32,72.63,0.29245,0.00053,0.27937,0.00395,0.22433,0.01121
+GMIIIA K453[0][all],Pb,82,207.2,0.57610,0.00345,0.55034,0.00769,0.15490,0.00778
+# Notes
+#   Analytical total: 1.047 ± 0.015
+#   Duane-Hunt: 15.06 keV
+#   Residual written to GMIIIA K453[0][4][residual].msa.
+#   Plot output to 'GMIIIA K453[0][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K453[1][all]['GMIIIA K453[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K453[1][all],O,8,15.999,0.17791,0.01425,0.17057,0.01134,0.62080,0.01886
+GMIIIA K453[1][all],Ge,32,72.63,0.29270,0.00053,0.28063,0.00396,0.22498,0.01119
+GMIIIA K453[1][all],Pb,82,207.2,0.57240,0.00344,0.54879,0.00765,0.15422,0.00771
+# Notes
+#   Analytical total: 1.043 ± 0.015
+#   Duane-Hunt: 15.02 keV
+#   Residual written to GMIIIA K453[1][4][residual].msa.
+#   Plot output to 'GMIIIA K453[1][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K453[2][all]['GMIIIA K453[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K453[2][all],O,8,15.999,0.17877,0.01421,0.17270,0.01137,0.62473,0.01865
+GMIIIA K453[2][all],Ge,32,72.63,0.28840,0.00053,0.27861,0.00395,0.22201,0.01103
+GMIIIA K453[2][all],Pb,82,207.2,0.56796,0.00344,0.54868,0.00769,0.15326,0.00765
+# Notes
+#   Analytical total: 1.035 ± 0.015
+#   Duane-Hunt: 15.02 keV
+#   Residual written to GMIIIA K453[2][4][residual].msa.
+#   Plot output to 'GMIIIA K453[2][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K453[3][all]['GMIIIA K453[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K453[3][all],O,8,15.999,0.17680,0.01422,0.16909,0.01132,0.61891,0.01899
+GMIIIA K453[3][all],Ge,32,72.63,0.29202,0.00053,0.27929,0.00393,0.22518,0.01122
+GMIIIA K453[3][all],Pb,82,207.2,0.57677,0.00344,0.55162,0.00765,0.15590,0.00780
+# Notes
+#   Analytical total: 1.046 ± 0.015
+#   Duane-Hunt: 14.98 keV
+#   Residual written to GMIIIA K453[3][4][residual].msa.
+#   Plot output to 'GMIIIA K453[3][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K453[4][all]['GMIIIA K453[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K453[4][all],O,8,15.999,0.17868,0.01426,0.17143,0.01135,0.62145,0.01879
+GMIIIA K453[4][all],Ge,32,72.63,0.29465,0.00053,0.28269,0.00400,0.22574,0.01120
+GMIIIA K453[4][all],Pb,82,207.2,0.56900,0.00344,0.54589,0.00762,0.15281,0.00762
+# Notes
+#   Analytical total: 1.042 ± 0.015
+#   Duane-Hunt: 15.04 keV
+#   Residual written to GMIIIA K453[4][4][residual].msa.
+#   Plot output to 'GMIIIA K453[4][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K453[5][all]['GMIIIA K453[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K453[5][all],O,8,15.999,0.17893,0.01431,0.17141,0.01137,0.62147,0.01882
+GMIIIA K453[5][all],Ge,32,72.63,0.29496,0.00053,0.28257,0.00400,0.22567,0.01122
+GMIIIA K453[5][all],Pb,82,207.2,0.56996,0.00343,0.54602,0.00764,0.15286,0.00763
+# Notes
+#   Analytical total: 1.044 ± 0.015
+#   Duane-Hunt: 15.04 keV
+#   Residual written to GMIIIA K453[5][4][residual].msa.
+#   Plot output to 'GMIIIA K453[5][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K453[6][all]['GMIIIA K453[6][4].msa']
+# Fit warnings
+#   The k-ratio '[Pb M₂-M₄] = -0.76 ± 0.16' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K453[6][all],O,8,15.999,0.17804,0.01428,0.17037,0.01135,0.62043,0.01890
+GMIIIA K453[6][all],Ge,32,72.63,0.29341,0.00053,0.28076,0.00397,0.22523,0.01122
+GMIIIA K453[6][all],Pb,82,207.2,0.57360,0.00346,0.54887,0.00765,0.15434,0.00772
+# Notes
+#   Analytical total: 1.045 ± 0.015
+#   Duane-Hunt: 15.02 keV
+#   Residual written to GMIIIA K453[6][4][residual].msa.
+#   Plot output to 'GMIIIA K453[6][4][quantify].pdf'
+# Result Comparison
+Name,O,Ge,Pb,Σ
+GMIIIA K453[0][all],0.178 ± 0.014,0.29245 ± 0.00053,0.5761 ± 0.0035,1.047 ± 0.015
+GMIIIA K453[1][all],0.178 ± 0.014,0.29270 ± 0.00053,0.5724 ± 0.0034,1.043 ± 0.015
+GMIIIA K453[2][all],0.179 ± 0.014,0.28840 ± 0.00053,0.5680 ± 0.0034,1.035 ± 0.015
+GMIIIA K453[3][all],0.177 ± 0.014,0.29202 ± 0.00053,0.5768 ± 0.0034,1.046 ± 0.015
+GMIIIA K453[4][all],0.179 ± 0.014,0.29465 ± 0.00053,0.5690 ± 0.0034,1.042 ± 0.015
+GMIIIA K453[5][all],0.179 ± 0.014,0.29496 ± 0.00053,0.5700 ± 0.0034,1.044 ± 0.015
+GMIIIA K453[6][all],0.178 ± 0.014,0.29341 ± 0.00053,0.5736 ± 0.0035,1.045 ± 0.015
+Mean,0.17820 ± 0.00073,0.2927 ± 0.0022,0.5723 ± 0.0034,1.0431 ± 0.0038
+Nominal,0.1684,0.2865,0.5451,1
+RDEV (%),5.8,2.1,5,4.3
