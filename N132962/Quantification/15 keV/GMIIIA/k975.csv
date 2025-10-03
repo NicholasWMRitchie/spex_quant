@@ -1,0 +1,313 @@
+# Configuration
+#   Username: nwmr
+#   Timestamp: 2025-10-03 08:01:39.486123992 -04:00
+#   Application: spex v0.0.118
+#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+# Configuration warnings
+#   The Duane-Hunt (14.66 keV) for KCl standard for 'N132962' detector differs by more than 1 % from the beam energy (15.00 keV)!!
+#   The Duane-Hunt (14.83 keV) for CeO2 standard for 'N132962' detector differs by more than 1 % from the beam energy (15.00 keV)!!
+#   There are no suitable references for [K L₃-M₁ and 8 others; 0.8241>.
+#   There are no suitable references for [Rb L₁-L₂ and 1 others; 0.0007>.
+# Spectrum
+#   GMIIIA K975[0][all]['GMIIIA K975[0][4].msa']
+# Fit warnings
+#   The k-ratio '[Sr L₁-L₃ + 1 other] = -0.316 ± 0.020' is more than 3σ negative.
+#   The k-ratio '[Tb M₁-M₂] = -0.0765 ± 0.0095' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₂] = -0.0381 ± 0.0025' is more than 3σ negative.
+#   The k-ratio '[Tb M₃-M₅ + 3 others] = -0.0472 ± 0.0078' is more than 3σ negative.
+#   The k-ratio '[Yb M₂-M₄ + 3 others] = -0.1646 ± 0.0072' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₃] = -0.0996 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.0377 ± 0.0027' is more than 3σ negative.
+#   The k-ratio '[Ce M₁-O₃ + 1 other] = -7.59 ± 0.43' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₇ + 18 others] = -0.0089 ± 0.0016' is more than 3σ negative.
+#   The k-ratio '[Yb M₁-O₂ + 1 other] = -0.564 ± 0.077' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K975[0][all],O,8,15.999,0.40930,0.02809,0.40060,0.01657,0.62175,0.01628
+GMIIIA K975[0][all],Al,13,26.9815384,0.09013,0.00090,0.08821,0.00258,0.08118,0.00355
+GMIIIA K975[0][all],Si,14,28.085,0.22617,0.00379,0.22137,0.00676,0.19572,0.00876
+GMIIIA K975[0][all],K,19,39.0983,0.02019,0.00005,0.01976,0.00055,0.01255,0.00054
+GMIIIA K975[0][all],Ca,20,40.078,0.06826,0.00010,0.06681,0.00186,0.04139,0.00177
+GMIIIA K975[0][all],Rb,37,85.4678,0.01879,0.00135,0.01839,0.00139,0.00534,0.00044
+GMIIIA K975[0][all],Sr,38,87.62,0.10285,0.00164,0.10066,0.00315,0.02853,0.00130
+GMIIIA K975[0][all],Ag,47,107.8682,0.00830,0.00014,0.00812,0.00027,0.00187,0.00009
+GMIIIA K975[0][all],Ce,58,140.116,0.01983,0.00012,0.01941,0.00055,0.00344,0.00015
+GMIIIA K975[0][all],Tb,65,158.925354,0.01634,0.00017,0.01599,0.00048,0.00250,0.00011
+GMIIIA K975[0][all],Yb,70,173.045,0.02400,0.00029,0.02349,0.00071,0.00337,0.00015
+GMIIIA K975[0][all],Ta,73,180.94788,0.01755,0.00042,0.01718,0.00063,0.00236,0.00012
+# Notes
+#   Analytical total: 1.022 ± 0.028
+#   Duane-Hunt: 15.19 keV
+#   Residual written to GMIIIA K975[0][4][residual].msa.
+#   Plot output to 'GMIIIA K975[0][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K975[1][all]['GMIIIA K975[1][4].msa']
+# Fit warnings
+#   The k-ratio '[Sr L₁-L₃ + 1 other] = -0.335 ± 0.020' is more than 3σ negative.
+#   The k-ratio '[Tb M₁-M₂] = -0.0690 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₂] = -0.0348 ± 0.0025' is more than 3σ negative.
+#   The k-ratio '[Tb M₃-M₅ + 3 others] = -0.0357 ± 0.0078' is more than 3σ negative.
+#   The k-ratio '[Yb M₂-M₄ + 3 others] = -0.1344 ± 0.0072' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₃] = -0.0827 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.0394 ± 0.0027' is more than 3σ negative.
+#   The k-ratio '[Ce M₁-O₃ + 1 other] = -7.98 ± 0.43' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₇ + 18 others] = -0.0104 ± 0.0016' is more than 3σ negative.
+#   The k-ratio '[Yb M₁-O₂ + 1 other] = -0.653 ± 0.076' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K975[1][all],O,8,15.999,0.41111,0.02825,0.40016,0.01659,0.62214,0.01631
+GMIIIA K975[1][all],Al,13,26.9815384,0.08992,0.00090,0.08753,0.00257,0.08069,0.00354
+GMIIIA K975[1][all],Si,14,28.085,0.22665,0.00400,0.22062,0.00680,0.19540,0.00881
+GMIIIA K975[1][all],K,19,39.0983,0.01991,0.00005,0.01938,0.00054,0.01233,0.00053
+GMIIIA K975[1][all],Ca,20,40.078,0.06848,0.00011,0.06666,0.00186,0.04137,0.00178
+GMIIIA K975[1][all],Rb,37,85.4678,0.02001,0.00135,0.01948,0.00139,0.00567,0.00045
+GMIIIA K975[1][all],Sr,38,87.62,0.10395,0.00169,0.10118,0.00318,0.02872,0.00131
+GMIIIA K975[1][all],Ag,47,107.8682,0.00862,0.00015,0.00840,0.00027,0.00194,0.00009
+GMIIIA K975[1][all],Ce,58,140.116,0.01956,0.00012,0.01904,0.00054,0.00338,0.00015
+GMIIIA K975[1][all],Tb,65,158.925354,0.01661,0.00017,0.01617,0.00048,0.00253,0.00011
+GMIIIA K975[1][all],Yb,70,173.045,0.02330,0.00029,0.02268,0.00069,0.00326,0.00015
+GMIIIA K975[1][all],Ta,73,180.94788,0.01924,0.00042,0.01873,0.00066,0.00257,0.00012
+# Notes
+#   Analytical total: 1.027 ± 0.029
+#   Duane-Hunt: 15.07 keV
+#   Residual written to GMIIIA K975[1][4][residual].msa.
+#   Plot output to 'GMIIIA K975[1][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K975[2][all]['GMIIIA K975[2][4].msa']
+# Fit warnings
+#   The k-ratio '[Sr L₁-L₃ + 1 other] = -0.352 ± 0.020' is more than 3σ negative.
+#   The k-ratio '[Tb M₁-M₂] = -0.0693 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₂] = -0.0350 ± 0.0025' is more than 3σ negative.
+#   The k-ratio '[Tb M₃-M₅ + 3 others] = -0.0286 ± 0.0078' is more than 3σ negative.
+#   The k-ratio '[Yb M₂-M₄ + 3 others] = -0.1503 ± 0.0072' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₃] = -0.1112 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.0291 ± 0.0027' is more than 3σ negative.
+#   The k-ratio '[Ce M₁-O₃ + 1 other] = -6.98 ± 0.43' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₇ + 18 others] = -0.0170 ± 0.0016' is more than 3σ negative.
+#   The k-ratio '[Yb M₁-O₂ + 1 other] = -0.417 ± 0.076' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K975[2][all],O,8,15.999,0.41104,0.02823,0.39806,0.01656,0.62124,0.01632
+GMIIIA K975[2][all],Al,13,26.9815384,0.08975,0.00089,0.08691,0.00254,0.08043,0.00352
+GMIIIA K975[2][all],Si,14,28.085,0.22707,0.00410,0.21990,0.00679,0.19551,0.00882
+GMIIIA K975[2][all],K,19,39.0983,0.02001,0.00005,0.01938,0.00054,0.01238,0.00053
+GMIIIA K975[2][all],Ca,20,40.078,0.06808,0.00011,0.06593,0.00183,0.04108,0.00176
+GMIIIA K975[2][all],Rb,37,85.4678,0.02499,0.00136,0.02421,0.00145,0.00707,0.00049
+GMIIIA K975[2][all],Sr,38,87.62,0.10315,0.00175,0.09989,0.00316,0.02847,0.00131
+GMIIIA K975[2][all],Ag,47,107.8682,0.00880,0.00015,0.00853,0.00028,0.00197,0.00009
+GMIIIA K975[2][all],Ce,58,140.116,0.01916,0.00012,0.01856,0.00053,0.00331,0.00014
+GMIIIA K975[2][all],Tb,65,158.925354,0.01682,0.00017,0.01629,0.00048,0.00256,0.00011
+GMIIIA K975[2][all],Yb,70,173.045,0.02408,0.00029,0.02332,0.00070,0.00337,0.00015
+GMIIIA K975[2][all],Ta,73,180.94788,0.01963,0.00042,0.01901,0.00066,0.00262,0.00013
+# Notes
+#   Analytical total: 1.033 ± 0.029
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K975[2][4][residual].msa.
+#   Plot output to 'GMIIIA K975[2][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K975[3][all]['GMIIIA K975[3][4].msa']
+# Fit warnings
+#   The k-ratio '[Sr L₁-L₃ + 1 other] = -0.335 ± 0.020' is more than 3σ negative.
+#   The k-ratio '[Tb M₁-M₂] = -0.0633 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₂] = -0.0322 ± 0.0025' is more than 3σ negative.
+#   The k-ratio '[Tb M₃-M₅ + 3 others] = -0.0458 ± 0.0078' is more than 3σ negative.
+#   The k-ratio '[Yb M₂-M₄ + 3 others] = -0.1394 ± 0.0072' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₃] = -0.0970 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.0396 ± 0.0027' is more than 3σ negative.
+#   The k-ratio '[Ce M₁-O₃ + 1 other] = -8.68 ± 0.43' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₇ + 18 others] = -0.0163 ± 0.0016' is more than 3σ negative.
+#   The k-ratio '[Yb M₁-O₂ + 1 other] = -0.658 ± 0.076' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K975[3][all],O,8,15.999,0.40972,0.02814,0.39768,0.01656,0.62026,0.01634
+GMIIIA K975[3][all],Al,13,26.9815384,0.09000,0.00090,0.08735,0.00255,0.08079,0.00353
+GMIIIA K975[3][all],Si,14,28.085,0.22784,0.00417,0.22115,0.00683,0.19649,0.00886
+GMIIIA K975[3][all],K,19,39.0983,0.01979,0.00005,0.01921,0.00053,0.01226,0.00053
+GMIIIA K975[3][all],Ca,20,40.078,0.06845,0.00011,0.06644,0.00184,0.04137,0.00177
+GMIIIA K975[3][all],Rb,37,85.4678,0.02353,0.00136,0.02284,0.00143,0.00667,0.00048
+GMIIIA K975[3][all],Sr,38,87.62,0.10263,0.00173,0.09962,0.00314,0.02837,0.00130
+GMIIIA K975[3][all],Ag,47,107.8682,0.00854,0.00015,0.00829,0.00027,0.00192,0.00009
+GMIIIA K975[3][all],Ce,58,140.116,0.01924,0.00012,0.01868,0.00053,0.00333,0.00014
+GMIIIA K975[3][all],Tb,65,158.925354,0.01674,0.00017,0.01625,0.00048,0.00255,0.00011
+GMIIIA K975[3][all],Yb,70,173.045,0.02361,0.00029,0.02291,0.00069,0.00330,0.00015
+GMIIIA K975[3][all],Ta,73,180.94788,0.02017,0.00042,0.01958,0.00067,0.00270,0.00013
+# Notes
+#   Analytical total: 1.030 ± 0.029
+#   Duane-Hunt: 15.19 keV
+#   Residual written to GMIIIA K975[3][4][residual].msa.
+#   Plot output to 'GMIIIA K975[3][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K975[4][all]['GMIIIA K975[4][4].msa']
+# Fit warnings
+#   The k-ratio '[Sr L₁-L₃ + 1 other] = -0.270 ± 0.020' is more than 3σ negative.
+#   The k-ratio '[Tb M₁-M₂] = -0.0561 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₂] = -0.0404 ± 0.0025' is more than 3σ negative.
+#   The k-ratio '[Tb M₃-M₅ + 3 others] = -0.0439 ± 0.0078' is more than 3σ negative.
+#   The k-ratio '[Yb M₂-M₄ + 3 others] = -0.1392 ± 0.0072' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₃] = -0.0921 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.0376 ± 0.0027' is more than 3σ negative.
+#   The k-ratio '[Ce M₁-O₃ + 1 other] = -7.72 ± 0.43' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₇ + 18 others] = -0.0099 ± 0.0016' is more than 3σ negative.
+#   The k-ratio '[Yb M₁-O₂ + 1 other] = -0.562 ± 0.076' is more than 3σ negative.
+#   The k-ratio '[Ta M₁-O₂ + 1 other] = -0.260 ± 0.055' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K975[4][all],O,8,15.999,0.41085,0.02820,0.39906,0.01658,0.62223,0.01632
+GMIIIA K975[4][all],Al,13,26.9815384,0.08985,0.00091,0.08727,0.00256,0.08069,0.00354
+GMIIIA K975[4][all],Si,14,28.085,0.22589,0.00438,0.21940,0.00689,0.19488,0.00886
+GMIIIA K975[4][all],K,19,39.0983,0.02006,0.00005,0.01948,0.00054,0.01243,0.00053
+GMIIIA K975[4][all],Ca,20,40.078,0.06813,0.00011,0.06617,0.00184,0.04119,0.00177
+GMIIIA K975[4][all],Rb,37,85.4678,0.02005,0.00135,0.01948,0.00139,0.00569,0.00045
+GMIIIA K975[4][all],Sr,38,87.62,0.10356,0.00174,0.10059,0.00318,0.02864,0.00131
+GMIIIA K975[4][all],Ag,47,107.8682,0.00885,0.00015,0.00860,0.00028,0.00199,0.00009
+GMIIIA K975[4][all],Ce,58,140.116,0.02008,0.00012,0.01950,0.00055,0.00347,0.00015
+GMIIIA K975[4][all],Tb,65,158.925354,0.01685,0.00017,0.01637,0.00048,0.00257,0.00011
+GMIIIA K975[4][all],Yb,70,173.045,0.02339,0.00029,0.02272,0.00069,0.00327,0.00015
+GMIIIA K975[4][all],Ta,73,180.94788,0.02199,0.00042,0.02136,0.00072,0.00294,0.00014
+# Notes
+#   Analytical total: 1.030 ± 0.029
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K975[4][4][residual].msa.
+#   Plot output to 'GMIIIA K975[4][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K975[5][all]['GMIIIA K975[5][4].msa']
+# Fit warnings
+#   The k-ratio '[Sr L₁-L₃ + 1 other] = -0.292 ± 0.020' is more than 3σ negative.
+#   The k-ratio '[Tb M₁-M₂] = -0.0858 ± 0.0095' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₂] = -0.0440 ± 0.0026' is more than 3σ negative.
+#   The k-ratio '[Tb M₃-M₅ + 3 others] = -0.0581 ± 0.0078' is more than 3σ negative.
+#   The k-ratio '[Yb M₂-M₄ + 3 others] = -0.1490 ± 0.0072' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₃] = -0.0869 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.0329 ± 0.0027' is more than 3σ negative.
+#   The k-ratio '[Ce M₁-O₃ + 1 other] = -7.62 ± 0.43' is more than 3σ negative.
+#   The k-ratio '[Yb M₁-O₂ + 1 other] = -0.247 ± 0.078' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K975[5][all],O,8,15.999,0.40744,0.02794,0.39994,0.01657,0.62229,0.01629
+GMIIIA K975[5][all],Al,13,26.9815384,0.08975,0.00092,0.08810,0.00259,0.08128,0.00357
+GMIIIA K975[5][all],Si,14,28.085,0.22408,0.00422,0.21996,0.00686,0.19496,0.00883
+GMIIIA K975[5][all],K,19,39.0983,0.01969,0.00005,0.01933,0.00054,0.01231,0.00053
+GMIIIA K975[5][all],Ca,20,40.078,0.06811,0.00011,0.06686,0.00186,0.04153,0.00178
+GMIIIA K975[5][all],Rb,37,85.4678,0.01494,0.00134,0.01467,0.00136,0.00427,0.00042
+GMIIIA K975[5][all],Sr,38,87.62,0.10423,0.00169,0.10231,0.00321,0.02907,0.00133
+GMIIIA K975[5][all],Ag,47,107.8682,0.00896,0.00015,0.00879,0.00029,0.00203,0.00009
+GMIIIA K975[5][all],Ce,58,140.116,0.01965,0.00012,0.01929,0.00055,0.00343,0.00015
+GMIIIA K975[5][all],Tb,65,158.925354,0.01746,0.00017,0.01714,0.00051,0.00268,0.00012
+GMIIIA K975[5][all],Yb,70,173.045,0.02335,0.00029,0.02292,0.00070,0.00330,0.00015
+GMIIIA K975[5][all],Ta,73,180.94788,0.02108,0.00042,0.02070,0.00070,0.00285,0.00013
+# Notes
+#   Analytical total: 1.019 ± 0.028
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K975[5][4][residual].msa.
+#   Plot output to 'GMIIIA K975[5][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K975[6][all]['GMIIIA K975[6][4].msa']
+# Fit warnings
+#   The k-ratio '[Sr L₁-L₃ + 1 other] = -0.333 ± 0.020' is more than 3σ negative.
+#   The k-ratio '[Tb M₁-M₂] = -0.0615 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₂] = -0.0354 ± 0.0025' is more than 3σ negative.
+#   The k-ratio '[Tb M₃-M₅ + 3 others] = -0.0462 ± 0.0078' is more than 3σ negative.
+#   The k-ratio '[Yb M₂-M₄ + 3 others] = -0.1678 ± 0.0072' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₃] = -0.0804 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.0337 ± 0.0027' is more than 3σ negative.
+#   The k-ratio '[Ce M₁-O₃ + 1 other] = -7.76 ± 0.43' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₇ + 18 others] = -0.0129 ± 0.0016' is more than 3σ negative.
+#   The k-ratio '[Yb M₁-O₂ + 1 other] = -0.578 ± 0.076' is more than 3σ negative.
+#   The k-ratio '[Ta M₁-O₂ + 1 other] = -0.306 ± 0.055' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K975[6][all],O,8,15.999,0.41154,0.02827,0.39913,0.01657,0.62207,0.01630
+GMIIIA K975[6][all],Al,13,26.9815384,0.08990,0.00094,0.08719,0.00256,0.08057,0.00354
+GMIIIA K975[6][all],Si,14,28.085,0.22600,0.00396,0.21918,0.00674,0.19460,0.00876
+GMIIIA K975[6][all],K,19,39.0983,0.01997,0.00005,0.01937,0.00054,0.01235,0.00053
+GMIIIA K975[6][all],Ca,20,40.078,0.06855,0.00010,0.06648,0.00185,0.04136,0.00177
+GMIIIA K975[6][all],Rb,37,85.4678,0.02395,0.00136,0.02323,0.00144,0.00678,0.00048
+GMIIIA K975[6][all],Sr,38,87.62,0.10364,0.00173,0.10051,0.00317,0.02860,0.00131
+GMIIIA K975[6][all],Ag,47,107.8682,0.00799,0.00014,0.00775,0.00025,0.00179,0.00008
+GMIIIA K975[6][all],Ce,58,140.116,0.01971,0.00012,0.01911,0.00054,0.00340,0.00015
+GMIIIA K975[6][all],Tb,65,158.925354,0.01790,0.00017,0.01736,0.00051,0.00272,0.00012
+GMIIIA K975[6][all],Yb,70,173.045,0.02298,0.00029,0.02229,0.00068,0.00321,0.00014
+GMIIIA K975[6][all],Ta,73,180.94788,0.01897,0.00042,0.01839,0.00065,0.00253,0.00012
+# Notes
+#   Analytical total: 1.031 ± 0.029
+#   Duane-Hunt: 15.00 keV
+#   Residual written to GMIIIA K975[6][4][residual].msa.
+#   Plot output to 'GMIIIA K975[6][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K975[7][all]['GMIIIA K975[7][4].msa']
+# Fit warnings
+#   The k-ratio '[Sr L₁-L₃ + 1 other] = -0.333 ± 0.020' is more than 3σ negative.
+#   The k-ratio '[Tb M₁-M₂] = -0.0895 ± 0.0094' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₂] = -0.0404 ± 0.0025' is more than 3σ negative.
+#   The k-ratio '[Tb M₃-M₅ + 3 others] = -0.0363 ± 0.0078' is more than 3σ negative.
+#   The k-ratio '[Yb M₂-M₄ + 3 others] = -0.1501 ± 0.0072' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₃] = -0.1115 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.0358 ± 0.0027' is more than 3σ negative.
+#   The k-ratio '[Ce M₁-O₃ + 1 other] = -7.73 ± 0.43' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₇ + 18 others] = -0.0180 ± 0.0016' is more than 3σ negative.
+#   The k-ratio '[Yb M₁-O₂ + 1 other] = -0.745 ± 0.076' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K975[7][all],O,8,15.999,0.41005,0.02818,0.39630,0.01655,0.62011,0.01636
+GMIIIA K975[7][all],Al,13,26.9815384,0.08964,0.00092,0.08663,0.00253,0.08038,0.00352
+GMIIIA K975[7][all],Si,14,28.085,0.22786,0.00430,0.22022,0.00684,0.19630,0.00888
+GMIIIA K975[7][all],K,19,39.0983,0.01981,0.00005,0.01914,0.00053,0.01226,0.00053
+GMIIIA K975[7][all],Ca,20,40.078,0.06808,0.00010,0.06580,0.00182,0.04110,0.00176
+GMIIIA K975[7][all],Rb,37,85.4678,0.02584,0.00136,0.02497,0.00146,0.00731,0.00050
+GMIIIA K975[7][all],Sr,38,87.62,0.10318,0.00179,0.09972,0.00316,0.02849,0.00131
+GMIIIA K975[7][all],Ag,47,107.8682,0.00834,0.00015,0.00806,0.00026,0.00187,0.00009
+GMIIIA K975[7][all],Ce,58,140.116,0.01924,0.00012,0.01859,0.00053,0.00332,0.00014
+GMIIIA K975[7][all],Tb,65,158.925354,0.01771,0.00017,0.01711,0.00050,0.00270,0.00012
+GMIIIA K975[7][all],Yb,70,173.045,0.02414,0.00029,0.02333,0.00070,0.00337,0.00015
+GMIIIA K975[7][all],Ta,73,180.94788,0.02082,0.00042,0.02012,0.00068,0.00278,0.00013
+# Notes
+#   Analytical total: 1.035 ± 0.029
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K975[7][4][residual].msa.
+#   Plot output to 'GMIIIA K975[7][4][quantify].pdf'
+# Spectrum
+#   GMIIIA K975[8][all]['GMIIIA K975[8][4].msa']
+# Fit warnings
+#   The k-ratio '[Sr L₁-L₃ + 1 other] = -0.332 ± 0.020' is more than 3σ negative.
+#   The k-ratio '[Tb M₁-M₂] = -0.0869 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₂] = -0.0394 ± 0.0025' is more than 3σ negative.
+#   The k-ratio '[Tb M₃-M₅ + 3 others] = -0.0409 ± 0.0078' is more than 3σ negative.
+#   The k-ratio '[Yb M₂-M₄ + 3 others] = -0.1553 ± 0.0072' is more than 3σ negative.
+#   The k-ratio '[Ag L₁-L₃] = -0.1041 ± 0.0093' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.0330 ± 0.0027' is more than 3σ negative.
+#   The k-ratio '[Ce M₁-O₃ + 1 other] = -7.67 ± 0.43' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₇ + 18 others] = -0.0117 ± 0.0016' is more than 3σ negative.
+#   The k-ratio '[Yb M₁-O₂ + 1 other] = -0.591 ± 0.076' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+GMIIIA K975[8][all],O,8,15.999,0.41060,0.02819,0.40032,0.01658,0.62228,0.01628
+GMIIIA K975[8][all],Al,13,26.9815384,0.08980,0.00092,0.08756,0.00257,0.08070,0.00354
+GMIIIA K975[8][all],Si,14,28.085,0.22599,0.00388,0.22033,0.00676,0.19510,0.00876
+GMIIIA K975[8][all],K,19,39.0983,0.01993,0.00005,0.01943,0.00054,0.01236,0.00053
+GMIIIA K975[8][all],Ca,20,40.078,0.06849,0.00011,0.06678,0.00186,0.04144,0.00178
+GMIIIA K975[8][all],Rb,37,85.4678,0.02072,0.00135,0.02020,0.00140,0.00588,0.00046
+GMIIIA K975[8][all],Sr,38,87.62,0.10326,0.00167,0.10067,0.00316,0.02857,0.00130
+GMIIIA K975[8][all],Ag,47,107.8682,0.00876,0.00015,0.00854,0.00028,0.00197,0.00009
+GMIIIA K975[8][all],Ce,58,140.116,0.01966,0.00012,0.01917,0.00055,0.00340,0.00015
+GMIIIA K975[8][all],Tb,65,158.925354,0.01744,0.00017,0.01700,0.00050,0.00266,0.00012
+GMIIIA K975[8][all],Yb,70,173.045,0.02242,0.00029,0.02186,0.00067,0.00314,0.00014
+GMIIIA K975[8][all],Ta,73,180.94788,0.01861,0.00042,0.01814,0.00065,0.00249,0.00012
+# Notes
+#   Analytical total: 1.026 ± 0.029
+#   Duane-Hunt: 15.20 keV
+#   Residual written to GMIIIA K975[8][4][residual].msa.
+#   Plot output to 'GMIIIA K975[8][4][quantify].pdf'
+# Result Comparison
+Name,O,Al,Si,K,Ca,Rb,Sr,Ag,Ce,Tb,Yb,Ta,Σ
+GMIIIA K975[0][all],0.409 ± 0.028,0.09013 ± 0.00090,0.2262 ± 0.0038,0.020189 ± 0.000050,0.06826 ± 0.00010,0.0188 ± 0.0013,0.1029 ± 0.0016,0.00830 ± 0.00014,0.01983 ± 0.00012,0.01634 ± 0.00017,0.02400 ± 0.00029,0.01755 ± 0.00042,1.022 ± 0.028
+GMIIIA K975[1][all],0.411 ± 0.028,0.08992 ± 0.00090,0.2267 ± 0.0040,0.019906 ± 0.000050,0.06848 ± 0.00011,0.0200 ± 0.0013,0.1039 ± 0.0017,0.00862 ± 0.00015,0.01956 ± 0.00012,0.01661 ± 0.00017,0.02330 ± 0.00029,0.01924 ± 0.00042,1.027 ± 0.029
+GMIIIA K975[2][all],0.411 ± 0.028,0.08975 ± 0.00089,0.2271 ± 0.0041,0.020012 ± 0.000050,0.06808 ± 0.00011,0.0250 ± 0.0014,0.1032 ± 0.0018,0.00880 ± 0.00015,0.01916 ± 0.00012,0.01682 ± 0.00017,0.02408 ± 0.00029,0.01963 ± 0.00042,1.033 ± 0.029
+GMIIIA K975[3][all],0.410 ± 0.028,0.09000 ± 0.00090,0.2278 ± 0.0042,0.019788 ± 0.000050,0.06845 ± 0.00011,0.0235 ± 0.0014,0.1026 ± 0.0017,0.00854 ± 0.00015,0.01924 ± 0.00012,0.01674 ± 0.00017,0.02361 ± 0.00029,0.02017 ± 0.00042,1.030 ± 0.029
+GMIIIA K975[4][all],0.411 ± 0.028,0.08985 ± 0.00091,0.2259 ± 0.0044,0.020058 ± 0.000050,0.06813 ± 0.00011,0.0201 ± 0.0013,0.1036 ± 0.0017,0.00885 ± 0.00015,0.02008 ± 0.00012,0.01685 ± 0.00017,0.02339 ± 0.00029,0.02199 ± 0.00042,1.030 ± 0.029
+GMIIIA K975[5][all],0.407 ± 0.028,0.08975 ± 0.00092,0.2241 ± 0.0042,0.019692 ± 0.000050,0.06811 ± 0.00011,0.0149 ± 0.0013,0.1042 ± 0.0017,0.00896 ± 0.00015,0.01965 ± 0.00012,0.01746 ± 0.00017,0.02335 ± 0.00029,0.02108 ± 0.00042,1.019 ± 0.028
+GMIIIA K975[6][all],0.412 ± 0.028,0.08990 ± 0.00094,0.2260 ± 0.0040,0.019971 ± 0.000050,0.06855 ± 0.00010,0.0240 ± 0.0014,0.1036 ± 0.0017,0.00799 ± 0.00014,0.01971 ± 0.00012,0.01790 ± 0.00017,0.02298 ± 0.00029,0.01897 ± 0.00042,1.031 ± 0.029
+GMIIIA K975[7][all],0.410 ± 0.028,0.08964 ± 0.00092,0.2279 ± 0.0043,0.019809 ± 0.000050,0.06808 ± 0.00010,0.0258 ± 0.0014,0.1032 ± 0.0018,0.00834 ± 0.00015,0.01924 ± 0.00012,0.01771 ± 0.00017,0.02414 ± 0.00029,0.02082 ± 0.00042,1.035 ± 0.029
+GMIIIA K975[8][all],0.411 ± 0.028,0.08980 ± 0.00092,0.2260 ± 0.0039,0.019931 ± 0.000050,0.06849 ± 0.00011,0.0207 ± 0.0013,0.1033 ± 0.0017,0.00876 ± 0.00015,0.01966 ± 0.00012,0.01744 ± 0.00017,0.02242 ± 0.00029,0.01861 ± 0.00042,1.026 ± 0.029
+Mean,0.4102 ± 0.0013,0.08986 ± 0.00015,0.2264 ± 0.0012,0.01993 ± 0.00015,0.06829 ± 0.00020,0.0214 ± 0.0035,0.10338 ± 0.00051,0.00857 ± 0.00032,0.01957 ± 0.00031,0.01710 ± 0.00054,0.02347 ± 0.00056,0.0198 ± 0.0014,1.0280 ± 0.0052
+Nominal,0.3966,0.0892,0.2102,0.0187,0.0675,0.0206,0.1005,0.0104,0.0183,0.0195,0.0198,0.0184,1
+RDEV (%),3.4,0.7,7.7,6.7,1.2,4.1,2.8,-17.8,6.8,-12.5,18.8,7.4,2.8
