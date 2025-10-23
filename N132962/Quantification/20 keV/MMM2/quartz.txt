@@ -1,15 +1,15 @@
- ## CONFIGURATION ##
-	Username: nritchie
-	Timestamp: 2025-09-25 15:42:59.094338200 -04:00
-	Application: spex v0.0.115
-	References: `N132962 20 keV` revision 373 - 2025-09-19 16:31:58 -04:00
- ## CONFIGURATION WARNINGS ##
+Configuration:
+	Username: Nicholas W. M. Ritchie
+	Timestamp: 2025-10-23 12:56:23
+	Application: spex version 0.0.121
+	References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+Configuration warnings:
     None
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 Quartz[0][all]['SPI MM2 Quartz[0][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
     None
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭────────────────────────┬─────────┬────┬────────┬─────────────────┬───────────────┬───────────────╮
 │ Name                   ┆ Element ┆ Z  ┆ A      ┆ C[z]            ┆ N[z]          ┆ A[z]          │
 ╞════════════════════════╪═════════╪════╪════════╪═════════════════╪═══════════════╪═══════════════╡
@@ -17,16 +17,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 Quartz[0][all] ┆ Si      ┆ 14 ┆ 28.085 ┆ 0.4809 ± 0.0013 ┆ 0.481 ± 0.021 ┆ 0.346 ± 0.019 │
 ╰────────────────────────┴─────────┴────┴────────┴─────────────────┴───────────────┴───────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.000 ± 0.045
 	Duane-Hunt: 20.16 keV
 	Residual written to SPI MM2 Quartz[0][4][residual].msa.
 	Plot output to 'SPI MM2 Quartz[0][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 Quartz[1][all]['SPI MM2 Quartz[1][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
     None
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭────────────────────────┬─────────┬────┬────────┬─────────────────┬───────────────┬───────────────╮
 │ Name                   ┆ Element ┆ Z  ┆ A      ┆ C[z]            ┆ N[z]          ┆ A[z]          │
 ╞════════════════════════╪═════════╪════╪════════╪═════════════════╪═══════════════╪═══════════════╡
@@ -34,16 +34,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 Quartz[1][all] ┆ Si      ┆ 14 ┆ 28.085 ┆ 0.4833 ± 0.0013 ┆ 0.480 ± 0.022 ┆ 0.344 ± 0.020 │
 ╰────────────────────────┴─────────┴────┴────────┴─────────────────┴───────────────┴───────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.007 ± 0.045
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 Quartz[1][4][residual].msa.
 	Plot output to 'SPI MM2 Quartz[1][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 Quartz[2][all]['SPI MM2 Quartz[2][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
     None
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭────────────────────────┬─────────┬────┬────────┬─────────────────┬───────────────┬───────────────╮
 │ Name                   ┆ Element ┆ Z  ┆ A      ┆ C[z]            ┆ N[z]          ┆ A[z]          │
 ╞════════════════════════╪═════════╪════╪════════╪═════════════════╪═══════════════╪═══════════════╡
@@ -51,16 +51,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 Quartz[2][all] ┆ Si      ┆ 14 ┆ 28.085 ┆ 0.4817 ± 0.0013 ┆ 0.480 ± 0.022 ┆ 0.345 ± 0.019 │
 ╰────────────────────────┴─────────┴────┴────────┴─────────────────┴───────────────┴───────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.003 ± 0.045
 	Duane-Hunt: 20.17 keV
 	Residual written to SPI MM2 Quartz[2][4][residual].msa.
 	Plot output to 'SPI MM2 Quartz[2][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 Quartz[3][all]['SPI MM2 Quartz[3][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
     None
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭────────────────────────┬─────────┬────┬────────┬─────────────────┬───────────────┬───────────────╮
 │ Name                   ┆ Element ┆ Z  ┆ A      ┆ C[z]            ┆ N[z]          ┆ A[z]          │
 ╞════════════════════════╪═════════╪════╪════════╪═════════════════╪═══════════════╪═══════════════╡
@@ -68,16 +68,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 Quartz[3][all] ┆ Si      ┆ 14 ┆ 28.085 ┆ 0.4822 ± 0.0013 ┆ 0.481 ± 0.022 ┆ 0.345 ± 0.020 │
 ╰────────────────────────┴─────────┴────┴────────┴─────────────────┴───────────────┴───────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.003 ± 0.045
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 Quartz[3][4][residual].msa.
 	Plot output to 'SPI MM2 Quartz[3][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 Quartz[4][all]['SPI MM2 Quartz[4][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
     None
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭────────────────────────┬─────────┬────┬────────┬─────────────────┬───────────────┬───────────────╮
 │ Name                   ┆ Element ┆ Z  ┆ A      ┆ C[z]            ┆ N[z]          ┆ A[z]          │
 ╞════════════════════════╪═════════╪════╪════════╪═════════════════╪═══════════════╪═══════════════╡
@@ -85,16 +85,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 Quartz[4][all] ┆ Si      ┆ 14 ┆ 28.085 ┆ 0.4825 ± 0.0013 ┆ 0.480 ± 0.022 ┆ 0.345 ± 0.020 │
 ╰────────────────────────┴─────────┴────┴────────┴─────────────────┴───────────────┴───────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.004 ± 0.045
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 Quartz[4][4][residual].msa.
 	Plot output to 'SPI MM2 Quartz[4][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 Quartz[5][all]['SPI MM2 Quartz[5][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
     None
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭────────────────────────┬─────────┬────┬────────┬─────────────────┬───────────────┬───────────────╮
 │ Name                   ┆ Element ┆ Z  ┆ A      ┆ C[z]            ┆ N[z]          ┆ A[z]          │
 ╞════════════════════════╪═════════╪════╪════════╪═════════════════╪═══════════════╪═══════════════╡
@@ -102,16 +102,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 Quartz[5][all] ┆ Si      ┆ 14 ┆ 28.085 ┆ 0.4811 ± 0.0013 ┆ 0.480 ± 0.022 ┆ 0.345 ± 0.019 │
 ╰────────────────────────┴─────────┴────┴────────┴─────────────────┴───────────────┴───────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.001 ± 0.045
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 Quartz[5][4][residual].msa.
 	Plot output to 'SPI MM2 Quartz[5][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 Quartz[6][all]['SPI MM2 Quartz[6][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
     None
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭────────────────────────┬─────────┬────┬────────┬─────────────────┬───────────────┬───────────────╮
 │ Name                   ┆ Element ┆ Z  ┆ A      ┆ C[z]            ┆ N[z]          ┆ A[z]          │
 ╞════════════════════════╪═════════╪════╪════════╪═════════════════╪═══════════════╪═══════════════╡
@@ -119,16 +119,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 Quartz[6][all] ┆ Si      ┆ 14 ┆ 28.085 ┆ 0.4822 ± 0.0013 ┆ 0.481 ± 0.022 ┆ 0.345 ± 0.020 │
 ╰────────────────────────┴─────────┴────┴────────┴─────────────────┴───────────────┴───────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.003 ± 0.045
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 Quartz[6][4][residual].msa.
 	Plot output to 'SPI MM2 Quartz[6][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 Quartz[7][all]['SPI MM2 Quartz[7][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
     None
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭────────────────────────┬─────────┬────┬────────┬─────────────────┬───────────────┬───────────────╮
 │ Name                   ┆ Element ┆ Z  ┆ A      ┆ C[z]            ┆ N[z]          ┆ A[z]          │
 ╞════════════════════════╪═════════╪════╪════════╪═════════════════╪═══════════════╪═══════════════╡
@@ -136,12 +136,12 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 Quartz[7][all] ┆ Si      ┆ 14 ┆ 28.085 ┆ 0.4806 ± 0.0013 ┆ 0.482 ± 0.021 ┆ 0.346 ± 0.019 │
 ╰────────────────────────┴─────────┴────┴────────┴─────────────────┴───────────────┴───────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 0.998 ± 0.044
 	Duane-Hunt: 20.18 keV
 	Residual written to SPI MM2 Quartz[7][4][residual].msa.
 	Plot output to 'SPI MM2 Quartz[7][4][quantify].pdf'
- ## COMPARISONS ##
+Result Comparison:
 ╭────────────────────────┬─────────────────┬───────────────────┬─────────────────╮
 │ Name                   ┆ O               ┆ Si                ┆ Σ               │
 ╞════════════════════════╪═════════════════╪═══════════════════╪═════════════════╡

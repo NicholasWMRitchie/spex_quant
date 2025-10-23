@@ -1,15 +1,15 @@
- ## CONFIGURATION ##
-	Username: nritchie
-	Timestamp: 2025-09-25 15:43:03.304781800 -04:00
-	Application: spex v0.0.115
-	References: `N132962 20 keV` revision 373 - 2025-09-19 16:31:58 -04:00
- ## CONFIGURATION WARNINGS ##
+Configuration:
+	Username: Nicholas W. M. Ritchie
+	Timestamp: 2025-10-23 12:56:25
+	Application: spex version 0.0.121
+	References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+Configuration warnings:
     None
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Magnetite[0][all]['SPI MM2 SPI Magnetite[0][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03475 ± 0.00083' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭───────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                          ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═══════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -21,16 +21,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Magnetite[0][all] ┆ Fe      ┆ 26 ┆ 55.845    ┆ 0.72202 ± 0.00023   ┆ 0.721 ± 0.015       ┆ 0.428 ± 0.018       │
 ╰───────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.001 ± 0.021
 	Duane-Hunt: 19.97 keV
 	Residual written to SPI MM2 SPI Magnetite[0][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Magnetite[0][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Magnetite[1][all]['SPI MM2 SPI Magnetite[1][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03186 ± 0.00083' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭───────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                          ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═══════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -42,16 +42,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Magnetite[1][all] ┆ Fe      ┆ 26 ┆ 55.845    ┆ 0.72254 ± 0.00023   ┆ 0.721 ± 0.015       ┆ 0.428 ± 0.018       │
 ╰───────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.002 ± 0.021
 	Duane-Hunt: 20.17 keV
 	Residual written to SPI MM2 SPI Magnetite[1][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Magnetite[1][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Magnetite[2][all]['SPI MM2 SPI Magnetite[2][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03344 ± 0.00083' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭───────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                          ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═══════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -63,16 +63,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Magnetite[2][all] ┆ Fe      ┆ 26 ┆ 55.845    ┆ 0.72378 ± 0.00023   ┆ 0.721 ± 0.015       ┆ 0.427 ± 0.018       │
 ╰───────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.004 ± 0.021
 	Duane-Hunt: 20.01 keV
 	Residual written to SPI MM2 SPI Magnetite[2][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Magnetite[2][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Magnetite[3][all]['SPI MM2 SPI Magnetite[3][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03286 ± 0.00083' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭───────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                          ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═══════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -84,16 +84,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Magnetite[3][all] ┆ Fe      ┆ 26 ┆ 55.845    ┆ 0.72249 ± 0.00023   ┆ 0.721 ± 0.015       ┆ 0.428 ± 0.018       │
 ╰───────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.002 ± 0.021
 	Duane-Hunt: 20.19 keV
 	Residual written to SPI MM2 SPI Magnetite[3][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Magnetite[3][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Magnetite[4][all]['SPI MM2 SPI Magnetite[4][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03109 ± 0.00083' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭───────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                          ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═══════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -105,16 +105,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Magnetite[4][all] ┆ Fe      ┆ 26 ┆ 55.845    ┆ 0.72286 ± 0.00023   ┆ 0.721 ± 0.015       ┆ 0.427 ± 0.018       │
 ╰───────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.003 ± 0.021
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 SPI Magnetite[4][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Magnetite[4][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Magnetite[5][all]['SPI MM2 SPI Magnetite[5][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03345 ± 0.00083' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭───────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                          ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═══════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -126,16 +126,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Magnetite[5][all] ┆ Fe      ┆ 26 ┆ 55.845    ┆ 0.72308 ± 0.00023   ┆ 0.722 ± 0.015       ┆ 0.429 ± 0.018       │
 ╰───────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.002 ± 0.021
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 SPI Magnetite[5][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Magnetite[5][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Magnetite[6][all]['SPI MM2 SPI Magnetite[6][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03154 ± 0.00083' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭───────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                          ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═══════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -147,16 +147,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Magnetite[6][all] ┆ Fe      ┆ 26 ┆ 55.845    ┆ 0.72398 ± 0.00023   ┆ 0.721 ± 0.015       ┆ 0.427 ± 0.018       │
 ╰───────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.004 ± 0.021
 	Duane-Hunt: 20.19 keV
 	Residual written to SPI MM2 SPI Magnetite[6][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Magnetite[6][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Magnetite[7][all]['SPI MM2 SPI Magnetite[7][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03135 ± 0.00082' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭───────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                          ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═══════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -168,12 +168,12 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Magnetite[7][all] ┆ Fe      ┆ 26 ┆ 55.845    ┆ 0.71663 ± 0.00023   ┆ 0.721 ± 0.015       ┆ 0.428 ± 0.018       │
 ╰───────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 0.994 ± 0.020
 	Duane-Hunt: 20.17 keV
 	Residual written to SPI MM2 SPI Magnetite[7][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Magnetite[7][4][quantify].pdf'
- ## COMPARISONS ##
+Result Comparison:
 ╭───────────────────────────────┬─────────────────┬─────────────────────┬─────────────────────┬───────────────────┬─────────────────╮
 │ Name                          ┆ O               ┆ Si                  ┆ Mn                  ┆ Fe                ┆ Σ               │
 ╞═══════════════════════════════╪═════════════════╪═════════════════════╪═════════════════════╪═══════════════════╪═════════════════╡

@@ -1,281 +1,163 @@
-# Configuration:
-#	Username: nwmr
-#	Timestamp: 2025-09-20 18:03:47.899593392 -04:00
-#	Application: spex v0.0.112
-#	References: `N132962 20 keV` revision 353 - 2025-09-20 16:32:27 -04:00
-#
-# Configuration Warnings:
-#	The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
-#	Unable to read the spectrum file 'Chuck's Circular Apatite[2][4].msa': IO error:
-#	No such file or directory (os error 2)
-#
-# Spectrum:
-#	CC Chuck's Circular Apatite[0][all]['CC Chuck's Circular Apatite[0][4].msa']
-#
-# Fit Warnings:
-#	The k-ratio '[Cl L₁-M₃ + 1 other] = -0.473 ± 0.013' is more than 3σ negative.
-#	The k-ratio '[Cu L₃-M₅ + 13 others] = -0.000843 ± 0.000046' is more than 3σ negative.
-#
-# Quantification results::
-| Name            | Element | Z  | A         | C[z]            | N[z]            | A[z]            |
-|-----------------|---------|----|-----------|-----------------|-----------------|-----------------|
-| CC Chuck's      | O       | 8  | 15.999    | 0.395 ± 0.041   | 0.378 ± 0.024   | 0.567 ± 0.026   |
-| Circular        |         |    |           |                 |                 |                 |
-| Apatite[0][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | F       | 9  | 18.998403 | 0.0423 ± 0.0023 | 0.0405 ± 0.0026 | 0.0512 ± 0.0040 |
-| Circular        |         |    |           |                 |                 |                 |
-| Apatite[0][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Si      | 14 | 28.085    | 0.002494 ±      | 0.002386 ±      | 0.00204 ±       |
-| Circular        |         |    |           | 0.000024        | 0.000097        | 0.00012         |
-| Apatite[0][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | P       | 15 | 30.973762 | 0.18648 ±       | 0.1784 ± 0.0070 | 0.1385 ± 0.0082 |
-| Circular        |         |    |           | 0.00037         |                 |                 |
-| Apatite[0][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | S       | 16 | 32.06     | 0.002824 ±      | 0.00270 ±       | 0.00203 ±       |
-| Circular        |         |    |           | 0.000039        | 0.00011         | 0.00012         |
-| Apatite[0][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Cl      | 17 | 35.45     | 0.005371 ±      | 0.00514 ±       | 0.00348 ±       |
-| Circular        |         |    |           | 0.000027        | 0.00020         | 0.00021         |
-| Apatite[0][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Ca      | 20 | 40.078    | 0.40924 ±       | 0.392 ± 0.015   | 0.235 ± 0.014   |
-| Circular        |         |    |           | 0.00032         |                 |                 |
-| Apatite[0][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Cu      | 29 | 63.546    | 0.000040 ±      | 0.000038 ±      | 0.000015 ±      |
-| Circular        |         |    |           | 0.000042        | 0.000040        | 0.000015        |
-| Apatite[0][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Zn      | 30 | 65.38     | 0.000020 ±      | 0.000019 ±      | 0.000007 ±      |
-| Circular        |         |    |           | 0.000047        | 0.000045        | 0.000017        |
-| Apatite[0][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | As      | 33 | 74.921595 | 0.001643 ±      | 0.00157 ±       | 0.000504 ±      |
-| Circular        |         |    |           | 0.000083        | 0.00010         | 0.000039        |
-| Apatite[0][all] |         |    |           |                 |                 |                 |
-# Notes:
-#	Analytical total: 1.045 ± 0.041
-#	Duane-Hunt: 20.18 keV
-#	Residual written to CC Chuck's Circular Apatite[0][4][residual].msa.
-#
-# Spectrum:
-#	CC Chuck's Circular Apatite[1][all]['CC Chuck's Circular Apatite[1][4].msa']
-#
-# Fit Warnings:
-#	None
-#
-# Quantification results::
-| Name            | Element | Z  | A         | C[z]            | N[z]            | A[z]            |
-|-----------------|---------|----|-----------|-----------------|-----------------|-----------------|
-| CC Chuck's      | O       | 8  | 15.999    | 0.382 ± 0.039   | 0.374 ± 0.024   | 0.566 ± 0.025   |
-| Circular        |         |    |           |                 |                 |                 |
-| Apatite[1][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | F       | 9  | 18.998403 | 0.0398 ± 0.0021 | 0.0390 ± 0.0025 | 0.0497 ± 0.0038 |
-| Circular        |         |    |           |                 |                 |                 |
-| Apatite[1][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Si      | 14 | 28.085    | 0.002631 ±      | 0.00258 ±       | 0.00222 ±       |
-| Circular        |         |    |           | 0.000024        | 0.00010         | 0.00013         |
-| Apatite[1][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | P       | 15 | 30.973762 | 0.17938 ±       | 0.1757 ± 0.0067 | 0.1372 ± 0.0079 |
-| Circular        |         |    |           | 0.00035         |                 |                 |
-| Apatite[1][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | S       | 16 | 32.06     | 0.003003 ±      | 0.00294 ±       | 0.00222 ±       |
-| Circular        |         |    |           | 0.000040        | 0.00012         | 0.00013         |
-| Apatite[1][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Cl      | 17 | 35.45     | 0.005272 ±      | 0.00516 ±       | 0.00352 ±       |
-| Circular        |         |    |           | 0.000027        | 0.00020         | 0.00020         |
-| Apatite[1][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Ca      | 20 | 40.078    | 0.39843 ±       | 0.390 ± 0.015   | 0.236 ± 0.014   |
-| Circular        |         |    |           | 0.00031         |                 |                 |
-| Apatite[1][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Cu      | 29 | 63.546    | 0.002302 ±      | 0.002254 ±      | 0.000858 ±      |
-| Circular        |         |    |           | 0.000045        | 0.000096        | 0.000052        |
-| Apatite[1][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Zn      | 30 | 65.38     | 0.002962 ±      | 0.00290 ±       | 0.001073 ±      |
-| Circular        |         |    |           | 0.000051        | 0.00012         | 0.000064        |
-| Apatite[1][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | As      | 33 | 74.921595 | 0.005165 ±      | 0.00506 ±       | 0.001633 ±      |
-| Circular        |         |    |           | 0.000087        | 0.00021         | 0.000098        |
-| Apatite[1][all] |         |    |           |                 |                 |                 |
-# Notes:
-#	Analytical total: 1.021 ± 0.039
-#	Duane-Hunt: 20.17 keV
-#	Residual written to CC Chuck's Circular Apatite[1][4][residual].msa.
-#
-# Spectrum:
-#	CC Chuck's Circular Apatite[3][all]['CC Chuck's Circular Apatite[3][4].msa']
-#
-# Fit Warnings:
-#	The k-ratio '[Cl L₁-M₃ + 1 other] = -0.442 ± 0.013' is more than 3σ negative.
-#	The k-ratio '[Cu L₃-M₅ + 13 others] = -0.000980 ± 0.000046' is more than 3σ negative.
-#
-# Quantification results::
-| Name            | Element | Z  | A         | C[z]            | N[z]            | A[z]            |
-|-----------------|---------|----|-----------|-----------------|-----------------|-----------------|
-| CC Chuck's      | O       | 8  | 15.999    | 0.396 ± 0.041   | 0.379 ± 0.024   | 0.570 ± 0.026   |
-| Circular        |         |    |           |                 |                 |                 |
-| Apatite[3][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | F       | 9  | 18.998403 | 0.0404 ± 0.0022 | 0.0387 ± 0.0025 | 0.0490 ± 0.0038 |
-| Circular        |         |    |           |                 |                 |                 |
-| Apatite[3][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Si      | 14 | 28.085    | 0.002496 ±      | 0.002392 ±      | 0.00205 ±       |
-| Circular        |         |    |           | 0.000024        | 0.000097        | 0.00012         |
-| Apatite[3][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | P       | 15 | 30.973762 | 0.18650 ±       | 0.1787 ± 0.0071 | 0.1386 ± 0.0082 |
-| Circular        |         |    |           | 0.00037         |                 |                 |
-| Apatite[3][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | S       | 16 | 32.06     | 0.002625 ±      | 0.00251 ±       | 0.00189 ±       |
-| Circular        |         |    |           | 0.000038        | 0.00011         | 0.00011         |
-| Apatite[3][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Cl      | 17 | 35.45     | 0.005284 ±      | 0.00506 ±       | 0.00343 ±       |
-| Circular        |         |    |           | 0.000027        | 0.00020         | 0.00020         |
-| Apatite[3][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Ca      | 20 | 40.078    | 0.40896 ±       | 0.392 ± 0.015   | 0.235 ± 0.014   |
-| Circular        |         |    |           | 0.00032         |                 |                 |
-| Apatite[3][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Cu      | 29 | 63.546    | 0.000115 ±      | 0.000110 ±      | 0.000042 ±      |
-| Circular        |         |    |           | 0.000042        | 0.000040        | 0.000015        |
-| Apatite[3][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Zn      | 30 | 65.38     | 0.000000 ±      | 0.000000 ±      | 0.000000 ±      |
-| Circular        |         |    |           | 0.000038        | 0.000037        | 0.000014        |
-| Apatite[3][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | As      | 33 | 74.921595 | 0.001606 ±      | 0.001538 ±      | 0.000493 ±      |
-| Circular        |         |    |           | 0.000083        | 0.000100        | 0.000039        |
-| Apatite[3][all] |         |    |           |                 |                 |                 |
-# Notes:
-#	Analytical total: 1.044 ± 0.041
-#	Duane-Hunt: 20.19 keV
-#	Residual written to CC Chuck's Circular Apatite[3][4][residual].msa.
-#
-# Spectrum:
-#	CC Chuck's Circular Apatite[4][all]['CC Chuck's Circular Apatite[4][4].msa']
-#
-# Fit Warnings:
-#	The k-ratio '[Cl L₁-M₃ + 1 other] = -0.493 ± 0.013' is more than 3σ negative.
-#	The k-ratio '[Cu L₃-M₅ + 13 others] = -0.000920 ± 0.000046' is more than 3σ negative.
-#
-# Quantification results::
-| Name            | Element | Z  | A         | C[z]            | N[z]            | A[z]            |
-|-----------------|---------|----|-----------|-----------------|-----------------|-----------------|
-| CC Chuck's      | O       | 8  | 15.999    | 0.396 ± 0.041   | 0.379 ± 0.024   | 0.569 ± 0.026   |
-| Circular        |         |    |           |                 |                 |                 |
-| Apatite[4][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | F       | 9  | 18.998403 | 0.0413 ± 0.0022 | 0.0395 ± 0.0026 | 0.0500 ± 0.0039 |
-| Circular        |         |    |           |                 |                 |                 |
-| Apatite[4][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Si      | 14 | 28.085    | 0.002461 ±      | 0.002357 ±      | 0.00202 ±       |
-| Circular        |         |    |           | 0.000024        | 0.000096        | 0.00012         |
-| Apatite[4][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | P       | 15 | 30.973762 | 0.18679 ±       | 0.1789 ± 0.0071 | 0.1388 ± 0.0082 |
-| Circular        |         |    |           | 0.00037         |                 |                 |
-| Apatite[4][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | S       | 16 | 32.06     | 0.002399 ±      | 0.002297 ±      | 0.00172 ±       |
-| Circular        |         |    |           | 0.000036        | 0.000097        | 0.00011         |
-| Apatite[4][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Cl      | 17 | 35.45     | 0.005311 ±      | 0.00509 ±       | 0.00345 ±       |
-| Circular        |         |    |           | 0.000027        | 0.00020         | 0.00020         |
-| Apatite[4][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Ca      | 20 | 40.078    | 0.40884 ±       | 0.392 ± 0.015   | 0.235 ± 0.014   |
-| Circular        |         |    |           | 0.00032         |                 |                 |
-| Apatite[4][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Cu      | 29 | 63.546    | 0.000138 ±      | 0.000132 ±      | 0.000050 ±      |
-| Circular        |         |    |           | 0.000042        | 0.000040        | 0.000015        |
-| Apatite[4][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Zn      | 30 | 65.38     | 0.000000 ±      | 0.000000 ±      | 0.000000 ±      |
-| Circular        |         |    |           | 0.000038        | 0.000036        | 0.000013        |
-| Apatite[4][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | As      | 33 | 74.921595 | 0.001477 ±      | 0.001414 ±      | 0.000454 ±      |
-| Circular        |         |    |           | 0.000083        | 0.000097        | 0.000037        |
-| Apatite[4][all] |         |    |           |                 |                 |                 |
-# Notes:
-#	Analytical total: 1.044 ± 0.041
-#	Duane-Hunt: 20.20 keV
-#	Residual written to CC Chuck's Circular Apatite[4][4][residual].msa.
-#
-# Spectrum:
-#	CC Chuck's Circular Apatite[5][all]['CC Chuck's Circular Apatite[5][4].msa']
-#
-# Fit Warnings:
-#	Removing Cu from the fit and re-fitting (threshold = 0.0σ).
-#	The k-ratio '[Cl L₁-M₃ + 1 other] = -0.471 ± 0.013' is more than 3σ negative.
-#	The k-ratio '[Zn K-L₃ + 1 other] = -0.000183 ± 0.000038' is more than 3σ negative.
-#
-# Quantification results::
-| Name            | Element | Z  | A         | C[z]            | N[z]            | A[z]            |
-|-----------------|---------|----|-----------|-----------------|-----------------|-----------------|
-| CC Chuck's      | O       | 8  | 15.999    | 0.395 ± 0.041   | 0.378 ± 0.024   | 0.568 ± 0.026   |
-| Circular        |         |    |           |                 |                 |                 |
-| Apatite[5][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | F       | 9  | 18.998403 | 0.0419 ± 0.0023 | 0.0401 ± 0.0026 | 0.0507 ± 0.0040 |
-| Circular        |         |    |           |                 |                 |                 |
-| Apatite[5][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Si      | 14 | 28.085    | 0.002437 ±      | 0.002333 ±      | 0.00200 ±       |
-| Circular        |         |    |           | 0.000024        | 0.000094        | 0.00012         |
-| Apatite[5][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | P       | 15 | 30.973762 | 0.18643 ±       | 0.1785 ± 0.0070 | 0.1386 ± 0.0082 |
-| Circular        |         |    |           | 0.00037         |                 |                 |
-| Apatite[5][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | S       | 16 | 32.06     | 0.002820 ±      | 0.00270 ±       | 0.00202 ±       |
-| Circular        |         |    |           | 0.000039        | 0.00011         | 0.00012         |
-| Apatite[5][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Cl      | 17 | 35.45     | 0.005345 ±      | 0.00512 ±       | 0.00347 ±       |
-| Circular        |         |    |           | 0.000027        | 0.00020         | 0.00021         |
-| Apatite[5][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Ca      | 20 | 40.078    | 0.40870 ±       | 0.391 ± 0.015   | 0.235 ± 0.014   |
-| Circular        |         |    |           | 0.00032         |                 |                 |
-| Apatite[5][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Cu      | 29 | 63.546    | 0.000000 ±      | 0.000000 ±      | 0.000000 ±      |
-| Circular        |         |    |           | 0.000034        | 0.000032        | 0.000012        |
-| Apatite[5][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | Zn      | 30 | 65.38     | 0.000000 ±      | 0.000000 ±      | 0.000000 ±      |
-| Circular        |         |    |           | 0.000038        | 0.000036        | 0.000013        |
-| Apatite[5][all] |         |    |           |                 |                 |                 |
-| CC Chuck's      | As      | 33 | 74.921595 | 0.001939 ±      | 0.00186 ±       | 0.000596 ±      |
-| Circular        |         |    |           | 0.000083        | 0.00011         | 0.000043        |
-| Apatite[5][all] |         |    |           |                 |                 |                 |
-# Notes:
-#	Analytical total: 1.044 ± 0.041
-#	Duane-Hunt: 20.18 keV
-#	Residual written to CC Chuck's Circular Apatite[5][4][residual].msa.
-#
-# Comparisons:
-| Name   | O      | F      | Si    | P     | S     | Cl    | Ca    | Cu    | Zn    | As    | Total |
-|--------|--------|--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| CC Chu | 0.395  | 0.0423 | 0.002 | 0.186 | 0.002 | 0.005 | 0.409 | 0.000 | 0.000 | 0.001 | 1.045 |
-| ck's   | ±      | ±      | 494 ± | 48 ±  | 824 ± | 371 ± | 24 ±  | 040 ± | 020 ± | 643 ± | ±     |
-| Circul | 0.041  | 0.0023 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.041 |
-| ar Apa |        |        | 024   | 37    | 039   | 027   | 32    | 042   | 047   | 083   |       |
-| tite[0 |        |        |       |       |       |       |       |       |       |       |       |
-| ][all] |        |        |       |       |       |       |       |       |       |       |       |
-| CC Chu | 0.382  | 0.0398 | 0.002 | 0.179 | 0.003 | 0.005 | 0.398 | 0.002 | 0.002 | 0.005 | 1.021 |
-| ck's   | ±      | ±      | 631 ± | 38 ±  | 003 ± | 272 ± | 43 ±  | 302 ± | 962 ± | 165 ± | ±     |
-| Circul | 0.039  | 0.0021 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.039 |
-| ar Apa |        |        | 024   | 35    | 040   | 027   | 31    | 045   | 051   | 087   |       |
-| tite[1 |        |        |       |       |       |       |       |       |       |       |       |
-| ][all] |        |        |       |       |       |       |       |       |       |       |       |
-| CC Chu | 0.396  | 0.0404 | 0.002 | 0.186 | 0.002 | 0.005 | 0.408 | 0.000 | 0.000 | 0.001 | 1.044 |
-| ck's   | ±      | ±      | 496 ± | 50 ±  | 625 ± | 284 ± | 96 ±  | 115 ± | 000 ± | 606 ± | ±     |
-| Circul | 0.041  | 0.0022 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.041 |
-| ar Apa |        |        | 024   | 37    | 038   | 027   | 32    | 042   | 038   | 083   |       |
-| tite[3 |        |        |       |       |       |       |       |       |       |       |       |
-| ][all] |        |        |       |       |       |       |       |       |       |       |       |
-| CC Chu | 0.396  | 0.0413 | 0.002 | 0.186 | 0.002 | 0.005 | 0.408 | 0.000 | 0.000 | 0.001 | 1.044 |
-| ck's   | ±      | ±      | 461 ± | 79 ±  | 399 ± | 311 ± | 84 ±  | 138 ± | 000 ± | 477 ± | ±     |
-| Circul | 0.041  | 0.0022 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.041 |
-| ar Apa |        |        | 024   | 37    | 036   | 027   | 32    | 042   | 038   | 083   |       |
-| tite[4 |        |        |       |       |       |       |       |       |       |       |       |
-| ][all] |        |        |       |       |       |       |       |       |       |       |       |
-| CC Chu | 0.395  | 0.0419 | 0.002 | 0.186 | 0.002 | 0.005 | 0.408 | 0.000 | 0.000 | 0.001 | 1.044 |
-| ck's   | ±      | ±      | 437 ± | 43 ±  | 820 ± | 345 ± | 70 ±  | 000 ± | 000 ± | 939 ± | ±     |
-| Circul | 0.041  | 0.0023 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.041 |
-| ar Apa |        |        | 024   | 37    | 039   | 027   | 32    | 034   | 038   | 083   |       |
-| tite[5 |        |        |       |       |       |       |       |       |       |       |       |
-| ][all] |        |        |       |       |       |       |       |       |       |       |       |
-| Weighe | 0.393  | 0.0411 | 0.002 | 0.185 | 0.002 | 0.005 | 0.406 | 0.000 | 0.000 | 0.002 | 1.040 |
-| d      | ±      | 4 ±    | 504 ± | 12 ±  | 734 ± | 317 ± | 84 ±  | 519 ± | 596 ± | 366 ± | ±     |
-|        | 0.018  | 0.0009 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.018 |
-|        |        | 9      | 011   | 17    | 017   | 012   | 14    | 018   | 019   | 038   |       |
-| Mean   | 0.3926 | 0.0411 | 0.002 | 0.185 | 0.002 | 0.005 | 0.406 | 0.000 | 0.000 | 0.002 | 1.039 |
-|        | ±      | 4 ±    | 504 ± | 1 ±   | 73 ±  | 317 ± | 8 ±   | 52 ±  | 6 ±   | 4 ±   | 7 ±   |
-|        | 0.0052 | 0.0009 | 0.000 | 0.002 | 0.000 | 0.000 | 0.004 | 0.000 | 0.001 | 0.001 | 0.009 |
-|        |        | 1      | 067   | 9     | 21    | 037   | 2     | 89    | 2     | 4     | 3     |
-| Nomima | 0.3807 | 0.0376 | 0.000 | 0.184 | 0.000 | 0.000 | 0.397 | 0.000 | 0.000 | 0.000 | 1.000 |
-| l      | 0      | 7      | 00    | 26    | 00    | 00    | 36    | 00    | 00    | 00    | 00    |
-| RDEV   | 3.1227 | 9.2119 | inf   | 0.465 | inf   | inf   | 2.383 | inf   | inf   | inf   | 3.972 |
-| (%)    | 4      | 6      |       | 52    |       |       | 35    |       |       |       | 28    |
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 11:28:16
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
+# Spectrum
+#   CC Chuck's Circular Apatite[0][all]['CC Chuck's Circular Apatite[0][4].msa']
+# Fit warnings
+#   The k-ratio '[Cu L₃-M₅ + 13 others] = -0.000842 ± 0.000046' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+CC Chuck's Circular Apatite[0][all],O,8,15.999,0.42286,0.04211,0.39362,0.02379,0.58378,0.02425
+CC Chuck's Circular Apatite[0][all],F,9,18.998403163,0.04251,0.00236,0.03957,0.00262,0.04943,0.00388
+CC Chuck's Circular Apatite[0][all],Si,14,28.085,0.00250,0.00002,0.00233,0.00009,0.00197,0.00012
+CC Chuck's Circular Apatite[0][all],P,15,30.973761998,0.18697,0.00039,0.17405,0.00684,0.13333,0.00776
+CC Chuck's Circular Apatite[0][all],S,16,32.06,0.00282,0.00004,0.00262,0.00011,0.00194,0.00012
+CC Chuck's Circular Apatite[0][all],Cl,17,35.45,0.00537,0.00003,0.00500,0.00020,0.00334,0.00020
+CC Chuck's Circular Apatite[0][all],Ca,20,40.078,0.40954,0.00033,0.38122,0.01497,0.22570,0.01314
+CC Chuck's Circular Apatite[0][all],Cu,29,63.54599999999999,0.00004,0.00004,0.00004,0.00004,0.00001,0.00001
+CC Chuck's Circular Apatite[0][all],Zn,30,65.38,0.00002,0.00005,0.00002,0.00004,0.00001,0.00002
+CC Chuck's Circular Apatite[0][all],As,33,74.921595,0.00165,0.00008,0.00153,0.00010,0.00049,0.00004
+# Notes
+#   Analytical total: 1.074 ± 0.042
+#   Duane-Hunt: 20.18 keV
+#   Residual written to CC Chuck's Circular Apatite[0][4][residual].msa.
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 11:28:16
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
+# Spectrum
+#   CC Chuck's Circular Apatite[1][all]['CC Chuck's Circular Apatite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+CC Chuck's Circular Apatite[1][all],O,8,15.999,0.41246,0.04007,0.39196,0.02317,0.58429,0.02364
+CC Chuck's Circular Apatite[1][all],F,9,18.998403163,0.03987,0.00217,0.03789,0.00245,0.04756,0.00366
+CC Chuck's Circular Apatite[1][all],Si,14,28.085,0.00264,0.00002,0.00251,0.00010,0.00213,0.00012
+CC Chuck's Circular Apatite[1][all],P,15,30.973761998,0.17988,0.00036,0.17094,0.00652,0.13162,0.00748
+CC Chuck's Circular Apatite[1][all],S,16,32.06,0.00300,0.00004,0.00285,0.00012,0.00212,0.00012
+CC Chuck's Circular Apatite[1][all],Cl,17,35.45,0.00527,0.00003,0.00501,0.00019,0.00337,0.00019
+CC Chuck's Circular Apatite[1][all],Ca,20,40.078,0.39875,0.00031,0.37893,0.01445,0.22549,0.01281
+CC Chuck's Circular Apatite[1][all],Cu,29,63.54599999999999,0.00231,0.00004,0.00219,0.00009,0.00082,0.00005
+CC Chuck's Circular Apatite[1][all],Zn,30,65.38,0.00297,0.00005,0.00282,0.00012,0.00103,0.00006
+CC Chuck's Circular Apatite[1][all],As,33,74.921595,0.00518,0.00009,0.00492,0.00021,0.00157,0.00009
+# Notes
+#   Analytical total: 1.052 ± 0.040
+#   Duane-Hunt: 20.17 keV
+#   Residual written to CC Chuck's Circular Apatite[1][4][residual].msa.
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 11:28:17
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
+# Spectrum
+#   CC Chuck's Circular Apatite[2][all]['CC Chuck's Circular Apatite[2][4].msa']
+# Fit warnings
+#   Removing Cu from the fit and re-fitting (threshold = 0.0σ).
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+CC Chuck's Circular Apatite[2][all],O,8,15.999,0.42389,0.04225,0.39425,0.02382,0.58472,0.02426
+CC Chuck's Circular Apatite[2][all],F,9,18.998403163,0.04167,0.00232,0.03875,0.00257,0.04840,0.00381
+CC Chuck's Circular Apatite[2][all],Si,14,28.085,0.00247,0.00002,0.00230,0.00009,0.00194,0.00011
+CC Chuck's Circular Apatite[2][all],P,15,30.973761998,0.18745,0.00039,0.17434,0.00687,0.13356,0.00780
+CC Chuck's Circular Apatite[2][all],S,16,32.06,0.00273,0.00004,0.00254,0.00011,0.00188,0.00011
+CC Chuck's Circular Apatite[2][all],Cl,17,35.45,0.00519,0.00003,0.00483,0.00019,0.00323,0.00019
+CC Chuck's Circular Apatite[2][all],Ca,20,40.078,0.40983,0.00033,0.38117,0.01500,0.22568,0.01317
+CC Chuck's Circular Apatite[2][all],Cu,29,63.54599999999999,0.00000,0.00003,0.00000,0.00003,0.00000,0.00001
+CC Chuck's Circular Apatite[2][all],Zn,30,65.38,0.00024,0.00005,0.00022,0.00004,0.00008,0.00002
+CC Chuck's Circular Apatite[2][all],As,33,74.921595,0.00172,0.00008,0.00160,0.00010,0.00051,0.00004
+# Notes
+#   Analytical total: 1.075 ± 0.042
+#   Duane-Hunt: 20.20 keV
+#   Residual written to CC Chuck's Circular Apatite[2][4][residual].msa.
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 11:28:17
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
+# Spectrum
+#   CC Chuck's Circular Apatite[3][all]['CC Chuck's Circular Apatite[3][4].msa']
+# Fit warnings
+#   The k-ratio '[Cu L₃-M₅ + 13 others] = -0.000978 ± 0.000046' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+CC Chuck's Circular Apatite[3][all],O,8,15.999,0.42389,0.04218,0.39509,0.02379,0.58584,0.02419
+CC Chuck's Circular Apatite[3][all],F,9,18.998403163,0.04063,0.00226,0.03787,0.00251,0.04729,0.00372
+CC Chuck's Circular Apatite[3][all],Si,14,28.085,0.00250,0.00002,0.00233,0.00009,0.00197,0.00012
+CC Chuck's Circular Apatite[3][all],P,15,30.973761998,0.18700,0.00039,0.17430,0.00687,0.13350,0.00779
+CC Chuck's Circular Apatite[3][all],S,16,32.06,0.00262,0.00004,0.00244,0.00010,0.00181,0.00011
+CC Chuck's Circular Apatite[3][all],Cl,17,35.45,0.00528,0.00003,0.00492,0.00020,0.00329,0.00019
+CC Chuck's Circular Apatite[3][all],Ca,20,40.078,0.40925,0.00033,0.38144,0.01502,0.22579,0.01318
+CC Chuck's Circular Apatite[3][all],Cu,29,63.54599999999999,0.00012,0.00004,0.00011,0.00004,0.00004,0.00001
+CC Chuck's Circular Apatite[3][all],Zn,30,65.38,0.00000,0.00004,0.00000,0.00004,0.00000,0.00001
+CC Chuck's Circular Apatite[3][all],As,33,74.921595,0.00161,0.00008,0.00150,0.00010,0.00047,0.00004
+# Notes
+#   Analytical total: 1.073 ± 0.042
+#   Duane-Hunt: 20.19 keV
+#   Residual written to CC Chuck's Circular Apatite[3][4][residual].msa.
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 11:28:17
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
+# Spectrum
+#   CC Chuck's Circular Apatite[4][all]['CC Chuck's Circular Apatite[4][4].msa']
+# Fit warnings
+#   The k-ratio '[Cu L₃-M₅ + 13 others] = -0.000919 ± 0.000046' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+CC Chuck's Circular Apatite[4][all],O,8,15.999,0.42330,0.04212,0.39450,0.02379,0.58494,0.02421
+CC Chuck's Circular Apatite[4][all],F,9,18.998403163,0.04151,0.00231,0.03869,0.00256,0.04830,0.00380
+CC Chuck's Circular Apatite[4][all],Si,14,28.085,0.00247,0.00002,0.00230,0.00009,0.00194,0.00011
+CC Chuck's Circular Apatite[4][all],P,15,30.973761998,0.18728,0.00039,0.17453,0.00687,0.13367,0.00779
+CC Chuck's Circular Apatite[4][all],S,16,32.06,0.00240,0.00004,0.00223,0.00009,0.00165,0.00010
+CC Chuck's Circular Apatite[4][all],Cl,17,35.45,0.00531,0.00003,0.00495,0.00020,0.00331,0.00019
+CC Chuck's Circular Apatite[4][all],Ca,20,40.078,0.40913,0.00033,0.38129,0.01499,0.22569,0.01315
+CC Chuck's Circular Apatite[4][all],Cu,29,63.54599999999999,0.00014,0.00004,0.00013,0.00004,0.00005,0.00001
+CC Chuck's Circular Apatite[4][all],Zn,30,65.38,0.00000,0.00004,0.00000,0.00004,0.00000,0.00001
+CC Chuck's Circular Apatite[4][all],As,33,74.921595,0.00148,0.00008,0.00138,0.00009,0.00044,0.00004
+# Notes
+#   Analytical total: 1.073 ± 0.042
+#   Duane-Hunt: 20.20 keV
+#   Residual written to CC Chuck's Circular Apatite[4][4][residual].msa.
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 11:28:17
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
+# Spectrum
+#   CC Chuck's Circular Apatite[5][all]['CC Chuck's Circular Apatite[5][4].msa']
+# Fit warnings
+#   Removing Cu from the fit and re-fitting (threshold = 0.0σ).
+#   The k-ratio '[Zn K-L₃ + 1 other] = -0.000183 ± 0.000038' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+CC Chuck's Circular Apatite[5][all],O,8,15.999,0.42268,0.04204,0.39383,0.02376,0.58415,0.02422
+CC Chuck's Circular Apatite[5][all],F,9,18.998403163,0.04210,0.00234,0.03922,0.00260,0.04899,0.00385
+CC Chuck's Circular Apatite[5][all],Si,14,28.085,0.00244,0.00002,0.00228,0.00009,0.00192,0.00011
+CC Chuck's Circular Apatite[5][all],P,15,30.973761998,0.18693,0.00039,0.17417,0.00684,0.13344,0.00777
+CC Chuck's Circular Apatite[5][all],S,16,32.06,0.00282,0.00004,0.00262,0.00011,0.00194,0.00012
+CC Chuck's Circular Apatite[5][all],Cl,17,35.45,0.00534,0.00003,0.00498,0.00020,0.00333,0.00019
+CC Chuck's Circular Apatite[5][all],Ca,20,40.078,0.40900,0.00033,0.38108,0.01495,0.22564,0.01313
+CC Chuck's Circular Apatite[5][all],Cu,29,63.54599999999999,0.00000,0.00003,0.00000,0.00003,0.00000,0.00001
+CC Chuck's Circular Apatite[5][all],Zn,30,65.38,0.00000,0.00004,0.00000,0.00004,0.00000,0.00001
+CC Chuck's Circular Apatite[5][all],As,33,74.921595,0.00194,0.00008,0.00181,0.00011,0.00057,0.00004
+# Notes
+#   Analytical total: 1.073 ± 0.042
+#   Duane-Hunt: 20.18 keV
+#   Residual written to CC Chuck's Circular Apatite[5][4][residual].msa.

@@ -1,8 +1,11 @@
 #!/bin/bash
 spex add-detector N132962 35 132 0 10 4096 10 SiliconNitride
+spex composition NaAlSi3O8 --name Albite --density 2.6 --db
+spex composition BaAl2Si2O8 --name Celsian --density 3.2 --db
+spex composition "0.16386*O+0.09349*Si+0.74265*Pb" --name "NIST K227" --db
 spex add-collection "N132962 20 keV" N132962 20.0
 spex add-reference "N132962 20 keV" B B "20 keV/B std.msa"
-spex add-reference "N132962 20 keV" C C "20 keV/C std.msa" 
+spex add-reference "N132962 20 keV" C C "20 keV/C std.msa"
 spex add-reference "N132962 20 keV" BN N "20 keV/BN std.msa"
 spex add-reference "N132962 20 keV" AlN N "20 keV/AlN std.msa"
 spex add-reference "N132962 20 keV" Al2O3 O "20 keV/Al2O3 std.msa"

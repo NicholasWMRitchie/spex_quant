@@ -1,15 +1,15 @@
- ## CONFIGURATION ##
-	Username: nritchie
-	Timestamp: 2025-09-25 15:43:09.868965900 -04:00
-	Application: spex v0.0.115
-	References: `N132962 20 keV` revision 373 - 2025-09-19 16:31:58 -04:00
- ## CONFIGURATION WARNINGS ##
+Configuration:
+	Username: Nicholas W. M. Ritchie
+	Timestamp: 2025-10-23 12:56:26
+	Application: spex version 0.0.121
+	References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+Configuration warnings:
     None
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Olivine[0][all]['SPI MM2 SPI Olivine[0][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01702 ± 0.00044' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                        ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -25,16 +25,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Olivine[0][all] ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.003101 ± 0.000039 ┆ 0.003057 ± 0.000081 ┆ 0.001092 ± 0.000036 │
 ╰─────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.014 ± 0.024
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 SPI Olivine[0][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Olivine[0][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Olivine[1][all]['SPI MM2 SPI Olivine[1][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01451 ± 0.00044' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                        ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -50,16 +50,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Olivine[1][all] ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.003258 ± 0.000039 ┆ 0.003209 ± 0.000084 ┆ 0.001146 ± 0.000038 │
 ╰─────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.015 ± 0.024
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 SPI Olivine[1][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Olivine[1][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Olivine[2][all]['SPI MM2 SPI Olivine[2][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01811 ± 0.00044' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                        ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -75,16 +75,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Olivine[2][all] ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.003326 ± 0.000039 ┆ 0.003279 ± 0.000085 ┆ 0.001171 ± 0.000038 │
 ╰─────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.014 ± 0.024
 	Duane-Hunt: 20.18 keV
 	Residual written to SPI MM2 SPI Olivine[2][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Olivine[2][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Olivine[3][all]['SPI MM2 SPI Olivine[3][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01631 ± 0.00044' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                        ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -100,16 +100,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Olivine[3][all] ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.003394 ± 0.000039 ┆ 0.003352 ± 0.000087 ┆ 0.001198 ± 0.000039 │
 ╰─────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.013 ± 0.023
 	Duane-Hunt: 20.18 keV
 	Residual written to SPI MM2 SPI Olivine[3][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Olivine[3][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Olivine[4][all]['SPI MM2 SPI Olivine[4][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01610 ± 0.00044' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                        ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -125,16 +125,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Olivine[4][all] ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.003211 ± 0.000039 ┆ 0.003157 ± 0.000083 ┆ 0.001127 ± 0.000037 │
 ╰─────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.017 ± 0.024
 	Duane-Hunt: 20.18 keV
 	Residual written to SPI MM2 SPI Olivine[4][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Olivine[4][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Olivine[5][all]['SPI MM2 SPI Olivine[5][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01533 ± 0.00044' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                        ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -150,16 +150,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Olivine[5][all] ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.003071 ± 0.000039 ┆ 0.003036 ± 0.000080 ┆ 0.001085 ± 0.000036 │
 ╰─────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.011 ± 0.023
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 SPI Olivine[5][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Olivine[5][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Olivine[6][all]['SPI MM2 SPI Olivine[6][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01522 ± 0.00044' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                        ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -175,16 +175,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Olivine[6][all] ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.003274 ± 0.000039 ┆ 0.003229 ± 0.000084 ┆ 0.001154 ± 0.000038 │
 ╰─────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.014 ± 0.024
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 SPI Olivine[6][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Olivine[6][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Olivine[7][all]['SPI MM2 SPI Olivine[7][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01492 ± 0.00044' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                        ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -200,12 +200,12 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Olivine[7][all] ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.002907 ± 0.000039 ┆ 0.002863 ± 0.000077 ┆ 0.001022 ± 0.000034 │
 ╰─────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 1.015 ± 0.024
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 SPI Olivine[7][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Olivine[7][4][quantify].pdf'
- ## COMPARISONS ##
+Result Comparison:
 ╭─────────────────────────────┬─────────────────┬───────────────────┬───────────────────┬─────────────────────┬─────────────────────┬─────────────────────┬─────────────────╮
 │ Name                        ┆ O               ┆ Mg                ┆ Si                ┆ Mn                  ┆ Fe                  ┆ Ni                  ┆ Σ               │
 ╞═════════════════════════════╪═════════════════╪═══════════════════╪═══════════════════╪═════════════════════╪═════════════════════╪═════════════════════╪═════════════════╡

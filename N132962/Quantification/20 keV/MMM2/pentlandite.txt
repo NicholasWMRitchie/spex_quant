@@ -1,15 +1,15 @@
- ## CONFIGURATION ##
-	Username: nritchie
-	Timestamp: 2025-09-25 15:43:11.300324200 -04:00
-	Application: spex v0.0.115
-	References: `N132962 20 keV` revision 373 - 2025-09-19 16:31:58 -04:00
- ## CONFIGURATION WARNINGS ##
+Configuration:
+	Username: Nicholas W. M. Ritchie
+	Timestamp: 2025-10-23 12:56:26
+	Application: spex version 0.0.121
+	References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+Configuration warnings:
     None
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Pentlandite[0][all]['SPI MM2 SPI Pentlandite[0][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Co L₃-M₅ + 13 others] = -0.02063 ± 0.00047' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                            ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -21,16 +21,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Pentlandite[0][all… ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.3548 ± 0.0011     ┆ 0.35669 ± 0.00076   ┆ 0.27633 ± 0.00068   │
 ╰─────────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 0.9948 ± 0.0013
 	Duane-Hunt: 20.20 keV
 	Residual written to SPI MM2 SPI Pentlandite[0][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Pentlandite[0][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Pentlandite[1][all]['SPI MM2 SPI Pentlandite[1][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Co L₃-M₅ + 13 others] = -0.02066 ± 0.00046' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                            ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -42,16 +42,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Pentlandite[1][all… ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.3535 ± 0.0011     ┆ 0.35554 ± 0.00076   ┆ 0.27535 ± 0.00068   │
 ╰─────────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 0.9942 ± 0.0013
 	Duane-Hunt: 20.05 keV
 	Residual written to SPI MM2 SPI Pentlandite[1][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Pentlandite[1][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Pentlandite[2][all]['SPI MM2 SPI Pentlandite[2][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Co L₃-M₅ + 13 others] = -0.01996 ± 0.00046' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                            ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -63,16 +63,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Pentlandite[2][all… ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.3535 ± 0.0011     ┆ 0.35587 ± 0.00075   ┆ 0.27569 ± 0.00068   │
 ╰─────────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 0.9932 ± 0.0013
 	Duane-Hunt: 20.14 keV
 	Residual written to SPI MM2 SPI Pentlandite[2][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Pentlandite[2][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Pentlandite[3][all]['SPI MM2 SPI Pentlandite[3][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Co L₃-M₅ + 13 others] = -0.01969 ± 0.00046' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                            ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -84,16 +84,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Pentlandite[3][all… ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.3537 ± 0.0011     ┆ 0.35563 ± 0.00076   ┆ 0.27552 ± 0.00068   │
 ╰─────────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 0.9945 ± 0.0013
 	Duane-Hunt: 20.19 keV
 	Residual written to SPI MM2 SPI Pentlandite[3][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Pentlandite[3][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Pentlandite[4][all]['SPI MM2 SPI Pentlandite[4][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Co L₃-M₅ + 13 others] = -0.02008 ± 0.00047' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                            ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -105,16 +105,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Pentlandite[4][all… ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.3537 ± 0.0011     ┆ 0.35641 ± 0.00075   ┆ 0.27611 ± 0.00068   │
 ╰─────────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 0.9924 ± 0.0013
 	Duane-Hunt: 20.17 keV
 	Residual written to SPI MM2 SPI Pentlandite[4][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Pentlandite[4][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Pentlandite[5][all]['SPI MM2 SPI Pentlandite[5][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Co L₃-M₅ + 13 others] = -0.02051 ± 0.00046' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                            ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -126,16 +126,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Pentlandite[5][all… ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.3539 ± 0.0011     ┆ 0.35649 ± 0.00075   ┆ 0.27614 ± 0.00068   │
 ╰─────────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 0.9927 ± 0.0013
 	Duane-Hunt: 19.98 keV
 	Residual written to SPI MM2 SPI Pentlandite[5][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Pentlandite[5][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Pentlandite[6][all]['SPI MM2 SPI Pentlandite[6][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Co L₃-M₅ + 13 others] = -0.02089 ± 0.00046' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                            ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -147,16 +147,16 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Pentlandite[6][all… ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.3538 ± 0.0011     ┆ 0.35618 ± 0.00076   ┆ 0.27594 ± 0.00068   │
 ╰─────────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 0.9934 ± 0.0013
 	Duane-Hunt: 20.08 keV
 	Residual written to SPI MM2 SPI Pentlandite[6][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Pentlandite[6][4][quantify].pdf'
- ## SPECTRUM ##
+Spectrum:
 	SPI MM2 SPI Pentlandite[7][all]['SPI MM2 SPI Pentlandite[7][4].msa']
- ## FIT WARNINGS ##
+Fit warnings:
 	The k-ratio '[Co L₃-M₅ + 13 others] = -0.02014 ± 0.00046' is more than 3σ negative.
- ## QUANTIFICATION RESULTS ##
+Quantification results:
 ╭─────────────────────────────────┬─────────┬────┬───────────┬─────────────────────┬─────────────────────┬─────────────────────╮
 │ Name                            ┆ Element ┆ Z  ┆ A         ┆ C[z]                ┆ N[z]                ┆ A[z]                │
 ╞═════════════════════════════════╪═════════╪════╪═══════════╪═════════════════════╪═════════════════════╪═════════════════════╡
@@ -168,12 +168,21 @@
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌┼╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ SPI MM2 SPI Pentlandite[7][all… ┆ Ni      ┆ 28 ┆ 58.6934   ┆ 0.3532 ± 0.0011     ┆ 0.35554 ± 0.00076   ┆ 0.27546 ± 0.00068   │
 ╰─────────────────────────────────┴─────────┴────┴───────────┴─────────────────────┴─────────────────────┴─────────────────────╯
- ## NOTES ##
+Notes:
 	Analytical total: 0.9934 ± 0.0013
 	Duane-Hunt: 20.19 keV
 	Residual written to SPI MM2 SPI Pentlandite[7][4][residual].msa.
 	Plot output to 'SPI MM2 SPI Pentlandite[7][4][quantify].pdf'
- ## COMPARISONS ##
+Compare warnings:
+	Unable to interpret the --compare argument `'SPI Pentlandite'` as a composition. Argument ignored.
+	Parser error:
+	--> 1:1
+	|
+	1 | 'SPI Pentlandite'
+	| ^---------------^
+	|
+	= ''SPI Pentlandite'' is not the name of a known composition.
+Result Comparison:
 ╭─────────────────────────────────┬───────────────────┬───────────────────┬─────────────────────┬───────────────────┬───────────────────╮
 │ Name                            ┆ S                 ┆ Fe                ┆ Co                  ┆ Ni                ┆ Σ                 │
 ╞═════════════════════════════════╪═══════════════════╪═══════════════════╪═════════════════════╪═══════════════════╪═══════════════════╡
@@ -194,8 +203,4 @@
 │ SPI MM2 SPI Pentlandite[7][all… ┆ 0.32888 ± 0.00076 ┆ 0.30561 ± 0.00017 ┆ 0.005744 ± 0.000070 ┆ 0.3532 ± 0.0011   ┆ 0.9934 ± 0.0013   │
 ├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
 │ Mean                            ┆ 0.32918 ± 0.00034 ┆ 0.30499 ± 0.00070 ┆ 0.00566 ± 0.00023   ┆ 0.35376 ± 0.00049 ┆ 0.99358 ± 0.00086 │
-├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
-│ Nominal                         ┆ 0.3289            ┆ 0.3088            ┆ 0.0043              ┆ 0.3561            ┆ 1                 │
-├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
-│ RDEV (%)                        ┆ 0.1               ┆ -1.2              ┆ 31.5                ┆ -0.7              ┆ -0.6              │
 ╰─────────────────────────────────┴───────────────────┴───────────────────┴─────────────────────┴───────────────────┴───────────────────╯

@@ -1,0 +1,15 @@
+#!/bin/bash
+spex composition "0.0037*C+0.008*Si+0.00008*P+0.00005*S+0.0006*Ti+0.0003*V+0.2033*Cr+0.015*Mn+0.0343*Fe+0.412*Co+0.2025*Ni+0.00035*Cu+0.0295*Nb+0.0395*Mo+0.0095*Ta+0.0395*W" --name "SRM-168" --db
+spex composition "0.3031*Al+0.5392*Ti+0.1078*Nb+0.0438*W" --name "SRM-2062" --db
+spex composition "0.432*O+0.0797*Mg+0.2534*Si+0.004*Ar+0.1182*Ca+0.1106*Fe" --name "SRM-2063a" --db
+spex composition "0.00114*Cr+0.00156*Fe+0.00052*Ni+0.98248*Zr+0.0143*Sn" --name "SRM-360" --db
+spex composition "0.183*Cr+0.71*Fe+0.107*Ni" --name "SRM-479" --db
+spex composition "0.181*Cr+0.71*Fe+0.109*Ni" --name "SRM-479A" --db
+spex composition "0.1985*Cu+0.801*Au" --name "SRM-482-20" --db
+spex composition "0.3962*Cu+0.6036*Au" --name "SRM-482-40" --db
+spex composition "0.5997*Cu+0.401*Au" --name "SRM-482-60" --db
+spex composition "0.7986*Cu+0.2012*Au" --name "SRM-482-80" --db
+spex composition "0.0322*Si+0.9678*Fe" --name "SRM-483" --db
+spex composition "0.183*Cr+0.71*Fe+0.107*Ni" --name "SRM479" --db
+spex composition "0.0322*Si+0.9678*Fe" --name "SRM483" --db
+spex composition "0.039*B+0.538*O+0.0295*Na+0.00003*Mg+0.0121*Al+0.378*Si+0.0006*Cl+0.00012*K+0.0001*Ca+0.00008*Ti+0.0002*Fe+0.00031*Zr" --name "SRM93a" --db
