@@ -1,127 +1,127 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-02 18:16:56.844651602 -04:00
-#   Application: spex v0.0.117
-#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:31:24
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #    None
 # Spectrum
 #   MMM2 Pentlandite[0][all]['MMM2 Pentlandite[0][4].msa']
 # Fit warnings
-#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.01741 ± 0.00045' is more than 3σ negative.
+#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.03290 ± 0.00042' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pentlandite[0][all],S,16,32.06,0.33009,0.00051,0.33466,0.00042,0.47360,0.00046
-MMM2 Pentlandite[0][all],Fe,26,55.845,0.30277,0.00018,0.30696,0.00029,0.24938,0.00025
-MMM2 Pentlandite[0][all],Co,27,58.933194,0.00574,0.00011,0.00581,0.00011,0.00448,0.00009
-MMM2 Pentlandite[0][all],Ni,28,58.6934,0.34776,0.00065,0.35257,0.00047,0.27254,0.00042
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pentlandite[0][all],S,16,32.06,0.33014,0.00051,0.32740,0.00041,0.46523,0.00046
+MMM2 Pentlandite[0][all],Fe,26,55.845,0.32423,0.00022,0.32154,0.00031,0.26230,0.00027
+MMM2 Pentlandite[0][all],Co,27,58.933194,0.00568,0.00011,0.00564,0.00011,0.00436,0.00008
+MMM2 Pentlandite[0][all],Ni,28,58.6934,0.34831,0.00068,0.34542,0.00048,0.26811,0.00043
 # Notes
-#   Analytical total: 0.98635 ± 0.00085
+#   Analytical total: 1.00837 ± 0.00089
 #   Duane-Hunt: 15.05 keV
 #   Residual written to MMM2 Pentlandite[0][4][residual].msa.
 #   Plot output to 'MMM2 Pentlandite[0][4][quantify].pdf'
 # Spectrum
 #   MMM2 Pentlandite[1][all]['MMM2 Pentlandite[1][4].msa']
 # Fit warnings
-#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.01698 ± 0.00045' is more than 3σ negative.
+#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.03233 ± 0.00042' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pentlandite[1][all],S,16,32.06,0.33104,0.00052,0.33469,0.00042,0.47364,0.00046
-MMM2 Pentlandite[1][all],Fe,26,55.845,0.30329,0.00018,0.30664,0.00029,0.24912,0.00025
-MMM2 Pentlandite[1][all],Co,27,58.933194,0.00626,0.00011,0.00633,0.00011,0.00487,0.00008
-MMM2 Pentlandite[1][all],Ni,28,58.6934,0.34849,0.00065,0.35234,0.00047,0.27236,0.00042
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pentlandite[1][all],S,16,32.06,0.33109,0.00051,0.32745,0.00041,0.46529,0.00046
+MMM2 Pentlandite[1][all],Fe,26,55.845,0.32479,0.00022,0.32121,0.00031,0.26203,0.00027
+MMM2 Pentlandite[1][all],Co,27,58.933194,0.00621,0.00011,0.00614,0.00011,0.00474,0.00008
+MMM2 Pentlandite[1][all],Ni,28,58.6934,0.34905,0.00069,0.34521,0.00048,0.26794,0.00043
 # Notes
-#   Analytical total: 0.98907 ± 0.00085
+#   Analytical total: 1.01114 ± 0.00089
 #   Duane-Hunt: 15.10 keV
 #   Residual written to MMM2 Pentlandite[1][4][residual].msa.
 #   Plot output to 'MMM2 Pentlandite[1][4][quantify].pdf'
 # Spectrum
 #   MMM2 Pentlandite[2][all]['MMM2 Pentlandite[2][4].msa']
 # Fit warnings
-#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.01686 ± 0.00045' is more than 3σ negative.
+#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.03312 ± 0.00042' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pentlandite[2][all],S,16,32.06,0.33149,0.00052,0.33466,0.00042,0.47360,0.00046
-MMM2 Pentlandite[2][all],Fe,26,55.845,0.30423,0.00018,0.30715,0.00029,0.24954,0.00025
-MMM2 Pentlandite[2][all],Co,27,58.933194,0.00602,0.00011,0.00608,0.00011,0.00468,0.00008
-MMM2 Pentlandite[2][all],Ni,28,58.6934,0.34876,0.00065,0.35211,0.00047,0.27218,0.00042
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pentlandite[2][all],S,16,32.06,0.33155,0.00051,0.32741,0.00041,0.46523,0.00046
+MMM2 Pentlandite[2][all],Fe,26,55.845,0.32580,0.00022,0.32173,0.00031,0.26245,0.00027
+MMM2 Pentlandite[2][all],Co,27,58.933194,0.00597,0.00011,0.00589,0.00011,0.00455,0.00008
+MMM2 Pentlandite[2][all],Ni,28,58.6934,0.34934,0.00069,0.34497,0.00049,0.26776,0.00043
 # Notes
-#   Analytical total: 0.99050 ± 0.00086
+#   Analytical total: 1.01265 ± 0.00089
 #   Duane-Hunt: 15.07 keV
 #   Residual written to MMM2 Pentlandite[2][4][residual].msa.
 #   Plot output to 'MMM2 Pentlandite[2][4][quantify].pdf'
 # Spectrum
 #   MMM2 Pentlandite[3][all]['MMM2 Pentlandite[3][4].msa']
 # Fit warnings
-#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.01737 ± 0.00045' is more than 3σ negative.
+#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.03251 ± 0.00042' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pentlandite[3][all],S,16,32.06,0.33065,0.00051,0.33536,0.00042,0.47440,0.00046
-MMM2 Pentlandite[3][all],Fe,26,55.845,0.30176,0.00018,0.30606,0.00029,0.24855,0.00025
-MMM2 Pentlandite[3][all],Co,27,58.933194,0.00579,0.00011,0.00588,0.00011,0.00452,0.00009
-MMM2 Pentlandite[3][all],Ni,28,58.6934,0.34776,0.00064,0.35271,0.00047,0.27254,0.00042
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pentlandite[3][all],S,16,32.06,0.33070,0.00051,0.32810,0.00041,0.46604,0.00046
+MMM2 Pentlandite[3][all],Fe,26,55.845,0.32316,0.00022,0.32062,0.00031,0.26144,0.00027
+MMM2 Pentlandite[3][all],Co,27,58.933194,0.00574,0.00011,0.00570,0.00011,0.00440,0.00008
+MMM2 Pentlandite[3][all],Ni,28,58.6934,0.34832,0.00068,0.34558,0.00048,0.26812,0.00043
 # Notes
-#   Analytical total: 0.98597 ± 0.00085
+#   Analytical total: 1.00792 ± 0.00088
 #   Duane-Hunt: 15.10 keV
 #   Residual written to MMM2 Pentlandite[3][4][residual].msa.
 #   Plot output to 'MMM2 Pentlandite[3][4][quantify].pdf'
 # Spectrum
 #   MMM2 Pentlandite[4][all]['MMM2 Pentlandite[4][4].msa']
 # Fit warnings
-#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.01706 ± 0.00045' is more than 3σ negative.
+#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.03267 ± 0.00042' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pentlandite[4][all],S,16,32.06,0.33080,0.00051,0.33540,0.00042,0.47441,0.00046
-MMM2 Pentlandite[4][all],Fe,26,55.845,0.30345,0.00018,0.30767,0.00029,0.24983,0.00025
-MMM2 Pentlandite[4][all],Co,27,58.933194,0.00544,0.00011,0.00551,0.00011,0.00424,0.00008
-MMM2 Pentlandite[4][all],Ni,28,58.6934,0.34660,0.00064,0.35142,0.00047,0.27151,0.00042
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pentlandite[4][all],S,16,32.06,0.33086,0.00051,0.32811,0.00041,0.46601,0.00046
+MMM2 Pentlandite[4][all],Fe,26,55.845,0.32496,0.00022,0.32226,0.00031,0.26276,0.00027
+MMM2 Pentlandite[4][all],Co,27,58.933194,0.00538,0.00011,0.00534,0.00011,0.00412,0.00008
+MMM2 Pentlandite[4][all],Ni,28,58.6934,0.34717,0.00068,0.34429,0.00048,0.26710,0.00043
 # Notes
-#   Analytical total: 0.98630 ± 0.00085
+#   Analytical total: 1.00837 ± 0.00088
 #   Duane-Hunt: 15.04 keV
 #   Residual written to MMM2 Pentlandite[4][4][residual].msa.
 #   Plot output to 'MMM2 Pentlandite[4][4][quantify].pdf'
 # Spectrum
 #   MMM2 Pentlandite[5][all]['MMM2 Pentlandite[5][4].msa']
 # Fit warnings
-#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.01666 ± 0.00045' is more than 3σ negative.
+#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.03201 ± 0.00042' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pentlandite[5][all],S,16,32.06,0.33094,0.00052,0.33473,0.00042,0.47369,0.00046
-MMM2 Pentlandite[5][all],Fe,26,55.845,0.30322,0.00018,0.30669,0.00029,0.24916,0.00025
-MMM2 Pentlandite[5][all],Co,27,58.933194,0.00545,0.00011,0.00551,0.00011,0.00424,0.00008
-MMM2 Pentlandite[5][all],Ni,28,58.6934,0.34907,0.00065,0.35307,0.00047,0.27291,0.00042
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pentlandite[5][all],S,16,32.06,0.33100,0.00051,0.32748,0.00041,0.46532,0.00046
+MMM2 Pentlandite[5][all],Fe,26,55.845,0.32472,0.00022,0.32126,0.00031,0.26207,0.00027
+MMM2 Pentlandite[5][all],Co,27,58.933194,0.00540,0.00011,0.00534,0.00011,0.00413,0.00008
+MMM2 Pentlandite[5][all],Ni,28,58.6934,0.34964,0.00069,0.34592,0.00048,0.26848,0.00043
 # Notes
-#   Analytical total: 0.98869 ± 0.00086
+#   Analytical total: 1.01076 ± 0.00089
 #   Duane-Hunt: 15.00 keV
 #   Residual written to MMM2 Pentlandite[5][4][residual].msa.
 #   Plot output to 'MMM2 Pentlandite[5][4][quantify].pdf'
 # Spectrum
 #   MMM2 Pentlandite[6][all]['MMM2 Pentlandite[6][4].msa']
 # Fit warnings
-#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.01644 ± 0.00045' is more than 3σ negative.
+#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.03222 ± 0.00042' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pentlandite[6][all],S,16,32.06,0.33075,0.00051,0.33476,0.00042,0.47370,0.00046
-MMM2 Pentlandite[6][all],Fe,26,55.845,0.30391,0.00018,0.30760,0.00029,0.24988,0.00025
-MMM2 Pentlandite[6][all],Co,27,58.933194,0.00602,0.00011,0.00609,0.00011,0.00469,0.00008
-MMM2 Pentlandite[6][all],Ni,28,58.6934,0.34733,0.00065,0.35155,0.00047,0.27172,0.00042
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pentlandite[6][all],S,16,32.06,0.33081,0.00051,0.32748,0.00041,0.46531,0.00046
+MMM2 Pentlandite[6][all],Fe,26,55.845,0.32546,0.00022,0.32219,0.00031,0.26281,0.00027
+MMM2 Pentlandite[6][all],Co,27,58.933194,0.00597,0.00011,0.00591,0.00011,0.00457,0.00008
+MMM2 Pentlandite[6][all],Ni,28,58.6934,0.34791,0.00069,0.34442,0.00048,0.26731,0.00043
 # Notes
-#   Analytical total: 0.98802 ± 0.00085
+#   Analytical total: 1.01015 ± 0.00089
 #   Duane-Hunt: 15.07 keV
 #   Residual written to MMM2 Pentlandite[6][4][residual].msa.
 #   Plot output to 'MMM2 Pentlandite[6][4][quantify].pdf'
 # Spectrum
 #   MMM2 Pentlandite[7][all]['MMM2 Pentlandite[7][4].msa']
 # Fit warnings
-#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.01693 ± 0.00045' is more than 3σ negative.
+#   The k-ratio '[Co L₃-M₅ + 13 others] = -0.03194 ± 0.00042' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pentlandite[7][all],S,16,32.06,0.33070,0.00051,0.33416,0.00042,0.47303,0.00046
-MMM2 Pentlandite[7][all],Fe,26,55.845,0.30454,0.00018,0.30772,0.00029,0.25008,0.00025
-MMM2 Pentlandite[7][all],Co,27,58.933194,0.00612,0.00011,0.00618,0.00011,0.00476,0.00008
-MMM2 Pentlandite[7][all],Ni,28,58.6934,0.34830,0.00065,0.35194,0.00047,0.27213,0.00042
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pentlandite[7][all],S,16,32.06,0.33076,0.00051,0.32689,0.00041,0.46465,0.00046
+MMM2 Pentlandite[7][all],Fe,26,55.845,0.32614,0.00022,0.32232,0.00031,0.26302,0.00027
+MMM2 Pentlandite[7][all],Co,27,58.933194,0.00606,0.00011,0.00599,0.00011,0.00463,0.00008
+MMM2 Pentlandite[7][all],Ni,28,58.6934,0.34888,0.00069,0.34479,0.00049,0.26770,0.00043
 # Notes
-#   Analytical total: 0.98967 ± 0.00086
+#   Analytical total: 1.01184 ± 0.00089
 #   Duane-Hunt: 15.03 keV
 #   Residual written to MMM2 Pentlandite[7][4][residual].msa.
 #   Plot output to 'MMM2 Pentlandite[7][4][quantify].pdf'
@@ -136,12 +136,12 @@ MMM2 Pentlandite[7][all],Ni,28,58.6934,0.34830,0.00065,0.35194,0.00047,0.27213,0
 #   = ''SPI Pentlandite'' is not the name of a known composition.
 # Result Comparison
 Name,S,Fe,Co,Ni,Σ
-MMM2 Pentlandite[0][all],0.33009 ± 0.00051,0.30277 ± 0.00018,0.00574 ± 0.00011,0.34776 ± 0.00065,0.98635 ± 0.00085
-MMM2 Pentlandite[1][all],0.33104 ± 0.00052,0.30329 ± 0.00018,0.00626 ± 0.00011,0.34849 ± 0.00065,0.98907 ± 0.00085
-MMM2 Pentlandite[2][all],0.33149 ± 0.00052,0.30423 ± 0.00018,0.00602 ± 0.00011,0.34876 ± 0.00065,0.99050 ± 0.00086
-MMM2 Pentlandite[3][all],0.33065 ± 0.00051,0.30176 ± 0.00018,0.00579 ± 0.00011,0.34776 ± 0.00064,0.98597 ± 0.00085
-MMM2 Pentlandite[4][all],0.33080 ± 0.00051,0.30345 ± 0.00018,0.00544 ± 0.00011,0.34660 ± 0.00064,0.98630 ± 0.00085
-MMM2 Pentlandite[5][all],0.33094 ± 0.00052,0.30322 ± 0.00018,0.00545 ± 0.00011,0.34907 ± 0.00065,0.98869 ± 0.00086
-MMM2 Pentlandite[6][all],0.33075 ± 0.00051,0.30391 ± 0.00018,0.00602 ± 0.00011,0.34733 ± 0.00065,0.98802 ± 0.00085
-MMM2 Pentlandite[7][all],0.33070 ± 0.00051,0.30454 ± 0.00018,0.00612 ± 0.00011,0.34830 ± 0.00065,0.98967 ± 0.00086
-Mean,0.33081 ± 0.00039,0.30340 ± 0.00088,0.00585 ± 0.00030,0.34801 ± 0.00081,0.9881 ± 0.0017
+MMM2 Pentlandite[0][all],0.33014 ± 0.00051,0.32423 ± 0.00022,0.00568 ± 0.00011,0.34831 ± 0.00068,1.00837 ± 0.00089
+MMM2 Pentlandite[1][all],0.33109 ± 0.00051,0.32479 ± 0.00022,0.00621 ± 0.00011,0.34905 ± 0.00069,1.01114 ± 0.00089
+MMM2 Pentlandite[2][all],0.33155 ± 0.00051,0.32580 ± 0.00022,0.00597 ± 0.00011,0.34934 ± 0.00069,1.01265 ± 0.00089
+MMM2 Pentlandite[3][all],0.33070 ± 0.00051,0.32316 ± 0.00022,0.00574 ± 0.00011,0.34832 ± 0.00068,1.00792 ± 0.00088
+MMM2 Pentlandite[4][all],0.33086 ± 0.00051,0.32496 ± 0.00022,0.00538 ± 0.00011,0.34717 ± 0.00068,1.00837 ± 0.00088
+MMM2 Pentlandite[5][all],0.33100 ± 0.00051,0.32472 ± 0.00022,0.00540 ± 0.00011,0.34964 ± 0.00069,1.01076 ± 0.00089
+MMM2 Pentlandite[6][all],0.33081 ± 0.00051,0.32546 ± 0.00022,0.00597 ± 0.00011,0.34791 ± 0.00069,1.01015 ± 0.00089
+MMM2 Pentlandite[7][all],0.33076 ± 0.00051,0.32614 ± 0.00022,0.00606 ± 0.00011,0.34888 ± 0.00069,1.01184 ± 0.00089
+Mean,0.33086 ± 0.00040,0.32491 ± 0.00094,0.00580 ± 0.00030,0.34858 ± 0.00081,1.0102 ± 0.0018

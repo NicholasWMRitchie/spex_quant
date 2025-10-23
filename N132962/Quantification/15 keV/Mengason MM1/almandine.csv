@@ -1,64 +1,64 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-02 14:38:18.745703729 -04:00
-#   Application: spex v0.0.117
-#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:27:46
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #    None
 # Spectrum
 #   MMM1 Almandine Garnet[0][all]['MMM1 Almandine Garnet[0][4].msa']
 # Fit warnings
-#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03443 ± 0.00048' is more than 3σ negative.
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01531 ± 0.00050' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Almandine Garnet[0][all],O,8,15.999,0.41539,0.02512,0.41391,0.01467,0.59475,0.01458
-MMM1 Almandine Garnet[0][all],Mg,12,24.305,0.05894,0.00016,0.05873,0.00148,0.05555,0.00200
-MMM1 Almandine Garnet[0][all],Al,13,26.9815384,0.11751,0.00033,0.11709,0.00295,0.09976,0.00360
-MMM1 Almandine Garnet[0][all],Si,14,28.085,0.18833,0.00041,0.18766,0.00471,0.15361,0.00553
-MMM1 Almandine Garnet[0][all],Ca,20,40.078,0.02876,0.00005,0.02866,0.00072,0.01644,0.00059
-MMM1 Almandine Garnet[0][all],Ti,22,47.867,0.00027,0.00003,0.00026,0.00003,0.00013,0.00002
-MMM1 Almandine Garnet[0][all],Mn,25,54.938043,0.00502,0.00005,0.00500,0.00014,0.00209,0.00008
-MMM1 Almandine Garnet[0][all],Fe,26,55.845,0.18936,0.00015,0.18869,0.00473,0.07767,0.00279
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Almandine Garnet[0][all],O,8,15.999,0.41402,0.02509,0.40756,0.01463,0.59040,0.01466
+MMM1 Almandine Garnet[0][all],Mg,12,24.305,0.05929,0.00017,0.05837,0.00145,0.05566,0.00200
+MMM1 Almandine Garnet[0][all],Al,13,26.9815384,0.11789,0.00034,0.11605,0.00288,0.09969,0.00358
+MMM1 Almandine Garnet[0][all],Si,14,28.085,0.18848,0.00042,0.18553,0.00459,0.15311,0.00549
+MMM1 Almandine Garnet[0][all],Ca,20,40.078,0.02869,0.00005,0.02824,0.00070,0.01633,0.00058
+MMM1 Almandine Garnet[0][all],Ti,22,47.867,0.00026,0.00003,0.00026,0.00003,0.00013,0.00002
+MMM1 Almandine Garnet[0][all],Mn,25,54.938043,0.00501,0.00005,0.00493,0.00013,0.00208,0.00008
+MMM1 Almandine Garnet[0][all],Fe,26,55.845,0.20221,0.00016,0.19905,0.00492,0.08261,0.00296
 # Notes
-#   Analytical total: 1.004 ± 0.025
+#   Analytical total: 1.016 ± 0.025
 #   Duane-Hunt: 15.05 keV
 #   Residual written to MMM1 Almandine Garnet[0][4][residual].msa.
 #   Plot output to 'MMM1 Almandine Garnet[0][4][quantify].pdf'
 # Spectrum
 #   MMM1 Almandine Garnet[1][all]['MMM1 Almandine Garnet[1][4].msa']
 # Fit warnings
-#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03649 ± 0.00048' is more than 3σ negative.
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01737 ± 0.00050' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Almandine Garnet[1][all],O,8,15.999,0.41505,0.02509,0.41453,0.01467,0.59523,0.01457
-MMM1 Almandine Garnet[1][all],Mg,12,24.305,0.05886,0.00016,0.05878,0.00148,0.05556,0.00200
-MMM1 Almandine Garnet[1][all],Al,13,26.9815384,0.11722,0.00033,0.11708,0.00295,0.09968,0.00360
-MMM1 Almandine Garnet[1][all],Si,14,28.085,0.18790,0.00041,0.18766,0.00472,0.15351,0.00553
-MMM1 Almandine Garnet[1][all],Ca,20,40.078,0.02882,0.00005,0.02878,0.00072,0.01650,0.00059
-MMM1 Almandine Garnet[1][all],Ti,22,47.867,0.00039,0.00003,0.00039,0.00004,0.00019,0.00002
-MMM1 Almandine Garnet[1][all],Mn,25,54.938043,0.00507,0.00005,0.00507,0.00014,0.00212,0.00008
-MMM1 Almandine Garnet[1][all],Fe,26,55.845,0.18794,0.00015,0.18770,0.00471,0.07722,0.00278
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Almandine Garnet[1][all],O,8,15.999,0.41370,0.02506,0.40821,0.01463,0.59091,0.01464
+MMM1 Almandine Garnet[1][all],Mg,12,24.305,0.05920,0.00017,0.05842,0.00145,0.05567,0.00200
+MMM1 Almandine Garnet[1][all],Al,13,26.9815384,0.11761,0.00034,0.11605,0.00288,0.09961,0.00357
+MMM1 Almandine Garnet[1][all],Si,14,28.085,0.18805,0.00042,0.18555,0.00460,0.15301,0.00548
+MMM1 Almandine Garnet[1][all],Ca,20,40.078,0.02875,0.00005,0.02837,0.00070,0.01639,0.00059
+MMM1 Almandine Garnet[1][all],Ti,22,47.867,0.00039,0.00003,0.00038,0.00003,0.00019,0.00002
+MMM1 Almandine Garnet[1][all],Mn,25,54.938043,0.00506,0.00005,0.00500,0.00013,0.00211,0.00008
+MMM1 Almandine Garnet[1][all],Fe,26,55.845,0.20069,0.00016,0.19803,0.00490,0.08212,0.00294
 # Notes
-#   Analytical total: 1.001 ± 0.025
+#   Analytical total: 1.013 ± 0.025
 #   Duane-Hunt: 15.19 keV
 #   Residual written to MMM1 Almandine Garnet[1][4][residual].msa.
 #   Plot output to 'MMM1 Almandine Garnet[1][4][quantify].pdf'
 # Spectrum
 #   MMM1 Almandine Garnet[2][all]['MMM1 Almandine Garnet[2][4].msa']
 # Fit warnings
-#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03706 ± 0.00048' is more than 3σ negative.
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01795 ± 0.00050' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Almandine Garnet[2][all],O,8,15.999,0.41449,0.02505,0.41436,0.01467,0.59491,0.01457
-MMM1 Almandine Garnet[2][all],Mg,12,24.305,0.05906,0.00016,0.05904,0.00149,0.05580,0.00201
-MMM1 Almandine Garnet[2][all],Al,13,26.9815384,0.11734,0.00033,0.11730,0.00295,0.09987,0.00360
-MMM1 Almandine Garnet[2][all],Si,14,28.085,0.18788,0.00041,0.18782,0.00472,0.15361,0.00553
-MMM1 Almandine Garnet[2][all],Ca,20,40.078,0.02891,0.00005,0.02890,0.00073,0.01657,0.00060
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Almandine Garnet[2][all],O,8,15.999,0.41314,0.02502,0.40803,0.01463,0.59058,0.01465
+MMM1 Almandine Garnet[2][all],Mg,12,24.305,0.05942,0.00017,0.05869,0.00146,0.05592,0.00201
+MMM1 Almandine Garnet[2][all],Al,13,26.9815384,0.11774,0.00034,0.11628,0.00289,0.09980,0.00358
+MMM1 Almandine Garnet[2][all],Si,14,28.085,0.18802,0.00042,0.18569,0.00460,0.15311,0.00548
+MMM1 Almandine Garnet[2][all],Ca,20,40.078,0.02885,0.00005,0.02849,0.00071,0.01646,0.00059
 MMM1 Almandine Garnet[2][all],Ti,22,47.867,0.00003,0.00003,0.00003,0.00003,0.00002,0.00002
-MMM1 Almandine Garnet[2][all],Mn,25,54.938043,0.00500,0.00005,0.00500,0.00014,0.00209,0.00008
-MMM1 Almandine Garnet[2][all],Fe,26,55.845,0.18760,0.00015,0.18754,0.00470,0.07714,0.00277
+MMM1 Almandine Garnet[2][all],Mn,25,54.938043,0.00499,0.00005,0.00493,0.00013,0.00208,0.00008
+MMM1 Almandine Garnet[2][all],Fe,26,55.845,0.20033,0.00016,0.19785,0.00489,0.08204,0.00294
 # Notes
-#   Analytical total: 1.000 ± 0.025
+#   Analytical total: 1.013 ± 0.025
 #   Duane-Hunt: 15.09 keV
 #   Residual written to MMM1 Almandine Garnet[2][4][residual].msa.
 #   Plot output to 'MMM1 Almandine Garnet[2][4][quantify].pdf'
@@ -66,95 +66,95 @@ MMM1 Almandine Garnet[2][all],Fe,26,55.845,0.18760,0.00015,0.18754,0.00470,0.077
 #   MMM1 Almandine Garnet[3][all]['MMM1 Almandine Garnet[3][4].msa']
 # Fit warnings
 #   Removing Ti from the fit and re-fitting (threshold = 0.0σ).
-#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03950 ± 0.00048' is more than 3σ negative.
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01978 ± 0.00050' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Almandine Garnet[3][all],O,8,15.999,0.41134,0.02488,0.41183,0.01465,0.59270,0.01460
-MMM1 Almandine Garnet[3][all],Mg,12,24.305,0.05869,0.00016,0.05876,0.00147,0.05567,0.00200
-MMM1 Almandine Garnet[3][all],Al,13,26.9815384,0.11724,0.00033,0.11738,0.00294,0.10017,0.00360
-MMM1 Almandine Garnet[3][all],Si,14,28.085,0.18838,0.00041,0.18861,0.00471,0.15463,0.00555
-MMM1 Almandine Garnet[3][all],Ca,20,40.078,0.02880,0.00005,0.02883,0.00072,0.01657,0.00059
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Almandine Garnet[3][all],O,8,15.999,0.41014,0.02486,0.40555,0.01461,0.58840,0.01468
+MMM1 Almandine Garnet[3][all],Mg,12,24.305,0.05906,0.00017,0.05840,0.00144,0.05578,0.00200
+MMM1 Almandine Garnet[3][all],Al,13,26.9815384,0.11765,0.00034,0.11634,0.00288,0.10009,0.00358
+MMM1 Almandine Garnet[3][all],Si,14,28.085,0.18854,0.00042,0.18643,0.00460,0.15409,0.00550
+MMM1 Almandine Garnet[3][all],Ca,20,40.078,0.02873,0.00005,0.02841,0.00070,0.01646,0.00059
 MMM1 Almandine Garnet[3][all],Ti,22,47.867,0.00000,0.00003,0.00000,0.00003,0.00000,0.00001
-MMM1 Almandine Garnet[3][all],Mn,25,54.938043,0.00499,0.00005,0.00499,0.00014,0.00209,0.00008
-MMM1 Almandine Garnet[3][all],Fe,26,55.845,0.18937,0.00015,0.18960,0.00472,0.07817,0.00280
+MMM1 Almandine Garnet[3][all],Mn,25,54.938043,0.00497,0.00005,0.00492,0.00013,0.00208,0.00008
+MMM1 Almandine Garnet[3][all],Fe,26,55.845,0.20222,0.00016,0.19996,0.00492,0.08311,0.00297
 # Notes
-#   Analytical total: 0.999 ± 0.025
+#   Analytical total: 1.011 ± 0.025
 #   Duane-Hunt: 15.19 keV
 #   Residual written to MMM1 Almandine Garnet[3][4][residual].msa.
 #   Plot output to 'MMM1 Almandine Garnet[3][4][quantify].pdf'
 # Spectrum
 #   MMM1 Almandine Garnet[4][all]['MMM1 Almandine Garnet[4][4].msa']
 # Fit warnings
-#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03404 ± 0.00048' is more than 3σ negative.
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01473 ± 0.00050' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Almandine Garnet[4][all],O,8,15.999,0.41611,0.02516,0.41452,0.01468,0.59524,0.01457
-MMM1 Almandine Garnet[4][all],Mg,12,24.305,0.05901,0.00016,0.05879,0.00148,0.05557,0.00201
-MMM1 Almandine Garnet[4][all],Al,13,26.9815384,0.11754,0.00033,0.11709,0.00295,0.09970,0.00360
-MMM1 Almandine Garnet[4][all],Si,14,28.085,0.18830,0.00041,0.18758,0.00471,0.15344,0.00553
-MMM1 Almandine Garnet[4][all],Ca,20,40.078,0.02900,0.00005,0.02889,0.00073,0.01656,0.00060
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Almandine Garnet[4][all],O,8,15.999,0.41477,0.02513,0.40820,0.01464,0.59092,0.01465
+MMM1 Almandine Garnet[4][all],Mg,12,24.305,0.05937,0.00017,0.05843,0.00145,0.05568,0.00200
+MMM1 Almandine Garnet[4][all],Al,13,26.9815384,0.11793,0.00034,0.11606,0.00289,0.09962,0.00358
+MMM1 Almandine Garnet[4][all],Si,14,28.085,0.18844,0.00042,0.18546,0.00460,0.15294,0.00548
+MMM1 Almandine Garnet[4][all],Ca,20,40.078,0.02893,0.00005,0.02847,0.00071,0.01645,0.00059
 MMM1 Almandine Garnet[4][all],Ti,22,47.867,0.00012,0.00003,0.00012,0.00003,0.00006,0.00002
-MMM1 Almandine Garnet[4][all],Mn,25,54.938043,0.00516,0.00005,0.00514,0.00014,0.00215,0.00008
-MMM1 Almandine Garnet[4][all],Fe,26,55.845,0.18859,0.00015,0.18787,0.00471,0.07729,0.00278
+MMM1 Almandine Garnet[4][all],Mn,25,54.938043,0.00515,0.00005,0.00507,0.00014,0.00214,0.00008
+MMM1 Almandine Garnet[4][all],Fe,26,55.845,0.20139,0.00016,0.19820,0.00491,0.08220,0.00294
 # Notes
-#   Analytical total: 1.004 ± 0.025
+#   Analytical total: 1.016 ± 0.025
 #   Duane-Hunt: 15.19 keV
 #   Residual written to MMM1 Almandine Garnet[4][4][residual].msa.
 #   Plot output to 'MMM1 Almandine Garnet[4][4][quantify].pdf'
 # Spectrum
 #   MMM1 Almandine Garnet[5][all]['MMM1 Almandine Garnet[5][4].msa']
 # Fit warnings
-#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03551 ± 0.00048' is more than 3σ negative.
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01642 ± 0.00050' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Almandine Garnet[5][all],O,8,15.999,0.41491,0.02511,0.41399,0.01469,0.59476,0.01459
-MMM1 Almandine Garnet[5][all],Mg,12,24.305,0.05904,0.00016,0.05891,0.00148,0.05571,0.00201
-MMM1 Almandine Garnet[5][all],Al,13,26.9815384,0.11701,0.00033,0.11675,0.00294,0.09946,0.00359
-MMM1 Almandine Garnet[5][all],Si,14,28.085,0.18826,0.00041,0.18785,0.00472,0.15374,0.00554
-MMM1 Almandine Garnet[5][all],Ca,20,40.078,0.02909,0.00005,0.02903,0.00073,0.01665,0.00060
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Almandine Garnet[5][all],O,8,15.999,0.41360,0.02508,0.40768,0.01465,0.59046,0.01467
+MMM1 Almandine Garnet[5][all],Mg,12,24.305,0.05939,0.00017,0.05854,0.00146,0.05581,0.00200
+MMM1 Almandine Garnet[5][all],Al,13,26.9815384,0.11739,0.00034,0.11571,0.00288,0.09937,0.00357
+MMM1 Almandine Garnet[5][all],Si,14,28.085,0.18841,0.00042,0.18571,0.00460,0.15323,0.00549
+MMM1 Almandine Garnet[5][all],Ca,20,40.078,0.02902,0.00005,0.02861,0.00071,0.01654,0.00059
 MMM1 Almandine Garnet[5][all],Ti,22,47.867,0.00021,0.00003,0.00021,0.00003,0.00010,0.00002
-MMM1 Almandine Garnet[5][all],Mn,25,54.938043,0.00504,0.00005,0.00503,0.00014,0.00211,0.00008
-MMM1 Almandine Garnet[5][all],Fe,26,55.845,0.18865,0.00015,0.18823,0.00472,0.07747,0.00279
+MMM1 Almandine Garnet[5][all],Mn,25,54.938043,0.00503,0.00005,0.00496,0.00013,0.00209,0.00008
+MMM1 Almandine Garnet[5][all],Fe,26,55.845,0.20145,0.00016,0.19857,0.00491,0.08239,0.00295
 # Notes
-#   Analytical total: 1.002 ± 0.025
+#   Analytical total: 1.015 ± 0.025
 #   Duane-Hunt: 15.20 keV
 #   Residual written to MMM1 Almandine Garnet[5][4][residual].msa.
 #   Plot output to 'MMM1 Almandine Garnet[5][4][quantify].pdf'
 # Spectrum
 #   MMM1 Almandine Garnet[6][all]['MMM1 Almandine Garnet[6][4].msa']
 # Fit warnings
-#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03610 ± 0.00048' is more than 3σ negative.
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01716 ± 0.00050' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Almandine Garnet[6][all],O,8,15.999,0.41613,0.02521,0.41468,0.01470,0.59529,0.01460
-MMM1 Almandine Garnet[6][all],Mg,12,24.305,0.05943,0.00016,0.05923,0.00150,0.05597,0.00202
-MMM1 Almandine Garnet[6][all],Al,13,26.9815384,0.11675,0.00033,0.11634,0.00294,0.09903,0.00358
-MMM1 Almandine Garnet[6][all],Si,14,28.085,0.18884,0.00041,0.18818,0.00474,0.15389,0.00556
-MMM1 Almandine Garnet[6][all],Ca,20,40.078,0.02886,0.00005,0.02876,0.00072,0.01648,0.00059
-MMM1 Almandine Garnet[6][all],Ti,22,47.867,0.00023,0.00003,0.00022,0.00003,0.00011,0.00002
-MMM1 Almandine Garnet[6][all],Mn,25,54.938043,0.00496,0.00005,0.00495,0.00014,0.00207,0.00008
-MMM1 Almandine Garnet[6][all],Fe,26,55.845,0.18829,0.00015,0.18763,0.00472,0.07717,0.00278
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Almandine Garnet[6][all],O,8,15.999,0.41482,0.02517,0.40838,0.01466,0.59099,0.01467
+MMM1 Almandine Garnet[6][all],Mg,12,24.305,0.05979,0.00017,0.05886,0.00147,0.05607,0.00202
+MMM1 Almandine Garnet[6][all],Al,13,26.9815384,0.11713,0.00034,0.11531,0.00287,0.09895,0.00356
+MMM1 Almandine Garnet[6][all],Si,14,28.085,0.18899,0.00042,0.18606,0.00462,0.15338,0.00551
+MMM1 Almandine Garnet[6][all],Ca,20,40.078,0.02879,0.00005,0.02834,0.00070,0.01637,0.00059
+MMM1 Almandine Garnet[6][all],Ti,22,47.867,0.00022,0.00003,0.00022,0.00003,0.00011,0.00002
+MMM1 Almandine Garnet[6][all],Mn,25,54.938043,0.00495,0.00005,0.00488,0.00013,0.00206,0.00008
+MMM1 Almandine Garnet[6][all],Fe,26,55.845,0.20107,0.00016,0.19795,0.00491,0.08207,0.00294
 # Notes
-#   Analytical total: 1.003 ± 0.025
+#   Analytical total: 1.016 ± 0.025
 #   Duane-Hunt: 15.20 keV
 #   Residual written to MMM1 Almandine Garnet[6][4][residual].msa.
 #   Plot output to 'MMM1 Almandine Garnet[6][4][quantify].pdf'
 # Spectrum
 #   MMM1 Almandine Garnet[7][all]['MMM1 Almandine Garnet[7][4].msa']
 # Fit warnings
-#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03790 ± 0.00048' is more than 3σ negative.
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01883 ± 0.00050' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Almandine Garnet[7][all],O,8,15.999,0.41414,0.02505,0.41339,0.01467,0.59418,0.01459
-MMM1 Almandine Garnet[7][all],Mg,12,24.305,0.05908,0.00016,0.05897,0.00148,0.05579,0.00201
-MMM1 Almandine Garnet[7][all],Al,13,26.9815384,0.11725,0.00033,0.11704,0.00294,0.09975,0.00359
-MMM1 Almandine Garnet[7][all],Si,14,28.085,0.18838,0.00041,0.18804,0.00471,0.15397,0.00554
-MMM1 Almandine Garnet[7][all],Ca,20,40.078,0.02852,0.00005,0.02847,0.00071,0.01633,0.00059
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Almandine Garnet[7][all],O,8,15.999,0.41279,0.02501,0.40704,0.01463,0.58983,0.01466
+MMM1 Almandine Garnet[7][all],Mg,12,24.305,0.05943,0.00017,0.05860,0.00145,0.05590,0.00200
+MMM1 Almandine Garnet[7][all],Al,13,26.9815384,0.11764,0.00034,0.11600,0.00288,0.09967,0.00357
+MMM1 Almandine Garnet[7][all],Si,14,28.085,0.18853,0.00042,0.18591,0.00460,0.15346,0.00549
+MMM1 Almandine Garnet[7][all],Ca,20,40.078,0.02845,0.00005,0.02806,0.00069,0.01623,0.00058
 MMM1 Almandine Garnet[7][all],Ti,22,47.867,0.00028,0.00003,0.00028,0.00003,0.00013,0.00002
-MMM1 Almandine Garnet[7][all],Mn,25,54.938043,0.00495,0.00005,0.00494,0.00013,0.00207,0.00008
-MMM1 Almandine Garnet[7][all],Fe,26,55.845,0.18923,0.00015,0.18888,0.00472,0.07778,0.00280
+MMM1 Almandine Garnet[7][all],Mn,25,54.938043,0.00494,0.00005,0.00487,0.00013,0.00206,0.00008
+MMM1 Almandine Garnet[7][all],Fe,26,55.845,0.20207,0.00016,0.19925,0.00492,0.08272,0.00296
 # Notes
-#   Analytical total: 1.002 ± 0.025
+#   Analytical total: 1.014 ± 0.025
 #   Duane-Hunt: 15.20 keV
 #   Residual written to MMM1 Almandine Garnet[7][4][residual].msa.
 #   Plot output to 'MMM1 Almandine Garnet[7][4][quantify].pdf'
@@ -169,12 +169,12 @@ MMM1 Almandine Garnet[7][all],Fe,26,55.845,0.18923,0.00015,0.18888,0.00472,0.077
 #   = ''SPI Almandine Garnet'' is not the name of a known composition.
 # Result Comparison
 Name,O,Mg,Al,Si,Ca,Ti,Mn,Fe,Σ
-MMM1 Almandine Garnet[0][all],0.415 ± 0.025,0.05894 ± 0.00016,0.11751 ± 0.00033,0.18833 ± 0.00041,0.028759 ± 0.000048,0.000266 ± 0.000034,0.005018 ± 0.000054,0.18936 ± 0.00015,1.004 ± 0.025
-MMM1 Almandine Garnet[1][all],0.415 ± 0.025,0.05886 ± 0.00016,0.11722 ± 0.00033,0.18790 ± 0.00041,0.028819 ± 0.000048,0.000390 ± 0.000034,0.005075 ± 0.000054,0.18794 ± 0.00015,1.001 ± 0.025
-MMM1 Almandine Garnet[2][all],0.414 ± 0.025,0.05906 ± 0.00016,0.11734 ± 0.00033,0.18788 ± 0.00041,0.028912 ± 0.000048,0.000034 ± 0.000034,0.005003 ± 0.000054,0.18760 ± 0.00015,1.000 ± 0.025
-MMM1 Almandine Garnet[3][all],0.411 ± 0.025,0.05869 ± 0.00016,0.11724 ± 0.00033,0.18838 ± 0.00041,0.028800 ± 0.000048,0.000000 ± 0.000029,0.004985 ± 0.000054,0.18937 ± 0.00015,0.999 ± 0.025
-MMM1 Almandine Garnet[4][all],0.416 ± 0.025,0.05901 ± 0.00016,0.11754 ± 0.00033,0.18830 ± 0.00041,0.028997 ± 0.000048,0.000118 ± 0.000034,0.005158 ± 0.000054,0.18859 ± 0.00015,1.004 ± 0.025
-MMM1 Almandine Garnet[5][all],0.415 ± 0.025,0.05904 ± 0.00016,0.11701 ± 0.00033,0.18826 ± 0.00041,0.029092 ± 0.000048,0.000214 ± 0.000034,0.005043 ± 0.000054,0.18865 ± 0.00015,1.002 ± 0.025
-MMM1 Almandine Garnet[6][all],0.416 ± 0.025,0.05943 ± 0.00016,0.11675 ± 0.00033,0.18884 ± 0.00041,0.028858 ± 0.000048,0.000225 ± 0.000034,0.004965 ± 0.000054,0.18829 ± 0.00015,1.003 ± 0.025
-MMM1 Almandine Garnet[7][all],0.414 ± 0.025,0.05908 ± 0.00016,0.11725 ± 0.00033,0.18838 ± 0.00041,0.028520 ± 0.000048,0.000280 ± 0.000034,0.004950 ± 0.000054,0.18923 ± 0.00015,1.002 ± 0.025
-Mean,0.4147 ± 0.0015,0.05901 ± 0.00021,0.11723 ± 0.00026,0.18828 ± 0.00030,0.02884 ± 0.00017,0.00019 ± 0.00013,0.005025 ± 0.000068,0.18863 ± 0.00067,1.0019 ± 0.0018
+MMM1 Almandine Garnet[0][all],0.414 ± 0.025,0.05929 ± 0.00017,0.11789 ± 0.00034,0.18848 ± 0.00042,0.028692 ± 0.000048,0.000265 ± 0.000034,0.005008 ± 0.000054,0.20221 ± 0.00016,1.016 ± 0.025
+MMM1 Almandine Garnet[1][all],0.414 ± 0.025,0.05920 ± 0.00017,0.11761 ± 0.00034,0.18805 ± 0.00042,0.028752 ± 0.000048,0.000389 ± 0.000034,0.005064 ± 0.000054,0.20069 ± 0.00016,1.013 ± 0.025
+MMM1 Almandine Garnet[2][all],0.413 ± 0.025,0.05942 ± 0.00017,0.11774 ± 0.00034,0.18802 ± 0.00042,0.028845 ± 0.000048,0.000034 ± 0.000034,0.004993 ± 0.000054,0.20033 ± 0.00016,1.013 ± 0.025
+MMM1 Almandine Garnet[3][all],0.410 ± 0.025,0.05906 ± 0.00017,0.11765 ± 0.00034,0.18854 ± 0.00042,0.028733 ± 0.000048,0.000000 ± 0.000029,0.004975 ± 0.000054,0.20222 ± 0.00016,1.011 ± 0.025
+MMM1 Almandine Garnet[4][all],0.415 ± 0.025,0.05937 ± 0.00017,0.11793 ± 0.00034,0.18844 ± 0.00042,0.028930 ± 0.000048,0.000117 ± 0.000034,0.005147 ± 0.000054,0.20139 ± 0.00016,1.016 ± 0.025
+MMM1 Almandine Garnet[5][all],0.414 ± 0.025,0.05939 ± 0.00017,0.11739 ± 0.00034,0.18841 ± 0.00042,0.029024 ± 0.000048,0.000213 ± 0.000034,0.005033 ± 0.000054,0.20145 ± 0.00016,1.015 ± 0.025
+MMM1 Almandine Garnet[6][all],0.415 ± 0.025,0.05979 ± 0.00017,0.11713 ± 0.00034,0.18899 ± 0.00042,0.028791 ± 0.000048,0.000224 ± 0.000034,0.004955 ± 0.000053,0.20107 ± 0.00016,1.016 ± 0.025
+MMM1 Almandine Garnet[7][all],0.413 ± 0.025,0.05943 ± 0.00017,0.11764 ± 0.00034,0.18853 ± 0.00042,0.028453 ± 0.000048,0.000279 ± 0.000034,0.004940 ± 0.000054,0.20207 ± 0.00016,1.014 ± 0.025
+Mean,0.4134 ± 0.0015,0.05937 ± 0.00021,0.11762 ± 0.00026,0.18843 ± 0.00031,0.02878 ± 0.00017,0.00019 ± 0.00013,0.005014 ± 0.000067,0.20143 ± 0.00071,1.0142 ± 0.0017

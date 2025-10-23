@@ -1,8 +1,8 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-03 08:01:25.909877358 -04:00
-#   Application: spex v0.0.118
-#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:25:55
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #   There are no suitable references for [Pb M₃-M₄ and 1 others; 0.0015>.
 # Spectrum
@@ -11,7 +11,7 @@
 #    None
 # Quantification results
 Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
-GMIIIA K227[0][all],O,8,15.999,0.18040,0.01724,0.17181,0.01362,0.61508,0.02265
+GMIIIA K227[0][all],O,8,15.999,0.18040,0.01725,0.17181,0.01362,0.61508,0.02265
 GMIIIA K227[0][all],Si,14,28.085,0.09290,0.00032,0.08848,0.00152,0.18045,0.01062
 GMIIIA K227[0][all],Pb,82,207.2,0.77666,0.00412,0.73971,0.01219,0.20447,0.01205
 # Notes

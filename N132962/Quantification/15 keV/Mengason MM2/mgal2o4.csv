@@ -1,8 +1,8 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-02 17:08:45.229612230 -04:00
-#   Application: spex v0.0.117
-#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:31:22
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #    None
 # Spectrum
@@ -10,7 +10,7 @@
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 MgAl2O4[0][all],O,8,15.999,0.44643,0.01024,0.44173,0.00568,0.56360,0.00566
 MMM2 MgAl2O4[0][all],Mg,12,24.305,0.17030,0.00019,0.16850,0.00173,0.14152,0.00184
 MMM2 MgAl2O4[0][all],Al,13,26.9815384,0.39392,0.00116,0.38977,0.00401,0.29488,0.00386
@@ -24,7 +24,7 @@ MMM2 MgAl2O4[0][all],Al,13,26.9815384,0.39392,0.00116,0.38977,0.00401,0.29488,0.
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 MgAl2O4[1][all],O,8,15.999,0.44545,0.01024,0.44189,0.00569,0.56376,0.00567
 MMM2 MgAl2O4[1][all],Mg,12,24.305,0.16975,0.00019,0.16839,0.00173,0.14142,0.00184
 MMM2 MgAl2O4[1][all],Al,13,26.9815384,0.39286,0.00115,0.38972,0.00402,0.29482,0.00387
@@ -38,7 +38,7 @@ MMM2 MgAl2O4[1][all],Al,13,26.9815384,0.39286,0.00115,0.38972,0.00402,0.29482,0.
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 MgAl2O4[2][all],O,8,15.999,0.44562,0.01023,0.44152,0.00568,0.56340,0.00567
 MMM2 MgAl2O4[2][all],Mg,12,24.305,0.17008,0.00019,0.16852,0.00173,0.14155,0.00184
 MMM2 MgAl2O4[2][all],Al,13,26.9815384,0.39357,0.00116,0.38996,0.00401,0.29506,0.00386
@@ -52,7 +52,7 @@ MMM2 MgAl2O4[2][all],Al,13,26.9815384,0.39357,0.00116,0.38996,0.00401,0.29506,0.
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 MgAl2O4[3][all],O,8,15.999,0.44787,0.01026,0.44213,0.00567,0.56400,0.00566
 MMM2 MgAl2O4[3][all],Mg,12,24.305,0.17060,0.00019,0.16841,0.00172,0.14142,0.00184
 MMM2 MgAl2O4[3][all],Al,13,26.9815384,0.39451,0.00116,0.38946,0.00401,0.29458,0.00386
@@ -66,7 +66,7 @@ MMM2 MgAl2O4[3][all],Al,13,26.9815384,0.39451,0.00116,0.38946,0.00401,0.29458,0.
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 MgAl2O4[4][all],O,8,15.999,0.44612,0.01022,0.44150,0.00567,0.56338,0.00566
 MMM2 MgAl2O4[4][all],Mg,12,24.305,0.17021,0.00019,0.16845,0.00172,0.14149,0.00184
 MMM2 MgAl2O4[4][all],Al,13,26.9815384,0.39413,0.00116,0.39005,0.00401,0.29513,0.00386
@@ -80,7 +80,7 @@ MMM2 MgAl2O4[4][all],Al,13,26.9815384,0.39413,0.00116,0.39005,0.00401,0.29513,0.
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 MgAl2O4[5][all],O,8,15.999,0.44704,0.01025,0.44164,0.00568,0.56350,0.00566
 MMM2 MgAl2O4[5][all],Mg,12,24.305,0.17072,0.00019,0.16866,0.00173,0.14166,0.00184
 MMM2 MgAl2O4[5][all],Al,13,26.9815384,0.39446,0.00116,0.38970,0.00401,0.29484,0.00386
@@ -94,7 +94,7 @@ MMM2 MgAl2O4[5][all],Al,13,26.9815384,0.39446,0.00116,0.38970,0.00401,0.29484,0.
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 MgAl2O4[6][all],O,8,15.999,0.44498,0.01022,0.44110,0.00568,0.56297,0.00567
 MMM2 MgAl2O4[6][all],Mg,12,24.305,0.17022,0.00019,0.16874,0.00173,0.14176,0.00184
 MMM2 MgAl2O4[6][all],Al,13,26.9815384,0.39359,0.00116,0.39016,0.00401,0.29527,0.00387
@@ -108,7 +108,7 @@ MMM2 MgAl2O4[6][all],Al,13,26.9815384,0.39359,0.00116,0.39016,0.00401,0.29527,0.
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 MgAl2O4[7][all],O,8,15.999,0.44642,0.01023,0.44158,0.00567,0.56346,0.00566
 MMM2 MgAl2O4[7][all],Mg,12,24.305,0.17026,0.00019,0.16841,0.00172,0.14146,0.00184
 MMM2 MgAl2O4[7][all],Al,13,26.9815384,0.39429,0.00116,0.39001,0.00401,0.29509,0.00386

@@ -1,8 +1,8 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-03 08:01:25.617531320 -04:00
-#   Application: spex v0.0.118
-#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:25:55
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #   There are no suitable references for [Pb M₃-M₄ and 1 others; 0.0015>.
 # Spectrum
@@ -24,7 +24,7 @@ GMIIIA K1236[0][all],Pb,82,207.2,0.38255,0.00288,0.37204,0.00573,0.08548,0.00377
 # Spectrum
 #   GMIIIA K1236[1][all]['GMIIIA K1236[1][4].msa']
 # Fit warnings
-#   The k-ratio '[Sc L₃-M₁ + 12 others] = -0.01718 ± 0.00058' is more than 3σ negative.
+#   The k-ratio '[Sc L₃-M₁ + 12 others] = -0.01717 ± 0.00058' is more than 3σ negative.
 # Quantification results
 Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 GMIIIA K1236[1][all],O,8,15.999,0.22318,0.01533,0.21478,0.01160,0.64133,0.01581
@@ -117,7 +117,7 @@ GMIIIA K1236[6][all],Pb,82,207.2,0.39391,0.00290,0.37758,0.00585,0.08727,0.00391
 # Spectrum
 #   GMIIIA K1236[7][all]['GMIIIA K1236[7][4].msa']
 # Fit warnings
-#   The k-ratio '[Sc L₃-M₁ + 12 others] = -0.01797 ± 0.00058' is more than 3σ negative.
+#   The k-ratio '[Sc L₃-M₁ + 12 others] = -0.01796 ± 0.00058' is more than 3σ negative.
 #   The k-ratio '[Pb M₂-M₄] = -0.78 ± 0.16' is more than 3σ negative.
 # Quantification results
 Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]

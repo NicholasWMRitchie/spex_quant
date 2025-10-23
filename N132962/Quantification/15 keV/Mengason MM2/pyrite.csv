@@ -1,8 +1,8 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-02 17:08:45.431640500 -04:00
-#   Application: spex v0.0.117
-#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:31:22
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #    None
 # Spectrum
@@ -10,11 +10,11 @@
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pyrite[0][all],S,16,32.06,0.53326,0.00036,0.53683,0.00022,0.66875,0.00019
-MMM2 Pyrite[0][all],Fe,26,55.845,0.46009,0.00025,0.46317,0.00022,0.33125,0.00019
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[0][all],S,16,32.06,0.53425,0.00036,0.52101,0.00024,0.65454,0.00021
+MMM2 Pyrite[0][all],Fe,26,55.845,0.49116,0.00032,0.47899,0.00024,0.34546,0.00021
 # Notes
-#   Analytical total: 0.99334 ± 0.00044
+#   Analytical total: 1.02541 ± 0.00049
 #   Duane-Hunt: 15.07 keV
 #   Residual written to MMM2 Pyrite[0][4][residual].msa.
 #   Plot output to 'MMM2 Pyrite[0][4][quantify].pdf'
@@ -23,11 +23,11 @@ MMM2 Pyrite[0][all],Fe,26,55.845,0.46009,0.00025,0.46317,0.00022,0.33125,0.00019
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pyrite[1][all],S,16,32.06,0.53265,0.00036,0.53684,0.00022,0.66876,0.00019
-MMM2 Pyrite[1][all],Fe,26,55.845,0.45954,0.00025,0.46316,0.00022,0.33124,0.00019
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[1][all],S,16,32.06,0.53364,0.00036,0.52102,0.00024,0.65455,0.00021
+MMM2 Pyrite[1][all],Fe,26,55.845,0.49058,0.00032,0.47898,0.00024,0.34545,0.00021
 # Notes
-#   Analytical total: 0.99219 ± 0.00044
+#   Analytical total: 1.02421 ± 0.00048
 #   Duane-Hunt: 14.97 keV
 #   Residual written to MMM2 Pyrite[1][4][residual].msa.
 #   Plot output to 'MMM2 Pyrite[1][4][quantify].pdf'
@@ -36,11 +36,11 @@ MMM2 Pyrite[1][all],Fe,26,55.845,0.45954,0.00025,0.46316,0.00022,0.33124,0.00019
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pyrite[2][all],S,16,32.06,0.53177,0.00036,0.53711,0.00022,0.66900,0.00019
-MMM2 Pyrite[2][all],Fe,26,55.845,0.45830,0.00025,0.46289,0.00022,0.33100,0.00019
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[2][all],S,16,32.06,0.53275,0.00036,0.52129,0.00024,0.65480,0.00021
+MMM2 Pyrite[2][all],Fe,26,55.845,0.48924,0.00032,0.47871,0.00024,0.34520,0.00021
 # Notes
-#   Analytical total: 0.99007 ± 0.00044
+#   Analytical total: 1.02199 ± 0.00048
 #   Duane-Hunt: 14.99 keV
 #   Residual written to MMM2 Pyrite[2][4][residual].msa.
 #   Plot output to 'MMM2 Pyrite[2][4][quantify].pdf'
@@ -49,11 +49,11 @@ MMM2 Pyrite[2][all],Fe,26,55.845,0.45830,0.00025,0.46289,0.00022,0.33100,0.00019
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pyrite[3][all],S,16,32.06,0.53276,0.00036,0.53690,0.00022,0.66882,0.00019
-MMM2 Pyrite[3][all],Fe,26,55.845,0.45953,0.00025,0.46310,0.00022,0.33118,0.00019
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[3][all],S,16,32.06,0.53374,0.00036,0.52108,0.00024,0.65460,0.00021
+MMM2 Pyrite[3][all],Fe,26,55.845,0.49056,0.00032,0.47892,0.00024,0.34540,0.00021
 # Notes
-#   Analytical total: 0.99228 ± 0.00044
+#   Analytical total: 1.02430 ± 0.00048
 #   Duane-Hunt: 15.02 keV
 #   Residual written to MMM2 Pyrite[3][4][residual].msa.
 #   Plot output to 'MMM2 Pyrite[3][4][quantify].pdf'
@@ -62,11 +62,11 @@ MMM2 Pyrite[3][all],Fe,26,55.845,0.45953,0.00025,0.46310,0.00022,0.33118,0.00019
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pyrite[4][all],S,16,32.06,0.53323,0.00036,0.53694,0.00022,0.66885,0.00019
-MMM2 Pyrite[4][all],Fe,26,55.845,0.45986,0.00025,0.46306,0.00022,0.33115,0.00019
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[4][all],S,16,32.06,0.53421,0.00036,0.52112,0.00024,0.65464,0.00021
+MMM2 Pyrite[4][all],Fe,26,55.845,0.49092,0.00032,0.47888,0.00024,0.34536,0.00021
 # Notes
-#   Analytical total: 0.99309 ± 0.00044
+#   Analytical total: 1.02513 ± 0.00049
 #   Duane-Hunt: 14.99 keV
 #   Residual written to MMM2 Pyrite[4][4][residual].msa.
 #   Plot output to 'MMM2 Pyrite[4][4][quantify].pdf'
@@ -75,11 +75,11 @@ MMM2 Pyrite[4][all],Fe,26,55.845,0.45986,0.00025,0.46306,0.00022,0.33115,0.00019
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pyrite[5][all],S,16,32.06,0.53292,0.00036,0.53740,0.00022,0.66926,0.00019
-MMM2 Pyrite[5][all],Fe,26,55.845,0.45874,0.00025,0.46260,0.00022,0.33074,0.00019
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[5][all],S,16,32.06,0.53390,0.00036,0.52158,0.00024,0.65506,0.00021
+MMM2 Pyrite[5][all],Fe,26,55.845,0.48972,0.00032,0.47842,0.00024,0.34494,0.00021
 # Notes
-#   Analytical total: 0.99166 ± 0.00044
+#   Analytical total: 1.02362 ± 0.00048
 #   Duane-Hunt: 14.96 keV
 #   Residual written to MMM2 Pyrite[5][4][residual].msa.
 #   Plot output to 'MMM2 Pyrite[5][4][quantify].pdf'
@@ -88,11 +88,11 @@ MMM2 Pyrite[5][all],Fe,26,55.845,0.45874,0.00025,0.46260,0.00022,0.33074,0.00019
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pyrite[6][all],S,16,32.06,0.53241,0.00036,0.53695,0.00022,0.66886,0.00019
-MMM2 Pyrite[6][all],Fe,26,55.845,0.45913,0.00025,0.46305,0.00022,0.33114,0.00019
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[6][all],S,16,32.06,0.53339,0.00036,0.52113,0.00024,0.65465,0.00021
+MMM2 Pyrite[6][all],Fe,26,55.845,0.49013,0.00032,0.47887,0.00024,0.34535,0.00021
 # Notes
-#   Analytical total: 0.99154 ± 0.00044
+#   Analytical total: 1.02352 ± 0.00048
 #   Duane-Hunt: 14.93 keV
 #   Residual written to MMM2 Pyrite[6][4][residual].msa.
 #   Plot output to 'MMM2 Pyrite[6][4][quantify].pdf'
@@ -101,24 +101,24 @@ MMM2 Pyrite[6][all],Fe,26,55.845,0.45913,0.00025,0.46305,0.00022,0.33114,0.00019
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Pyrite[7][all],S,16,32.06,0.53337,0.00036,0.53659,0.00022,0.66854,0.00019
-MMM2 Pyrite[7][all],Fe,26,55.845,0.46062,0.00025,0.46341,0.00022,0.33146,0.00019
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Pyrite[7][all],S,16,32.06,0.53436,0.00036,0.52077,0.00024,0.65432,0.00021
+MMM2 Pyrite[7][all],Fe,26,55.845,0.49173,0.00032,0.47923,0.00024,0.34568,0.00021
 # Notes
-#   Analytical total: 0.99399 ± 0.00044
+#   Analytical total: 1.02609 ± 0.00049
 #   Duane-Hunt: 15.05 keV
 #   Residual written to MMM2 Pyrite[7][4][residual].msa.
 #   Plot output to 'MMM2 Pyrite[7][4][quantify].pdf'
 # Result Comparison
 Name,S,Fe,Σ
-MMM2 Pyrite[0][all],0.53326 ± 0.00036,0.46009 ± 0.00025,0.99334 ± 0.00044
-MMM2 Pyrite[1][all],0.53265 ± 0.00036,0.45954 ± 0.00025,0.99219 ± 0.00044
-MMM2 Pyrite[2][all],0.53177 ± 0.00036,0.45830 ± 0.00025,0.99007 ± 0.00044
-MMM2 Pyrite[3][all],0.53276 ± 0.00036,0.45953 ± 0.00025,0.99228 ± 0.00044
-MMM2 Pyrite[4][all],0.53323 ± 0.00036,0.45986 ± 0.00025,0.99309 ± 0.00044
-MMM2 Pyrite[5][all],0.53292 ± 0.00036,0.45874 ± 0.00025,0.99166 ± 0.00044
-MMM2 Pyrite[6][all],0.53241 ± 0.00036,0.45913 ± 0.00025,0.99154 ± 0.00044
-MMM2 Pyrite[7][all],0.53337 ± 0.00036,0.46062 ± 0.00025,0.99399 ± 0.00044
-Mean,0.53279 ± 0.00053,0.45948 ± 0.00075,0.9923 ± 0.0012
+MMM2 Pyrite[0][all],0.53425 ± 0.00036,0.49116 ± 0.00032,1.02541 ± 0.00049
+MMM2 Pyrite[1][all],0.53364 ± 0.00036,0.49058 ± 0.00032,1.02421 ± 0.00048
+MMM2 Pyrite[2][all],0.53275 ± 0.00036,0.48924 ± 0.00032,1.02199 ± 0.00048
+MMM2 Pyrite[3][all],0.53374 ± 0.00036,0.49056 ± 0.00032,1.02430 ± 0.00048
+MMM2 Pyrite[4][all],0.53421 ± 0.00036,0.49092 ± 0.00032,1.02513 ± 0.00049
+MMM2 Pyrite[5][all],0.53390 ± 0.00036,0.48972 ± 0.00032,1.02362 ± 0.00048
+MMM2 Pyrite[6][all],0.53339 ± 0.00036,0.49013 ± 0.00032,1.02352 ± 0.00048
+MMM2 Pyrite[7][all],0.53436 ± 0.00036,0.49173 ± 0.00032,1.02609 ± 0.00049
+Mean,0.53378 ± 0.00053,0.49050 ± 0.00080,1.0243 ± 0.0013
 Nominal,0.5341,0.463,1
-RDEV (%),-0.2,-0.8,-0.8
+RDEV (%),-0.1,5.9,2.4

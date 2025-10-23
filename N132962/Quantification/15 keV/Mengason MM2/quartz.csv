@@ -1,8 +1,8 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-02 17:08:46.005875984 -04:00
-#   Application: spex v0.0.117
-#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:31:22
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #    None
 # Spectrum
@@ -10,7 +10,7 @@
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 Quartz[0][all],O,8,15.999,0.51976,0.03656,0.51677,0.01757,0.65245,0.01596
 MMM2 Quartz[0][all],Si,14,28.085,0.48602,0.00084,0.48323,0.01757,0.34755,0.01596
 # Notes
@@ -23,7 +23,7 @@ MMM2 Quartz[0][all],Si,14,28.085,0.48602,0.00084,0.48323,0.01757,0.34755,0.01596
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 Quartz[1][all],O,8,15.999,0.52135,0.03670,0.51757,0.01758,0.65317,0.01595
 MMM2 Quartz[1][all],Si,14,28.085,0.48597,0.00084,0.48243,0.01758,0.34683,0.01595
 # Notes
@@ -36,7 +36,7 @@ MMM2 Quartz[1][all],Si,14,28.085,0.48597,0.00084,0.48243,0.01758,0.34683,0.01595
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 Quartz[2][all],O,8,15.999,0.52084,0.03667,0.51714,0.01759,0.65278,0.01596
 MMM2 Quartz[2][all],Si,14,28.085,0.48632,0.00084,0.48286,0.01759,0.34722,0.01596
 # Notes
@@ -49,7 +49,7 @@ MMM2 Quartz[2][all],Si,14,28.085,0.48632,0.00084,0.48286,0.01759,0.34722,0.01596
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 Quartz[3][all],O,8,15.999,0.51992,0.03660,0.51666,0.01758,0.65235,0.01597
 MMM2 Quartz[3][all],Si,14,28.085,0.48639,0.00084,0.48334,0.01758,0.34765,0.01597
 # Notes
@@ -62,7 +62,7 @@ MMM2 Quartz[3][all],Si,14,28.085,0.48639,0.00084,0.48334,0.01758,0.34765,0.01597
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 Quartz[4][all],O,8,15.999,0.52000,0.03659,0.51682,0.01758,0.65249,0.01596
 MMM2 Quartz[4][all],Si,14,28.085,0.48616,0.00084,0.48318,0.01758,0.34751,0.01596
 # Notes
@@ -75,7 +75,7 @@ MMM2 Quartz[4][all],Si,14,28.085,0.48616,0.00084,0.48318,0.01758,0.34751,0.01596
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 Quartz[5][all],O,8,15.999,0.52040,0.03663,0.51701,0.01758,0.65266,0.01596
 MMM2 Quartz[5][all],Si,14,28.085,0.48616,0.00084,0.48299,0.01758,0.34734,0.01596
 # Notes
@@ -88,7 +88,7 @@ MMM2 Quartz[5][all],Si,14,28.085,0.48616,0.00084,0.48299,0.01758,0.34734,0.01596
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 Quartz[6][all],O,8,15.999,0.51996,0.03658,0.51686,0.01757,0.65253,0.01596
 MMM2 Quartz[6][all],Si,14,28.085,0.48604,0.00084,0.48314,0.01757,0.34747,0.01596
 # Notes
@@ -101,7 +101,7 @@ MMM2 Quartz[6][all],Si,14,28.085,0.48604,0.00084,0.48314,0.01757,0.34747,0.01596
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 MMM2 Quartz[7][all],O,8,15.999,0.52159,0.03676,0.51730,0.01760,0.65293,0.01597
 MMM2 Quartz[7][all],Si,14,28.085,0.48670,0.00085,0.48270,0.01760,0.34707,0.01597
 # Notes

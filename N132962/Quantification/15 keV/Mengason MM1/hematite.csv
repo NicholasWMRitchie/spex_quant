@@ -1,8 +1,8 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-02 14:38:24.672815488 -04:00
-#   Application: spex v0.0.117
-#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:27:50
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #    None
 # Spectrum
@@ -10,11 +10,11 @@
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Hematite[0][all],O,8,15.999,0.29537,0.01634,0.29910,0.01160,0.59832,0.01330
-MMM1 Hematite[0][all],Fe,26,55.845,0.69214,0.00029,0.70090,0.01160,0.40168,0.01330
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Hematite[0][all],O,8,15.999,0.28498,0.01667,0.27884,0.01176,0.57440,0.01430
+MMM1 Hematite[0][all],Fe,26,55.845,0.73704,0.00044,0.72116,0.01176,0.42560,0.01430
 # Notes
-#   Analytical total: 0.988 ± 0.016
+#   Analytical total: 1.022 ± 0.017
 #   Duane-Hunt: 14.95 keV
 #   Residual written to MMM1 Hematite[0][4][residual].msa.
 #   Plot output to 'MMM1 Hematite[0][4][quantify].pdf'
@@ -23,11 +23,11 @@ MMM1 Hematite[0][all],Fe,26,55.845,0.69214,0.00029,0.70090,0.01160,0.40168,0.013
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Hematite[1][all],O,8,15.999,0.29539,0.01632,0.29946,0.01159,0.59873,0.01328
-MMM1 Hematite[1][all],Fe,26,55.845,0.69104,0.00029,0.70054,0.01159,0.40127,0.01328
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Hematite[1][all],O,8,15.999,0.28507,0.01665,0.27923,0.01176,0.57487,0.01428
+MMM1 Hematite[1][all],Fe,26,55.845,0.73586,0.00044,0.72077,0.01176,0.42513,0.01428
 # Notes
-#   Analytical total: 0.986 ± 0.016
+#   Analytical total: 1.021 ± 0.017
 #   Duane-Hunt: 15.05 keV
 #   Residual written to MMM1 Hematite[1][4][residual].msa.
 #   Plot output to 'MMM1 Hematite[1][4][quantify].pdf'
@@ -36,11 +36,11 @@ MMM1 Hematite[1][all],Fe,26,55.845,0.69104,0.00029,0.70054,0.01159,0.40127,0.013
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Hematite[2][all],O,8,15.999,0.29566,0.01637,0.29918,0.01161,0.59841,0.01331
-MMM1 Hematite[2][all],Fe,26,55.845,0.69258,0.00029,0.70082,0.01161,0.40159,0.01331
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Hematite[2][all],O,8,15.999,0.28530,0.01670,0.27893,0.01177,0.57452,0.01431
+MMM1 Hematite[2][all],Fe,26,55.845,0.73752,0.00044,0.72107,0.01177,0.42548,0.01431
 # Notes
-#   Analytical total: 0.988 ± 0.016
+#   Analytical total: 1.023 ± 0.017
 #   Duane-Hunt: 14.97 keV
 #   Residual written to MMM1 Hematite[2][4][residual].msa.
 #   Plot output to 'MMM1 Hematite[2][4][quantify].pdf'
@@ -49,11 +49,11 @@ MMM1 Hematite[2][all],Fe,26,55.845,0.69258,0.00029,0.70082,0.01161,0.40159,0.013
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Hematite[3][all],O,8,15.999,0.29491,0.01630,0.29897,0.01159,0.59817,0.01329
-MMM1 Hematite[3][all],Fe,26,55.845,0.69150,0.00029,0.70103,0.01159,0.40183,0.01329
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Hematite[3][all],O,8,15.999,0.28454,0.01663,0.27872,0.01175,0.57426,0.01429
+MMM1 Hematite[3][all],Fe,26,55.845,0.73635,0.00044,0.72128,0.01175,0.42574,0.01429
 # Notes
-#   Analytical total: 0.986 ± 0.016
+#   Analytical total: 1.021 ± 0.017
 #   Duane-Hunt: 14.98 keV
 #   Residual written to MMM1 Hematite[3][4][residual].msa.
 #   Plot output to 'MMM1 Hematite[3][4][quantify].pdf'
@@ -62,11 +62,11 @@ MMM1 Hematite[3][all],Fe,26,55.845,0.69150,0.00029,0.70103,0.01159,0.40183,0.013
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Hematite[4][all],O,8,15.999,0.29593,0.01636,0.29978,0.01160,0.59909,0.01328
-MMM1 Hematite[4][all],Fe,26,55.845,0.69125,0.00029,0.70022,0.01160,0.40091,0.01328
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Hematite[4][all],O,8,15.999,0.28558,0.01669,0.27953,0.01177,0.57523,0.01428
+MMM1 Hematite[4][all],Fe,26,55.845,0.73608,0.00044,0.72047,0.01177,0.42477,0.01428
 # Notes
-#   Analytical total: 0.987 ± 0.016
+#   Analytical total: 1.022 ± 0.017
 #   Duane-Hunt: 14.95 keV
 #   Residual written to MMM1 Hematite[4][4][residual].msa.
 #   Plot output to 'MMM1 Hematite[4][4][quantify].pdf'
@@ -75,11 +75,11 @@ MMM1 Hematite[4][all],Fe,26,55.845,0.69125,0.00029,0.70022,0.01160,0.40091,0.013
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Hematite[5][all],O,8,15.999,0.29446,0.01626,0.29893,0.01157,0.59812,0.01327
-MMM1 Hematite[5][all],Fe,26,55.845,0.69059,0.00029,0.70107,0.01157,0.40188,0.01327
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Hematite[5][all],O,8,15.999,0.28412,0.01658,0.27869,0.01173,0.57422,0.01427
+MMM1 Hematite[5][all],Fe,26,55.845,0.73538,0.00044,0.72131,0.01173,0.42578,0.01427
 # Notes
-#   Analytical total: 0.985 ± 0.016
+#   Analytical total: 1.020 ± 0.017
 #   Duane-Hunt: 14.97 keV
 #   Residual written to MMM1 Hematite[5][4][residual].msa.
 #   Plot output to 'MMM1 Hematite[5][4][quantify].pdf'
@@ -88,11 +88,11 @@ MMM1 Hematite[5][all],Fe,26,55.845,0.69059,0.00029,0.70107,0.01157,0.40188,0.013
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Hematite[6][all],O,8,15.999,0.29602,0.01638,0.29966,0.01161,0.59896,0.01329
-MMM1 Hematite[6][all],Fe,26,55.845,0.69184,0.00029,0.70034,0.01161,0.40104,0.01329
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Hematite[6][all],O,8,15.999,0.28562,0.01670,0.27938,0.01177,0.57506,0.01429
+MMM1 Hematite[6][all],Fe,26,55.845,0.73671,0.00044,0.72062,0.01177,0.42494,0.01429
 # Notes
-#   Analytical total: 0.988 ± 0.016
+#   Analytical total: 1.022 ± 0.017
 #   Duane-Hunt: 15.00 keV
 #   Residual written to MMM1 Hematite[6][4][residual].msa.
 #   Plot output to 'MMM1 Hematite[6][4][quantify].pdf'
@@ -101,24 +101,24 @@ MMM1 Hematite[6][all],Fe,26,55.845,0.69184,0.00029,0.70034,0.01161,0.40104,0.013
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM1 Hematite[7][all],O,8,15.999,0.29562,0.01635,0.29947,0.01160,0.59875,0.01328
-MMM1 Hematite[7][all],Fe,26,55.845,0.69151,0.00029,0.70053,0.01160,0.40125,0.01328
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM1 Hematite[7][all],O,8,15.999,0.28522,0.01667,0.27920,0.01176,0.57484,0.01429
+MMM1 Hematite[7][all],Fe,26,55.845,0.73635,0.00044,0.72080,0.01176,0.42516,0.01429
 # Notes
-#   Analytical total: 0.987 ± 0.016
+#   Analytical total: 1.022 ± 0.017
 #   Duane-Hunt: 14.99 keV
 #   Residual written to MMM1 Hematite[7][4][residual].msa.
 #   Plot output to 'MMM1 Hematite[7][4][quantify].pdf'
 # Result Comparison
 Name,O,Fe,Σ
-MMM1 Hematite[0][all],0.295 ± 0.016,0.69214 ± 0.00029,0.988 ± 0.016
-MMM1 Hematite[1][all],0.295 ± 0.016,0.69104 ± 0.00029,0.986 ± 0.016
-MMM1 Hematite[2][all],0.296 ± 0.016,0.69258 ± 0.00029,0.988 ± 0.016
-MMM1 Hematite[3][all],0.295 ± 0.016,0.69150 ± 0.00029,0.986 ± 0.016
-MMM1 Hematite[4][all],0.296 ± 0.016,0.69125 ± 0.00029,0.987 ± 0.016
-MMM1 Hematite[5][all],0.294 ± 0.016,0.69059 ± 0.00029,0.985 ± 0.016
-MMM1 Hematite[6][all],0.296 ± 0.016,0.69184 ± 0.00029,0.988 ± 0.016
-MMM1 Hematite[7][all],0.296 ± 0.016,0.69151 ± 0.00029,0.987 ± 0.016
-Mean,0.29542 ± 0.00052,0.69156 ± 0.00063,0.9870 ± 0.0010
+MMM1 Hematite[0][all],0.285 ± 0.017,0.73704 ± 0.00044,1.022 ± 0.017
+MMM1 Hematite[1][all],0.285 ± 0.017,0.73586 ± 0.00044,1.021 ± 0.017
+MMM1 Hematite[2][all],0.285 ± 0.017,0.73752 ± 0.00044,1.023 ± 0.017
+MMM1 Hematite[3][all],0.285 ± 0.017,0.73635 ± 0.00044,1.021 ± 0.017
+MMM1 Hematite[4][all],0.286 ± 0.017,0.73608 ± 0.00044,1.022 ± 0.017
+MMM1 Hematite[5][all],0.284 ± 0.017,0.73538 ± 0.00044,1.020 ± 0.017
+MMM1 Hematite[6][all],0.286 ± 0.017,0.73671 ± 0.00044,1.022 ± 0.017
+MMM1 Hematite[7][all],0.285 ± 0.017,0.73635 ± 0.00044,1.022 ± 0.017
+Mean,0.28506 ± 0.00051,0.73641 ± 0.00067,1.0215 ± 0.0010
 Nominal,0.3006,0.6994,1
-RDEV (%),-1.7,-1.1,-1.3
+RDEV (%),-5.2,5.3,2.1

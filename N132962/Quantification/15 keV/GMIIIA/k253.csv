@@ -1,8 +1,8 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-03 08:01:28.322513086 -04:00
-#   Application: spex v0.0.118
-#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:25:56
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #    None
 # Spectrum
@@ -26,7 +26,7 @@ GMIIIA K253[0][all],Ba,56,137.327,0.35443,0.00069,0.34370,0.00408,0.08265,0.0020
 # Spectrum
 #   GMIIIA K253[1][all]['GMIIIA K253[1][4].msa']
 # Fit warnings
-#   The k-ratio '[Cu L₁-L₃] = -1.990 ± 0.060' is more than 3σ negative.
+#   The k-ratio '[Cu L₁-L₃] = -1.991 ± 0.060' is more than 3σ negative.
 # Quantification results
 Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 GMIIIA K253[1][all],O,8,15.999,0.30262,0.01216,0.29280,0.00833,0.60397,0.00963
@@ -47,7 +47,7 @@ GMIIIA K253[1][all],Ba,56,137.327,0.35419,0.00069,0.34270,0.00408,0.08235,0.0020
 #   The k-ratio '[Cu L₁-L₃] = -2.106 ± 0.059' is more than 3σ negative.
 # Quantification results
 Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
-GMIIIA K253[2][all],O,8,15.999,0.30262,0.01217,0.29270,0.00834,0.60372,0.00964
+GMIIIA K253[2][all],O,8,15.999,0.30262,0.01217,0.29270,0.00834,0.60373,0.00964
 GMIIIA K253[2][all],Si,14,28.085,0.18903,0.00058,0.18283,0.00221,0.21483,0.00524
 GMIIIA K253[2][all],Mn,25,54.938043,0.06523,0.00119,0.06310,0.00131,0.03790,0.00114
 GMIIIA K253[2][all],Co,27,58.933194,0.01869,0.00021,0.01807,0.00029,0.01012,0.00027
@@ -62,7 +62,7 @@ GMIIIA K253[2][all],Ba,56,137.327,0.35437,0.00069,0.34275,0.00408,0.08236,0.0020
 # Spectrum
 #   GMIIIA K253[3][all]['GMIIIA K253[3][4].msa']
 # Fit warnings
-#   The k-ratio '[Cu L₁-L₃] = -1.937 ± 0.061' is more than 3σ negative.
+#   The k-ratio '[Cu L₁-L₃] = -1.938 ± 0.061' is more than 3σ negative.
 # Quantification results
 Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 GMIIIA K253[3][all],O,8,15.999,0.30201,0.01216,0.29203,0.00834,0.60311,0.00966
@@ -80,7 +80,7 @@ GMIIIA K253[3][all],Ba,56,137.327,0.35544,0.00069,0.34370,0.00409,0.08269,0.0020
 # Spectrum
 #   GMIIIA K253[4][all]['GMIIIA K253[4][4].msa']
 # Fit warnings
-#   The k-ratio '[Cu L₁-L₃] = -1.923 ± 0.061' is more than 3σ negative.
+#   The k-ratio '[Cu L₁-L₃] = -1.924 ± 0.061' is more than 3σ negative.
 # Quantification results
 Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 GMIIIA K253[4][all],O,8,15.999,0.30249,0.01217,0.29259,0.00834,0.60376,0.00964
@@ -98,7 +98,7 @@ GMIIIA K253[4][all],Ba,56,137.327,0.35492,0.00069,0.34331,0.00409,0.08253,0.0020
 # Spectrum
 #   GMIIIA K253[5][all]['GMIIIA K253[5][4].msa']
 # Fit warnings
-#   The k-ratio '[Cu L₁-L₃] = -2.044 ± 0.060' is more than 3σ negative.
+#   The k-ratio '[Cu L₁-L₃] = -2.045 ± 0.060' is more than 3σ negative.
 # Quantification results
 Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 GMIIIA K253[5][all],O,8,15.999,0.30390,0.01227,0.29276,0.00837,0.60375,0.00968
@@ -116,7 +116,7 @@ GMIIIA K253[5][all],Ba,56,137.327,0.35562,0.00069,0.34258,0.00410,0.08231,0.0020
 # Spectrum
 #   GMIIIA K253[6][all]['GMIIIA K253[6][4].msa']
 # Fit warnings
-#   The k-ratio '[Cu L₁-L₃] = -2.004 ± 0.061' is more than 3σ negative.
+#   The k-ratio '[Cu L₁-L₃] = -2.005 ± 0.061' is more than 3σ negative.
 # Quantification results
 Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 GMIIIA K253[6][all],O,8,15.999,0.30207,0.01215,0.29248,0.00833,0.60381,0.00964

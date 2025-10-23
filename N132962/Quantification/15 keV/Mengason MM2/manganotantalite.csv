@@ -1,24 +1,24 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-02 18:07:31.346830818 -04:00
-#   Application: spex v0.0.117
-#   References: `N132962 15 keV` revision 476 - 2025-10-02 13:33:55 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:31:24
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #    None
 # Spectrum
 #   MMM2 Manganotantalite[0][all]['MMM2 Manganotantalite[0][4].msa']
 # Fit warnings
-#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0252 ± 0.0053' is more than 3σ negative.
+#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0237 ± 0.0053' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Manganotantalite[0][all],O,8,15.999,0.14525,0.01262,0.15829,0.01162,0.57793,0.02131
-MMM2 Manganotantalite[0][all],Ti,22,47.867,0.00304,0.00005,0.00331,0.00007,0.00404,0.00021
-MMM2 Manganotantalite[0][all],Mn,25,54.938043,0.10417,0.00012,0.11352,0.00171,0.12070,0.00608
-MMM2 Manganotantalite[0][all],Fe,26,55.845,0.02112,0.00009,0.02301,0.00036,0.02407,0.00122
-MMM2 Manganotantalite[0][all],Nb,41,92.90637,0.14004,0.00552,0.15262,0.00551,0.09595,0.00591
-MMM2 Manganotantalite[0][all],Ta,73,180.94788,0.50400,0.00068,0.54925,0.00825,0.17730,0.00893
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Manganotantalite[0][all],O,8,15.999,0.14777,0.01288,0.16018,0.01177,0.58089,0.02134
+MMM2 Manganotantalite[0][all],Ti,22,47.867,0.00304,0.00005,0.00330,0.00007,0.00400,0.00021
+MMM2 Manganotantalite[0][all],Mn,25,54.938043,0.10428,0.00012,0.11304,0.00172,0.11938,0.00606
+MMM2 Manganotantalite[0][all],Fe,26,55.845,0.02263,0.00009,0.02453,0.00039,0.02549,0.00130
+MMM2 Manganotantalite[0][all],Nb,41,92.90637,0.14003,0.00553,0.15180,0.00551,0.09480,0.00588
+MMM2 Manganotantalite[0][all],Ta,73,180.94788,0.50475,0.00068,0.54715,0.00832,0.17544,0.00891
 # Notes
-#   Analytical total: 0.918 ± 0.014
+#   Analytical total: 0.923 ± 0.014
 #   Duane-Hunt: 15.02 keV
 #   Residual written to MMM2 Manganotantalite[0][4][residual].msa.
 #   Plot output to 'MMM2 Manganotantalite[0][4][quantify].pdf'
@@ -27,130 +27,130 @@ MMM2 Manganotantalite[0][all],Ta,73,180.94788,0.50400,0.00068,0.54925,0.00825,0.
 # Fit warnings
 #    None
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Manganotantalite[1][all],O,8,15.999,0.14628,0.01272,0.15896,0.01167,0.57900,0.02131
-MMM2 Manganotantalite[1][all],Ti,22,47.867,0.00337,0.00005,0.00367,0.00008,0.00446,0.00023
-MMM2 Manganotantalite[1][all],Mn,25,54.938043,0.10424,0.00012,0.11327,0.00171,0.12015,0.00607
-MMM2 Manganotantalite[1][all],Fe,26,55.845,0.02143,0.00009,0.02329,0.00036,0.02430,0.00123
-MMM2 Manganotantalite[1][all],Nb,41,92.90637,0.13988,0.00552,0.15200,0.00551,0.09534,0.00589
-MMM2 Manganotantalite[1][all],Ta,73,180.94788,0.50505,0.00068,0.54882,0.00828,0.17675,0.00893
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Manganotantalite[1][all],O,8,15.999,0.14898,0.01300,0.16099,0.01182,0.58220,0.02133
+MMM2 Manganotantalite[1][all],Ti,22,47.867,0.00338,0.00005,0.00365,0.00008,0.00441,0.00023
+MMM2 Manganotantalite[1][all],Mn,25,54.938043,0.10436,0.00012,0.11277,0.00173,0.11876,0.00605
+MMM2 Manganotantalite[1][all],Fe,26,55.845,0.02297,0.00009,0.02482,0.00039,0.02572,0.00131
+MMM2 Manganotantalite[1][all],Nb,41,92.90637,0.13987,0.00553,0.15115,0.00550,0.09413,0.00585
+MMM2 Manganotantalite[1][all],Ta,73,180.94788,0.50584,0.00068,0.54662,0.00835,0.17478,0.00890
 # Notes
-#   Analytical total: 0.920 ± 0.014
+#   Analytical total: 0.925 ± 0.014
 #   Duane-Hunt: 15.06 keV
 #   Residual written to MMM2 Manganotantalite[1][4][residual].msa.
 #   Plot output to 'MMM2 Manganotantalite[1][4][quantify].pdf'
 # Spectrum
 #   MMM2 Manganotantalite[2][all]['MMM2 Manganotantalite[2][4].msa']
 # Fit warnings
-#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0342 ± 0.0053' is more than 3σ negative.
+#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0325 ± 0.0053' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Manganotantalite[2][all],O,8,15.999,0.14070,0.01219,0.15463,0.01136,0.57059,0.02134
-MMM2 Manganotantalite[2][all],Ti,22,47.867,0.00317,0.00005,0.00348,0.00007,0.00430,0.00022
-MMM2 Manganotantalite[2][all],Mn,25,54.938043,0.10408,0.00012,0.11438,0.00169,0.12291,0.00609
-MMM2 Manganotantalite[2][all],Fe,26,55.845,0.02123,0.00009,0.02333,0.00036,0.02467,0.00123
-MMM2 Manganotantalite[2][all],Nb,41,92.90637,0.14062,0.00550,0.15454,0.00552,0.09820,0.00596
-MMM2 Manganotantalite[2][all],Ta,73,180.94788,0.50016,0.00068,0.54964,0.00809,0.17933,0.00889
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Manganotantalite[2][all],O,8,15.999,0.14352,0.01247,0.15681,0.01153,0.57418,0.02136
+MMM2 Manganotantalite[2][all],Ti,22,47.867,0.00317,0.00005,0.00347,0.00007,0.00424,0.00022
+MMM2 Manganotantalite[2][all],Mn,25,54.938043,0.10421,0.00012,0.11385,0.00170,0.12141,0.00608
+MMM2 Manganotantalite[2][all],Fe,26,55.845,0.02276,0.00009,0.02487,0.00038,0.02609,0.00131
+MMM2 Manganotantalite[2][all],Nb,41,92.90637,0.14061,0.00551,0.15363,0.00551,0.09687,0.00593
+MMM2 Manganotantalite[2][all],Ta,73,180.94788,0.50098,0.00068,0.54737,0.00816,0.17721,0.00887
 # Notes
-#   Analytical total: 0.910 ± 0.013
+#   Analytical total: 0.915 ± 0.014
 #   Duane-Hunt: 15.00 keV
 #   Residual written to MMM2 Manganotantalite[2][4][residual].msa.
 #   Plot output to 'MMM2 Manganotantalite[2][4][quantify].pdf'
 # Spectrum
 #   MMM2 Manganotantalite[3][all]['MMM2 Manganotantalite[3][4].msa']
 # Fit warnings
-#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0395 ± 0.0053' is more than 3σ negative.
+#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0381 ± 0.0054' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Manganotantalite[3][all],O,8,15.999,0.14423,0.01257,0.15736,0.01160,0.57562,0.02140
-MMM2 Manganotantalite[3][all],Ti,22,47.867,0.00312,0.00005,0.00341,0.00007,0.00416,0.00022
-MMM2 Manganotantalite[3][all],Mn,25,54.938043,0.10420,0.00012,0.11369,0.00171,0.12111,0.00609
-MMM2 Manganotantalite[3][all],Fe,26,55.845,0.02175,0.00009,0.02373,0.00037,0.02486,0.00125
-MMM2 Manganotantalite[3][all],Nb,41,92.90637,0.14130,0.00555,0.15416,0.00554,0.09711,0.00597
-MMM2 Manganotantalite[3][all],Ta,73,180.94788,0.50196,0.00068,0.54765,0.00822,0.17713,0.00891
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Manganotantalite[3][all],O,8,15.999,0.14664,0.01282,0.15916,0.01174,0.57843,0.02143
+MMM2 Manganotantalite[3][all],Ti,22,47.867,0.00312,0.00005,0.00339,0.00007,0.00412,0.00022
+MMM2 Manganotantalite[3][all],Mn,25,54.938043,0.10431,0.00012,0.11322,0.00172,0.11983,0.00608
+MMM2 Manganotantalite[3][all],Fe,26,55.845,0.02330,0.00009,0.02529,0.00040,0.02633,0.00134
+MMM2 Manganotantalite[3][all],Nb,41,92.90637,0.14129,0.00556,0.15335,0.00554,0.09598,0.00593
+MMM2 Manganotantalite[3][all],Ta,73,180.94788,0.50268,0.00068,0.54559,0.00828,0.17532,0.00889
 # Notes
-#   Analytical total: 0.917 ± 0.014
+#   Analytical total: 0.921 ± 0.014
 #   Duane-Hunt: 15.01 keV
 #   Residual written to MMM2 Manganotantalite[3][4][residual].msa.
 #   Plot output to 'MMM2 Manganotantalite[3][4][quantify].pdf'
 # Spectrum
 #   MMM2 Manganotantalite[4][all]['MMM2 Manganotantalite[4][4].msa']
 # Fit warnings
-#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0354 ± 0.0053' is more than 3σ negative.
+#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0339 ± 0.0053' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Manganotantalite[4][all],O,8,15.999,0.14140,0.01237,0.15540,0.01153,0.57064,0.02156
-MMM2 Manganotantalite[4][all],Ti,22,47.867,0.00348,0.00005,0.00383,0.00008,0.00470,0.00024
-MMM2 Manganotantalite[4][all],Mn,25,54.938043,0.10363,0.00012,0.11389,0.00171,0.12180,0.00610
-MMM2 Manganotantalite[4][all],Fe,26,55.845,0.02253,0.00009,0.02476,0.00038,0.02604,0.00131
-MMM2 Manganotantalite[4][all],Nb,41,92.90637,0.14447,0.00560,0.15877,0.00561,0.10040,0.00612
-MMM2 Manganotantalite[4][all],Ta,73,180.94788,0.49441,0.00067,0.54336,0.00812,0.17642,0.00884
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Manganotantalite[4][all],O,8,15.999,0.14395,0.01264,0.15733,0.01168,0.57374,0.02158
+MMM2 Manganotantalite[4][all],Ti,22,47.867,0.00349,0.00005,0.00381,0.00008,0.00464,0.00024
+MMM2 Manganotantalite[4][all],Mn,25,54.938043,0.10375,0.00012,0.11339,0.00172,0.12042,0.00608
+MMM2 Manganotantalite[4][all],Fe,26,55.845,0.02414,0.00009,0.02638,0.00041,0.02756,0.00140
+MMM2 Manganotantalite[4][all],Nb,41,92.90637,0.14446,0.00561,0.15788,0.00561,0.09915,0.00608
+MMM2 Manganotantalite[4][all],Ta,73,180.94788,0.49517,0.00067,0.54120,0.00819,0.17450,0.00882
 # Notes
-#   Analytical total: 0.910 ± 0.014
+#   Analytical total: 0.915 ± 0.014
 #   Duane-Hunt: 15.01 keV
 #   Residual written to MMM2 Manganotantalite[4][4][residual].msa.
 #   Plot output to 'MMM2 Manganotantalite[4][4][quantify].pdf'
 # Spectrum
 #   MMM2 Manganotantalite[5][all]['MMM2 Manganotantalite[5][4].msa']
 # Fit warnings
-#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0279 ± 0.0053' is more than 3σ negative.
+#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0260 ± 0.0053' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Manganotantalite[5][all],O,8,15.999,0.14789,0.01306,0.16010,0.01192,0.57982,0.02163
-MMM2 Manganotantalite[5][all],Ti,22,47.867,0.00362,0.00005,0.00392,0.00008,0.00475,0.00025
-MMM2 Manganotantalite[5][all],Mn,25,54.938043,0.10446,0.00012,0.11308,0.00175,0.11927,0.00613
-MMM2 Manganotantalite[5][all],Fe,26,55.845,0.02203,0.00009,0.02384,0.00038,0.02474,0.00127
-MMM2 Manganotantalite[5][all],Nb,41,92.90637,0.14480,0.00568,0.15675,0.00564,0.09776,0.00609
-MMM2 Manganotantalite[5][all],Ta,73,180.94788,0.50095,0.00068,0.54230,0.00837,0.17366,0.00892
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Manganotantalite[5][all],O,8,15.999,0.15080,0.01336,0.16229,0.01209,0.58329,0.02165
+MMM2 Manganotantalite[5][all],Ti,22,47.867,0.00363,0.00005,0.00390,0.00008,0.00469,0.00025
+MMM2 Manganotantalite[5][all],Mn,25,54.938043,0.10459,0.00012,0.11256,0.00177,0.11781,0.00611
+MMM2 Manganotantalite[5][all],Fe,26,55.845,0.02361,0.00009,0.02541,0.00041,0.02616,0.00136
+MMM2 Manganotantalite[5][all],Nb,41,92.90637,0.14479,0.00569,0.15582,0.00564,0.09644,0.00605
+MMM2 Manganotantalite[5][all],Ta,73,180.94788,0.50178,0.00068,0.54002,0.00845,0.17161,0.00890
 # Notes
-#   Analytical total: 0.924 ± 0.014
+#   Analytical total: 0.929 ± 0.015
 #   Duane-Hunt: 14.99 keV
 #   Residual written to MMM2 Manganotantalite[5][4][residual].msa.
 #   Plot output to 'MMM2 Manganotantalite[5][4][quantify].pdf'
 # Spectrum
 #   MMM2 Manganotantalite[6][all]['MMM2 Manganotantalite[6][4].msa']
 # Fit warnings
-#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0502 ± 0.0053' is more than 3σ negative.
+#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0488 ± 0.0054' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Manganotantalite[6][all],O,8,15.999,0.14001,0.01168,0.15317,0.01085,0.57211,0.02052
-MMM2 Manganotantalite[6][all],Ti,22,47.867,0.00315,0.00005,0.00345,0.00007,0.00430,0.00022
-MMM2 Manganotantalite[6][all],Mn,25,54.938043,0.10402,0.00012,0.11381,0.00159,0.12379,0.00592
-MMM2 Manganotantalite[6][all],Fe,26,55.845,0.01967,0.00009,0.02152,0.00031,0.02303,0.00111
-MMM2 Manganotantalite[6][all],Nb,41,92.90637,0.12538,0.00508,0.13717,0.00510,0.08823,0.00532
-MMM2 Manganotantalite[6][all],Ta,73,180.94788,0.52182,0.00069,0.57088,0.00796,0.18853,0.00902
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Manganotantalite[6][all],O,8,15.999,0.14240,0.01191,0.15500,0.01099,0.57508,0.02054
+MMM2 Manganotantalite[6][all],Ti,22,47.867,0.00315,0.00005,0.00343,0.00007,0.00426,0.00022
+MMM2 Manganotantalite[6][all],Mn,25,54.938043,0.10414,0.00012,0.11335,0.00160,0.12248,0.00591
+MMM2 Manganotantalite[6][all],Fe,26,55.845,0.02108,0.00009,0.02295,0.00034,0.02439,0.00118
+MMM2 Manganotantalite[6][all],Nb,41,92.90637,0.12537,0.00508,0.13646,0.00510,0.08719,0.00529
+MMM2 Manganotantalite[6][all],Ta,73,180.94788,0.52257,0.00069,0.56881,0.00802,0.18660,0.00900
 # Notes
-#   Analytical total: 0.914 ± 0.013
+#   Analytical total: 0.919 ± 0.013
 #   Duane-Hunt: 15.03 keV
 #   Residual written to MMM2 Manganotantalite[6][4][residual].msa.
 #   Plot output to 'MMM2 Manganotantalite[6][4][quantify].pdf'
 # Spectrum
 #   MMM2 Manganotantalite[7][all]['MMM2 Manganotantalite[7][4].msa']
 # Fit warnings
-#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0543 ± 0.0054' is more than 3σ negative.
+#   The k-ratio '[Nb L₁-L₃ + 1 other] = -0.0529 ± 0.0054' is more than 3σ negative.
 # Quantification results
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-MMM2 Manganotantalite[7][all],O,8,15.999,0.14135,0.01187,0.15406,0.01098,0.57319,0.02065
-MMM2 Manganotantalite[7][all],Ti,22,47.867,0.00299,0.00005,0.00326,0.00007,0.00406,0.00021
-MMM2 Manganotantalite[7][all],Mn,25,54.938043,0.10468,0.00012,0.11409,0.00162,0.12362,0.00597
-MMM2 Manganotantalite[7][all],Fe,26,55.845,0.02021,0.00009,0.02203,0.00032,0.02348,0.00114
-MMM2 Manganotantalite[7][all],Nb,41,92.90637,0.12720,0.00515,0.13864,0.00515,0.08883,0.00539
-MMM2 Manganotantalite[7][all],Ta,73,180.94788,0.52108,0.00069,0.56792,0.00802,0.18683,0.00902
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+MMM2 Manganotantalite[7][all],O,8,15.999,0.14366,0.01210,0.15579,0.01111,0.57596,0.02067
+MMM2 Manganotantalite[7][all],Ti,22,47.867,0.00300,0.00005,0.00325,0.00007,0.00402,0.00021
+MMM2 Manganotantalite[7][all],Mn,25,54.938043,0.10479,0.00012,0.11364,0.00163,0.12235,0.00595
+MMM2 Manganotantalite[7][all],Fe,26,55.845,0.02166,0.00009,0.02349,0.00035,0.02488,0.00121
+MMM2 Manganotantalite[7][all],Nb,41,92.90637,0.12719,0.00515,0.13794,0.00515,0.08782,0.00536
+MMM2 Manganotantalite[7][all],Ta,73,180.94788,0.52181,0.00069,0.56589,0.00808,0.18498,0.00900
 # Notes
-#   Analytical total: 0.918 ± 0.013
+#   Analytical total: 0.922 ± 0.013
 #   Duane-Hunt: 14.99 keV
 #   Residual written to MMM2 Manganotantalite[7][4][residual].msa.
 #   Plot output to 'MMM2 Manganotantalite[7][4][quantify].pdf'
 # Result Comparison
 Name,O,Ti,Mn,Fe,Nb,Ta,Σ
-MMM2 Manganotantalite[0][all],0.145 ± 0.013,0.003039 ± 0.000048,0.10417 ± 0.00012,0.021119 ± 0.000087,0.1400 ± 0.0055,0.50400 ± 0.00068,0.918 ± 0.014
-MMM2 Manganotantalite[1][all],0.146 ± 0.013,0.003374 ± 0.000048,0.10424 ± 0.00012,0.021430 ± 0.000087,0.1399 ± 0.0055,0.50505 ± 0.00068,0.920 ± 0.014
-MMM2 Manganotantalite[2][all],0.141 ± 0.012,0.003170 ± 0.000048,0.10408 ± 0.00012,0.021234 ± 0.000087,0.1406 ± 0.0055,0.50016 ± 0.00068,0.910 ± 0.013
-MMM2 Manganotantalite[3][all],0.144 ± 0.013,0.003121 ± 0.000048,0.10420 ± 0.00012,0.021746 ± 0.000087,0.1413 ± 0.0056,0.50196 ± 0.00068,0.917 ± 0.014
-MMM2 Manganotantalite[4][all],0.141 ± 0.012,0.003483 ± 0.000048,0.10363 ± 0.00012,0.022526 ± 0.000087,0.1445 ± 0.0056,0.49441 ± 0.00067,0.910 ± 0.014
-MMM2 Manganotantalite[5][all],0.148 ± 0.013,0.003624 ± 0.000048,0.10446 ± 0.00012,0.022026 ± 0.000088,0.1448 ± 0.0057,0.50095 ± 0.00068,0.924 ± 0.014
-MMM2 Manganotantalite[6][all],0.140 ± 0.012,0.003151 ± 0.000048,0.10402 ± 0.00012,0.019672 ± 0.000086,0.1254 ± 0.0051,0.52182 ± 0.00069,0.914 ± 0.013
-MMM2 Manganotantalite[7][all],0.141 ± 0.012,0.002995 ± 0.000048,0.10468 ± 0.00012,0.020214 ± 0.000086,0.1272 ± 0.0051,0.52108 ± 0.00069,0.918 ± 0.013
-Mean,0.1434 ± 0.0029,0.00324 ± 0.00022,0.10418 ± 0.00031,0.02125 ± 0.00093,0.1380 ± 0.0075,0.5062 ± 0.0099,0.9162 ± 0.0048
-Nominal,0.1946,0,0.1092,0,0.0391,0.6601,1
-RDEV (%),-26.3,inf,-4.6,inf,252.4,-23.3,-8.4
+MMM2 Manganotantalite[0][all],0.148 ± 0.013,0.003041 ± 0.000048,0.10428 ± 0.00012,0.022632 ± 0.000093,0.1400 ± 0.0055,0.50475 ± 0.00068,0.923 ± 0.014
+MMM2 Manganotantalite[1][all],0.149 ± 0.013,0.003377 ± 0.000048,0.10436 ± 0.00012,0.022969 ± 0.000093,0.1399 ± 0.0055,0.50584 ± 0.00068,0.925 ± 0.014
+MMM2 Manganotantalite[2][all],0.144 ± 0.012,0.003173 ± 0.000048,0.10421 ± 0.00012,0.022759 ± 0.000093,0.1406 ± 0.0055,0.50098 ± 0.00068,0.915 ± 0.014
+MMM2 Manganotantalite[3][all],0.147 ± 0.013,0.003124 ± 0.000048,0.10431 ± 0.00012,0.023303 ± 0.000093,0.1413 ± 0.0056,0.50268 ± 0.00068,0.921 ± 0.014
+MMM2 Manganotantalite[4][all],0.144 ± 0.013,0.003486 ± 0.000048,0.10375 ± 0.00012,0.024141 ± 0.000094,0.1445 ± 0.0056,0.49517 ± 0.00067,0.915 ± 0.014
+MMM2 Manganotantalite[5][all],0.151 ± 0.013,0.003627 ± 0.000048,0.10459 ± 0.00012,0.023609 ± 0.000094,0.1448 ± 0.0057,0.50178 ± 0.00068,0.929 ± 0.015
+MMM2 Manganotantalite[6][all],0.142 ± 0.012,0.003153 ± 0.000048,0.10414 ± 0.00012,0.021083 ± 0.000093,0.1254 ± 0.0051,0.52257 ± 0.00069,0.919 ± 0.013
+MMM2 Manganotantalite[7][all],0.144 ± 0.012,0.002997 ± 0.000048,0.10479 ± 0.00012,0.021663 ± 0.000093,0.1272 ± 0.0052,0.52181 ± 0.00069,0.922 ± 0.013
+Mean,0.1460 ± 0.0030,0.00325 ± 0.00022,0.10430 ± 0.00031,0.02277 ± 0.00100,0.1380 ± 0.0075,0.5069 ± 0.0099,0.9212 ± 0.0048
+Nominal,0.1946,0,0.1092,0,0.0392,0.6601,1
+RDEV (%),-25,inf,-4.5,inf,252.4,-23.2,-7.9

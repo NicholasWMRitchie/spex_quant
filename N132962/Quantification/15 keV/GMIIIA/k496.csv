@@ -1,8 +1,8 @@
 # Configuration
-#   Username: nwmr
-#   Timestamp: 2025-10-03 08:01:36.039607840 -04:00
-#   Application: spex v0.0.118
-#   References: `N132962 15 keV` revision 477 - 2025-10-02 21:29:04 -04:00
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:26:0
+#   Application: spex version 0.0.121
+#   References: `N132962 15 keV` revision 199 - 2025-10-23 13:24:40 -04:00
 # Configuration warnings
 #   There are no suitable references for [P L₁-M₂ and 1 others; 0.0632>.
 # Spectrum
@@ -41,7 +41,7 @@ GMIIIA K496[1][all],P,15,30.973761998,0.35181,0.00054,0.35274,0.01513,0.23344,0.
 #    None
 # Quantification results
 Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
-GMIIIA K496[2][all],O,8,15.999,0.54382,0.04569,0.52589,0.02095,0.67009,0.01857
+GMIIIA K496[2][all],O,8,15.999,0.54383,0.04569,0.52589,0.02095,0.67009,0.01857
 GMIIIA K496[2][all],Mg,12,24.305,0.06652,0.00011,0.06433,0.00284,0.05395,0.00304
 GMIIIA K496[2][all],Al,13,26.9815384,0.06629,0.00020,0.06411,0.00284,0.04844,0.00273
 GMIIIA K496[2][all],P,15,30.973761998,0.35747,0.00057,0.34568,0.01528,0.22752,0.01281
