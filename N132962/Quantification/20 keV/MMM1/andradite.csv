@@ -1,204 +1,176 @@
 # Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-17 15:05:55.214804600 -04:00
-#	Application: spex v0.0.110
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
-#
-# Configuration Warnings
-#	None
-#
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 12:49:27
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
 # Spectrum
-#	SPI MM1 Andradite[0][all]['SPI MM1 Andradite[0][4].msa']
-#
-# Fit Warnings
-#	Removing Ti from the fit and re-fitting (threshold = 0.0σ).
-#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03616 ± 0.00045' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-SPI MM1 Andradite[0][all],O,8,15.999,0.36779,0.04409,0.36575,0.02781,0.57891,0.02922
-SPI MM1 Andradite[0][all],Mg,12,24.305,0.00026,0.00003,0.00026,0.00003,0.00027,0.00004
-SPI MM1 Andradite[0][all],Al,13,26.9815384,0.02518,0.00011,0.02504,0.00110,0.02350,0.00163
-SPI MM1 Andradite[0][all],Si,14,28.085,0.17207,0.00051,0.17112,0.00751,0.15429,0.01071
-SPI MM1 Andradite[0][all],Ca,20,40.078,0.25068,0.00018,0.24929,0.01093,0.15751,0.01093
+#   SPI MM1 Andradite[0][all]['SPI MM1 Andradite[0][4].msa']
+# Fit warnings
+#   Removing Ti from the fit and re-fitting (threshold = 0.0σ).
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03616 ± 0.00045' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+SPI MM1 Andradite[0][all],O,8,15.999,0.41970,0.04803,0.39642,0.02738,0.61028,0.02722
+SPI MM1 Andradite[0][all],Mg,12,24.305,0.00026,0.00003,0.00025,0.00003,0.00025,0.00003
+SPI MM1 Andradite[0][all],Al,13,26.9815384,0.02525,0.00012,0.02385,0.00109,0.02177,0.00152
+SPI MM1 Andradite[0][all],Si,14,28.085,0.17230,0.00053,0.16274,0.00739,0.14272,0.00997
+SPI MM1 Andradite[0][all],Ca,20,40.078,0.25113,0.00018,0.23720,0.01076,0.14577,0.01018
 SPI MM1 Andradite[0][all],Ti,22,47.867,0.00000,0.00002,0.00000,0.00002,0.00000,0.00001
-SPI MM1 Andradite[0][all],Mn,25,54.938043,0.00310,0.00004,0.00308,0.00014,0.00142,0.00010
-SPI MM1 Andradite[0][all],Fe,26,55.845,0.18649,0.00013,0.18545,0.00813,0.08409,0.00584
+SPI MM1 Andradite[0][all],Mn,25,54.938043,0.00311,0.00004,0.00293,0.00014,0.00132,0.00009
+SPI MM1 Andradite[0][all],Fe,26,55.845,0.18697,0.00013,0.17660,0.00801,0.07789,0.00544
 # Notes
-#	Analytical total: 1.006 ± 0.044
-#	Residual written to SPI MM1 Andradite[0][4][residual].msa.
-#
+#   Analytical total: 1.059 ± 0.048
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Andradite[0][4][residual].msa.
+#   Plot output to 'SPI MM1 Andradite[0][4][quantify].pdf'
 # Spectrum
-#	SPI MM1 Andradite[1][all]['SPI MM1 Andradite[1][4].msa']
-#
-# Fit Warnings
-#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01657 ± 0.00040' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-SPI MM1 Andradite[1][all],O,8,15.999,0.38104,0.04758,0.39714,0.02989,0.61290,0.02962
-SPI MM1 Andradite[1][all],Mg,12,24.305,0.00010,0.00003,0.00011,0.00003,0.00011,0.00003
-SPI MM1 Andradite[1][all],Al,13,26.9815384,0.02075,0.00009,0.02163,0.00108,0.01979,0.00152
-SPI MM1 Andradite[1][all],Si,14,28.085,0.12703,0.00037,0.13239,0.00657,0.11639,0.00891
-SPI MM1 Andradite[1][all],Ca,20,40.078,0.28884,0.00018,0.30104,0.01493,0.18546,0.01419
-SPI MM1 Andradite[1][all],Ti,22,47.867,0.00030,0.00003,0.00031,0.00003,0.00016,0.00002
-SPI MM1 Andradite[1][all],Mn,25,54.938043,0.00268,0.00004,0.00280,0.00014,0.00126,0.00010
-SPI MM1 Andradite[1][all],Fe,26,55.845,0.13872,0.00012,0.14458,0.00717,0.06392,0.00489
+#   SPI MM1 Andradite[1][all]['SPI MM1 Andradite[1][4].msa']
+# Fit warnings
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.01657 ± 0.00040' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+SPI MM1 Andradite[1][all],O,8,15.999,0.44059,0.05209,0.43178,0.02901,0.64619,0.02703
+SPI MM1 Andradite[1][all],Mg,12,24.305,0.00010,0.00003,0.00010,0.00003,0.00010,0.00003
+SPI MM1 Andradite[1][all],Al,13,26.9815384,0.02082,0.00009,0.02041,0.00105,0.01811,0.00139
+SPI MM1 Andradite[1][all],Si,14,28.085,0.12729,0.00039,0.12475,0.00638,0.10635,0.00813
+SPI MM1 Andradite[1][all],Ca,20,40.078,0.28955,0.00018,0.28376,0.01449,0.16953,0.01295
+SPI MM1 Andradite[1][all],Ti,22,47.867,0.00030,0.00003,0.00030,0.00003,0.00015,0.00002
+SPI MM1 Andradite[1][all],Mn,25,54.938043,0.00269,0.00004,0.00263,0.00014,0.00115,0.00009
+SPI MM1 Andradite[1][all],Fe,26,55.845,0.13906,0.00012,0.13628,0.00696,0.05843,0.00446
 # Notes
-#	Analytical total: 0.959 ± 0.048
-#	Residual written to SPI MM1 Andradite[1][4][residual].msa.
-#
+#   Analytical total: 1.020 ± 0.052
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Andradite[1][4][residual].msa.
+#   Plot output to 'SPI MM1 Andradite[1][4][quantify].pdf'
 # Spectrum
-#	SPI MM1 Andradite[2][all]['SPI MM1 Andradite[2][4].msa']
-#
-# Fit Warnings
-#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.02941 ± 0.00045' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-SPI MM1 Andradite[2][all],O,8,15.999,0.37350,0.04488,0.36947,0.02800,0.58300,0.02922
-SPI MM1 Andradite[2][all],Mg,12,24.305,0.00025,0.00003,0.00025,0.00003,0.00026,0.00004
-SPI MM1 Andradite[2][all],Al,13,26.9815384,0.02479,0.00011,0.02452,0.00109,0.02294,0.00161
-SPI MM1 Andradite[2][all],Si,14,28.085,0.17157,0.00051,0.16972,0.00755,0.15256,0.01070
-SPI MM1 Andradite[2][all],Ca,20,40.078,0.25063,0.00018,0.24792,0.01101,0.15617,0.01094
-SPI MM1 Andradite[2][all],Ti,22,47.867,0.00001,0.00003,0.00001,0.00003,0.00001,0.00001
-SPI MM1 Andradite[2][all],Mn,25,54.938043,0.00307,0.00004,0.00304,0.00014,0.00140,0.00010
-SPI MM1 Andradite[2][all],Fe,26,55.845,0.18709,0.00013,0.18507,0.00822,0.08367,0.00586
+#   SPI MM1 Andradite[2][all]['SPI MM1 Andradite[2][4].msa']
+# Fit warnings
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.02941 ± 0.00045' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+SPI MM1 Andradite[2][all],O,8,15.999,0.42603,0.04887,0.40015,0.02754,0.61417,0.02719
+SPI MM1 Andradite[2][all],Mg,12,24.305,0.00025,0.00003,0.00024,0.00003,0.00024,0.00003
+SPI MM1 Andradite[2][all],Al,13,26.9815384,0.02486,0.00011,0.02335,0.00108,0.02125,0.00150
+SPI MM1 Andradite[2][all],Si,14,28.085,0.17179,0.00053,0.16136,0.00742,0.14108,0.00995
+SPI MM1 Andradite[2][all],Ca,20,40.078,0.25108,0.00018,0.23583,0.01083,0.14449,0.01018
+SPI MM1 Andradite[2][all],Ti,22,47.867,0.00001,0.00003,0.00001,0.00002,0.00001,0.00001
+SPI MM1 Andradite[2][all],Mn,25,54.938043,0.00308,0.00004,0.00289,0.00014,0.00129,0.00009
+SPI MM1 Andradite[2][all],Fe,26,55.845,0.18758,0.00013,0.17618,0.00809,0.07747,0.00546
 # Notes
-#	Analytical total: 1.011 ± 0.045
-#	Residual written to SPI MM1 Andradite[2][4][residual].msa.
-#
+#   Analytical total: 1.065 ± 0.049
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Andradite[2][4][residual].msa.
+#   Plot output to 'SPI MM1 Andradite[2][4][quantify].pdf'
 # Spectrum
-#	SPI MM1 Andradite[3][all]['SPI MM1 Andradite[3][4].msa']
-#
-# Fit Warnings
-#	Removing Ti from the fit and re-fitting (threshold = 0.0σ).
-#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03296 ± 0.00045' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-SPI MM1 Andradite[3][all],O,8,15.999,0.37097,0.04438,0.36886,0.02785,0.58024,0.02914
-SPI MM1 Andradite[3][all],Mg,12,24.305,0.00015,0.00003,0.00015,0.00003,0.00016,0.00003
-SPI MM1 Andradite[3][all],Al,13,26.9815384,0.02990,0.00013,0.02973,0.00132,0.02773,0.00193
-SPI MM1 Andradite[3][all],Si,14,28.085,0.17296,0.00051,0.17198,0.00760,0.15411,0.01071
-SPI MM1 Andradite[3][all],Ca,20,40.078,0.25120,0.00018,0.24978,0.01102,0.15685,0.01089
+#   SPI MM1 Andradite[3][all]['SPI MM1 Andradite[3][4].msa']
+# Fit warnings
+#   Removing Ti from the fit and re-fitting (threshold = 0.0σ).
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03296 ± 0.00045' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+SPI MM1 Andradite[3][all],O,8,15.999,0.42321,0.04833,0.39957,0.02740,0.61151,0.02713
+SPI MM1 Andradite[3][all],Mg,12,24.305,0.00015,0.00003,0.00014,0.00003,0.00014,0.00003
+SPI MM1 Andradite[3][all],Al,13,26.9815384,0.02999,0.00013,0.02832,0.00130,0.02570,0.00180
+SPI MM1 Andradite[3][all],Si,14,28.085,0.17318,0.00053,0.16351,0.00747,0.14255,0.00996
+SPI MM1 Andradite[3][all],Ca,20,40.078,0.25164,0.00018,0.23758,0.01084,0.14515,0.01014
 SPI MM1 Andradite[3][all],Ti,22,47.867,0.00000,0.00002,0.00000,0.00002,0.00000,0.00001
-SPI MM1 Andradite[3][all],Mn,25,54.938043,0.00327,0.00004,0.00325,0.00015,0.00149,0.00010
-SPI MM1 Andradite[3][all],Fe,26,55.845,0.17725,0.00013,0.17625,0.00778,0.07943,0.00551
+SPI MM1 Andradite[3][all],Mn,25,54.938043,0.00328,0.00004,0.00309,0.00015,0.00138,0.00010
+SPI MM1 Andradite[3][all],Fe,26,55.845,0.17770,0.00013,0.16778,0.00766,0.07356,0.00514
 # Notes
-#	Analytical total: 1.006 ± 0.044
-#	Residual written to SPI MM1 Andradite[3][4][residual].msa.
-#
+#   Analytical total: 1.059 ± 0.048
+#   Duane-Hunt: 20.19 keV
+#   Residual written to SPI MM1 Andradite[3][4][residual].msa.
+#   Plot output to 'SPI MM1 Andradite[3][4][quantify].pdf'
 # Spectrum
-#	SPI MM1 Andradite[4][all]['SPI MM1 Andradite[4][4].msa']
-#
-# Fit Warnings
-#	Removing Ti from the fit and re-fitting (threshold = 0.0σ).
-#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03270 ± 0.00045' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-SPI MM1 Andradite[4][all],O,8,15.999,0.37965,0.04635,0.37919,0.02874,0.59219,0.02949
-SPI MM1 Andradite[4][all],Mg,12,24.305,0.00026,0.00003,0.00026,0.00003,0.00027,0.00004
-SPI MM1 Andradite[4][all],Al,13,26.9815384,0.02682,0.00012,0.02679,0.00125,0.02481,0.00180
-SPI MM1 Andradite[4][all],Si,14,28.085,0.15936,0.00047,0.15917,0.00738,0.14161,0.01024
-SPI MM1 Andradite[4][all],Ca,20,40.078,0.26543,0.00018,0.26511,0.01227,0.16528,0.01195
+#   SPI MM1 Andradite[4][all]['SPI MM1 Andradite[4][4].msa']
+# Fit warnings
+#   Removing Ti from the fit and re-fitting (threshold = 0.0σ).
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03270 ± 0.00045' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+SPI MM1 Andradite[4][all],O,8,15.999,0.43501,0.05054,0.41122,0.02813,0.62415,0.02726
+SPI MM1 Andradite[4][all],Mg,12,24.305,0.00026,0.00003,0.00025,0.00003,0.00024,0.00003
+SPI MM1 Andradite[4][all],Al,13,26.9815384,0.02691,0.00012,0.02544,0.00122,0.02289,0.00166
+SPI MM1 Andradite[4][all],Si,14,28.085,0.15959,0.00049,0.15087,0.00722,0.13044,0.00947
+SPI MM1 Andradite[4][all],Ca,20,40.078,0.26595,0.00019,0.25140,0.01201,0.15232,0.01105
 SPI MM1 Andradite[4][all],Ti,22,47.867,0.00000,0.00002,0.00000,0.00002,0.00000,0.00001
-SPI MM1 Andradite[4][all],Mn,25,54.938043,0.00305,0.00004,0.00304,0.00015,0.00138,0.00010
-SPI MM1 Andradite[4][all],Fe,26,55.845,0.16665,0.00013,0.16645,0.00771,0.07447,0.00538
+SPI MM1 Andradite[4][all],Mn,25,54.938043,0.00305,0.00004,0.00289,0.00014,0.00128,0.00009
+SPI MM1 Andradite[4][all],Fe,26,55.845,0.16708,0.00013,0.15794,0.00755,0.06868,0.00498
 # Notes
-#	Analytical total: 1.001 ± 0.046
-#	Residual written to SPI MM1 Andradite[4][4][residual].msa.
-#
+#   Analytical total: 1.058 ± 0.051
+#   Duane-Hunt: 20.17 keV
+#   Residual written to SPI MM1 Andradite[4][4][residual].msa.
+#   Plot output to 'SPI MM1 Andradite[4][4][quantify].pdf'
 # Spectrum
-#	SPI MM1 Andradite[5][all]['SPI MM1 Andradite[5][4].msa']
-#
-# Fit Warnings
-#	Removing Ti from the fit and re-fitting (threshold = 0.0σ).
-#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03466 ± 0.00045' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-SPI MM1 Andradite[5][all],O,8,15.999,0.36933,0.04426,0.36710,0.02785,0.57963,0.02920
-SPI MM1 Andradite[5][all],Mg,12,24.305,0.00025,0.00003,0.00025,0.00003,0.00026,0.00004
-SPI MM1 Andradite[5][all],Al,13,26.9815384,0.02680,0.00012,0.02664,0.00118,0.02494,0.00174
-SPI MM1 Andradite[5][all],Si,14,28.085,0.17240,0.00051,0.17136,0.00755,0.15413,0.01071
-SPI MM1 Andradite[5][all],Ca,20,40.078,0.25105,0.00018,0.24954,0.01098,0.15728,0.01093
+#   SPI MM1 Andradite[5][all]['SPI MM1 Andradite[5][4].msa']
+# Fit warnings
+#   Removing Ti from the fit and re-fitting (threshold = 0.0σ).
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03466 ± 0.00045' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+SPI MM1 Andradite[5][all],O,8,15.999,0.42142,0.04821,0.39780,0.02740,0.61096,0.02719
+SPI MM1 Andradite[5][all],Mg,12,24.305,0.00025,0.00003,0.00024,0.00003,0.00024,0.00003
+SPI MM1 Andradite[5][all],Al,13,26.9815384,0.02688,0.00012,0.02537,0.00116,0.02311,0.00162
+SPI MM1 Andradite[5][all],Si,14,28.085,0.17262,0.00053,0.16294,0.00743,0.14257,0.00997
+SPI MM1 Andradite[5][all],Ca,20,40.078,0.25150,0.00018,0.23740,0.01080,0.14555,0.01017
 SPI MM1 Andradite[5][all],Ti,22,47.867,0.00000,0.00002,0.00000,0.00002,0.00000,0.00001
-SPI MM1 Andradite[5][all],Mn,25,54.938043,0.00300,0.00004,0.00298,0.00014,0.00137,0.00010
-SPI MM1 Andradite[5][all],Fe,26,55.845,0.18324,0.00013,0.18214,0.00801,0.08239,0.00572
+SPI MM1 Andradite[5][all],Mn,25,54.938043,0.00300,0.00004,0.00283,0.00013,0.00127,0.00009
+SPI MM1 Andradite[5][all],Fe,26,55.845,0.18371,0.00013,0.17341,0.00789,0.07630,0.00533
 # Notes
-#	Analytical total: 1.006 ± 0.044
-#	Residual written to SPI MM1 Andradite[5][4][residual].msa.
-#
+#   Analytical total: 1.059 ± 0.048
+#   Duane-Hunt: 20.18 keV
+#   Residual written to SPI MM1 Andradite[5][4][residual].msa.
+#   Plot output to 'SPI MM1 Andradite[5][4][quantify].pdf'
 # Spectrum
-#	SPI MM1 Andradite[6][all]['SPI MM1 Andradite[6][4].msa']
-#
-# Fit Warnings
-#	Removing Ti from the fit and re-fitting (threshold = 0.0σ).
-#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03192 ± 0.00045' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-SPI MM1 Andradite[6][all],O,8,15.999,0.36969,0.04433,0.36704,0.02786,0.58011,0.02921
-SPI MM1 Andradite[6][all],Mg,12,24.305,0.00017,0.00003,0.00017,0.00003,0.00018,0.00004
-SPI MM1 Andradite[6][all],Al,13,26.9815384,0.02571,0.00011,0.02553,0.00113,0.02393,0.00167
-SPI MM1 Andradite[6][all],Si,14,28.085,0.17208,0.00051,0.17084,0.00753,0.15382,0.01071
-SPI MM1 Andradite[6][all],Ca,20,40.078,0.25064,0.00018,0.24884,0.01095,0.15700,0.01092
+#   SPI MM1 Andradite[6][all]['SPI MM1 Andradite[6][4].msa']
+# Fit warnings
+#   Removing Ti from the fit and re-fitting (threshold = 0.0σ).
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03192 ± 0.00045' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+SPI MM1 Andradite[6][all],O,8,15.999,0.42179,0.04828,0.39770,0.02742,0.61141,0.02720
+SPI MM1 Andradite[6][all],Mg,12,24.305,0.00018,0.00003,0.00017,0.00003,0.00017,0.00003
+SPI MM1 Andradite[6][all],Al,13,26.9815384,0.02579,0.00012,0.02431,0.00111,0.02217,0.00155
+SPI MM1 Andradite[6][all],Si,14,28.085,0.17230,0.00053,0.16246,0.00741,0.14228,0.00997
+SPI MM1 Andradite[6][all],Ca,20,40.078,0.25109,0.00018,0.23675,0.01078,0.14530,0.01017
 SPI MM1 Andradite[6][all],Ti,22,47.867,0.00000,0.00002,0.00000,0.00002,0.00000,0.00001
-SPI MM1 Andradite[6][all],Mn,25,54.938043,0.00294,0.00004,0.00292,0.00013,0.00134,0.00009
-SPI MM1 Andradite[6][all],Fe,26,55.845,0.18600,0.00013,0.18466,0.00813,0.08362,0.00582
+SPI MM1 Andradite[6][all],Mn,25,54.938043,0.00294,0.00004,0.00277,0.00013,0.00124,0.00009
+SPI MM1 Andradite[6][all],Fe,26,55.845,0.18648,0.00013,0.17583,0.00801,0.07744,0.00542
 # Notes
-#	Analytical total: 1.007 ± 0.044
-#	Residual written to SPI MM1 Andradite[6][4][residual].msa.
-#
+#   Analytical total: 1.061 ± 0.048
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Andradite[6][4][residual].msa.
+#   Plot output to 'SPI MM1 Andradite[6][4][quantify].pdf'
 # Spectrum
-#	SPI MM1 Andradite[7][all]['SPI MM1 Andradite[7][4].msa']
-#
-# Fit Warnings
-#	Removing Ti from the fit and re-fitting (threshold = 0.0σ).
-#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03411 ± 0.00045' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-SPI MM1 Andradite[7][all],O,8,15.999,0.36806,0.04413,0.36648,0.02784,0.57991,0.02921
-SPI MM1 Andradite[7][all],Mg,12,24.305,0.00003,0.00003,0.00003,0.00003,0.00004,0.00003
-SPI MM1 Andradite[7][all],Al,13,26.9815384,0.02439,0.00011,0.02428,0.00107,0.02278,0.00159
-SPI MM1 Andradite[7][all],Si,14,28.085,0.17165,0.00051,0.17091,0.00752,0.15407,0.01072
-SPI MM1 Andradite[7][all],Ca,20,40.078,0.25050,0.00018,0.24942,0.01096,0.15756,0.01096
+#   SPI MM1 Andradite[7][all]['SPI MM1 Andradite[7][4].msa']
+# Fit warnings
+#   Removing Ti from the fit and re-fitting (threshold = 0.0σ).
+#   The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03411 ± 0.00045' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+SPI MM1 Andradite[7][all],O,8,15.999,0.42002,0.04807,0.39718,0.02740,0.61127,0.02720
+SPI MM1 Andradite[7][all],Mg,12,24.305,0.00004,0.00003,0.00003,0.00003,0.00003,0.00003
+SPI MM1 Andradite[7][all],Al,13,26.9815384,0.02446,0.00011,0.02313,0.00106,0.02110,0.00148
+SPI MM1 Andradite[7][all],Si,14,28.085,0.17188,0.00053,0.16253,0.00740,0.14249,0.00998
+SPI MM1 Andradite[7][all],Ca,20,40.078,0.25095,0.00018,0.23730,0.01079,0.14579,0.01020
 SPI MM1 Andradite[7][all],Ti,22,47.867,0.00000,0.00002,0.00000,0.00002,0.00000,0.00001
-SPI MM1 Andradite[7][all],Mn,25,54.938043,0.00295,0.00004,0.00294,0.00013,0.00135,0.00010
-SPI MM1 Andradite[7][all],Fe,26,55.845,0.18673,0.00013,0.18593,0.00817,0.08429,0.00586
+SPI MM1 Andradite[7][all],Mn,25,54.938043,0.00296,0.00004,0.00279,0.00013,0.00125,0.00009
+SPI MM1 Andradite[7][all],Fe,26,55.845,0.18721,0.00013,0.17703,0.00805,0.07806,0.00546
 # Notes
-#	Analytical total: 1.004 ± 0.044
-#	Residual written to SPI MM1 Andradite[7][4][residual].msa.
-#
-# Spectrum
-#	Sum[8 spectra]['Sum spectrum']
-#
-# Fit Warnings
-#	Removing Ti from the fit and re-fitting (threshold = 0.0σ).
-#	The k-ratio '[Mn L₃-M₅ + 13 others] = -0.03281 ± 0.00016' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-Sum[8 spectra],O,8,15.999,0.37009,0.04467,0.37098,0.02816,0.58423,0.02932
-Sum[8 spectra],Mg,12,24.305,0.00019,0.00001,0.00019,0.00001,0.00019,0.00002
-Sum[8 spectra],Al,13,26.9815384,0.02554,0.00010,0.02561,0.00115,0.02391,0.00169
-Sum[8 spectra],Si,14,28.085,0.16486,0.00048,0.16525,0.00741,0.14825,0.01046
-Sum[8 spectra],Ca,20,40.078,0.25738,0.00016,0.25800,0.01155,0.16219,0.01144
-Sum[8 spectra],Ti,22,47.867,0.00000,0.00001,0.00000,0.00001,0.00000,0.00000
-Sum[8 spectra],Mn,25,54.938043,0.00301,0.00001,0.00301,0.00014,0.00138,0.00010
-Sum[8 spectra],Fe,26,55.845,0.17654,0.00009,0.17697,0.00792,0.07984,0.00563
-# Notes
-#	Analytical total: 0.998 ± 0.045
-#
+#   Analytical total: 1.058 ± 0.048
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Andradite[7][4][residual].msa.
+#   Plot output to 'SPI MM1 Andradite[7][4][quantify].pdf'
+# Result Comparison
+Name,O,Mg,Al,Si,Ca,Ti,Mn,Fe,Σ
+SPI MM1 Andradite[0][all],0.420 ± 0.048,0.000263 ± 0.000032,0.02525 ± 0.00012,0.17230 ± 0.00053,0.25113 ± 0.00018,0.000000 ± 0.000021,0.003106 ± 0.000036,0.18697 ± 0.00013,1.059 ± 0.048
+SPI MM1 Andradite[1][all],0.441 ± 0.052,0.000102 ± 0.000031,0.020824 ± 0.000095,0.12729 ± 0.00039,0.28955 ± 0.00018,0.000301 ± 0.000026,0.002686 ± 0.000035,0.13906 ± 0.00012,1.020 ± 0.052
+SPI MM1 Andradite[2][all],0.426 ± 0.049,0.000253 ± 0.000032,0.02486 ± 0.00011,0.17179 ± 0.00053,0.25108 ± 0.00018,0.000012 ± 0.000026,0.003079 ± 0.000036,0.18758 ± 0.00013,1.065 ± 0.049
+SPI MM1 Andradite[3][all],0.423 ± 0.048,0.000151 ± 0.000032,0.02999 ± 0.00013,0.17318 ± 0.00053,0.25164 ± 0.00018,0.000000 ± 0.000021,0.003276 ± 0.000036,0.17770 ± 0.00013,1.059 ± 0.048
+SPI MM1 Andradite[4][all],0.435 ± 0.051,0.000259 ± 0.000032,0.02691 ± 0.00012,0.15959 ± 0.00049,0.26595 ± 0.00019,0.000000 ± 0.000021,0.003053 ± 0.000035,0.16708 ± 0.00013,1.058 ± 0.051
+SPI MM1 Andradite[5][all],0.421 ± 0.048,0.000254 ± 0.000032,0.02688 ± 0.00012,0.17262 ± 0.00053,0.25150 ± 0.00018,0.000000 ± 0.000021,0.003002 ± 0.000036,0.18371 ± 0.00013,1.059 ± 0.048
+SPI MM1 Andradite[6][all],0.422 ± 0.048,0.000175 ± 0.000032,0.02579 ± 0.00012,0.17230 ± 0.00053,0.25109 ± 0.00018,0.000000 ± 0.000021,0.002942 ± 0.000036,0.18648 ± 0.00013,1.061 ± 0.048
+SPI MM1 Andradite[7][all],0.420 ± 0.048,0.000035 ± 0.000032,0.02446 ± 0.00011,0.17188 ± 0.00053,0.25095 ± 0.00018,0.000000 ± 0.000021,0.002955 ± 0.000036,0.18721 ± 0.00013,1.058 ± 0.048
+Mean,0.4260 ± 0.0077,0.000187 ± 0.000086,0.0256 ± 0.0026,0.165 ± 0.016,0.258 ± 0.014,0.00004 ± 0.00011,0.00301 ± 0.00017,0.177 ± 0.017,1.055 ± 0.014

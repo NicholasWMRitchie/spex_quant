@@ -1,21 +1,16 @@
 # Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-17 15:22:53.962280300 -04:00
-#	Application: spex v0.0.110
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
-#
-# Configuration Warnings
-#	None
-#
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 12:49:29
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
 # Spectrum
-#	SPI MM1dup Chromite[0][all]['SPI MM1 Chromite[0][4].msa']
-#
-# Fit Warnings
-#	The k-ratio '[V K-M₃ + 1 other] = -0.0118 ± 0.0024' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Chromite[0][all]['SPI MM1 Chromite[0][4].msa']
+# Fit warnings
+#   The k-ratio '[V K-M₃ + 1 other] = -0.0118 ± 0.0024' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Chromite[0][all],O,8,15.999,0.36314,0.02491,0.35799,0.01577,0.57556,0.01676
 SPI MM1dup Chromite[0][all],Mg,12,24.305,0.09869,0.00055,0.09729,0.00244,0.10296,0.00410
 SPI MM1dup Chromite[0][all],Al,13,26.9815384,0.12184,0.00053,0.12011,0.00299,0.11451,0.00454
@@ -27,18 +22,16 @@ SPI MM1dup Chromite[0][all],Fe,26,55.845,0.10032,0.00042,0.09890,0.00246,0.04555
 SPI MM1dup Chromite[0][all],Ni,28,58.6934,0.00199,0.00004,0.00196,0.00006,0.00086,0.00004
 SPI MM1dup Chromite[0][all],Zn,30,65.38,0.00063,0.00005,0.00062,0.00005,0.00024,0.00002
 # Notes
-#	Analytical total: 1.014 ± 0.025
-#	Residual written to SPI MM1 Chromite[0][4][residual].msa.
-#
+#   Analytical total: 1.014 ± 0.025
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Chromite[0][4][residual].msa.
+#   Plot output to 'SPI MM1 Chromite[0][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Chromite[1][all]['SPI MM1 Chromite[1][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Chromite[1][all]['SPI MM1 Chromite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Chromite[1][all],O,8,15.999,0.35965,0.02461,0.35720,0.01572,0.57466,0.01674
 SPI MM1dup Chromite[1][all],Mg,12,24.305,0.09776,0.00055,0.09710,0.00242,0.10283,0.00408
 SPI MM1dup Chromite[1][all],Al,13,26.9815384,0.12164,0.00053,0.12081,0.00299,0.11525,0.00455
@@ -50,18 +43,16 @@ SPI MM1dup Chromite[1][all],Fe,26,55.845,0.09960,0.00042,0.09892,0.00245,0.04559
 SPI MM1dup Chromite[1][all],Ni,28,58.6934,0.00220,0.00004,0.00219,0.00007,0.00096,0.00004
 SPI MM1dup Chromite[1][all],Zn,30,65.38,0.00049,0.00005,0.00048,0.00005,0.00019,0.00002
 # Notes
-#	Analytical total: 1.007 ± 0.025
-#	Residual written to SPI MM1 Chromite[1][4][residual].msa.
-#
+#   Analytical total: 1.007 ± 0.025
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Chromite[1][4][residual].msa.
+#   Plot output to 'SPI MM1 Chromite[1][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Chromite[2][all]['SPI MM1 Chromite[2][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Chromite[2][all]['SPI MM1 Chromite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Chromite[2][all],O,8,15.999,0.34584,0.02410,0.35672,0.01599,0.57454,0.01704
 SPI MM1dup Chromite[2][all],Mg,12,24.305,0.09477,0.00051,0.09775,0.00248,0.10363,0.00418
 SPI MM1dup Chromite[2][all],Al,13,26.9815384,0.10845,0.00046,0.11186,0.00281,0.10683,0.00430
@@ -73,18 +64,16 @@ SPI MM1dup Chromite[2][all],Fe,26,55.845,0.10604,0.00041,0.10938,0.00275,0.05047
 SPI MM1dup Chromite[2][all],Ni,28,58.6934,0.00150,0.00004,0.00155,0.00006,0.00068,0.00003
 SPI MM1dup Chromite[2][all],Zn,30,65.38,0.00054,0.00005,0.00056,0.00006,0.00022,0.00002
 # Notes
-#	Analytical total: 0.970 ± 0.024
-#	Residual written to SPI MM1 Chromite[2][4][residual].msa.
-#
+#   Analytical total: 0.970 ± 0.024
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Chromite[2][4][residual].msa.
+#   Plot output to 'SPI MM1 Chromite[2][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Chromite[3][all]['SPI MM1 Chromite[3][4].msa']
-#
-# Fit Warnings
-#	The k-ratio '[V K-M₃ + 1 other] = -0.0079 ± 0.0024' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Chromite[3][all]['SPI MM1 Chromite[3][4].msa']
+# Fit warnings
+#   The k-ratio '[V K-M₃ + 1 other] = -0.0079 ± 0.0024' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Chromite[3][all],O,8,15.999,0.36185,0.02481,0.35845,0.01577,0.57607,0.01675
 SPI MM1dup Chromite[3][all],Mg,12,24.305,0.09803,0.00055,0.09711,0.00244,0.10273,0.00409
 SPI MM1dup Chromite[3][all],Al,13,26.9815384,0.12117,0.00053,0.12003,0.00299,0.11438,0.00454
@@ -96,18 +85,16 @@ SPI MM1dup Chromite[3][all],Fe,26,55.845,0.09956,0.00042,0.09862,0.00245,0.04541
 SPI MM1dup Chromite[3][all],Ni,28,58.6934,0.00168,0.00004,0.00166,0.00006,0.00073,0.00003
 SPI MM1dup Chromite[3][all],Zn,30,65.38,0.00059,0.00005,0.00058,0.00005,0.00023,0.00002
 # Notes
-#	Analytical total: 1.009 ± 0.025
-#	Residual written to SPI MM1 Chromite[3][4][residual].msa.
-#
+#   Analytical total: 1.009 ± 0.025
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Chromite[3][4][residual].msa.
+#   Plot output to 'SPI MM1 Chromite[3][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Chromite[4][all]['SPI MM1 Chromite[4][4].msa']
-#
-# Fit Warnings
-#	The k-ratio '[V K-M₃ + 1 other] = -0.0168 ± 0.0024' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Chromite[4][all]['SPI MM1 Chromite[4][4].msa']
+# Fit warnings
+#   The k-ratio '[V K-M₃ + 1 other] = -0.0168 ± 0.0024' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Chromite[4][all],O,8,15.999,0.26256,0.02090,0.31636,0.01722,0.55853,0.01963
 SPI MM1dup Chromite[4][all],Mg,12,24.305,0.05753,0.00030,0.06932,0.00178,0.08056,0.00360
 SPI MM1dup Chromite[4][all],Al,13,26.9815384,0.04532,0.00019,0.05461,0.00139,0.05717,0.00255
@@ -119,18 +106,16 @@ SPI MM1dup Chromite[4][all],Fe,26,55.845,0.12898,0.00052,0.15541,0.00395,0.07861
 SPI MM1dup Chromite[4][all],Ni,28,58.6934,0.00446,0.00004,0.00537,0.00014,0.00259,0.00012
 SPI MM1dup Chromite[4][all],Zn,30,65.38,0.00068,0.00005,0.00082,0.00007,0.00035,0.00003
 # Notes
-#	Analytical total: 0.830 ± 0.021
-#	Residual written to SPI MM1 Chromite[4][4][residual].msa.
-#
+#   Analytical total: 0.830 ± 0.021
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Chromite[4][4][residual].msa.
+#   Plot output to 'SPI MM1 Chromite[4][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Chromite[5][all]['SPI MM1 Chromite[5][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Chromite[5][all]['SPI MM1 Chromite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Chromite[5][all],O,8,15.999,0.35997,0.02463,0.35760,0.01572,0.57500,0.01673
 SPI MM1dup Chromite[5][all],Mg,12,24.305,0.09816,0.00055,0.09752,0.00244,0.10322,0.00409
 SPI MM1dup Chromite[5][all],Al,13,26.9815384,0.12135,0.00053,0.12055,0.00299,0.11494,0.00454
@@ -142,18 +127,16 @@ SPI MM1dup Chromite[5][all],Fe,26,55.845,0.09994,0.00042,0.09929,0.00246,0.04574
 SPI MM1dup Chromite[5][all],Ni,28,58.6934,0.00207,0.00004,0.00206,0.00007,0.00090,0.00004
 SPI MM1dup Chromite[5][all],Zn,30,65.38,0.00037,0.00005,0.00037,0.00005,0.00014,0.00002
 # Notes
-#	Analytical total: 1.007 ± 0.025
-#	Residual written to SPI MM1 Chromite[5][4][residual].msa.
-#
+#   Analytical total: 1.007 ± 0.025
+#   Duane-Hunt: 20.12 keV
+#   Residual written to SPI MM1 Chromite[5][4][residual].msa.
+#   Plot output to 'SPI MM1 Chromite[5][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Chromite[6][all]['SPI MM1 Chromite[6][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Chromite[6][all]['SPI MM1 Chromite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Chromite[6][all],O,8,15.999,0.36102,0.02475,0.35811,0.01576,0.57602,0.01675
 SPI MM1dup Chromite[6][all],Mg,12,24.305,0.09761,0.00055,0.09682,0.00243,0.10252,0.00408
 SPI MM1dup Chromite[6][all],Al,13,26.9815384,0.12043,0.00052,0.11946,0.00297,0.11393,0.00452
@@ -165,18 +148,16 @@ SPI MM1dup Chromite[6][all],Fe,26,55.845,0.10157,0.00042,0.10075,0.00250,0.04643
 SPI MM1dup Chromite[6][all],Ni,28,58.6934,0.00197,0.00004,0.00195,0.00006,0.00086,0.00004
 SPI MM1dup Chromite[6][all],Zn,30,65.38,0.00032,0.00005,0.00032,0.00005,0.00012,0.00002
 # Notes
-#	Analytical total: 1.008 ± 0.025
-#	Residual written to SPI MM1 Chromite[6][4][residual].msa.
-#
+#   Analytical total: 1.008 ± 0.025
+#   Duane-Hunt: 20.19 keV
+#   Residual written to SPI MM1 Chromite[6][4][residual].msa.
+#   Plot output to 'SPI MM1 Chromite[6][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Chromite[7][all]['SPI MM1 Chromite[7][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Chromite[7][all]['SPI MM1 Chromite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Chromite[7][all],O,8,15.999,0.36277,0.02483,0.35892,0.01576,0.57648,0.01672
 SPI MM1dup Chromite[7][all],Mg,12,24.305,0.09801,0.00055,0.09697,0.00243,0.10252,0.00408
 SPI MM1dup Chromite[7][all],Al,13,26.9815384,0.12158,0.00053,0.12029,0.00299,0.11456,0.00454
@@ -188,28 +169,18 @@ SPI MM1dup Chromite[7][all],Fe,26,55.845,0.10073,0.00042,0.09966,0.00248,0.04586
 SPI MM1dup Chromite[7][all],Ni,28,58.6934,0.00158,0.00004,0.00157,0.00006,0.00069,0.00003
 SPI MM1dup Chromite[7][all],Zn,30,65.38,0.00066,0.00005,0.00065,0.00005,0.00026,0.00002
 # Notes
-#	Analytical total: 1.011 ± 0.025
-#	Residual written to SPI MM1 Chromite[7][4][residual].msa.
-#
-# Spectrum
-#	Sum[8 spectra]['Sum spectrum']
-#
-# Fit Warnings
-#	The k-ratio '[V K-M₃ + 1 other] = -0.00369 ± 0.00085' is more than 3σ negative.
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-Sum[8 spectra],O,8,15.999,0.34722,0.02428,0.35322,0.01598,0.57345,0.01711
-Sum[8 spectra],Mg,12,24.305,0.09292,0.00051,0.09453,0.00238,0.10102,0.00408
-Sum[8 spectra],Al,13,26.9815384,0.11049,0.00047,0.11240,0.00281,0.10821,0.00436
-Sum[8 spectra],Si,14,28.085,0.00329,0.00002,0.00334,0.00008,0.00309,0.00012
-Sum[8 spectra],Ti,22,47.867,0.00059,0.00001,0.00060,0.00002,0.00033,0.00001
-Sum[8 spectra],V,23,50.9415,0.00123,0.00001,0.00126,0.00003,0.00064,0.00003
-Sum[8 spectra],Cr,24,51.9961,0.31993,0.00018,0.32547,0.00805,0.16258,0.00652
-Sum[8 spectra],Fe,26,55.845,0.10461,0.00043,0.10642,0.00266,0.04950,0.00199
-Sum[8 spectra],Ni,28,58.6934,0.00218,0.00001,0.00222,0.00006,0.00098,0.00004
-Sum[8 spectra],Zn,30,65.38,0.00053,0.00002,0.00054,0.00002,0.00022,0.00001
-# Notes
-#	Analytical total: 0.983 ± 0.024
-#
+#   Analytical total: 1.011 ± 0.025
+#   Duane-Hunt: 20.19 keV
+#   Residual written to SPI MM1 Chromite[7][4][residual].msa.
+#   Plot output to 'SPI MM1 Chromite[7][4][quantify].pdf'
+# Result Comparison
+Name,O,Mg,Al,Si,Ti,V,Cr,Fe,Ni,Zn,Σ
+SPI MM1dup Chromite[0][all],0.363 ± 0.025,0.09869 ± 0.00055,0.12184 ± 0.00053,0.001003 ± 0.000027,0.000665 ± 0.000024,0.001379 ± 0.000029,0.32473 ± 0.00043,0.10032 ± 0.00042,0.001989 ± 0.000042,0.000632 ± 0.000053,1.014 ± 0.025
+SPI MM1dup Chromite[1][all],0.360 ± 0.025,0.09776 ± 0.00055,0.12164 ± 0.00053,0.001026 ± 0.000027,0.000653 ± 0.000024,0.001287 ± 0.000028,0.32257 ± 0.00043,0.09960 ± 0.00042,0.002203 ± 0.000042,0.000486 ± 0.000053,1.007 ± 0.025
+SPI MM1dup Chromite[2][all],0.346 ± 0.024,0.09477 ± 0.00051,0.10845 ± 0.00046,0.009012 ± 0.000045,0.000503 ± 0.000024,0.001105 ± 0.000028,0.30175 ± 0.00042,0.10604 ± 0.00041,0.001499 ± 0.000040,0.000538 ± 0.000052,0.970 ± 0.024
+SPI MM1dup Chromite[3][all],0.362 ± 0.025,0.09803 ± 0.00055,0.12117 ± 0.00053,0.001022 ± 0.000027,0.000491 ± 0.000024,0.001308 ± 0.000028,0.32380 ± 0.00043,0.09956 ± 0.00042,0.001676 ± 0.000041,0.000586 ± 0.000053,1.009 ± 0.025
+SPI MM1dup Chromite[4][all],0.263 ± 0.021,0.05753 ± 0.00030,0.04532 ± 0.00019,0.010546 ± 0.000045,0.000596 ± 0.000023,0.001110 ± 0.000027,0.31816 ± 0.00042,0.12898 ± 0.00052,0.004459 ± 0.000043,0.000681 ± 0.000052,0.830 ± 0.021
+SPI MM1dup Chromite[5][all],0.360 ± 0.025,0.09816 ± 0.00055,0.12135 ± 0.00053,0.000967 ± 0.000027,0.000600 ± 0.000024,0.001208 ± 0.000028,0.32198 ± 0.00043,0.09994 ± 0.00042,0.002075 ± 0.000041,0.000370 ± 0.000053,1.007 ± 0.025
+SPI MM1dup Chromite[6][all],0.361 ± 0.025,0.09761 ± 0.00055,0.12043 ± 0.00052,0.001041 ± 0.000027,0.000586 ± 0.000024,0.001189 ± 0.000028,0.32239 ± 0.00043,0.10157 ± 0.00042,0.001967 ± 0.000041,0.000319 ± 0.000053,1.008 ± 0.025
+SPI MM1dup Chromite[7][all],0.363 ± 0.025,0.09801 ± 0.00055,0.12158 ± 0.00053,0.001187 ± 0.000027,0.000612 ± 0.000024,0.001282 ± 0.000028,0.32230 ± 0.00043,0.10073 ± 0.00042,0.001584 ± 0.000041,0.000660 ± 0.000053,1.011 ± 0.025
+Mean,0.347 ± 0.035,0.093 ± 0.014,0.110 ± 0.027,0.0032 ± 0.0041,0.000588 ± 0.000063,0.001234 ± 0.000097,0.3197 ± 0.0075,0.105 ± 0.010,0.00218 ± 0.00095,0.00053 ± 0.00013,0.982 ± 0.063

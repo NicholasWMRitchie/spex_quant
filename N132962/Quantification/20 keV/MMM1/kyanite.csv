@@ -1,152 +1,130 @@
 # Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-17 15:06:03.466622 -04:00
-#	Application: spex v0.0.110
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
-#
-# Configuration Warnings
-#	None
-#
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 12:49:32
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
 # Spectrum
-#	SPI MM1dup Kyanite[0][all]['SPI MM1 Kyanite[0][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Kyanite[0][all]['SPI MM1 Kyanite[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Kyanite[0][all],O,8,15.999,0.48310,0.02261,0.48402,0.01171,0.61594,0.01109
 SPI MM1dup Kyanite[0][all],Al,13,26.9815384,0.33679,0.00124,0.33743,0.00769,0.25462,0.00737
 SPI MM1dup Kyanite[0][all],Si,14,28.085,0.17821,0.00088,0.17855,0.00411,0.12943,0.00377
 # Notes
-#	Analytical total: 0.998 ± 0.023
-#	Residual written to SPI MM1 Kyanite[0][4][residual].msa.
-#
+#   Analytical total: 0.998 ± 0.023
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Kyanite[0][4][residual].msa.
+#   Plot output to 'SPI MM1 Kyanite[0][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Kyanite[1][all]['SPI MM1 Kyanite[1][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Kyanite[1][all]['SPI MM1 Kyanite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Kyanite[1][all],O,8,15.999,0.48321,0.02259,0.48420,0.01170,0.61611,0.01108
 SPI MM1dup Kyanite[1][all],Al,13,26.9815384,0.33678,0.00124,0.33748,0.00769,0.25463,0.00737
 SPI MM1dup Kyanite[1][all],Si,14,28.085,0.17796,0.00088,0.17833,0.00411,0.12926,0.00377
 # Notes
-#	Analytical total: 0.998 ± 0.023
-#	Residual written to SPI MM1 Kyanite[1][4][residual].msa.
-#
+#   Analytical total: 0.998 ± 0.023
+#   Duane-Hunt: 20.19 keV
+#   Residual written to SPI MM1 Kyanite[1][4][residual].msa.
+#   Plot output to 'SPI MM1 Kyanite[1][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Kyanite[2][all]['SPI MM1 Kyanite[2][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Kyanite[2][all]['SPI MM1 Kyanite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Kyanite[2][all],O,8,15.999,0.48378,0.02265,0.48488,0.01172,0.61676,0.01109
 SPI MM1dup Kyanite[2][all],Al,13,26.9815384,0.33606,0.00124,0.33683,0.00770,0.25405,0.00737
 SPI MM1dup Kyanite[2][all],Si,14,28.085,0.17788,0.00087,0.17829,0.00412,0.12919,0.00377
 # Notes
-#	Analytical total: 0.998 ± 0.023
-#	Residual written to SPI MM1 Kyanite[2][4][residual].msa.
-#
+#   Analytical total: 0.998 ± 0.023
+#   Duane-Hunt: 20.19 keV
+#   Residual written to SPI MM1 Kyanite[2][4][residual].msa.
+#   Plot output to 'SPI MM1 Kyanite[2][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Kyanite[3][all]['SPI MM1 Kyanite[3][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Kyanite[3][all]['SPI MM1 Kyanite[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Kyanite[3][all],O,8,15.999,0.48263,0.02260,0.48407,0.01172,0.61600,0.01110
 SPI MM1dup Kyanite[3][all],Al,13,26.9815384,0.33631,0.00124,0.33731,0.00770,0.25452,0.00738
 SPI MM1dup Kyanite[3][all],Si,14,28.085,0.17808,0.00088,0.17861,0.00412,0.12948,0.00378
 # Notes
-#	Analytical total: 0.997 ± 0.023
-#	Residual written to SPI MM1 Kyanite[3][4][residual].msa.
-#
+#   Analytical total: 0.997 ± 0.023
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Kyanite[3][4][residual].msa.
+#   Plot output to 'SPI MM1 Kyanite[3][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Kyanite[4][all]['SPI MM1 Kyanite[4][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Kyanite[4][all]['SPI MM1 Kyanite[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Kyanite[4][all],O,8,15.999,0.48280,0.02256,0.48455,0.01169,0.61644,0.01107
 SPI MM1dup Kyanite[4][all],Al,13,26.9815384,0.33622,0.00124,0.33744,0.00769,0.25455,0.00737
 SPI MM1dup Kyanite[4][all],Si,14,28.085,0.17736,0.00087,0.17801,0.00410,0.12901,0.00376
 # Notes
-#	Analytical total: 0.996 ± 0.023
-#	Residual written to SPI MM1 Kyanite[4][4][residual].msa.
-#
+#   Analytical total: 0.996 ± 0.023
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Kyanite[4][4][residual].msa.
+#   Plot output to 'SPI MM1 Kyanite[4][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Kyanite[5][all]['SPI MM1 Kyanite[5][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Kyanite[5][all]['SPI MM1 Kyanite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Kyanite[5][all],O,8,15.999,0.48037,0.02253,0.48414,0.01174,0.61606,0.01111
 SPI MM1dup Kyanite[5][all],Al,13,26.9815384,0.33451,0.00123,0.33714,0.00770,0.25438,0.00738
 SPI MM1dup Kyanite[5][all],Si,14,28.085,0.17733,0.00087,0.17872,0.00413,0.12956,0.00379
 # Notes
-#	Analytical total: 0.992 ± 0.023
-#	Residual written to SPI MM1 Kyanite[5][4][residual].msa.
-#
+#   Analytical total: 0.992 ± 0.023
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Kyanite[5][4][residual].msa.
+#   Plot output to 'SPI MM1 Kyanite[5][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Kyanite[6][all]['SPI MM1 Kyanite[6][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Kyanite[6][all]['SPI MM1 Kyanite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Kyanite[6][all],O,8,15.999,0.48362,0.02261,0.48472,0.01170,0.61661,0.01107
 SPI MM1dup Kyanite[6][all],Al,13,26.9815384,0.33643,0.00124,0.33720,0.00769,0.25434,0.00737
 SPI MM1dup Kyanite[6][all],Si,14,28.085,0.17767,0.00087,0.17808,0.00411,0.12905,0.00376
 # Notes
-#	Analytical total: 0.998 ± 0.023
-#	Residual written to SPI MM1 Kyanite[6][4][residual].msa.
-#
+#   Analytical total: 0.998 ± 0.023
+#   Duane-Hunt: 20.15 keV
+#   Residual written to SPI MM1 Kyanite[6][4][residual].msa.
+#   Plot output to 'SPI MM1 Kyanite[6][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Kyanite[7][all]['SPI MM1 Kyanite[7][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Kyanite[7][all]['SPI MM1 Kyanite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Kyanite[7][all],O,8,15.999,0.48135,0.02253,0.48419,0.01171,0.61611,0.01109
 SPI MM1dup Kyanite[7][all],Al,13,26.9815384,0.33544,0.00123,0.33741,0.00770,0.25458,0.00738
 SPI MM1dup Kyanite[7][all],Si,14,28.085,0.17735,0.00087,0.17839,0.00411,0.12931,0.00377
 # Notes
-#	Analytical total: 0.994 ± 0.023
-#	Residual written to SPI MM1 Kyanite[7][4][residual].msa.
-#
-# Spectrum
-#	Sum[8 spectra]['Sum spectrum']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-Sum[8 spectra],O,8,15.999,0.48262,0.02258,0.48434,0.01171,0.61625,0.01109
-Sum[8 spectra],Al,13,26.9815384,0.33609,0.00123,0.33729,0.00769,0.25447,0.00737
-Sum[8 spectra],Si,14,28.085,0.17774,0.00087,0.17837,0.00411,0.12928,0.00377
-# Notes
-#	Analytical total: 0.996 ± 0.023
-#
+#   Analytical total: 0.994 ± 0.023
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Kyanite[7][4][residual].msa.
+#   Plot output to 'SPI MM1 Kyanite[7][4][quantify].pdf'
+# Result Comparison
+Name,O,Al,Si,Σ
+SPI MM1dup Kyanite[0][all],0.483 ± 0.023,0.3368 ± 0.0012,0.17821 ± 0.00088,0.998 ± 0.023
+SPI MM1dup Kyanite[1][all],0.483 ± 0.023,0.3368 ± 0.0012,0.17796 ± 0.00088,0.998 ± 0.023
+SPI MM1dup Kyanite[2][all],0.484 ± 0.023,0.3361 ± 0.0012,0.17788 ± 0.00087,0.998 ± 0.023
+SPI MM1dup Kyanite[3][all],0.483 ± 0.023,0.3363 ± 0.0012,0.17808 ± 0.00088,0.997 ± 0.023
+SPI MM1dup Kyanite[4][all],0.483 ± 0.023,0.3362 ± 0.0012,0.17736 ± 0.00087,0.996 ± 0.023
+SPI MM1dup Kyanite[5][all],0.480 ± 0.023,0.3345 ± 0.0012,0.17733 ± 0.00087,0.992 ± 0.023
+SPI MM1dup Kyanite[6][all],0.484 ± 0.023,0.3364 ± 0.0012,0.17767 ± 0.00087,0.998 ± 0.023
+SPI MM1dup Kyanite[7][all],0.481 ± 0.023,0.3354 ± 0.0012,0.17735 ± 0.00087,0.994 ± 0.023
+Mean,0.4826 ± 0.0012,0.33607 ± 0.00076,0.17773 ± 0.00035,0.9964 ± 0.0021

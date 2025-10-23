@@ -1,143 +1,122 @@
 # Configuration
-#	Username: nritchie
-#	Timestamp: 2025-09-17 15:06:01.950389 -04:00
-#	Application: spex v0.0.110
-#	References: `N132962 20 keV` revision 365 - 2025-09-15 15:44:22 -04:00
-#
-# Configuration Warnings
-#	None
-#
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 12:49:31
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
 # Spectrum
-#	SPI MM1dup Hematite[0][all]['SPI MM1 Hematite[0][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Hematite[0][all]['SPI MM1 Hematite[0][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Hematite[0][all],O,8,15.999,0.30073,0.02198,0.30058,0.01536,0.60001,0.01754
 SPI MM1dup Hematite[0][all],Fe,26,55.845,0.69977,0.00022,0.69942,0.01536,0.39999,0.01754
 # Notes
-#	Analytical total: 1.001 ± 0.022
-#	Residual written to SPI MM1 Hematite[0][4][residual].msa.
-#
+#   Analytical total: 1.001 ± 0.022
+#   Duane-Hunt: 20.00 keV
+#   Residual written to SPI MM1 Hematite[0][4][residual].msa.
+#   Plot output to 'SPI MM1 Hematite[0][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Hematite[1][all]['SPI MM1 Hematite[1][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Hematite[1][all]['SPI MM1 Hematite[1][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Hematite[1][all],O,8,15.999,0.30272,0.02218,0.30156,0.01543,0.60113,0.01757
 SPI MM1dup Hematite[1][all],Fe,26,55.845,0.70112,0.00022,0.69844,0.01543,0.39887,0.01757
 # Notes
-#	Analytical total: 1.004 ± 0.022
-#	Residual written to SPI MM1 Hematite[1][4][residual].msa.
-#
+#   Analytical total: 1.004 ± 0.022
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Hematite[1][4][residual].msa.
+#   Plot output to 'SPI MM1 Hematite[1][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Hematite[2][all]['SPI MM1 Hematite[2][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Hematite[2][all]['SPI MM1 Hematite[2][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Hematite[2][all],O,8,15.999,0.30226,0.02210,0.30172,0.01540,0.60131,0.01753
 SPI MM1dup Hematite[2][all],Fe,26,55.845,0.69954,0.00022,0.69828,0.01540,0.39869,0.01753
 # Notes
-#	Analytical total: 1.002 ± 0.022
-#	Residual written to SPI MM1 Hematite[2][4][residual].msa.
-#
+#   Analytical total: 1.002 ± 0.022
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Hematite[2][4][residual].msa.
+#   Plot output to 'SPI MM1 Hematite[2][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Hematite[3][all]['SPI MM1 Hematite[3][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Hematite[3][all]['SPI MM1 Hematite[3][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Hematite[3][all],O,8,15.999,0.30090,0.02199,0.30072,0.01537,0.60018,0.01754
 SPI MM1dup Hematite[3][all],Fe,26,55.845,0.69968,0.00022,0.69928,0.01537,0.39982,0.01754
 # Notes
-#	Analytical total: 1.001 ± 0.022
-#	Residual written to SPI MM1 Hematite[3][4][residual].msa.
-#
+#   Analytical total: 1.001 ± 0.022
+#   Duane-Hunt: 20.15 keV
+#   Residual written to SPI MM1 Hematite[3][4][residual].msa.
+#   Plot output to 'SPI MM1 Hematite[3][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Hematite[4][all]['SPI MM1 Hematite[4][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Hematite[4][all]['SPI MM1 Hematite[4][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Hematite[4][all],O,8,15.999,0.30262,0.02214,0.30185,0.01542,0.60146,0.01753
 SPI MM1dup Hematite[4][all],Fe,26,55.845,0.69993,0.00022,0.69815,0.01542,0.39854,0.01753
 # Notes
-#	Analytical total: 1.003 ± 0.022
-#	Residual written to SPI MM1 Hematite[4][4][residual].msa.
-#
+#   Analytical total: 1.003 ± 0.022
+#   Duane-Hunt: 20.18 keV
+#   Residual written to SPI MM1 Hematite[4][4][residual].msa.
+#   Plot output to 'SPI MM1 Hematite[4][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Hematite[5][all]['SPI MM1 Hematite[5][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Hematite[5][all]['SPI MM1 Hematite[5][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Hematite[5][all],O,8,15.999,0.30317,0.02220,0.30201,0.01544,0.60164,0.01755
 SPI MM1dup Hematite[5][all],Fe,26,55.845,0.70067,0.00022,0.69799,0.01544,0.39836,0.01755
 # Notes
-#	Analytical total: 1.004 ± 0.022
-#	Residual written to SPI MM1 Hematite[5][4][residual].msa.
-#
+#   Analytical total: 1.004 ± 0.022
+#   Duane-Hunt: 20.20 keV
+#   Residual written to SPI MM1 Hematite[5][4][residual].msa.
+#   Plot output to 'SPI MM1 Hematite[5][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Hematite[6][all]['SPI MM1 Hematite[6][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Hematite[6][all]['SPI MM1 Hematite[6][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Hematite[6][all],O,8,15.999,0.30290,0.02217,0.30193,0.01543,0.60155,0.01754
 SPI MM1dup Hematite[6][all],Fe,26,55.845,0.70033,0.00022,0.69807,0.01543,0.39845,0.01754
 # Notes
-#	Analytical total: 1.003 ± 0.022
-#	Residual written to SPI MM1 Hematite[6][4][residual].msa.
-#
+#   Analytical total: 1.003 ± 0.022
+#   Duane-Hunt: 20.17 keV
+#   Residual written to SPI MM1 Hematite[6][4][residual].msa.
+#   Plot output to 'SPI MM1 Hematite[6][4][quantify].pdf'
 # Spectrum
-#	SPI MM1dup Hematite[7][all]['SPI MM1 Hematite[7][4].msa']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
+#   SPI MM1dup Hematite[7][all]['SPI MM1 Hematite[7][4].msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
 SPI MM1dup Hematite[7][all],O,8,15.999,0.30323,0.02222,0.30196,0.01544,0.60158,0.01756
 SPI MM1dup Hematite[7][all],Fe,26,55.845,0.70100,0.00022,0.69804,0.01544,0.39842,0.01756
 # Notes
-#	Analytical total: 1.004 ± 0.022
-#	Residual written to SPI MM1 Hematite[7][4][residual].msa.
-#
-# Spectrum
-#	Sum[8 spectra]['Sum spectrum']
-#
-# Fit Warnings
-#	None
-#
-#
-# Quantification results:
-Name,Element,Z,A,C[z],U[C[z]],N[z]],U[N[z]],A[z],U[A[z]]
-Sum[8 spectra],O,8,15.999,0.30232,0.02212,0.30154,0.01541,0.60111,0.01754
-Sum[8 spectra],Fe,26,55.845,0.70025,0.00011,0.69846,0.01541,0.39889,0.01754
-# Notes
-#	Analytical total: 1.003 ± 0.022
-#
+#   Analytical total: 1.004 ± 0.022
+#   Duane-Hunt: 19.91 keV
+#   Residual written to SPI MM1 Hematite[7][4][residual].msa.
+#   Plot output to 'SPI MM1 Hematite[7][4][quantify].pdf'
+# Result Comparison
+Name,O,Fe,Σ
+SPI MM1dup Hematite[0][all],0.301 ± 0.022,0.69977 ± 0.00022,1.001 ± 0.022
+SPI MM1dup Hematite[1][all],0.303 ± 0.022,0.70112 ± 0.00022,1.004 ± 0.022
+SPI MM1dup Hematite[2][all],0.302 ± 0.022,0.69954 ± 0.00022,1.002 ± 0.022
+SPI MM1dup Hematite[3][all],0.301 ± 0.022,0.69968 ± 0.00022,1.001 ± 0.022
+SPI MM1dup Hematite[4][all],0.303 ± 0.022,0.69993 ± 0.00022,1.003 ± 0.022
+SPI MM1dup Hematite[5][all],0.303 ± 0.022,0.70067 ± 0.00022,1.004 ± 0.022
+SPI MM1dup Hematite[6][all],0.303 ± 0.022,0.70033 ± 0.00022,1.003 ± 0.022
+SPI MM1dup Hematite[7][all],0.303 ± 0.022,0.70100 ± 0.00022,1.004 ± 0.022
+Mean,0.30232 ± 0.00098,0.70026 ± 0.00062,1.0026 ± 0.0015
