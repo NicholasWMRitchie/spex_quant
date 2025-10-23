@@ -1,6 +1,6 @@
 # Configuration
 #   Username: Nicholas W. M. Ritchie
-#   Timestamp: 2025-10-23 11:28:18
+#   Timestamp: 2025-10-23 13:2:11
 #   Application: spex version 0.0.121
 #   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
 # Configuration warnings
@@ -18,13 +18,6 @@ CC Shallow Water Enstatite[0][all],Si,14,28.085,0.28733,0.00108,0.28118,0.00840,
 #   Analytical total: 1.022 ± 0.030
 #   Duane-Hunt: 20.20 keV
 #   Residual written to CC Shallowater Enstatite[0][4][residual].msa.
-# Configuration
-#   Username: Nicholas W. M. Ritchie
-#   Timestamp: 2025-10-23 11:28:18
-#   Application: spex version 0.0.121
-#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
-# Configuration warnings
-#    None
 # Spectrum
 #   CC Shallow Water Enstatite[1][all]['CC Shallowater Enstatite[1][4].msa']
 # Fit warnings
@@ -38,13 +31,6 @@ CC Shallow Water Enstatite[1][all],Si,14,28.085,0.28720,0.00108,0.28095,0.00840,
 #   Analytical total: 1.022 ± 0.030
 #   Duane-Hunt: 20.20 keV
 #   Residual written to CC Shallowater Enstatite[1][4][residual].msa.
-# Configuration
-#   Username: Nicholas W. M. Ritchie
-#   Timestamp: 2025-10-23 11:28:18
-#   Application: spex version 0.0.121
-#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
-# Configuration warnings
-#    None
 # Spectrum
 #   CC Shallow Water Enstatite[2][all]['CC Shallowater Enstatite[2][4].msa']
 # Fit warnings
@@ -58,13 +44,6 @@ CC Shallow Water Enstatite[2][all],Si,14,28.085,0.28776,0.00108,0.28092,0.00842,
 #   Analytical total: 1.024 ± 0.031
 #   Duane-Hunt: 20.19 keV
 #   Residual written to CC Shallowater Enstatite[2][4][residual].msa.
-# Configuration
-#   Username: Nicholas W. M. Ritchie
-#   Timestamp: 2025-10-23 11:28:18
-#   Application: spex version 0.0.121
-#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
-# Configuration warnings
-#    None
 # Spectrum
 #   CC Shallow Water Enstatite[3][all]['CC Shallowater Enstatite[3][4].msa']
 # Fit warnings
@@ -78,13 +57,6 @@ CC Shallow Water Enstatite[3][all],Si,14,28.085,0.28666,0.00107,0.28073,0.00839,
 #   Analytical total: 1.021 ± 0.030
 #   Duane-Hunt: 20.20 keV
 #   Residual written to CC Shallowater Enstatite[3][4][residual].msa.
-# Configuration
-#   Username: Nicholas W. M. Ritchie
-#   Timestamp: 2025-10-23 11:28:18
-#   Application: spex version 0.0.121
-#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
-# Configuration warnings
-#    None
 # Spectrum
 #   CC Shallow Water Enstatite[4][all]['CC Shallowater Enstatite[4][4].msa']
 # Fit warnings
@@ -98,13 +70,6 @@ CC Shallow Water Enstatite[4][all],Si,14,28.085,0.28797,0.00109,0.28019,0.00843,
 #   Analytical total: 1.028 ± 0.031
 #   Duane-Hunt: 20.20 keV
 #   Residual written to CC Shallowater Enstatite[4][4][residual].msa.
-# Configuration
-#   Username: Nicholas W. M. Ritchie
-#   Timestamp: 2025-10-23 11:28:18
-#   Application: spex version 0.0.121
-#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
-# Configuration warnings
-#    None
 # Spectrum
 #   CC Shallow Water Enstatite[5][all]['CC Shallowater Enstatite[5][4].msa']
 # Fit warnings
@@ -118,3 +83,12 @@ CC Shallow Water Enstatite[5][all],Si,14,28.085,0.28776,0.00109,0.28026,0.00841,
 #   Analytical total: 1.027 ± 0.031
 #   Duane-Hunt: 20.20 keV
 #   Residual written to CC Shallowater Enstatite[5][4][residual].msa.
+# Result Comparison
+Name,O,Mg,Si,Σ
+CC Shallow Water Enstatite[0][all],0.486 ± 0.030,0.2488 ± 0.0013,0.2873 ± 0.0011,1.022 ± 0.030
+CC Shallow Water Enstatite[1][all],0.486 ± 0.030,0.2489 ± 0.0013,0.2872 ± 0.0011,1.022 ± 0.030
+CC Shallow Water Enstatite[2][all],0.487 ± 0.031,0.2493 ± 0.0013,0.2878 ± 0.0011,1.024 ± 0.031
+CC Shallow Water Enstatite[3][all],0.486 ± 0.030,0.2483 ± 0.0013,0.2867 ± 0.0011,1.021 ± 0.030
+CC Shallow Water Enstatite[4][all],0.490 ± 0.031,0.2500 ± 0.0013,0.2880 ± 0.0011,1.028 ± 0.031
+CC Shallow Water Enstatite[5][all],0.489 ± 0.031,0.2502 ± 0.0013,0.2878 ± 0.0011,1.027 ± 0.031
+Mean,0.4873 ± 0.0016,0.24927 ± 0.00075,0.28745 ± 0.00048,1.0240 ± 0.0028
