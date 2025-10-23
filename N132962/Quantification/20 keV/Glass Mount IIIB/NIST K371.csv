@@ -1,0 +1,27 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:0
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   'NIST K371' standard for 'N132962' detector['NIST K371 std.msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K371' standard for 'N132962' detector,O,8,15.999,0.31932,0.02200,0.27345,0.01369,0.60684,0.01646
+'NIST K371' standard for 'N132962' detector,Si,14,28.085,0.22991,0.00146,0.19688,0.00384,0.24890,0.01047
+'NIST K371' standard for 'N132962' detector,Zn,30,65.38,0.03001,0.00004,0.02570,0.00049,0.01396,0.00058
+'NIST K371' standard for 'N132962' detector,Ba,56,137.327,0.58853,0.00089,0.50398,0.00952,0.13030,0.00545
+# Notes
+#   Analytical total: 1.168 ± 0.022
+#   Duane-Hunt: 19.92 keV
+#   Residual written to NIST K371 std[residual].msa.
+#   Plot output to 'NIST K371 std[quantify].pdf'
+# Result Comparison
+Name,O,Si,Zn,Ba,Σ
+'NIST K371' standard for 'N132962' detector,0.319 ± 0.022,0.2299 ± 0.0015,0.030009 ± 0.000044,0.58853 ± 0.00089,1.168 ± 0.022
+Nominal,0.3193,0.2308,0.0307,0.4192,1
+RDEV (%),0,-0.4,-2.2,40.4,16.8

@@ -1,0 +1,29 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:1
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   There are no suitable references for [U N₃-N₄ and 35 others; 1.0039>.
+# Spectrum
+#   'NIST K378' standard for 'N132962' detector['NIST K378 std.msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K378' standard for 'N132962' detector,O,8,15.999,0.43415,0.02585,0.41337,0.01467,0.61876,0.01459
+'NIST K378' standard for 'N132962' detector,Na,11,22.98976928,0.08145,0.00641,0.07755,0.00595,0.08079,0.00656
+'NIST K378' standard for 'N132962' detector,Si,14,28.085,0.31593,0.00094,0.30081,0.00766,0.25650,0.00961
+'NIST K378' standard for 'N132962' detector,Zn,30,65.38,0.04961,0.00004,0.04724,0.00120,0.01730,0.00065
+'NIST K378' standard for 'N132962' detector,Ba,56,137.327,0.14863,0.00080,0.14152,0.00365,0.02468,0.00093
+'NIST K378' standard for 'N132962' detector,U,92,238.02891,0.02049,0.00078,0.01951,0.00088,0.00196,0.00010
+# Notes
+#   Analytical total: 1.050 ± 0.027
+#   Duane-Hunt: 20.01 keV
+#   Residual written to NIST K378 std[residual].msa.
+#   Plot output to 'NIST K378 std[quantify].pdf'
+# Result Comparison
+Name,O,Na,Si,Zn,Ba,U,Σ
+'NIST K378' standard for 'N132962' detector,0.434 ± 0.026,0.0814 ± 0.0064,0.31593 ± 0.00094,0.049612 ± 0.000039,0.14863 ± 0.00080,0.02049 ± 0.00078,1.050 ± 0.027
+Nominal,0.4166,0.1019,0.3105,0.0484,0.1016,0.021,1
+RDEV (%),4.2,-20.1,1.8,2.6,46.3,-2.6,5

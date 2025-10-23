@@ -1,0 +1,34 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:3
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   There are no suitable references for [Ce M₁-O₂ and 1 others; 0.0013>.
+# Spectrum
+#   'NIST K919' standard for 'N132962' detector['NIST K919 std.msa']
+# Fit warnings
+#   The k-ratio '[Cr L₃-M₅ + 13 others] = -0.02306 ± 0.00060' is more than 3σ negative.
+#   The k-ratio '[Ce M₅-N₃ + 18 others] = -0.03723 ± 0.00070' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K919' standard for 'N132962' detector,O,8,15.999,0.31489,0.01874,0.27687,0.01192,0.60478,0.01425
+'NIST K919' standard for 'N132962' detector,Si,14,28.085,0.20169,0.00108,0.17734,0.00304,0.22067,0.00800
+'NIST K919' standard for 'N132962' detector,Cr,24,51.9961,0.00702,0.00027,0.00617,0.00026,0.00415,0.00022
+'NIST K919' standard for 'N132962' detector,Mn,25,54.938043,0.01926,0.00079,0.01693,0.00074,0.01077,0.00058
+'NIST K919' standard for 'N132962' detector,Fe,26,55.845,0.02146,0.00081,0.01887,0.00077,0.01181,0.00061
+'NIST K919' standard for 'N132962' detector,Co,27,58.933194,0.02160,0.00050,0.01899,0.00054,0.01126,0.00048
+'NIST K919' standard for 'N132962' detector,Ni,28,58.6934,0.02392,0.00004,0.02103,0.00035,0.01252,0.00045
+'NIST K919' standard for 'N132962' detector,Cu,29,63.54599999999999,0.02350,0.00004,0.02066,0.00034,0.01136,0.00041
+'NIST K919' standard for 'N132962' detector,Ba,56,137.327,0.48348,0.00100,0.42510,0.00705,0.10818,0.00390
+'NIST K919' standard for 'N132962' detector,Ce,58,140.116,0.02050,0.00039,0.01803,0.00045,0.00450,0.00018
+# Notes
+#   Analytical total: 1.137 ± 0.019
+#   Duane-Hunt: 20.02 keV
+#   Residual written to NIST K919 std[residual].msa.
+#   Plot output to 'NIST K919 std[quantify].pdf'
+# Result Comparison
+Name,O,Si,Cr,Mn,Fe,Co,Ni,Cu,Ba,Ce,Σ
+'NIST K919' standard for 'N132962' detector,0.315 ± 0.019,0.2017 ± 0.0011,0.00702 ± 0.00027,0.01926 ± 0.00079,0.02146 ± 0.00081,0.02160 ± 0.00050,0.023920 ± 0.000044,0.023502 ± 0.000038,0.4835 ± 0.0010,0.02050 ± 0.00039,1.137 ± 0.019
+Nominal,0.3186,0.201,0.0068,0.019,0.021,0.0213,0.0236,0.024,0.3403,0.0244,1
+RDEV (%),-1.2,0.3,2.6,1.6,2.3,1.3,1.5,-1.9,42.1,-16.1,13.7

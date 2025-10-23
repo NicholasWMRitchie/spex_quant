@@ -1,0 +1,43 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:4
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   The Duane-Hunt (19.65 keV) for KCl std differs by more than 1 % from the beam energy (20.00 keV)!!
+#   The Duane-Hunt (19.63 keV) for KBr std differs by more than 1 % from the beam energy (20.00 keV)!!
+#   There are no suitable references for [K L₃-M₁ and 8 others; 0.8241>.
+#   There are no suitable references for [Cs M₁-M₃ and 4 others; 0.0275>.
+#   There are no suitable references for [Cs M₅-N₃ and 17 others; 0.9731>.
+#   There are no suitable references for [Sm M₁-M₃ and 3 others; 0.0118>.
+#   `Ref[Dy for Dy]` is not suitable as reference for [Dy M₁-M₂; 0.0000>.
+#   There are no suitable references for [Dy M₁-M₂; 0.0000>.
+# Spectrum
+#   'NIST K979' standard for 'N132962' detector['NIST K979 std.msa']
+# Fit warnings
+#   The k-ratio '[Ti L₃-M₅ + 13 others] = -0.02538 ± 0.00032' is more than 3σ negative.
+#   The k-ratio '[Sm M₁-O₃ + 1 other] = -4.151 ± 0.078' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K979' standard for 'N132962' detector,O,8,15.999,0.44149,0.03872,0.41718,0.02137,0.63821,0.02032
+'NIST K979' standard for 'N132962' detector,Al,13,26.9815384,0.08972,0.00163,0.08478,0.00342,0.07690,0.00450
+'NIST K979' standard for 'N132962' detector,Si,14,28.085,0.21684,0.00269,0.20490,0.00778,0.17857,0.01016
+'NIST K979' standard for 'N132962' detector,K,19,39.0983,0.01938,0.00003,0.01831,0.00067,0.01146,0.00064
+'NIST K979' standard for 'N132962' detector,Ca,20,40.078,0.07215,0.00008,0.06818,0.00251,0.04164,0.00233
+'NIST K979' standard for 'N132962' detector,Ti,22,47.867,0.01450,0.00002,0.01370,0.00050,0.00701,0.00039
+'NIST K979' standard for 'N132962' detector,Sr,38,87.62,0.12023,0.00028,0.11360,0.00418,0.03173,0.00178
+'NIST K979' standard for 'N132962' detector,Nb,41,92.90637,0.01200,0.00188,0.01134,0.00180,0.00299,0.00050
+'NIST K979' standard for 'N132962' detector,Sb,51,121.76,0.00601,0.00007,0.00568,0.00022,0.00114,0.00007
+'NIST K979' standard for 'N132962' detector,Cs,55,132.90545196,0.02222,0.00011,0.02099,0.00078,0.00387,0.00022
+'NIST K979' standard for 'N132962' detector,Sm,62,150.36,0.02304,0.00007,0.02177,0.00080,0.00354,0.00020
+'NIST K979' standard for 'N132962' detector,Dy,66,162.5,0.02072,0.00006,0.01958,0.00072,0.00295,0.00017
+# Notes
+#   Analytical total: 1.058 ± 0.039
+#   Duane-Hunt: 19.95 keV
+#   Residual written to NIST K979 std[residual].msa.
+#   Plot output to 'NIST K979 std[quantify].pdf'
+# Result Comparison
+Name,O,Al,Si,K,Ca,Ti,Sr,Nb,Sb,Cs,Sm,Dy,Σ
+'NIST K979' standard for 'N132962' detector,0.441 ± 0.039,0.0897 ± 0.0016,0.2168 ± 0.0027,0.019376 ± 0.000027,0.072152 ± 0.000081,0.014499 ± 0.000024,0.12023 ± 0.00028,0.0120 ± 0.0019,0.006014 ± 0.000067,0.02222 ± 0.00011,0.023035 ± 0.000066,0.020717 ± 0.000059,1.058 ± 0.039
+Nominal,0.4058,0.0892,0.2102,0.0187,0.0675,0.0135,0.1005,0.0157,0.0084,0.0212,0.0194,0.0196,1
+RDEV (%),8.8,0.6,3.2,3.7,6.9,7.5,19.6,-23.7,-28.7,4.7,18.7,5.7,5.8

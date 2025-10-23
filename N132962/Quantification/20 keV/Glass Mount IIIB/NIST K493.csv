@@ -1,0 +1,37 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:2
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   There are no suitable references for [Ce M₁-O₂ and 1 others; 0.0013>.
+# Spectrum
+#   'NIST K493' standard for 'N132962' detector['NIST K493 std.msa']
+# Fit warnings
+#   The k-ratio '[Zr L₁-L₃ + 1 other] = -0.0149 ± 0.0015' is more than 3σ negative.
+#   The k-ratio '[Ti L₃-M₅ + 13 others] = -0.01614 ± 0.00038' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₇ + 18 others] = -0.006179 ± 0.000098' is more than 3σ negative.
+#   The k-ratio '[Ta M₁-O₂ + 1 other] = -1.464 ± 0.045' is more than 3σ negative.
+#   The k-ratio '[Pb L₃-M₃] = -0.441 ± 0.061' is more than 3σ negative.
+#   The k-ratio '[Zr K-L₃ + 1 other] = -0.00933 ± 0.00080' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K493' standard for 'N132962' detector,O,8,15.999,0.18517,0.02220,0.19027,0.01847,0.59123,0.02900
+'NIST K493' standard for 'N132962' detector,Al,13,26.9815384,0.00205,0.00002,0.00211,0.00005,0.00389,0.00028
+'NIST K493' standard for 'N132962' detector,Si,14,28.085,0.13008,0.00102,0.13366,0.00318,0.23660,0.01683
+'NIST K493' standard for 'N132962' detector,Ti,22,47.867,0.00363,0.00018,0.00373,0.00020,0.00387,0.00033
+'NIST K493' standard for 'N132962' detector,Fe,26,55.845,0.00406,0.00002,0.00418,0.00010,0.00372,0.00026
+'NIST K493' standard for 'N132962' detector,Zr,40,91.224,0.00000,0.00080,0.00000,0.00083,0.00000,0.00045
+'NIST K493' standard for 'N132962' detector,Ce,58,140.116,0.00562,0.00005,0.00578,0.00014,0.00205,0.00015
+'NIST K493' standard for 'N132962' detector,Ta,73,180.94788,0.00646,0.00007,0.00664,0.00017,0.00182,0.00013
+'NIST K493' standard for 'N132962' detector,Pb,82,207.2,0.63609,0.00040,0.65363,0.01494,0.15683,0.01112
+# Notes
+#   Analytical total: 0.973 ± 0.022
+#   Duane-Hunt: 20.03 keV
+#   Residual written to NIST K493 std[residual].msa.
+#   Plot output to 'NIST K493 std[quantify].pdf'
+# Result Comparison
+Name,O,Al,Si,Ti,Fe,Zr,Ce,Ta,Pb,Σ
+'NIST K493' standard for 'N132962' detector,0.185 ± 0.022,0.002052 ± 0.000017,0.1301 ± 0.0010,0.00363 ± 0.00018,0.004064 ± 0.000020,0.00000 ± 0.00080,0.005624 ± 0.000051,0.006463 ± 0.000066,0.63609 ± 0.00040,0.973 ± 0.022
+Nominal,0.2063,0.0011,0.1304,0.0019,0.0022,0.0036,0.0055,0.0072,0.6413,1
+RDEV (%),-10.3,94,-0.2,89.1,81.6,-100,1.6,-10.3,-0.8,-2.7

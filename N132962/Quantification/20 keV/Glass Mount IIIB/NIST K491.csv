@@ -1,0 +1,38 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:1
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   There are no suitable references for [Ce M₁-O₂ and 1 others; 0.0013>.
+# Spectrum
+#   'NIST K491' standard for 'N132962' detector['NIST K491 std.msa']
+# Fit warnings
+#   The k-ratio '[Zr L₁-L₃ + 1 other] = -0.0129 ± 0.0014' is more than 3σ negative.
+#   The k-ratio '[Ti L₃-M₅ + 13 others] = -0.00873 ± 0.00038' is more than 3σ negative.
+#   The k-ratio '[Pb M₂-M₄] = -0.589 ± 0.034' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.09860 ± 0.00050' is more than 3σ negative.
+#   The k-ratio '[Ta M₁-O₂ + 1 other] = -0.226 ± 0.045' is more than 3σ negative.
+#   The k-ratio '[Zr K-L₃ + 1 other] = -0.00682 ± 0.00082' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K491' standard for 'N132962' detector,O,8,15.999,0.14512,0.01665,0.14691,0.01438,0.57451,0.02806
+'NIST K491' standard for 'N132962' detector,Al,13,26.9815384,0.00164,0.00015,0.00166,0.00016,0.00386,0.00044
+'NIST K491' standard for 'N132962' detector,Si,14,28.085,0.00190,0.00003,0.00192,0.00004,0.00427,0.00029
+'NIST K491' standard for 'N132962' detector,Ti,22,47.867,0.00320,0.00014,0.00324,0.00015,0.00423,0.00034
+'NIST K491' standard for 'N132962' detector,Fe,26,55.845,0.00360,0.00002,0.00365,0.00006,0.00408,0.00027
+'NIST K491' standard for 'N132962' detector,Ge,32,72.63,0.27134,0.00015,0.27470,0.00464,0.23663,0.01560
+'NIST K491' standard for 'N132962' detector,Zr,40,91.224,0.00000,0.00082,0.00000,0.00083,0.00000,0.00057
+'NIST K491' standard for 'N132962' detector,Ce,58,140.116,0.00440,0.00004,0.00446,0.00009,0.00199,0.00013
+'NIST K491' standard for 'N132962' detector,Ta,73,180.94788,0.00615,0.00006,0.00623,0.00012,0.00215,0.00014
+'NIST K491' standard for 'N132962' detector,Pb,82,207.2,0.55043,0.00037,0.55724,0.00941,0.16826,0.01110
+# Notes
+#   Analytical total: 0.988 ± 0.017
+#   Duane-Hunt: 20.03 keV
+#   Residual written to NIST K491 std[residual].msa.
+#   Plot output to 'NIST K491 std[quantify].pdf'
+# Result Comparison
+Name,O,Al,Si,Ti,Fe,Ge,Zr,Ce,Ta,Pb,Σ
+'NIST K491' standard for 'N132962' detector,0.145 ± 0.017,0.00164 ± 0.00015,0.001895 ± 0.000028,0.00320 ± 0.00014,0.003601 ± 0.000019,0.27134 ± 0.00015,0.00000 ± 0.00082,0.004402 ± 0.000045,0.006152 ± 0.000064,0.55043 ± 0.00037,0.988 ± 0.017
+Nominal,0.1665,0.0008,0.0009,0.0016,0.0018,0.2636,0.003,0.0046,0.0059,0.551,1
+RDEV (%),-12.8,94.1,113.4,105.3,98,2.9,-100,-3.4,4.3,-0.1,-1.2

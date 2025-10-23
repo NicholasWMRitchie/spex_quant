@@ -1,0 +1,30 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:0
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   'NIST K240' standard for 'N132962' detector['NIST K240 std.msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K240' standard for 'N132962' detector,O,8,15.999,0.34198,0.03066,0.30903,0.01918,0.61656,0.02142
+'NIST K240' standard for 'N132962' detector,Mg,12,24.305,0.03025,0.00414,0.02734,0.00371,0.03591,0.00513
+'NIST K240' standard for 'N132962' detector,Si,14,28.085,0.18848,0.00087,0.17032,0.00481,0.19358,0.01077
+'NIST K240' standard for 'N132962' detector,Ti,22,47.867,0.05887,0.00006,0.05320,0.00149,0.03547,0.00197
+'NIST K240' standard for 'N132962' detector,Zn,30,65.38,0.03942,0.00004,0.03562,0.00100,0.01739,0.00097
+'NIST K240' standard for 'N132962' detector,Zr,40,91.224,0.06659,0.00069,0.06017,0.00178,0.02105,0.00119
+'NIST K240' standard for 'N132962' detector,Ba,56,137.327,0.38103,0.00106,0.34432,0.00965,0.08003,0.00445
+# Notes
+#   Analytical total: 1.107 ± 0.031
+#   Duane-Hunt: 19.91 keV
+#   Residual written to NIST K240 std[residual].msa.
+#   Plot output to 'NIST K240 std[quantify].pdf'
+# Result Comparison
+Name,O,Mg,Si,Ti,Zn,Zr,Ba,Σ
+'NIST K240' standard for 'N132962' detector,0.342 ± 0.031,0.0303 ± 0.0041,0.18848 ± 0.00087,0.058867 ± 0.000061,0.039421 ± 0.000041,0.06659 ± 0.00069,0.3810 ± 0.0011,1.107 ± 0.031
+Nominal,0.34,0.0302,0.187,0.06,0.0402,0.074,0.2687,1
+RDEV (%),0.6,0.3,0.8,-1.8,-1.9,-10.1,41.8,10.7

@@ -1,0 +1,31 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:0
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   'NIST K251' standard for 'N132962' detector['NIST K251 std.msa']
+# Fit warnings
+#   The k-ratio '[Bi M₃-M₅ + 1 other] = -0.4101 ± 0.0095' is more than 3σ negative.
+#   The k-ratio '[Bi M₁-O₂ + 1 other] = -0.248 ± 0.020' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K251' standard for 'N132962' detector,O,8,15.999,0.21936,0.02395,0.21150,0.01826,0.59492,0.02683
+'NIST K251' standard for 'N132962' detector,Al,13,26.9815384,0.01421,0.00059,0.01370,0.00065,0.02285,0.00176
+'NIST K251' standard for 'N132962' detector,Si,14,28.085,0.14921,0.00565,0.14386,0.00574,0.23052,0.01641
+'NIST K251' standard for 'N132962' detector,Ba,56,137.327,0.12750,0.00313,0.12293,0.00394,0.04029,0.00281
+'NIST K251' standard for 'N132962' detector,Ta,73,180.94788,0.03872,0.00008,0.03733,0.00090,0.00928,0.00061
+'NIST K251' standard for 'N132962' detector,Pb,82,207.2,0.43962,0.00053,0.42387,0.01015,0.09206,0.00604
+'NIST K251' standard for 'N132962' detector,Bi,83,208.9804,0.04854,0.00028,0.04680,0.00115,0.01008,0.00066
+# Notes
+#   Analytical total: 1.037 ± 0.025
+#   Duane-Hunt: 20.04 keV
+#   Residual written to NIST K251 std[residual].msa.
+#   Plot output to 'NIST K251 std[quantify].pdf'
+# Result Comparison
+Name,O,Al,Si,Ba,Ta,Pb,Bi,Σ
+'NIST K251' standard for 'N132962' detector,0.219 ± 0.024,0.01421 ± 0.00059,0.1492 ± 0.0057,0.1275 ± 0.0031,0.038718 ± 0.000081,0.43962 ± 0.00053,0.04854 ± 0.00028,1.037 ± 0.025
+Nominal,0.2302,0.0132,0.1402,0.0896,0.0409,0.441,0.0449,1
+RDEV (%),-4.7,7.4,6.4,42.4,-5.4,-0.3,8.2,3.7

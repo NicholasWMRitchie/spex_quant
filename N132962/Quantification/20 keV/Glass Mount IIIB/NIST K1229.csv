@@ -1,0 +1,30 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:6:59
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   'NIST K1229' standard for 'N132962' detector['NIST K1229 std.msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K1229' standard for 'N132962' detector,O,8,15.999,0.43617,0.03931,0.40082,0.02171,0.61704,0.02142
+'NIST K1229' standard for 'N132962' detector,Mg,12,24.305,0.01789,0.00098,0.01644,0.00107,0.01666,0.00129
+'NIST K1229' standard for 'N132962' detector,Al,13,26.9815384,0.09514,0.00430,0.08743,0.00479,0.07981,0.00554
+'NIST K1229' standard for 'N132962' detector,Si,14,28.085,0.22612,0.00068,0.20779,0.00757,0.18223,0.01017
+'NIST K1229' standard for 'N132962' detector,Ca,20,40.078,0.11233,0.00010,0.10323,0.00375,0.06344,0.00354
+'NIST K1229' standard for 'N132962' detector,Sr,38,87.62,0.08323,0.00025,0.07649,0.00279,0.02150,0.00120
+'NIST K1229' standard for 'N132962' detector,Ba,56,137.327,0.11732,0.00059,0.10781,0.00395,0.01934,0.00108
+# Notes
+#   Analytical total: 1.088 ± 0.040
+#   Duane-Hunt: 19.97 keV
+#   Residual written to NIST K1229 std[residual].msa.
+#   Plot output to 'NIST K1229 std[quantify].pdf'
+# Result Comparison
+Name,O,Mg,Al,Si,Ca,Sr,Ba,Σ
+'NIST K1229' standard for 'N132962' detector,0.436 ± 0.039,0.01789 ± 0.00098,0.0951 ± 0.0043,0.22612 ± 0.00068,0.112333 ± 0.000100,0.08323 ± 0.00025,0.11732 ± 0.00059,1.088 ± 0.040
+Nominal,0.4102,0.0177,0.0934,0.22,0.1051,0.0746,0.079,1
+RDEV (%),6.3,0.9,1.9,2.8,6.9,11.6,48.5,8.8

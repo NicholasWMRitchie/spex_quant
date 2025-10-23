@@ -1,0 +1,31 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:6:59
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   'NIST K1070' standard for 'N132962' detector['NIST K1070 std.msa']
+# Fit warnings
+#   The k-ratio '[Pb M₁-M₃] = -0.534 ± 0.013' is more than 3σ negative.
+#   The k-ratio '[Pb L₃-M₃] = -0.213 ± 0.041' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K1070' standard for 'N132962' detector,O,8,15.999,0.34788,0.01740,0.32642,0.01116,0.58487,0.01276
+'NIST K1070' standard for 'N132962' detector,Mg,12,24.305,0.07525,0.00599,0.07061,0.00535,0.08328,0.00655
+'NIST K1070' standard for 'N132962' detector,Si,14,28.085,0.18995,0.00059,0.17824,0.00313,0.18193,0.00548
+'NIST K1070' standard for 'N132962' detector,Ca,20,40.078,0.09449,0.00125,0.08866,0.00187,0.06341,0.00206
+'NIST K1070' standard for 'N132962' detector,Zn,30,65.38,0.10355,0.00006,0.09716,0.00169,0.04260,0.00128
+'NIST K1070' standard for 'N132962' detector,Ba,56,137.327,0.16435,0.00133,0.15421,0.00287,0.03219,0.00100
+'NIST K1070' standard for 'N132962' detector,Pb,82,207.2,0.09027,0.00017,0.08470,0.00148,0.01172,0.00035
+# Notes
+#   Analytical total: 1.066 ± 0.018
+#   Duane-Hunt: 19.97 keV
+#   Residual written to NIST K1070 std[residual].msa.
+#   Plot output to 'NIST K1070 std[quantify].pdf'
+# Result Comparison
+Name,O,Mg,Si,Ca,Zn,Ba,Pb,Σ
+'NIST K1070' standard for 'N132962' detector,0.348 ± 0.017,0.0753 ± 0.0060,0.18995 ± 0.00059,0.0945 ± 0.0012,0.103550 ± 0.000056,0.1643 ± 0.0013,0.09027 ± 0.00017,1.066 ± 0.018
+Nominal,0.3431,0.0754,0.187,0.0893,0.1004,0.112,0.0928,1
+RDEV (%),1.4,-0.2,1.6,5.8,3.1,46.8,-2.8,6.6

@@ -1,0 +1,26 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:0
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   'NIST K366' standard for 'N132962' detector['NIST K366 std.msa']
+# Fit warnings
+#   The k-ratio '[Pb M₃-M₅ + 1 other] = -0.1415 ± 0.0030' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K366' standard for 'N132962' detector,O,8,15.999,0.24293,0.02375,0.23145,0.01739,0.65817,0.02200
+'NIST K366' standard for 'N132962' detector,Si,14,28.085,0.12973,0.00057,0.12360,0.00284,0.20022,0.01290
+'NIST K366' standard for 'N132962' detector,Pb,82,207.2,0.67695,0.00042,0.64495,0.01460,0.14161,0.00911
+# Notes
+#   Analytical total: 1.050 ± 0.024
+#   Duane-Hunt: 20.01 keV
+#   Residual written to NIST K366 std[residual].msa.
+#   Plot output to 'NIST K366 std[quantify].pdf'
+# Result Comparison
+Name,O,Si,Pb,Σ
+'NIST K366' standard for 'N132962' detector,0.243 ± 0.024,0.12973 ± 0.00057,0.67695 ± 0.00042,1.050 ± 0.024
+Nominal,0.2043,0.1345,0.6612,1
+RDEV (%),18.9,-3.5,2.4,5

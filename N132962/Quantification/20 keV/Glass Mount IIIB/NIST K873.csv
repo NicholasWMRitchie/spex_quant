@@ -1,0 +1,35 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:2
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#   There are no suitable references for [Ce M₁-O₂ and 1 others; 0.0013>.
+# Spectrum
+#   'NIST K873' standard for 'N132962' detector['NIST K873 std.msa']
+# Fit warnings
+#   The k-ratio '[Ce M₅-N₃ + 18 others] = -0.05105 ± 0.00058' is more than 3σ negative.
+#   The k-ratio '[Pb M₁-M₃] = -0.416 ± 0.016' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₃ + 2 others] = -0.06069 ± 0.00042' is more than 3σ negative.
+#   The k-ratio '[Ta M₅-N₇ + 18 others] = -0.005005 ± 0.000078' is more than 3σ negative.
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K873' standard for 'N132962' detector,O,8,15.999,0.23048,0.02259,0.21601,0.01662,0.58689,0.02379
+'NIST K873' standard for 'N132962' detector,Al,13,26.9815384,0.00363,0.00037,0.00340,0.00036,0.00548,0.00064
+'NIST K873' standard for 'N132962' detector,Si,14,28.085,0.11814,0.00068,0.11072,0.00245,0.17136,0.00989
+'NIST K873' standard for 'N132962' detector,Mn,25,54.938043,0.00306,0.00008,0.00287,0.00010,0.00227,0.00014
+'NIST K873' standard for 'N132962' detector,Ge,32,72.63,0.17152,0.00011,0.16075,0.00347,0.09621,0.00554
+'NIST K873' standard for 'N132962' detector,Ba,56,137.327,0.31215,0.00431,0.29255,0.00682,0.09260,0.00545
+'NIST K873' standard for 'N132962' detector,Ce,58,140.116,0.00257,0.00006,0.00241,0.00008,0.00075,0.00005
+'NIST K873' standard for 'N132962' detector,Ta,73,180.94788,0.00431,0.00006,0.00404,0.00010,0.00097,0.00006
+'NIST K873' standard for 'N132962' detector,Pb,82,207.2,0.22114,0.00023,0.20726,0.00447,0.04348,0.00250
+# Notes
+#   Analytical total: 1.067 ± 0.023
+#   Duane-Hunt: 19.99 keV
+#   Residual written to NIST K873 std[residual].msa.
+#   Plot output to 'NIST K873 std[quantify].pdf'
+# Result Comparison
+Name,O,Al,Si,Mn,Ge,Ba,Ce,Ta,Pb,Σ
+'NIST K873' standard for 'N132962' detector,0.230 ± 0.023,0.00363 ± 0.00037,0.11814 ± 0.00068,0.003061 ± 0.000083,0.17152 ± 0.00011,0.3121 ± 0.0043,0.002569 ± 0.000064,0.004309 ± 0.000060,0.22114 ± 0.00023,1.067 ± 0.023
+Nominal,0.2546,0.0026,0.1145,0.0032,0.17,0.2194,0.0041,0.0041,0.2274,1
+RDEV (%),-9.5,37,3.2,-3.1,0.9,42.3,-36.9,5.2,-2.8,6.7

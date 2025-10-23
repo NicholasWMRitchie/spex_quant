@@ -1,0 +1,26 @@
+# Configuration
+#   Username: Nicholas W. M. Ritchie
+#   Timestamp: 2025-10-23 13:7:2
+#   Application: spex version 0.0.121
+#   References: `N132962 20 keV` revision 88 - 2025-10-23 11:16:18 -04:00
+# Configuration warnings
+#    None
+# Spectrum
+#   'NIST K508' standard for 'N132962' detector['NIST K508 std.msa']
+# Fit warnings
+#    None
+# Quantification results
+Name,Element,Z,A,C[z],U[C[z]],N[z],U[N[z]],A[z],U[A[z]]
+'NIST K508' standard for 'N132962' detector,O,8,15.999,0.42486,0.03612,0.44335,0.02098,0.74643,0.01609
+'NIST K508' standard for 'N132962' detector,Si,14,28.085,0.12122,0.00035,0.12650,0.00478,0.12133,0.00771
+'NIST K508' standard for 'N132962' detector,Sr,38,87.62,0.41222,0.00057,0.43015,0.01622,0.13224,0.00839
+# Notes
+#   Analytical total: 0.958 ± 0.036
+#   Duane-Hunt: 19.96 keV
+#   Residual written to NIST K508 std[residual].msa.
+#   Plot output to 'NIST K508 std[quantify].pdf'
+# Result Comparison
+Name,O,Si,Sr,Σ
+'NIST K508' standard for 'N132962' detector,0.425 ± 0.036,0.12122 ± 0.00035,0.41222 ± 0.00057,0.958 ± 0.036
+Nominal,0.4114,0.1206,0.3754,1
+RDEV (%),3.3,0.5,9.8,-4.2
